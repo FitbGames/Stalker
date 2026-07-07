@@ -1858,7 +1858,7 @@ translate spanish fairy_broken_outcome_8f2f6ba2:
 translate spanish fairy_broken_outcome_605fa675:
 
     # "But you know this side of her, that lurks under the surface of your otherwise submissive wife, like a lioness waiting to pounce."
-    "But tú conoces ese lado suyo que acecha bajo la superficie de tu por lo demás sumisa esposa, como una leona esperando para abalanzarse."
+    "Pero tú conoces ese lado suyo que acecha bajo la superficie de tu por lo demás sumisa esposa, como una leona esperando para abalanzarse."
 
 # game/scripts/basement.rpy:857
 translate spanish fairy_broken_outcome_a60c6747:
