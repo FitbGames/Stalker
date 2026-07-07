@@ -1,0 +1,764 @@
+﻿# TODO: Translation updated at 2026-06-29 18:49
+
+translate spanish strings:
+
+    # game/scripts/01_variables.rpy:65
+    old "Desert Stalker"
+    new "Desert Stalker"
+
+    # game/scripts/01_variables.rpy:66
+    old "Desert Stalker (thinking)"
+    new "Desert Stalker (thinking)"
+
+    # game/scripts/01_variables.rpy:68
+    old " (thinking)"
+    new " (thinking)"
+
+    # game/scripts/01_variables.rpy:69
+    old " (whispering)"
+    new " (whispering)"
+
+    # game/scripts/01_variables.rpy:71
+    old "[persistent.S_name] (whispering)"
+    new "[persistent.S_name] (whispering)"
+
+    # game/scripts/01_variables.rpy:72
+    old "[persistent.S_name] (thinking)"
+    new "[persistent.S_name] (thinking)"
+
+    # game/scripts/01_variables.rpy:74
+    old "[persistent.A_name] (whispering)"
+    new "[persistent.A_name] (whispering)"
+
+    # game/scripts/01_variables.rpy:76
+    old "[persistent.W_name] (whispering)"
+    new "[persistent.W_name] (whispering)"
+
+    # game/scripts/01_variables.rpy:77
+    old "Younger "
+    new "Younger "
+
+    # game/scripts/01_variables.rpy:79
+    old "Emilia"
+    new "Emilia"
+
+    # game/scripts/01_variables.rpy:80
+    old "Emilia (whispering)"
+    new "Emilia (whispering)"
+
+    # game/scripts/01_variables.rpy:81
+    old "[fairy_name]"
+    new "[fairy_name]"
+
+    # game/scripts/01_variables.rpy:82
+    old "[fairy_name] (whispering)"
+    new "[fairy_name] (whispering)"
+
+    # game/scripts/01_variables.rpy:97
+    old "Queen Merneith"
+    new "Queen Merneith"
+
+    # game/scripts/01_variables.rpy:98
+    old "Queen Merneith (whispering)"
+    new "Queen Merneith (whispering)"
+
+    # game/scripts/01_variables.rpy:99
+    old "Neith"
+    new "Neith"
+
+    # game/scripts/01_variables.rpy:100
+    old "Neith (whispering)"
+    new "Neith (whispering)"
+
+    # game/scripts/01_variables.rpy:101
+    old "Elder Radames"
+    new "Elder Radames"
+
+    # game/scripts/01_variables.rpy:102
+    old "Legate"
+    new "Legate"
+
+    # game/scripts/01_variables.rpy:103
+    old "Guard"
+    new "Guard"
+
+    # game/scripts/01_variables.rpy:104
+    old "Guard (whispering)"
+    new "Guard (whispering)"
+
+    # game/scripts/01_variables.rpy:105
+    old "Other guard"
+    new "Other guard"
+
+    # game/scripts/01_variables.rpy:106
+    old "Left guard"
+    new "Left guard"
+
+    # game/scripts/01_variables.rpy:107
+    old "Right guard"
+    new "Right guard"
+
+    # game/scripts/01_variables.rpy:108
+    old "Talia"
+    new "Talia"
+
+    # game/scripts/01_variables.rpy:109
+    old "Lirah"
+    new "Lirah"
+
+    # game/scripts/01_variables.rpy:110
+    old "Lirah (whispering)"
+    new "Lirah (whispering)"
+
+    # game/scripts/01_variables.rpy:111
+    old "Kateryna"
+    new "Kateryna"
+
+    # game/scripts/01_variables.rpy:112
+    old "Kateryna (whispering)"
+    new "Kateryna (whispering)"
+
+    # game/scripts/01_variables.rpy:113
+    old "Igor"
+    new "Igor"
+
+    # game/scripts/01_variables.rpy:114
+    old "Mandisa"
+    new "Mandisa"
+
+    # game/scripts/01_variables.rpy:115
+    old "Cepos"
+    new "Cepos"
+
+    # game/scripts/01_variables.rpy:116
+    old "Revered Mother"
+    new "Revered Mother"
+
+    # game/scripts/01_variables.rpy:119
+    old "Revered twins"
+    new "Revered twins"
+
+    # game/scripts/01_variables.rpy:120
+    old "Spectator"
+    new "Spectator"
+
+    # game/scripts/01_variables.rpy:121
+    old "Other Spectator"
+    new "Other Spectator"
+
+    # game/scripts/01_variables.rpy:122
+    old "Audience"
+    new "Audience"
+
+    # game/scripts/01_variables.rpy:123
+    old "Sharifa"
+    new "Sharifa"
+
+    # game/scripts/01_variables.rpy:124
+    old "Sharifa (whispering)"
+    new "Sharifa (whispering)"
+
+    # game/scripts/01_variables.rpy:125
+    old "The Brute"
+    new "The Brute"
+
+    # game/scripts/01_variables.rpy:126
+    old "Rabiah"
+    new "Rabiah"
+
+    # game/scripts/01_variables.rpy:127
+    old "Rabiah (whispering)"
+    new "Rabiah (whispering)"
+
+    # game/scripts/01_variables.rpy:128
+    old "Nadia"
+    new "Nadia"
+
+    # game/scripts/01_variables.rpy:129
+    old "Nadia (whispering)"
+    new "Nadia (whispering)"
+
+    # game/scripts/01_variables.rpy:130
+    old "Omar"
+    new "Omar"
+
+    # game/scripts/01_variables.rpy:131
+    old "Omar (whispering)"
+    new "Omar (whispering)"
+
+    # game/scripts/01_variables.rpy:132
+    old "Heka"
+    new "Heka"
+
+    # game/scripts/01_variables.rpy:133
+    old "Jazmin"
+    new "Jazmin"
+
+    # game/scripts/01_variables.rpy:134
+    old "Eva"
+    new "Eva"
+
+    # game/scripts/01_variables.rpy:135
+    old "Mido"
+    new "Mido"
+
+    # game/scripts/01_variables.rpy:136
+    old "Younger Rabiah"
+    new "Younger Rabiah"
+
+    # game/scripts/01_variables.rpy:137
+    old "Woman"
+    new "Woman"
+
+    # game/scripts/01_variables.rpy:138
+    old "Girl"
+    new "Girl"
+
+    # game/scripts/01_variables.rpy:139
+    old "Girl (whispering)"
+    new "Girl (whispering)"
+
+    # game/scripts/01_variables.rpy:140
+    old "Other girl"
+    new "Other girl"
+
+    # game/scripts/01_variables.rpy:141
+    old "Other girl (whispering)"
+    new "Other girl (whispering)"
+
+    # game/scripts/01_variables.rpy:142
+    old "Man"
+    new "Man"
+
+    # game/scripts/01_variables.rpy:143
+    old "Man (whispering)"
+    new "Man (whispering)"
+
+    # game/scripts/01_variables.rpy:144
+    old "Young man"
+    new "Young man"
+
+    # game/scripts/01_variables.rpy:145
+    old "Old man"
+    new "Old man"
+
+    # game/scripts/01_variables.rpy:146
+    old "Mercenary"
+    new "Mercenary"
+
+    # game/scripts/01_variables.rpy:147
+    old "Mercenary 2"
+    new "Mercenary 2"
+
+    # game/scripts/01_variables.rpy:148
+    old "Wastelander"
+    new "Wastelander"
+
+    # game/scripts/01_variables.rpy:149
+    old "Savana"
+    new "Savana"
+
+    # game/scripts/01_variables.rpy:150
+    old "Waitress"
+    new "Waitress"
+
+    # game/scripts/01_variables.rpy:151
+    old "Slave"
+    new "Slave"
+
+    # game/scripts/01_variables.rpy:152
+    old "Slave (whispering)"
+    new "Slave (whispering)"
+
+    # game/scripts/01_variables.rpy:153
+    old "Slave trader"
+    new "Slave trader"
+
+    # game/scripts/01_variables.rpy:154
+    old "Slave trader (whispering)"
+    new "Slave trader (whispering)"
+
+    # game/scripts/01_variables.rpy:155
+    old "Khalil"
+    new "Khalil"
+
+    # game/scripts/01_variables.rpy:156
+    old "Rami"
+    new "Rami"
+
+    # game/scripts/01_variables.rpy:157
+    old "Merchant"
+    new "Merchant"
+
+    # game/scripts/01_variables.rpy:158
+    old "Flai-Fa'op"
+    new "Flai-Fa'op"
+
+    # game/scripts/01_variables.rpy:159
+    old "Flai-Fa'op (whispering)"
+    new "Flai-Fa'op (whispering)"
+
+    # game/scripts/01_variables.rpy:160
+    old "Domitius"
+    new "Domitius"
+
+    # game/scripts/01_variables.rpy:163
+    old "Nezmira"
+    new "Nezmira"
+
+    # game/scripts/01_variables.rpy:164
+    old "Isra"
+    new "Isra"
+
+    # game/scripts/01_variables.rpy:165
+    old "Jamila"
+    new "Jamila"
+
+    # game/scripts/01_variables.rpy:169
+    old "Sec. Vale"
+    new "Sec. Vale"
+
+    # game/scripts/01_variables.rpy:170
+    old "Calista Vale"
+    new "Calista Vale"
+
+    # game/scripts/01_variables.rpy:171
+    old "Skye Sivara"
+    new "Skye Sivara"
+
+    # game/scripts/01_variables.rpy:172
+    old "Dr. Kaito"
+    new "Dr. Kaito"
+
+    # game/scripts/01_variables.rpy:173
+    old "Noel Kaito"
+    new "Noel Kaito"
+
+    # game/scripts/01_variables.rpy:174
+    old "Dr. Barqawi"
+    new "Dr. Barqawi"
+
+    # game/scripts/01_variables.rpy:175
+    old "Prof. Azari"
+    new "Prof. Azari"
+
+    # game/scripts/01_variables.rpy:176
+    old "Serafina Azari"
+    new "Serafina Azari"
+
+    # game/scripts/01_variables.rpy:177
+    old "Dr. Daoz"
+    new "Dr. Daoz"
+
+    # game/scripts/01_variables.rpy:178
+    old "Xena"
+    new "Xena"
+
+    # game/scripts/01_variables.rpy:179
+    old "Elder Paris"
+    new "Elder Paris"
+
+    # game/scripts/01_variables.rpy:180
+    old "Elder Paris (narrating)"
+    new "Elder Paris (narrating)"
+
+    # game/scripts/01_variables.rpy:181
+    old "Prof. Sivara"
+    new "Prof. Sivara"
+
+    # game/scripts/01_variables.rpy:182
+    old "Queen Serafina"
+    new "Queen Serafina"
+
+    # game/scripts/01_variables.rpy:187
+    old "Raider"
+    new "Raider"
+
+    # game/scripts/01_variables.rpy:188
+    old "Raider Thug"
+    new "Raider Thug"
+
+    # game/scripts/01_variables.rpy:189
+    old "Raider Scum"
+    new "Raider Scum"
+
+    # game/scripts/01_variables.rpy:190
+    old "Raider Trash"
+    new "Raider Trash"
+
+    # game/scripts/01_variables.rpy:191
+    old "Raider Girl"
+    new "Raider Girl"
+
+    # game/scripts/01_variables.rpy:192
+    old "Raider Girl 2"
+    new "Raider Girl 2"
+
+    # game/scripts/01_variables.rpy:193
+    old "Kyra"
+    new "Kyra"
+
+    # game/scripts/01_variables.rpy:194
+    old "Kyra (whispering)"
+    new "Kyra (whispering)"
+
+    # game/scripts/01_variables.rpy:195
+    old "Asha"
+    new "Asha"
+
+    # game/scripts/01_variables.rpy:196
+    old "Asha (whispering)"
+    new "Asha (whispering)"
+
+    # game/scripts/01_variables.rpy:197
+    old "Anya"
+    new "Anya"
+
+    # game/scripts/01_variables.rpy:198
+    old "Iseah"
+    new "Iseah"
+
+    # game/scripts/01_variables.rpy:199
+    old "Asani"
+    new "Asani"
+
+    # game/scripts/01_variables.rpy:200
+    old "Asani (whispering)"
+    new "Asani (whispering)"
+
+    # game/scripts/01_variables.rpy:201
+    old "Hazim"
+    new "Hazim"
+
+    # game/scripts/01_variables.rpy:202
+    old "Settlement Guard"
+    new "Settlement Guard"
+
+    # game/scripts/01_variables.rpy:203
+    old "Settlement Guard 2"
+    new "Settlement Guard 2"
+
+    # game/scripts/01_variables.rpy:204
+    old "General"
+    new "General"
+
+    # game/scripts/01_variables.rpy:205
+    old "Settlement Worker"
+    new "Settlement Worker"
+
+    # game/scripts/01_variables.rpy:206
+    old "[kitty_name]"
+    new "[kitty_name]"
+
+    # game/scripts/01_variables.rpy:207
+    old "Vaclar"
+    new "Vaclar"
+
+    # game/scripts/01_variables.rpy:208
+    old "Casanova"
+    new "Casanova"
+
+    # game/scripts/01_variables.rpy:209
+    old "Zion"
+    new "Zion"
+
+    # game/scripts/01_variables.rpy:210
+    old "Medic"
+    new "Medic"
+
+    # game/scripts/01_variables.rpy:211
+    old "Old Man"
+    new "Old Man"
+
+    # game/scripts/01_variables.rpy:212
+    old "Water Woman"
+    new "Water Woman"
+
+    # game/scripts/01_variables.rpy:213
+    old "Wick"
+    new "Wick"
+
+    # game/scripts/01_variables.rpy:214
+    old "Rue"
+    new "Rue"
+
+    # game/scripts/01_variables.rpy:215
+    old "Njeri"
+    new "Njeri"
+
+    # game/scripts/01_variables.rpy:216
+    old "Tribesman"
+    new "Tribesman"
+
+    # game/scripts/01_variables.rpy:217
+    old "Tribeswoman"
+    new "Tribeswoman"
+
+    # game/scripts/01_variables.rpy:218
+    old "Tribe Elder"
+    new "Tribe Elder"
+
+    # game/scripts/01_variables.rpy:219
+    old "Misk"
+    new "Misk"
+
+    # game/scripts/01_variables.rpy:220
+    old "Rim"
+    new "Rim"
+
+    # game/scripts/01_variables.rpy:221
+    old "Dudebro"
+    new "Dudebro"
+
+    # game/scripts/01_variables.rpy:224
+    old "Kosey"
+    new "Kosey"
+
+    # game/scripts/01_variables.rpy:225
+    old "Kinzi"
+    new "Kinzi"
+
+    # game/scripts/01_variables.rpy:226
+    old "Decayed"
+    new "Decayed"
+
+    # game/scripts/01_variables.rpy:227
+    old "Decayed (whispering)"
+    new "Decayed (whispering)"
+
+    # game/scripts/01_variables.rpy:228
+    old "Decaying man"
+    new "Decaying man"
+
+    # game/scripts/01_variables.rpy:229
+    old "Butcher"
+    new "Butcher"
+
+    # game/scripts/01_variables.rpy:230
+    old "Lord Abrax"
+    new "Lord Abrax"
+
+    # game/scripts/01_variables.rpy:231
+    old "Zosar"
+    new "Zosar"
+
+    # game/scripts/01_variables.rpy:232
+    old "Abrax's wife"
+    new "Abrax's wife"
+
+    # game/scripts/01_variables.rpy:235
+    old "Mutant"
+    new "Mutant"
+
+    # game/scripts/01_variables.rpy:236
+    old "Mutant (whispering)"
+    new "Mutant (whispering)"
+
+    # game/scripts/01_variables.rpy:237
+    old "[ivy_name]"
+    new "[ivy_name]"
+
+    # game/scripts/01_variables.rpy:238
+    old "[ivy_name] (whispering)"
+    new "[ivy_name] (whispering)"
+
+    # game/scripts/01_variables.rpy:239
+    old "Yuna"
+    new "Yuna"
+
+    # game/scripts/01_variables.rpy:240
+    old "Sonmi"
+    new "Sonmi"
+
+    # game/scripts/01_variables.rpy:241
+    old "Aloi"
+    new "Aloi"
+
+    # game/scripts/01_variables.rpy:242
+    old "Lunai"
+    new "Lunai"
+
+    # game/scripts/01_variables.rpy:243
+    old "Elf"
+    new "Elf"
+
+    # game/scripts/01_variables.rpy:244
+    old "Fangs"
+    new "Fangs"
+
+    # game/scripts/01_variables.rpy:245
+    old "Fangs (whispering)"
+    new "Fangs (whispering)"
+
+    # game/scripts/01_variables.rpy:246
+    old "Pepper"
+    new "Pepper"
+
+    # game/scripts/01_variables.rpy:247
+    old "Pepper (whispering)"
+    new "Pepper (whispering)"
+
+    # game/scripts/01_variables.rpy:248
+    old "Elvira"
+    new "Elvira"
+
+    # game/scripts/01_variables.rpy:249
+    old "Chili"
+    new "Chili"
+
+    # game/scripts/01_variables.rpy:250
+    old "Chili (whispering)"
+    new "Chili (whispering)"
+
+    # game/scripts/01_variables.rpy:251
+    old "Mina"
+    new "Mina"
+
+    # game/scripts/01_variables.rpy:252
+    old "Red"
+    new "Red"
+
+    # game/scripts/01_variables.rpy:253
+    old "Hive girl"
+    new "Hive girl"
+
+    # game/scripts/01_variables.rpy:254
+    old "Keen"
+    new "Keen"
+
+    # game/scripts/01_variables.rpy:255
+    old "Towser"
+    new "Towser"
+
+    # game/scripts/01_variables.rpy:256
+    old "Prisoner"
+    new "Prisoner"
+
+    # game/scripts/01_variables.rpy:257
+    old "Prisoner (whispering)"
+    new "Prisoner (whispering)"
+
+    # game/scripts/01_variables.rpy:258
+    old "Master"
+    new "Master"
+
+    # game/scripts/01_variables.rpy:261
+    old "Notes"
+    new "Notes"
+
+    # game/scripts/01_variables.rpy:262
+    old "Thug girl"
+    new "Thug girl"
+
+    # game/scripts/01_variables.rpy:263
+    old "Thug"
+    new "Thug"
+
+    # game/scripts/01_variables.rpy:264
+    old "???"
+    new "???"
+
+    # game/scripts/01_variables.rpy:265
+    old "Hive Queen"
+    new "Hive Queen"
+
+    # game/scripts/01_variables.rpy:266
+    old "Mantis"
+    new "Mantis"
+
+    # game/scripts/01_variables.rpy:267
+    old "Mantis (whispering)"
+    new "Mantis (whispering)"
+
+    # game/scripts/01_variables.rpy:268
+    old "Krait"
+    new "Krait"
+
+    # game/scripts/01_variables.rpy:269
+    old "Krait (whispering)"
+    new "Krait (whispering)"
+
+    # game/scripts/01_variables.rpy:270
+    old "Scarp"
+    new "Scarp"
+
+    # game/scripts/01_variables.rpy:271
+    old "Dinara"
+    new "Dinara"
+
+    # game/scripts/01_variables.rpy:272
+    old "Sapa Tribeswoman"
+    new "Sapa Tribeswoman"
+
+    # game/scripts/01_variables.rpy:273
+    old "Sapa Tribesman"
+    new "Sapa Tribesman"
+
+    # game/scripts/01_variables.rpy:274
+    old "Ira"
+    new "Ira"
+
+    # game/scripts/01_variables.rpy:275
+    old "Slink"
+    new "Slink"
+
+    # game/scripts/01_variables.rpy:276
+    old "Slink (whispering)"
+    new "Slink (whispering)"
+
+    # game/scripts/01_variables.rpy:279
+    old "Mummy"
+    new "Mummy"
+
+    # game/scripts/01_variables.rpy:282
+    old "Sair"
+    new "Sair"
+
+    # game/scripts/01_variables.rpy:283
+    old "Sair (whispering)"
+    new "Sair (whispering)"
+
+    # game/scripts/01_variables.rpy:284
+    old "Julia"
+    new "Julia"
+
+    # game/scripts/01_variables.rpy:285
+    old "Reyna"
+    new "Reyna"
+
+    # game/scripts/01_variables.rpy:286
+    old "Narg"
+    new "Narg"
+
+    # game/scripts/01_variables.rpy:287
+    old "Hakunin"
+    new "Hakunin"
+
+    # game/scripts/01_variables.rpy:288
+    old "Mynoc"
+    new "Mynoc"
+
+    # game/scripts/01_variables.rpy:289
+    old "Bandit"
+    new "Bandit"
+
+    # game/scripts/01_variables.rpy:291
+    old "Bandit (whispering)"
+    new "Bandit (whispering)"
+
+    # game/scripts/01_variables.rpy:293
+    old "Rahil"
+    new "Rahil"
+
+    # game/scripts/01_variables.rpy:294
+    old "\"Father\""
+    new "\"Father\""
+
+    # game/scripts/01_variables.rpy:295
+    old "Abena"
+    new "Abena"
+
+    # game/scripts/01_variables.rpy:296
+    old "Abena (whispering)"
+    new "Abena (whispering)"
+

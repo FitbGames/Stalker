@@ -1,0 +1,1882 @@
+﻿# TODO: Translation updated at 2026-06-29 18:49
+
+# game/scripts/visit.rpy:2
+translate spanish visit_igor_ece027f8:
+
+    # "Later that day..."
+    "Later that day..."
+
+# game/scripts/visit.rpy:5
+translate spanish visit_igor_37621e47:
+
+    # Sav "Hey [W]!"
+    Sav "Hey [W]!"
+
+# game/scripts/visit.rpy:6
+translate spanish visit_igor_ab7de899:
+
+    # W "Welcome back in our house, you two!"
+    W "Welcome back in our house, you two!"
+
+# game/scripts/visit.rpy:9
+translate spanish visit_igor_5b6d3c0c:
+
+    # W "Come right in! My husband will be here in a moment."
+    W "Come right in! My husband will be here in a moment."
+
+# game/scripts/visit.rpy:14
+translate spanish visit_igor_b6e80249:
+
+    # "Some time of chatting latter..."
+    "Some time of chatting latter..."
+
+# game/scripts/visit.rpy:17
+translate spanish visit_igor_71750861:
+
+    # "[A] and Kateryna rest happily in your arms, and everyone is enjoying themselves..."
+    "[A] and Kateryna rest happily in your arms, and everyone is enjoying themselves..."
+
+# game/scripts/visit.rpy:22
+translate spanish visit_igor_1206ff00:
+
+    # Zt "Looks like my wife and Savana get along well."
+    Zt "Looks like my wife and Savana get along well."
+
+# game/scripts/visit.rpy:23
+translate spanish visit_igor_d26a550a:
+
+    # Zt "Maybe I could use some additional service right now..."
+    Zt "Maybe I could use some additional service right now..."
+
+# game/scripts/visit.rpy:25
+translate spanish visit_igor_96187414:
+
+    # Zt "...Or show what a good host I can be..."
+    Zt "...Or show what a good host I can be..."
+
+# game/scripts/visit.rpy:62
+translate spanish visit_igor_ain_mc_5aa2a92c:
+
+    # Z "[A]."
+    Z "[A]."
+
+# game/scripts/visit.rpy:65
+translate spanish visit_igor_ain_mc_3dbd6cef:
+
+    # Z "Get on your knees for a bit. I need some pleasure."
+    Z "Get on your knees for a bit. I need some pleasure."
+
+# game/scripts/visit.rpy:68
+translate spanish visit_igor_ain_mc_831a9fa7:
+
+    # A "Sure, [persistent.dad]."
+    A "Sure, [persistent.dad]."
+
+# game/scripts/visit.rpy:73
+translate spanish visit_igor_ain_mc_8a2230c8:
+
+    # Sav "Looks like your pretty [persistent.da] is not just there for show?"
+    Sav "Looks like your pretty [persistent.da] is not just there for show?"
+
+# game/scripts/visit.rpy:76
+translate spanish visit_igor_ain_mc_841b681a:
+
+    # Z "She never is."
+    Z "She never is."
+
+# game/scripts/visit.rpy:78
+translate spanish visit_igor_ain_mc_d9acd767:
+
+    # Sav "...pleasing the man of the house, [A]?"
+    Sav "...pleasing the man of the house, [A]?"
+
+# game/scripts/visit.rpy:81
+translate spanish visit_igor_ain_mc_3fa3e822:
+
+    # A "Mghn... {i}*gluck*{/i}"
+    A "Mghn... {i}*gluck*{/i}"
+
+# game/scripts/visit.rpy:83
+translate spanish visit_igor_ain_mc_8a39ce1a:
+
+    # Sav "Mh... that looks fun."
+    Sav "Mh... that looks fun."
+
+# game/scripts/visit.rpy:86
+translate spanish visit_igor_ain_mc_712d4ae2:
+
+    # A "{i}*slurp*{/i}"
+    A "{i}*slurp*{/i}"
+
+# game/scripts/visit.rpy:89
+translate spanish visit_igor_ain_mc_90b03733:
+
+    # Zw "Good girl. Just what I need..."
+    Zw "Good girl. Just what I need..."
+
+# game/scripts/visit.rpy:92
+translate spanish visit_igor_ain_mc_83b7a7eb:
+
+    # Ka "..."
+    Ka "..."
+
+# game/scripts/visit.rpy:93
+translate spanish visit_igor_ain_mc_958182f1:
+
+    # A "{i}*sucking*{/i}"
+    A "{i}*sucking*{/i}"
+
+# game/scripts/visit.rpy:96
+translate spanish visit_igor_ain_mc_e0ac38cc:
+
+    # "[A] continues to dutifully suck on your shaft, while everyone else starts to pick up their conversation again."
+    "[A] continues to dutifully suck on your shaft, while everyone else starts to pick up their conversation again."
+
+# game/scripts/visit.rpy:97
+translate spanish visit_igor_ain_mc_9211bf29:
+
+    # "You notice that Kateryna can't stop staring at what's happening next to her."
+    "You notice that Kateryna can't stop staring at what's happening next to her."
+
+# game/scripts/visit.rpy:100
+translate spanish visit_igor_ain_mc_e1373016:
+
+    # Ig "And then I was..."
+    Ig "And then I was..."
+
+# game/scripts/visit.rpy:101
+translate spanish visit_igor_ain_mc_712d4ae2_1:
+
+    # A "{i}*slurp*{/i}"
+    A "{i}*slurp*{/i}"
+
+# game/scripts/visit.rpy:102
+translate spanish visit_igor_ain_mc_b1556277:
+
+    # W "[A]... be a little more behaved with your noises."
+    W "[A]... be a little more behaved with your noises."
+
+# game/scripts/visit.rpy:103
+translate spanish visit_igor_ain_mc_e469c6b5:
+
+    # Sav "I don't mind..."
+    Sav "I don't mind..."
+
+# game/scripts/visit.rpy:106
+translate spanish visit_igor_ain_mc_73da98eb:
+
+    # Sav "You were saying, hubby?"
+    Sav "You were saying, hubby?"
+
+# game/scripts/visit.rpy:107
+translate spanish visit_igor_ain_mc_b528947d:
+
+    # Ig "Oh... so when I was going out..."
+    Ig "Oh... so when I was going out..."
+
+# game/scripts/visit.rpy:108
+translate spanish visit_igor_ain_mc_958182f1_1:
+
+    # A "{i}*sucking*{/i}"
+    A "{i}*sucking*{/i}"
+
+# game/scripts/visit.rpy:109
+translate spanish visit_igor_ain_mc_70e93cae:
+
+    # Zw "Try a little deeper."
+    Zw "Try a little deeper."
+
+# game/scripts/visit.rpy:110
+translate spanish visit_igor_ain_mc_70f8c33e:
+
+    # A "{i}*muffled*{/i} Yhesh, [persistent.dad]..."
+    A "{i}*muffled*{/i} Yhesh, [persistent.dad]..."
+
+# game/scripts/visit.rpy:113
+translate spanish visit_igor_ain_mc_2ea8d363:
+
+    # A "Mgh-"
+    A "Mgh-"
+
+# game/scripts/visit.rpy:116
+translate spanish visit_igor_ain_mc_676abcdb:
+
+    # A "{i}*gulp*{/i}"
+    A "{i}*gulp*{/i}"
+
+# game/scripts/visit.rpy:117
+translate spanish visit_igor_ain_mc_ce9ca339:
+
+    # Zw "Mh... good [persistent.da]."
+    Zw "Mh... good [persistent.da]."
+
+# game/scripts/visit.rpy:120
+translate spanish visit_igor_ain_mc_48fa6a09:
+
+    # A "Mh..."
+    A "Mh..."
+
+# game/scripts/visit.rpy:123
+translate spanish visit_igor_ain_mc_70513d51:
+
+    # Sav "My... what a big load for such a small girl..."
+    Sav "My... what a big load for such a small girl..."
+
+# game/scripts/visit.rpy:126
+translate spanish visit_igor_ain_mc_712d4ae2_2:
+
+    # A "{i}*slurp*{/i}"
+    A "{i}*slurp*{/i}"
+
+# game/scripts/visit.rpy:132
+translate spanish visit_igor_emilia_mc_38d1dad8:
+
+    # Z "Emilia!"
+    Z "Emilia!"
+
+# game/scripts/visit.rpy:135
+translate spanish visit_igor_emilia_mc_928d26ab:
+
+    # E "You called, Master?"
+    E "You called, Master?"
+
+# game/scripts/visit.rpy:138
+translate spanish visit_igor_emilia_mc_eab646a4:
+
+    # Z "Undress and come to me."
+    Z "Undress and come to me."
+
+# game/scripts/visit.rpy:141
+translate spanish visit_igor_emilia_mc_1fb36951:
+
+    # E "Mh... {i}*muffled*{/i} Lhike this.. mhaster...?"
+    E "Mh... {i}*muffled*{/i} Lhike this.. mhaster...?"
+
+# game/scripts/visit.rpy:142
+translate spanish visit_igor_emilia_mc_a3b9b108:
+
+    # E "{i}*sucking*{/i}"
+    E "{i}*sucking*{/i}"
+
+# game/scripts/visit.rpy:146
+translate spanish visit_igor_emilia_mc_909d6162:
+
+    # Sa "That's one exotic servant you got yourself, [persistent.player_name]..."
+    Sa "That's one exotic servant you got yourself, [persistent.player_name]..."
+
+# game/scripts/visit.rpy:147
+translate spanish visit_igor_emilia_mc_aa3f399f:
+
+    # Sa "I am quite jealous of her white skin..."
+    Sa "I am quite jealous of her white skin..."
+
+# game/scripts/visit.rpy:148
+translate spanish visit_igor_emilia_mc_aa64a890:
+
+    # Sa "That's one dutiful slave..."
+    Sa "That's one dutiful slave..."
+
+# game/scripts/visit.rpy:152
+translate spanish visit_igor_emilia_mc_6c833c1f:
+
+    # Sav "Mh..."
+    Sav "Mh..."
+
+# game/scripts/visit.rpy:155
+translate spanish visit_igor_emilia_mc_83b7a7eb:
+
+    # Ka "..."
+    Ka "..."
+
+# game/scripts/visit.rpy:157
+translate spanish visit_igor_emilia_mc_9406f4aa:
+
+    # Zw "You're doing well, Emilia..."
+    Zw "You're doing well, Emilia..."
+
+# game/scripts/visit.rpy:159
+translate spanish visit_igor_emilia_mc_437ad874:
+
+    # Zw "Good slave, keep going..."
+    Zw "Good slave, keep going..."
+
+# game/scripts/visit.rpy:162
+translate spanish visit_igor_emilia_mc_3b42fad3:
+
+    # "The chatting in the background continues, and the others don't pay special attention to Emilia..."
+    "The chatting in the background continues, and the others don't pay special attention to Emilia..."
+
+# game/scripts/visit.rpy:163
+translate spanish visit_igor_emilia_mc_37c62a3e:
+
+    # E "{i}*slurp*{/i}"
+    E "{i}*slurp*{/i}"
+
+# game/scripts/visit.rpy:166
+translate spanish visit_igor_emilia_mc_d3cf527e:
+
+    # E "Mh..."
+    E "Mh..."
+
+# game/scripts/visit.rpy:167
+translate spanish visit_igor_emilia_mc_5b9e894b:
+
+    # Zw "I'm almost there."
+    Zw "I'm almost there."
+
+# game/scripts/visit.rpy:170
+translate spanish visit_igor_emilia_mc_644b8bd3:
+
+    # "As you get close, you pull Kateryna's top aside, and fondle her breast..."
+    "As you get close, you pull Kateryna's top aside, and fondle her breast..."
+
+# game/scripts/visit.rpy:172
+translate spanish visit_igor_emilia_mc_757865e4:
+
+    # E "Mgh..."
+    E "Mgh..."
+
+# game/scripts/visit.rpy:175
+translate spanish visit_igor_emilia_mc_64d7b872:
+
+    # Ka "Mhh... [persistent.player_name]..."
+    Ka "Mhh... [persistent.player_name]..."
+
+# game/scripts/visit.rpy:176
+translate spanish visit_igor_emilia_mc_4d0110d4:
+
+    # "You pull on Kateryna's nipple, while cumming down Emilia's throat."
+    "You pull on Kateryna's nipple, while cumming down Emilia's throat."
+
+# game/scripts/visit.rpy:177
+translate spanish visit_igor_emilia_mc_dbc95fb4:
+
+    # "Sensing that, she forces herself even deeper to make sure she doesn't waste a drop of her master..."
+    "Sensing that, she forces herself even deeper to make sure she doesn't waste a drop of her master..."
+
+# game/scripts/visit.rpy:180
+translate spanish visit_igor_emilia_mc_7317ffb4:
+
+    # Sav "Hey [persistent.player_name]... you still with us?"
+    Sav "Hey [persistent.player_name]... you still with us?"
+
+# game/scripts/visit.rpy:181
+translate spanish visit_igor_emilia_mc_2c82b8fb:
+
+    # Sav "Looks like his maid is treating him well."
+    Sav "Looks like his maid is treating him well."
+
+# game/scripts/visit.rpy:184
+translate spanish visit_igor_emilia_mc_37c62a3e_1:
+
+    # E "{i}*slurp*{/i}"
+    E "{i}*slurp*{/i}"
+
+# game/scripts/visit.rpy:185
+translate spanish visit_igor_emilia_mc_31150ad9:
+
+    # W "That's why she's living here..."
+    W "That's why she's living here..."
+
+# game/scripts/visit.rpy:193
+translate spanish visit_igor_kateryna_mc_0bc818e3:
+
+    # Zw "I can't get enough of you, Kateryna. Take care of me, will you?"
+    Zw "I can't get enough of you, Kateryna. Take care of me, will you?"
+
+# game/scripts/visit.rpy:196
+translate spanish visit_igor_kateryna_mc_242c6be0:
+
+    # Ka "In... front of them?"
+    Ka "In... front of them?"
+
+# game/scripts/visit.rpy:199
+translate spanish visit_igor_kateryna_mc_eb3538a8:
+
+    # Ka "Okay... I always like!"
+    Ka "Okay... I always like!"
+
+# game/scripts/visit.rpy:202
+translate spanish visit_igor_kateryna_mc_ed124999:
+
+    # Z "I know you do. Look down..."
+    Z "I know you do. Look down..."
+
+# game/scripts/visit.rpy:205
+translate spanish visit_igor_kateryna_mc_2cf85911:
+
+    # Ka "It's..."
+    Ka "It's..."
+
+# game/scripts/visit.rpy:208
+translate spanish visit_igor_kateryna_mc_f5bf718c:
+
+    # Ka "It's ready for me..."
+    Ka "It's ready for me..."
+
+# game/scripts/visit.rpy:211
+translate spanish visit_igor_kateryna_mc_93a6f8c0:
+
+    # Ka "Nh..."
+    Ka "Nh..."
+
+# game/scripts/visit.rpy:212
+translate spanish visit_igor_kateryna_mc_d67fe7d7:
+
+    # Z "What did you say, Savana?"
+    Z "What did you say, Savana?"
+
+# game/scripts/visit.rpy:213
+translate spanish visit_igor_kateryna_mc_ea304ddf:
+
+    # Sav "Oh, yeah... what I was saying..."
+    Sav "Oh, yeah... what I was saying..."
+
+# game/scripts/visit.rpy:216
+translate spanish visit_igor_kateryna_mc_c4f3a4e5:
+
+    # Ka "Is okay, if... they see?"
+    Ka "Is okay, if... they see?"
+
+# game/scripts/visit.rpy:219
+translate spanish visit_igor_kateryna_mc_c237fa98:
+
+    # Z "My house, my rules, sweetie."
+    Z "My house, my rules, sweetie."
+
+# game/scripts/visit.rpy:222
+translate spanish visit_igor_kateryna_mc_b99059f9:
+
+    # Sav "Oh my... can't wait until we're gone, can you, Kateryna?"
+    Sav "Oh my... can't wait until we're gone, can you, Kateryna?"
+
+# game/scripts/visit.rpy:225
+translate spanish visit_igor_kateryna_mc_0bbc4241:
+
+    # Ka "Nho... mh... sorry..."
+    Ka "Nho... mh... sorry..."
+
+# game/scripts/visit.rpy:226
+translate spanish visit_igor_kateryna_mc_80241c2d:
+
+    # Sav "{i}*laughs*{/i} Why would you apologize?"
+    Sav "{i}*laughs*{/i} Why would you apologize?"
+
+# game/scripts/visit.rpy:229
+translate spanish visit_igor_kateryna_mc_406cd4f5:
+
+    # Ka "Ah..."
+    Ka "Ah..."
+
+# game/scripts/visit.rpy:230
+translate spanish visit_igor_kateryna_mc_53fec44a:
+
+    # A "Wow... Kateryna really wants to do this..."
+    A "Wow... Kateryna really wants to do this..."
+
+# game/scripts/visit.rpy:233
+translate spanish visit_igor_kateryna_mc_60aab7cb:
+
+    # Ka "Mhh..."
+    Ka "Mhh..."
+
+# game/scripts/visit.rpy:234
+translate spanish visit_igor_kateryna_mc_11bd248e:
+
+    # Z "She always does."
+    Z "She always does."
+
+# game/scripts/visit.rpy:235
+translate spanish visit_igor_kateryna_mc_74b2d4e4:
+
+    # A "Y...yeah... her voice is so hot..."
+    A "Y...yeah... her voice is so hot..."
+
+# game/scripts/visit.rpy:238
+translate spanish visit_igor_kateryna_mc_1f368954:
+
+    # "She starts eagerly fucking you in front of everyone..."
+    "She starts eagerly fucking you in front of everyone..."
+
+# game/scripts/visit.rpy:239
+translate spanish visit_igor_kateryna_mc_9e125dd8:
+
+    # W "Kateryna has been a gift to our household, Igor."
+    W "Kateryna has been a gift to our household, Igor."
+
+# game/scripts/visit.rpy:240
+translate spanish visit_igor_kateryna_mc_5eb9f013:
+
+    # Ig "I... I see she is enjoying, everytime I am here..."
+    Ig "I... I see she is enjoying, everytime I am here..."
+
+# game/scripts/visit.rpy:243
+translate spanish visit_igor_kateryna_mc_d4edf312:
+
+    # Z "Ngh..."
+    Z "Ngh..."
+
+# game/scripts/visit.rpy:244
+translate spanish visit_igor_kateryna_mc_56fea811:
+
+    # W "Don't enjoy yourself too much, husband... I still want you to be able to perform tonight..."
+    W "Don't enjoy yourself too much, husband... I still want you to be able to perform tonight..."
+
+# game/scripts/visit.rpy:245
+translate spanish visit_igor_kateryna_mc_d5ca999b:
+
+    # Sav "To think she was once so innocent..."
+    Sav "To think she was once so innocent..."
+
+# game/scripts/visit.rpy:246
+translate spanish visit_igor_kateryna_mc_c7a72c71:
+
+    # Z "She... nh... still is..."
+    Z "She... nh... still is..."
+
+# game/scripts/visit.rpy:247
+translate spanish visit_igor_kateryna_mc_b528c7cc:
+
+    # Sav "Innocent... maybe... shy? Not in front of us. {i}*giggles*{/i}"
+    Sav "Innocent... maybe... shy? Not in front of us. {i}*giggles*{/i}"
+
+# game/scripts/visit.rpy:248
+translate spanish visit_igor_kateryna_mc_83d1aeba:
+
+    # Sav "Anyway, hubby, do you want to go out tomorrow? There is this..."
+    Sav "Anyway, hubby, do you want to go out tomorrow? There is this..."
+
+# game/scripts/visit.rpy:251
+translate spanish visit_igor_kateryna_mc_e7e7880c:
+
+    # Zw "I'm close, sweetie."
+    Zw "I'm close, sweetie."
+
+# game/scripts/visit.rpy:253
+translate spanish visit_igor_kateryna_mc_d1a9c64e:
+
+    # Ka "Can you... cum inside, yes?"
+    Ka "Can you... cum inside, yes?"
+
+# game/scripts/visit.rpy:254
+translate spanish visit_igor_kateryna_mc_40666900:
+
+    # Z "I always do, you deserve it."
+    Z "I always do, you deserve it."
+
+# game/scripts/visit.rpy:255
+translate spanish visit_igor_kateryna_mc_420b5017:
+
+    # Ka "Th...thank you..."
+    Ka "Th...thank you..."
+
+# game/scripts/visit.rpy:256
+translate spanish visit_igor_kateryna_mc_0e93ab27:
+
+    # A "I wonder how she looks with a swollen belly... probably cute!"
+    A "I wonder how she looks with a swollen belly... probably cute!"
+
+# game/scripts/visit.rpy:259
+translate spanish visit_igor_kateryna_mc_4b6e6a2d:
+
+    # Ka "Nh... ah..."
+    Ka "Nh... ah..."
+
+# game/scripts/visit.rpy:260
+translate spanish visit_igor_kateryna_mc_b1aeb283:
+
+    # Z "Mh..."
+    Z "Mh..."
+
+# game/scripts/visit.rpy:263
+translate spanish visit_igor_kateryna_mc_e02751e4:
+
+    # Ka "So much... again..."
+    Ka "So much... again..."
+
+# game/scripts/visit.rpy:266
+translate spanish visit_igor_kateryna_mc_df438743:
+
+    # Ka "I... I will... get up?"
+    Ka "I... I will... get up?"
+
+# game/scripts/visit.rpy:267
+translate spanish visit_igor_kateryna_mc_6e5dbda2:
+
+    # Z "Let my [persistent.da] handle it. [A]..."
+    Z "Let my [persistent.da] handle it. [A]..."
+
+# game/scripts/visit.rpy:268
+translate spanish visit_igor_kateryna_mc_1e37be39:
+
+    # A "Hmm... my friend is in need of help, I guess?"
+    A "Hmm... my friend is in need of help, I guess?"
+
+# game/scripts/visit.rpy:277
+translate spanish visit_igor_ain_igor_5aa2a92c:
+
+    # Z "[A]."
+    Z "[A]."
+
+# game/scripts/visit.rpy:280
+translate spanish visit_igor_ain_igor_786945c5:
+
+    # Z "Give Igor a good time. You know he likes your lips."
+    Z "Give Igor a good time. You know he likes your lips."
+
+# game/scripts/visit.rpy:283
+translate spanish visit_igor_ain_igor_d74c8a83:
+
+    # A "Okay, [persistent.dad]. If you want me to..."
+    A "Okay, [persistent.dad]. If you want me to..."
+
+# game/scripts/visit.rpy:288
+translate spanish visit_igor_ain_igor_00feb2a0:
+
+    # A "[persistent.dad!c] said to please you today..."
+    A "[persistent.dad!c] said to please you today..."
+
+# game/scripts/visit.rpy:289
+translate spanish visit_igor_ain_igor_2f87b250:
+
+    # A "{i}*sigh*{/i} Open your trousers."
+    A "{i}*sigh*{/i} Open your trousers."
+
+# game/scripts/visit.rpy:292
+translate spanish visit_igor_ain_igor_a137c426:
+
+    # Ig "Oh... your [persistent.dad] is always such good host."
+    Ig "Oh... your [persistent.dad] is always such good host."
+
+# game/scripts/visit.rpy:295
+translate spanish visit_igor_ain_igor_a9a3c080:
+
+    # Sav "My... my... you raised her well, [W]."
+    Sav "My... my... you raised her well, [W]."
+
+# game/scripts/visit.rpy:298
+translate spanish visit_igor_ain_igor_15820f8a:
+
+    # W "Thank you. I always made sure she follows our demands."
+    W "Thank you. I always made sure she follows our demands."
+
+# game/scripts/visit.rpy:301
+translate spanish visit_igor_ain_igor_712d4ae2:
+
+    # A "{i}*slurp*{/i}"
+    A "{i}*slurp*{/i}"
+
+# game/scripts/visit.rpy:302
+translate spanish visit_igor_ain_igor_b25c9ab3:
+
+    # Ig "Oh..."
+    Ig "Oh..."
+
+# game/scripts/visit.rpy:305
+translate spanish visit_igor_ain_igor_7ac11c67:
+
+    # Sav "I'm sure those demands can be... taxing for her."
+    Sav "I'm sure those demands can be... taxing for her."
+
+# game/scripts/visit.rpy:306
+translate spanish visit_igor_ain_igor_1feb62af:
+
+    # W "She always knew what she was doing. I didn't initially tell her to wear those pigtails..."
+    W "She always knew what she was doing. I didn't initially tell her to wear those pigtails..."
+
+# game/scripts/visit.rpy:309
+translate spanish visit_igor_ain_igor_8868ec95:
+
+    # A "{i}*gluck*{/i}"
+    A "{i}*gluck*{/i}"
+
+# game/scripts/visit.rpy:310
+translate spanish visit_igor_ain_igor_386fa6a7:
+
+    # Ig "Lady [A]... such a pretty princess."
+    Ig "Lady [A]... such a pretty princess."
+
+# game/scripts/visit.rpy:313
+translate spanish visit_igor_ain_igor_027d1992:
+
+    # Sav "{i}*sigh*{/i} to be this young again..."
+    Sav "{i}*sigh*{/i} to be this young again..."
+
+# game/scripts/visit.rpy:314
+translate spanish visit_igor_ain_igor_b72f4d31:
+
+    # W "Oh please, girl..."
+    W "Oh please, girl..."
+
+# game/scripts/visit.rpy:317
+translate spanish visit_igor_ain_igor_d371319e:
+
+    # Sav "Who is better, me or her?"
+    Sav "Who is better, me or her?"
+
+# game/scripts/visit.rpy:318
+translate spanish visit_igor_ain_igor_2a268e4a:
+
+    # Ig "B...beautiful lady Savana. Do not ask this question to me."
+    Ig "B...beautiful lady Savana. Do not ask this question to me."
+
+# game/scripts/visit.rpy:319
+translate spanish visit_igor_ain_igor_f249a3ff:
+
+    # Ig "You are beautiful over anyone to me."
+    Ig "You are beautiful over anyone to me."
+
+# game/scripts/visit.rpy:320
+translate spanish visit_igor_ain_igor_8583c02d:
+
+    # Sav "Sorry, hub... {i}*giggles*{/i}"
+    Sav "Sorry, hub... {i}*giggles*{/i}"
+
+# game/scripts/visit.rpy:321
+translate spanish visit_igor_ain_igor_958182f1:
+
+    # A "{i}*sucking*{/i}"
+    A "{i}*sucking*{/i}"
+
+# game/scripts/visit.rpy:324
+translate spanish visit_igor_ain_igor_57b327f2:
+
+    # Sav "Pretty indeed... she would be the busiest of all maids in the tavern."
+    Sav "Pretty indeed... she would be the busiest of all maids in the tavern."
+
+# game/scripts/visit.rpy:325
+translate spanish visit_igor_ain_igor_d7d4cf4f:
+
+    # W "And that's why she is no maid in the tavern."
+    W "And that's why she is no maid in the tavern."
+
+# game/scripts/visit.rpy:326
+translate spanish visit_igor_ain_igor_67f989bf:
+
+    # Sav "Mh... I figured..."
+    Sav "Mh... I figured..."
+
+# game/scripts/visit.rpy:328
+translate spanish visit_igor_ain_igor_38f672a3:
+
+    # Ig "Lady [A]... I..."
+    Ig "Lady [A]... I..."
+
+# game/scripts/visit.rpy:331
+translate spanish visit_igor_ain_igor_e13a9bed:
+
+    # Ig "Oh...!"
+    Ig "Oh...!"
+
+# game/scripts/visit.rpy:334
+translate spanish visit_igor_ain_igor_2234fa97:
+
+    # A "Nope! You still can't..."
+    A "Nope! You still can't..."
+
+# game/scripts/visit.rpy:337
+translate spanish visit_igor_ain_igor_e13a9bed_1:
+
+    # Ig "Oh...!"
+    Ig "Oh...!"
+
+# game/scripts/visit.rpy:340
+translate spanish visit_igor_ain_igor_f12b811e:
+
+    # A "You try to cheat everytime..."
+    A "You try to cheat everytime..."
+
+# game/scripts/visit.rpy:343
+translate spanish visit_igor_ain_igor_09c8a56c:
+
+    # Ig "I... I would never..."
+    Ig "I... I would never..."
+
+# game/scripts/visit.rpy:349
+translate spanish visit_igor_emilia_igor_38d1dad8:
+
+    # Z "Emilia!"
+    Z "Emilia!"
+
+# game/scripts/visit.rpy:352
+translate spanish visit_igor_emilia_igor_928d26ab:
+
+    # E "You called, Master?"
+    E "You called, Master?"
+
+# game/scripts/visit.rpy:355
+translate spanish visit_igor_emilia_igor_ca9cfbca:
+
+    # Z "Undress and take care of Igor."
+    Z "Undress and take care of Igor."
+
+# game/scripts/visit.rpy:356
+translate spanish visit_igor_emilia_igor_9cde6e2d:
+
+    # Z "Our male guest deserves some hospitality."
+    Z "Our male guest deserves some hospitality."
+
+# game/scripts/visit.rpy:359
+translate spanish visit_igor_emilia_igor_4457d4b0:
+
+    # E "Of course, Master, anything you request."
+    E "Of course, Master, anything you request."
+
+# game/scripts/visit.rpy:364
+translate spanish visit_igor_emilia_igor_a5692acf:
+
+    # E "Sir, do you mind if I undress as master has ordered me to?"
+    E "Sir, do you mind if I undress as master has ordered me to?"
+
+# game/scripts/visit.rpy:367
+translate spanish visit_igor_emilia_igor_bc86c340:
+
+    # Sav "Oh my... Darling, I don't think you need to ask him that..."
+    Sav "Oh my... Darling, I don't think you need to ask him that..."
+
+# game/scripts/visit.rpy:370
+translate spanish visit_igor_emilia_igor_2f9ffdda:
+
+    # Ig "...wow."
+    Ig "...wow."
+
+# game/scripts/visit.rpy:371
+translate spanish visit_igor_emilia_igor_06e64127:
+
+    # Sav "Never gets old, does it, hubby?"
+    Sav "Never gets old, does it, hubby?"
+
+# game/scripts/visit.rpy:372
+translate spanish visit_igor_emilia_igor_2eba4356:
+
+    # W "At least he won't be jealous of you being in my arms..."
+    W "At least he won't be jealous of you being in my arms..."
+
+# game/scripts/visit.rpy:375
+translate spanish visit_igor_emilia_igor_3ba4ff58:
+
+    # E "I..."
+    E "I..."
+
+# game/scripts/visit.rpy:376
+translate spanish visit_igor_emilia_igor_1b4b7964:
+
+    # Sav "Jealous, him? {i}*giggles*{/i}"
+    Sav "Jealous, him? {i}*giggles*{/i}"
+
+# game/scripts/visit.rpy:379
+translate spanish visit_igor_emilia_igor_7329681e:
+
+    # E "..."
+    E "..."
+
+# game/scripts/visit.rpy:380
+translate spanish visit_igor_emilia_igor_d524346f:
+
+    # Ig "This body..."
+    Ig "This body..."
+
+# game/scripts/visit.rpy:381
+translate spanish visit_igor_emilia_igor_7a41d54f:
+
+    # Sav "I think he lost his words!"
+    Sav "I think he lost his words!"
+
+# game/scripts/visit.rpy:384
+translate spanish visit_igor_emilia_igor_2d60d6a3:
+
+    # E "Sir, would you mind if I took off your trousers?"
+    E "Sir, would you mind if I took off your trousers?"
+
+# game/scripts/visit.rpy:387
+translate spanish visit_igor_emilia_igor_c0d31b55:
+
+    # Ig "No... not at all."
+    Ig "No... not at all."
+
+# game/scripts/visit.rpy:390
+translate spanish visit_igor_emilia_igor_be84715e:
+
+    # "She kneels down..."
+    "She kneels down..."
+
+# game/scripts/visit.rpy:393
+translate spanish visit_igor_emilia_igor_a3b9b108:
+
+    # E "{i}*sucking*{/i}"
+    E "{i}*sucking*{/i}"
+
+# game/scripts/visit.rpy:394
+translate spanish visit_igor_emilia_igor_b6804c36:
+
+    # Ig "Oh... such pretty woman."
+    Ig "Oh... such pretty woman."
+
+# game/scripts/visit.rpy:397
+translate spanish visit_igor_emilia_igor_477903ee:
+
+    # Sav "My... having your personal servant must be nice."
+    Sav "My... having your personal servant must be nice."
+
+# game/scripts/visit.rpy:400
+translate spanish visit_igor_emilia_igor_37c62a3e:
+
+    # E "{i}*slurp*{/i}"
+    E "{i}*slurp*{/i}"
+
+# game/scripts/visit.rpy:401
+translate spanish visit_igor_emilia_igor_0083e554:
+
+    # Ka "Emilia is very kind maid..."
+    Ka "Emilia is very kind maid..."
+
+# game/scripts/visit.rpy:402
+translate spanish visit_igor_emilia_igor_b15d7095:
+
+    # Z "She is, indeed."
+    Z "She is, indeed."
+
+# game/scripts/visit.rpy:405
+translate spanish visit_igor_emilia_igor_4da09e77:
+
+    # Sav "So anyways... where were you, [W]?"
+    Sav "So anyways... where were you, [W]?"
+
+# game/scripts/visit.rpy:409
+translate spanish visit_igor_emilia_igor_93ce2b98:
+
+    # W "Oh... right... when my husband and I arrived at the market..."
+    W "Oh... right... when my husband and I arrived at the market..."
+
+# game/scripts/visit.rpy:410
+translate spanish visit_igor_emilia_igor_1d833e3c:
+
+    # W "Oh... right... whenever my husband arrives home, he..."
+    W "Oh... right... whenever my husband arrives home, he..."
+
+# game/scripts/visit.rpy:411
+translate spanish visit_igor_emilia_igor_aba66bc2:
+
+    # W "Oh... thank you. What I was saying is..."
+    W "Oh... thank you. What I was saying is..."
+
+# game/scripts/visit.rpy:414
+translate spanish visit_igor_emilia_igor_2aa825e1:
+
+    # Ig "Ah... good... woman..."
+    Ig "Ah... good... woman..."
+
+# game/scripts/visit.rpy:415
+translate spanish visit_igor_emilia_igor_37c62a3e_1:
+
+    # E "{i}*slurp*{/i}"
+    E "{i}*slurp*{/i}"
+
+# game/scripts/visit.rpy:418
+translate spanish visit_igor_emilia_igor_13606553:
+
+    # Ig "Ngh-"
+    Ig "Ngh-"
+
+# game/scripts/visit.rpy:419
+translate spanish visit_igor_emilia_igor_3dd52e11:
+
+    # Ig "Tha... thank you, maid. Can you... clean me, too?"
+    Ig "Tha... thank you, maid. Can you... clean me, too?"
+
+# game/scripts/visit.rpy:422
+translate spanish visit_igor_emilia_igor_268f9048:
+
+    # E "Yhes..."
+    E "Yhes..."
+
+# game/scripts/visit.rpy:423
+translate spanish visit_igor_emilia_igor_37c62a3e_2:
+
+    # E "{i}*slurp*{/i}"
+    E "{i}*slurp*{/i}"
+
+# game/scripts/visit.rpy:424
+translate spanish visit_igor_emilia_igor_a3b639b9:
+
+    # "Emilia cleans your guests' shaft for some time longer while everyone is chatting."
+    "Emilia cleans your guests' shaft for some time longer while everyone is chatting."
+
+# game/scripts/visit.rpy:432
+translate spanish visit_igor_kateryna_igor_3724220b:
+
+    # Zw "What do you think, want to give your uncle a good time again?"
+    Zw "What do you think, want to give your uncle a good time again?"
+
+# game/scripts/visit.rpy:435
+translate spanish visit_igor_kateryna_igor_6e62a250:
+
+    # Kaw "N...now?"
+    Kaw "N...now?"
+
+# game/scripts/visit.rpy:438
+translate spanish visit_igor_kateryna_igor_df3f6968:
+
+    # Kaw "Okay... I hope he will like!"
+    Kaw "Okay... I hope he will like!"
+
+# game/scripts/visit.rpy:443
+translate spanish visit_igor_kateryna_igor_163bc469:
+
+    # Zw "Of course he will. He can never take his eyes off his niece."
+    Zw "Of course he will. He can never take his eyes off his niece."
+
+# game/scripts/visit.rpy:444
+translate spanish visit_igor_kateryna_igor_257bdaa2:
+
+    # Z "Hey, brother."
+    Z "Hey, brother."
+
+# game/scripts/visit.rpy:447
+translate spanish visit_igor_kateryna_igor_ec4550a8:
+
+    # Ig "Y...yes?"
+    Ig "Y...yes?"
+
+# game/scripts/visit.rpy:450
+translate spanish visit_igor_kateryna_igor_8c1ace03:
+
+    # Ka "Uncle... I... was sent by..."
+    Ka "Uncle... I... was sent by..."
+
+# game/scripts/visit.rpy:453
+translate spanish visit_igor_kateryna_igor_14d855ca:
+
+    # Ig "Kateryna..."
+    Ig "Kateryna..."
+
+# game/scripts/visit.rpy:454
+translate spanish visit_igor_kateryna_igor_a6d6f4e0:
+
+    # W "Hmm... look who it is..."
+    W "Hmm... look who it is..."
+
+# game/scripts/visit.rpy:457
+translate spanish visit_igor_kateryna_igor_17043dc6:
+
+    # Ka "Do you mind again... if I..."
+    Ka "Do you mind again... if I..."
+
+# game/scripts/visit.rpy:458
+translate spanish visit_igor_kateryna_igor_014eaed7:
+
+    # "She takes off her top..."
+    "She takes off her top..."
+
+# game/scripts/visit.rpy:461
+translate spanish visit_igor_kateryna_igor_406cd4f5:
+
+    # Ka "Ah..."
+    Ka "Ah..."
+
+# game/scripts/visit.rpy:462
+translate spanish visit_igor_kateryna_igor_a9dbe192:
+
+    # Ig "Oh... my sweet thing..."
+    Ig "Oh... my sweet thing..."
+
+# game/scripts/visit.rpy:465
+translate spanish visit_igor_kateryna_igor_60a925bc:
+
+    # Sav "They are so sweet together, aren't they..."
+    Sav "They are so sweet together, aren't they..."
+
+# game/scripts/visit.rpy:468
+translate spanish visit_igor_kateryna_igor_8dbbd471:
+
+    # W "Such a wholesome family..."
+    W "Such a wholesome family..."
+
+# game/scripts/visit.rpy:473
+translate spanish visit_igor_kateryna_igor_75a9cd81:
+
+    # Ka "Mh..."
+    Ka "Mh..."
+
+# game/scripts/visit.rpy:479
+translate spanish visit_igor_kateryna_igor_9391c27e:
+
+    # Ig "Oh... Sweet Maria...!"
+    Ig "Oh... Sweet Maria...!"
+
+# game/scripts/visit.rpy:480
+translate spanish visit_igor_kateryna_igor_89b37e32:
+
+    # Aw "[persistent.player_name]... I'm getting hot..."
+    Aw "[persistent.player_name]... I'm getting hot..."
+
+# game/scripts/visit.rpy:483
+translate spanish visit_igor_kateryna_igor_9f24ee10:
+
+    # Ka "Do you... enjoy me, uncle...?"
+    Ka "Do you... enjoy me, uncle...?"
+
+# game/scripts/visit.rpy:484
+translate spanish visit_igor_kateryna_igor_531b4308:
+
+    # Ig "I love it, Kateryna."
+    Ig "I love it, Kateryna."
+
+# game/scripts/visit.rpy:487
+translate spanish visit_igor_kateryna_igor_f6fa16ee:
+
+    # Ig "Everytime..."
+    Ig "Everytime..."
+
+# game/scripts/visit.rpy:490
+translate spanish visit_igor_kateryna_igor_f043b977:
+
+    # Ig "Mgh... {i}*sucking*{/i}"
+    Ig "Mgh... {i}*sucking*{/i}"
+
+# game/scripts/visit.rpy:491
+translate spanish visit_igor_kateryna_igor_61dd7a32:
+
+    # Ka "Hah...!"
+    Ka "Hah...!"
+
+# game/scripts/visit.rpy:494
+translate spanish visit_igor_kateryna_igor_335efd1d:
+
+    # Ig "{i}*slurp*{/i}"
+    Ig "{i}*slurp*{/i}"
+
+# game/scripts/visit.rpy:495
+translate spanish visit_igor_kateryna_igor_9a915d44:
+
+    # Sav "Oh my... my boyfriend is greedy today."
+    Sav "Oh my... my boyfriend is greedy today."
+
+# game/scripts/visit.rpy:496
+translate spanish visit_igor_kateryna_igor_d8fed363:
+
+    # W "He always is when they are together."
+    W "He always is when they are together."
+
+# game/scripts/visit.rpy:499
+translate spanish visit_igor_kateryna_igor_c855b326:
+
+    # Ig "Oh... I wish of milk..."
+    Ig "Oh... I wish of milk..."
+
+# game/scripts/visit.rpy:502
+translate spanish visit_igor_kateryna_igor_fcf824bc:
+
+    # Sav "{i}*laughs*{/i} Oh hubby... so eager..."
+    Sav "{i}*laughs*{/i} Oh hubby... so eager..."
+
+# game/scripts/visit.rpy:503
+translate spanish visit_igor_kateryna_igor_c968ca07:
+
+    # W "He wants his niece's milk. How sweet."
+    W "He wants his niece's milk. How sweet."
+
+# game/scripts/visit.rpy:506
+translate spanish visit_igor_kateryna_igor_028f480e:
+
+    # Ig "{i}*sucking*{/i}"
+    Ig "{i}*sucking*{/i}"
+
+# game/scripts/visit.rpy:508
+translate spanish visit_igor_kateryna_igor_7b281251:
+
+    # Sav "That will take some time though... if your husband did his work correctly, that is."
+    Sav "That will take some time though... if your husband did his work correctly, that is."
+
+# game/scripts/visit.rpy:509
+translate spanish visit_igor_kateryna_igor_506d7ac5:
+
+    # Z "Oh, I did. Many times."
+    Z "Oh, I did. Many times."
+
+# game/scripts/visit.rpy:510
+translate spanish visit_igor_kateryna_igor_406cd4f5_1:
+
+    # Ka "Ah..."
+    Ka "Ah..."
+
+# game/scripts/visit.rpy:513
+translate spanish visit_igor_kateryna_igor_6951bca6:
+
+    # Ig "Sweetie pie... I will cum. Get up quick...!"
+    Ig "Sweetie pie... I will cum. Get up quick...!"
+
+# game/scripts/visit.rpy:516
+translate spanish visit_igor_kateryna_igor_28ccd01d:
+
+    # Ka "Mh... like this...?"
+    Ka "Mh... like this...?"
+
+# game/scripts/visit.rpy:517
+translate spanish visit_igor_kateryna_igor_cd831d31:
+
+    # Ig "Yes... I... almost..."
+    Ig "Yes... I... almost..."
+
+# game/scripts/visit.rpy:520
+translate spanish visit_igor_kateryna_igor_b546c136:
+
+    # Ka "This will help, maybe...?"
+    Ka "This will help, maybe...?"
+
+# game/scripts/visit.rpy:521
+translate spanish visit_igor_kateryna_igor_47ee8790:
+
+    # Ig "Ohh... angel... I..."
+    Ig "Ohh... angel... I..."
+
+# game/scripts/visit.rpy:524
+translate spanish visit_igor_kateryna_igor_13606553:
+
+    # Ig "Ngh-"
+    Ig "Ngh-"
+
+# game/scripts/visit.rpy:527
+translate spanish visit_igor_kateryna_igor_75a9cd81_1:
+
+    # Ka "Mh..."
+    Ka "Mh..."
+
+# game/scripts/visit.rpy:528
+translate spanish visit_igor_kateryna_igor_14d855ca_1:
+
+    # Ig "Kateryna..."
+    Ig "Kateryna..."
+
+# game/scripts/visit.rpy:531
+translate spanish visit_igor_kateryna_igor_f2adf3a9:
+
+    # Sav "Sweet pie... you made a mess."
+    Sav "Sweet pie... you made a mess."
+
+# game/scripts/visit.rpy:532
+translate spanish visit_igor_kateryna_igor_575b5b29:
+
+    # Sav "This is embarrassing..."
+    Sav "This is embarrassing..."
+
+# game/scripts/visit.rpy:533
+translate spanish visit_igor_kateryna_igor_ed890db1:
+
+    # Ig "{i}*pant*{/i} I am sorry..."
+    Ig "{i}*pant*{/i} I am sorry..."
+
+# game/scripts/visit.rpy:534
+translate spanish visit_igor_kateryna_igor_00137001:
+
+    # W "Don't worry about it, Savana."
+    W "Don't worry about it, Savana."
+
+# game/scripts/visit.rpy:536
+translate spanish visit_igor_kateryna_igor_6bf0c545:
+
+    # W "We have a maid for that. She will clean it up."
+    W "We have a maid for that. She will clean it up."
+
+# game/scripts/visit.rpy:538
+translate spanish visit_igor_kateryna_igor_7d68e3f4:
+
+    # W "I guess [A] has some extra cleaning to do today..."
+    W "I guess [A] has some extra cleaning to do today..."
+
+# game/scripts/visit.rpy:539
+translate spanish visit_igor_kateryna_igor_bb950824:
+
+    # A "[persistent.mom!c]...!"
+    A "[persistent.mom!c]...!"
+
+# game/scripts/visit.rpy:545
+translate spanish visit_igor_kateryna_igor_mc_b82e0480:
+
+    # Z "Hey, girls. You mind to take a walk through the house?"
+    Z "Hey, girls. You mind to take a walk through the house?"
+
+# game/scripts/visit.rpy:546
+translate spanish visit_igor_kateryna_igor_mc_c8fb6a62:
+
+    # Z "I think Igor wouldn't mind if Kateryna gave us men a good time again."
+    Z "I think Igor wouldn't mind if Kateryna gave us men a good time again."
+
+# game/scripts/visit.rpy:547
+translate spanish visit_igor_kateryna_igor_mc_f501252e:
+
+    # Sav "Can't get enough of her, hm?"
+    Sav "Can't get enough of her, hm?"
+
+# game/scripts/visit.rpy:548
+translate spanish visit_igor_kateryna_igor_mc_7f13b574:
+
+    # Sav "I don't mind your wife showing me around, what do you say. Show me what's in the basement?"
+    Sav "I don't mind your wife showing me around, what do you say. Show me what's in the basement?"
+
+# game/scripts/visit.rpy:549
+translate spanish visit_igor_kateryna_igor_mc_d5937f1f:
+
+    # W "Hm... not like we could stop them. Let's see what we ladies can do in the meantime."
+    W "Hm... not like we could stop them. Let's see what we ladies can do in the meantime."
+
+# game/scripts/visit.rpy:550
+translate spanish visit_igor_kateryna_igor_mc_24f2f40a:
+
+    # W "[A], come with us. Let's look at the finer liquids we have stored."
+    W "[A], come with us. Let's look at the finer liquids we have stored."
+
+# game/scripts/visit.rpy:551
+translate spanish visit_igor_kateryna_igor_mc_1d1ff66c:
+
+    # A "Okay, [persistent.mom]."
+    A "Okay, [persistent.mom]."
+
+# game/scripts/visit.rpy:554
+translate spanish visit_igor_kateryna_igor_mc_39e0278a:
+
+    # "A short while later..."
+    "A short while later..."
+
+# game/scripts/visit.rpy:557
+translate spanish visit_igor_kateryna_igor_mc_85ea6806:
+
+    # Ka "Can I... nh... sit here, uncle...?"
+    Ka "Can I... nh... sit here, uncle...?"
+
+# game/scripts/visit.rpy:558
+translate spanish visit_igor_kateryna_igor_mc_312496ce:
+
+    # Z "Ready for another round, girl?"
+    Z "Ready for another round, girl?"
+
+# game/scripts/visit.rpy:561
+translate spanish visit_igor_kateryna_igor_mc_348e7662:
+
+    # Ka "Ah... yes please..."
+    Ka "Ah... yes please..."
+
+# game/scripts/visit.rpy:564
+translate spanish visit_igor_kateryna_igor_mc_93a6f8c0:
+
+    # Ka "Nh..."
+    Ka "Nh..."
+
+# game/scripts/visit.rpy:567
+translate spanish visit_igor_kateryna_igor_mc_38e94874:
+
+    # Ka "{i}*slurp*{/i}"
+    Ka "{i}*slurp*{/i}"
+
+# game/scripts/visit.rpy:570
+translate spanish visit_igor_kateryna_igor_mc_03032ee0:
+
+    # Ka "Mgh..."
+    Ka "Mgh..."
+
+# game/scripts/visit.rpy:573
+translate spanish visit_igor_kateryna_igor_mc_cda441ce:
+
+    # "She begins to eagerly suck your dick with her uncle inside her..."
+    "She begins to eagerly suck your dick with her uncle inside her..."
+
+# game/scripts/visit.rpy:574
+translate spanish visit_igor_kateryna_igor_mc_40ce5f9e:
+
+    # Ka "{i}*sucking*{/i}"
+    Ka "{i}*sucking*{/i}"
+
+# game/scripts/visit.rpy:575
+translate spanish visit_igor_kateryna_igor_mc_9e393052:
+
+    # Z "I enjoy using your niece together, Igor. Reminds me of the old times."
+    Z "I enjoy using your niece together, Igor. Reminds me of the old times."
+
+# game/scripts/visit.rpy:578
+translate spanish visit_igor_kateryna_igor_mc_12f80631:
+
+    # Ig "Yes... friend. Like back in the day with mothers, from temple."
+    Ig "Yes... friend. Like back in the day with mothers, from temple."
+
+# game/scripts/visit.rpy:579
+translate spanish visit_igor_kateryna_igor_mc_540fa343:
+
+    # Z "Ah... I remember Nassor's mother. Her wide hips... she took all three of us."
+    Z "Ah... I remember Nassor's mother. Her wide hips... she took all three of us."
+
+# game/scripts/visit.rpy:580
+translate spanish visit_igor_kateryna_igor_mc_72caf49a:
+
+    # Ig "Yes... felt like Kateryna. Soft... big hips, yes..."
+    Ig "Yes... felt like Kateryna. Soft... big hips, yes..."
+
+# game/scripts/visit.rpy:583
+translate spanish visit_igor_kateryna_igor_mc_0cf3a71c:
+
+    # Z "Except that your niece here... gives much better head."
+    Z "Except that your niece here... gives much better head."
+
+# game/scripts/visit.rpy:584
+translate spanish visit_igor_kateryna_igor_mc_aceb2617:
+
+    # Ka "{i}*slurp{/i}"
+    Ka "{i}*slurp{/i}"
+
+# game/scripts/visit.rpy:585
+translate spanish visit_igor_kateryna_igor_mc_da94b5b6:
+
+    # Ig "Is... nature goddess. Like her mother."
+    Ig "Is... nature goddess. Like her mother."
+
+# game/scripts/visit.rpy:588
+translate spanish visit_igor_kateryna_igor_mc_b89bb738:
+
+    # Ig "Smaller breasts... but still goddess."
+    Ig "Smaller breasts... but still goddess."
+
+# game/scripts/visit.rpy:589
+translate spanish visit_igor_kateryna_igor_mc_40ce5f9e_1:
+
+    # Ka "{i}*sucking*{/i}"
+    Ka "{i}*sucking*{/i}"
+
+# game/scripts/visit.rpy:590
+translate spanish visit_igor_kateryna_igor_mc_56189b26:
+
+    # Z "{i}*chuckles*{/i} I wonder what she looked like."
+    Z "{i}*chuckles*{/i} I wonder what she looked like."
+
+# game/scripts/visit.rpy:593
+translate spanish visit_igor_kateryna_igor_mc_ec4f6bbf:
+
+    # Z "I think I'm ready to stretch her out again, what do you say?"
+    Z "I think I'm ready to stretch her out again, what do you say?"
+
+# game/scripts/visit.rpy:594
+translate spanish visit_igor_kateryna_igor_mc_8ef5a225:
+
+    # Ig "Yes... let us, brother."
+    Ig "Yes... let us, brother."
+
+# game/scripts/visit.rpy:595
+translate spanish visit_igor_kateryna_igor_mc_ed052819:
+
+    # Z "Come on, sweetie. Get up."
+    Z "Come on, sweetie. Get up."
+
+# game/scripts/visit.rpy:596
+translate spanish visit_igor_kateryna_igor_mc_c3abef35:
+
+    # Ka "Mhm... {i}*sucking*{/i}"
+    Ka "Mhm... {i}*sucking*{/i}"
+
+# game/scripts/visit.rpy:599
+translate spanish visit_igor_kateryna_igor_mc_542b51a3:
+
+    # "You both carry her over to the couch..."
+    "You both carry her over to the couch..."
+
+# game/scripts/visit.rpy:602
+translate spanish visit_igor_kateryna_igor_mc_85437860:
+
+    # Ka "Ah... mh..."
+    Ka "Ah... mh..."
+
+# game/scripts/visit.rpy:605
+translate spanish visit_igor_kateryna_igor_mc_e2ffe807:
+
+    # Ig "Oh, sweet pie..."
+    Ig "Oh, sweet pie..."
+
+# game/scripts/visit.rpy:608
+translate spanish visit_igor_kateryna_igor_mc_dfe71908:
+
+    # Ka "Will you again... put it..."
+    Ka "Will you again... put it..."
+
+# game/scripts/visit.rpy:609
+translate spanish visit_igor_kateryna_igor_mc_804f565c:
+
+    # Z "Of course. That's how your uncle and I share you."
+    Z "Of course. That's how your uncle and I share you."
+
+# game/scripts/visit.rpy:610
+translate spanish visit_igor_kateryna_igor_mc_25de1b65:
+
+    # Ka "Okay... I... like..."
+    Ka "Okay... I... like..."
+
+# game/scripts/visit.rpy:613
+translate spanish visit_igor_kateryna_igor_mc_1a465d7b:
+
+    # Ka "Ohh..."
+    Ka "Ohh..."
+
+# game/scripts/visit.rpy:614
+translate spanish visit_igor_kateryna_igor_mc_ff7cd074:
+
+    # Ig "Good princess..."
+    Ig "Good princess..."
+
+# game/scripts/visit.rpy:617
+translate spanish visit_igor_kateryna_igor_mc_c8918046:
+
+    # Ka "It feels... good..."
+    Ka "It feels... good..."
+
+# game/scripts/visit.rpy:620
+translate spanish visit_igor_kateryna_igor_mc_406cd4f5:
+
+    # Ka "Ah..."
+    Ka "Ah..."
+
+# game/scripts/visit.rpy:621
+translate spanish visit_igor_kateryna_igor_mc_63f23ac3:
+
+    # "You both keep thrusting yourselves into Kateryna's insides..."
+    "You both keep thrusting yourselves into Kateryna's insides..."
+
+# game/scripts/visit.rpy:623
+translate spanish visit_igor_kateryna_igor_mc_8dfcb093:
+
+    # Z "I hope you'll still be up for this, when... nh..."
+    Z "I hope you'll still be up for this, when... nh..."
+
+# game/scripts/visit.rpy:624
+translate spanish visit_igor_kateryna_igor_mc_7439b2f2:
+
+    # Z "When your niece has got a fat belly swinging in your face."
+    Z "When your niece has got a fat belly swinging in your face."
+
+# game/scripts/visit.rpy:625
+translate spanish visit_igor_kateryna_igor_mc_ad3c3fc5:
+
+    # Ka "Ah... nh..."
+    Ka "Ah... nh..."
+
+# game/scripts/visit.rpy:626
+translate spanish visit_igor_kateryna_igor_mc_120f52d5:
+
+    # Ig "Oh... I do not mind... she will have milk, then."
+    Ig "Oh... I do not mind... she will have milk, then."
+
+# game/scripts/visit.rpy:629
+translate spanish visit_igor_kateryna_igor_mc_2b9911b3:
+
+    # Z "I can't hold it..."
+    Z "I can't hold it..."
+
+# game/scripts/visit.rpy:630
+translate spanish visit_igor_kateryna_igor_mc_74bc903c:
+
+    # Ig "Ngh..."
+    Ig "Ngh..."
+
+# game/scripts/visit.rpy:633
+translate spanish visit_igor_kateryna_igor_mc_c5a7d841:
+
+    # Ka "Oh... [persistent.player_name]...!"
+    Ka "Oh... [persistent.player_name]...!"
+
+# game/scripts/visit.rpy:634
+translate spanish visit_igor_kateryna_igor_mc_a8db3b1d:
+
+    # Z "Fuck..."
+    Z "Fuck..."
+
+# game/scripts/visit.rpy:636
+translate spanish visit_igor_kateryna_igor_mc_eaa190d8:
+
+    # Ig "I... must not again..."
+    Ig "I... must not again..."
+
+# game/scripts/visit.rpy:637
+translate spanish visit_igor_kateryna_igor_mc_98f73664:
+
+    # Ig "Kateryna, get up, please!"
+    Ig "Kateryna, get up, please!"
+
+# game/scripts/visit.rpy:640
+translate spanish visit_igor_kateryna_igor_mc_078d6fc6:
+
+    # "Igor pushes Kateryna up, and you both stand in front of her..."
+    "Igor pushes Kateryna up, and you both stand in front of her..."
+
+# game/scripts/visit.rpy:642
+translate spanish visit_igor_kateryna_igor_mc_813f9115:
+
+    # Ka "{i}*soft breathing*{/i}"
+    Ka "{i}*soft breathing*{/i}"
+
+# game/scripts/visit.rpy:643
+translate spanish visit_igor_kateryna_igor_mc_f88dceb2:
+
+    # Ig "That.. {i}*pant*{/i} was close again, friend."
+    Ig "That.. {i}*pant*{/i} was close again, friend."
+
+# game/scripts/visit.rpy:644
+translate spanish visit_igor_kateryna_igor_mc_7efcf078:
+
+    # Z "Hey, sweetie."
+    Z "Hey, sweetie."
+
+# game/scripts/visit.rpy:647
+translate spanish visit_igor_kateryna_igor_mc_a07055bd:
+
+    # Ka "...mh?"
+    Ka "...mh?"
+
+# game/scripts/visit.rpy:650
+translate spanish visit_igor_kateryna_igor_mc_b6b84a91:
+
+    # Z "You know the drill. Clean us up."
+    Z "You know the drill. Clean us up."
+
+# game/scripts/visit.rpy:651
+translate spanish visit_igor_kateryna_igor_mc_a4540282:
+
+    # Ig "Yes... please, sweet pie."
+    Ig "Yes... please, sweet pie."
+
+# game/scripts/visit.rpy:654
+translate spanish visit_igor_kateryna_igor_mc_38e94874_1:
+
+    # Ka "{i}*slurp*{/i}"
+    Ka "{i}*slurp*{/i}"
+
+# game/scripts/visit.rpy:655
+translate spanish visit_igor_kateryna_igor_mc_a6906ca8:
+
+    # Z "{i}*chuckles*{/i} So obedient, isn't she."
+    Z "{i}*chuckles*{/i} So obedient, isn't she."
+
+# game/scripts/visit.rpy:656
+translate spanish visit_igor_kateryna_igor_mc_284b32b9:
+
+    # Ig "Yes..."
+    Ig "Yes..."
+
+# game/scripts/visit.rpy:659
+translate spanish visit_igor_kateryna_igor_mc_24869ef9:
+
+    # Ig "I am happy I gave you Kateryna. She is happy here."
+    Ig "I am happy I gave you Kateryna. She is happy here."
+
+# game/scripts/visit.rpy:661
+translate spanish visit_igor_kateryna_igor_mc_40dee149:
+
+    # Z "She is, and she will be even happier once the many children are coming."
+    Z "She is, and she will be even happier once the many children are coming."
+
+# game/scripts/visit.rpy:664
+translate spanish visit_igor_kateryna_igor_mc_40ce5f9e_2:
+
+    # Ka "{i}*sucking*{/i}"
+    Ka "{i}*sucking*{/i}"
+
+# game/scripts/visit.rpy:665
+translate spanish visit_igor_kateryna_igor_mc_687ac6ac:
+
+    # Z "That's good enough, you minx."
+    Z "That's good enough, you minx."
+
+# game/scripts/visit.rpy:668
+translate spanish visit_igor_kateryna_igor_mc_75a9cd81:
+
+    # Ka "Mh..."
+    Ka "Mh..."
+
+# game/scripts/visit.rpy:671
+translate spanish visit_igor_kateryna_igor_mc_dca06156:
+
+    # Ka "You too, uncle..."
+    Ka "You too, uncle..."
+
+# game/scripts/visit.rpy:674
+translate spanish visit_igor_kateryna_igor_mc_38e94874_2:
+
+    # Ka "{i}*slurp*{/i}"
+    Ka "{i}*slurp*{/i}"
+
+# game/scripts/visit.rpy:675
+translate spanish visit_igor_kateryna_igor_mc_12fda760:
+
+    # Ig "Oh... always such sensation..."
+    Ig "Oh... always such sensation..."
+
+# game/scripts/visit.rpy:678
+translate spanish visit_igor_kateryna_igor_mc_4a586e88:
+
+    # "She keeps sucking off Igor, who has not been able to reach climax yet..."
+    "She keeps sucking off Igor, who has not been able to reach climax yet..."
+
+# game/scripts/visit.rpy:681
+translate spanish visit_igor_kateryna_igor_mc_9bb263ca:
+
+    # Ka "Mh... {i}*sucking*{/i}"
+    Ka "Mh... {i}*sucking*{/i}"
+
+# game/scripts/visit.rpy:682
+translate spanish visit_igor_kateryna_igor_mc_df645c9f:
+
+    # Ig "Kateryna... You..."
+    Ig "Kateryna... You..."
+
+# game/scripts/visit.rpy:685
+translate spanish visit_igor_kateryna_igor_mc_38e94874_3:
+
+    # Ka "{i}*slurp*{/i}"
+    Ka "{i}*slurp*{/i}"
+
+# game/scripts/visit.rpy:686
+translate spanish visit_igor_kateryna_igor_mc_345c24af:
+
+    # Ig "You are so perfect... I..."
+    Ig "You are so perfect... I..."
+
+# game/scripts/visit.rpy:689
+translate spanish visit_igor_kateryna_igor_mc_ce8b7647:
+
+    # Ka "Ngh..."
+    Ka "Ngh..."
+
+# game/scripts/visit.rpy:690
+translate spanish visit_igor_kateryna_igor_mc_0ad2b7f5:
+
+    # Ig "I can not stop, again..."
+    Ig "I can not stop, again..."
+
+# game/scripts/visit.rpy:693
+translate spanish visit_igor_kateryna_igor_mc_b25c9ab3:
+
+    # Ig "Oh..."
+    Ig "Oh..."
+
+# game/scripts/visit.rpy:695
+translate spanish visit_igor_kateryna_igor_mc_ab968f09:
+
+    # Ka "{i}*gulp*{/i}"
+    Ka "{i}*gulp*{/i}"
+
+# game/scripts/visit.rpy:698
+translate spanish visit_igor_kateryna_igor_mc_38e94874_4:
+
+    # Ka "{i}*slurp*{/i}"
+    Ka "{i}*slurp*{/i}"
+
+# game/scripts/visit.rpy:699
+translate spanish visit_igor_kateryna_igor_mc_e3fc02d6:
+
+    # Ig "Oh... such slutty princess..."
+    Ig "Oh... such slutty princess..."
+
+# game/scripts/visit.rpy:702
+translate spanish visit_igor_kateryna_igor_mc_5ddd4159:
+
+    # Z "Such a sweet girl, you made us both happy."
+    Z "Such a sweet girl, you made us both happy."
+
+# game/scripts/visit.rpy:703
+translate spanish visit_igor_kateryna_igor_mc_8b2cacb9:
+
+    # Z "Come on, show me the result. Open..."
+    Z "Come on, show me the result. Open..."
+
+# game/scripts/visit.rpy:706
+translate spanish visit_igor_kateryna_igor_mc_754fb3a2:
+
+    # Ka "Ahh..."
+    Ka "Ahh..."
+
+# game/scripts/visit.rpy:707
+translate spanish visit_igor_kateryna_igor_mc_89e0fb4c:
+
+    # Z "So perfect, swallowed everything."
+    Z "So perfect, swallowed everything."
+
+# game/scripts/visit.rpy:710
+translate spanish visit_igor_kateryna_igor_mc_e54fb10f:
+
+    # Z "What do you think, Igor, let's call our women back in?"
+    Z "What do you think, Igor, let's call our women back in?"
+
+# game/scripts/visit.rpy:711
+translate spanish visit_igor_kateryna_igor_mc_b683606e:
+
+    # Ig "Yes... thank you, for sharing my sweet pie with me."
+    Ig "Yes... thank you, for sharing my sweet pie with me."
+
+# game/scripts/visit.rpy:712
+translate spanish visit_igor_kateryna_igor_mc_a5f8b335:
+
+    # Z "You're always welcome."
+    Z "You're always welcome."
+
+# game/scripts/visit.rpy:718
+translate spanish visit_igor_ending_0541c10c:
+
+    # "After another hour of chatting, they eventually prepare to leave..."
+    "After another hour of chatting, they eventually prepare to leave..."
+
+# game/scripts/visit.rpy:721
+translate spanish visit_igor_ending_4c01bfad:
+
+    # W "It was nice as always. Remember, you two are always welcome."
+    W "It was nice as always. Remember, you two are always welcome."
+
+# game/scripts/visit.rpy:724
+translate spanish visit_igor_ending_28352904:
+
+    # Sav "Oh, we know. Thank you for your hospitality. You are always fun to hang out with."
+    Sav "Oh, we know. Thank you for your hospitality. You are always fun to hang out with."
+
+# game/scripts/visit.rpy:727
+translate spanish visit_igor_ending_a03db99c:
+
+    # Sav "Okay, big guy. Let's get going, shall we?"
+    Sav "Okay, big guy. Let's get going, shall we?"
+
+# game/scripts/visit.rpy:732
+translate spanish visit_igor_ending_b69d578a:
+
+    # "They leave..."
+    "They leave..."
+
+translate spanish strings:
+
+    # game/scripts/visit.rpy:29
+    old "Enjoy a service"
+    new "Enjoy a service"
+
+    # game/scripts/visit.rpy:31
+    old "Use your [persistent.da]"
+    new "Use your [persistent.da]"
+
+    # game/scripts/visit.rpy:34
+    old "Call in Emilia"
+    new "Call in Emilia"
+
+    # game/scripts/visit.rpy:37
+    old "Have fun with Kateryna"
+    new "Have fun with Kateryna"
+
+    # game/scripts/visit.rpy:40
+    old "Be a good host"
+    new "Be a good host"
+
+    # game/scripts/visit.rpy:42
+    old "Give [A] to Igor"
+    new "Give [A] to Igor"
+
+    # game/scripts/visit.rpy:45
+    old "Give Emilia to Igor"
+    new "Give Emilia to Igor"
+
+    # game/scripts/visit.rpy:48
+    old "Give Kateryna to Igor"
+    new "Give Kateryna to Igor"
+
+    # game/scripts/visit.rpy:52
+    old "Enjoy Kateryna with Igor"
+    new "Enjoy Kateryna with Igor"
+

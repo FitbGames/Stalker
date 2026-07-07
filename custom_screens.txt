@@ -1,0 +1,76 @@
+﻿# TODO: Translation updated at 2026-06-29 18:49
+
+translate spanish strings:
+
+    # game/scripts/custom_screens.rpy:38
+    old "[persistent.mm] Menu"
+    new "[persistent.mm] Menu"
+
+    # game/scripts/custom_screens.rpy:87
+    old "Confirm"
+    new "Confirm"
+
+    # game/scripts/custom_screens.rpy:95
+    old "Edit Details"
+    new "Edit Details"
+
+    # game/scripts/custom_screens.rpy:101
+    old "Edit Relationships"
+    new "Edit Relationships"
+
+    # game/scripts/custom_screens.rpy:105
+    old "Names & Relationships"
+    new "Names & Relationships"
+
+    # game/scripts/custom_screens.rpy:109
+    old "Your name is "
+    new "Your name is "
+
+    # game/scripts/custom_screens.rpy:124
+    old "Your wife's name is "
+    new "Your wife's name is "
+
+    # game/scripts/custom_screens.rpy:139
+    old "The younger "
+    new "The younger "
+
+    # game/scripts/custom_screens.rpy:153
+    old " name is "
+    new " name is "
+
+    # game/scripts/custom_screens.rpy:168
+    old "Her sister's name is"
+    new "Her sister's name is"
+
+    # game/scripts/custom_screens.rpy:183
+    old "[persistent.player_name] is their "
+    new "[persistent.player_name] is their "
+
+    # game/scripts/custom_screens.rpy:197
+    old ", [persistent.W_name] is their "
+    new ", [persistent.W_name] is their "
+
+    # game/scripts/custom_screens.rpy:213
+    old "The redhead servant is called "
+    new "The redhead servant is called "
+
+    # game/scripts/custom_screens.rpy:230
+    old "The General's sister is called "
+    new "The General's sister is called "
+
+    # game/scripts/custom_screens.rpy:245
+    old "Presentation options"
+    new "Presentation options"
+
+    # game/scripts/custom_screens.rpy:250
+    old "The namebox will refer to you as:"
+    new "The namebox will refer to you as:"
+
+    # game/scripts/custom_screens.rpy:251
+    old "\"[persistent.player_name]\""
+    new "\"[persistent.player_name]\""
+
+    # game/scripts/custom_screens.rpy:252
+    old "\"You\""
+    new "\"You\""
+

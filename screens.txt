@@ -1,0 +1,376 @@
+﻿# TODO: Translation updated at 2026-06-29 18:49
+
+translate spanish strings:
+
+    # game/scripts/screens.rpy:308
+    old "History"
+    new "History"
+
+    # game/scripts/screens.rpy:309
+    old "Skip"
+    new "Skip"
+
+    # game/scripts/screens.rpy:310
+    old "Auto"
+    new "Auto"
+
+    # game/scripts/screens.rpy:311
+    old "Save"
+    new "Save"
+
+    # game/scripts/screens.rpy:312
+    old "Q.Save"
+    new "Q.Save"
+
+    # game/scripts/screens.rpy:313
+    old "Q.Load"
+    new "Q.Load"
+
+    # game/scripts/screens.rpy:314
+    old "Prefs"
+    new "Prefs"
+
+    # game/scripts/screens.rpy:362
+    old "New Game"
+    new "New Game"
+
+    # game/scripts/screens.rpy:369
+    old "Load"
+    new "Load"
+
+    # game/scripts/screens.rpy:384
+    old "Options"
+    new "Options"
+
+    # game/scripts/screens.rpy:389
+    old "End Replay"
+    new "End Replay"
+
+    # game/scripts/screens.rpy:394
+    old "Main Menu"
+    new "Main Menu"
+
+    # game/scripts/screens.rpy:400
+    old "Credits"
+    new "Credits"
+
+    # game/scripts/screens.rpy:410
+    old "Quit"
+    new "Quit"
+
+    # game/scripts/screens.rpy:422
+    old "{color=#ddd}Internal beta preview build. There is a high likelihood of game-breaking bugs and missing content/animations.{/color}"
+    new "{color=#ddd}Internal beta preview build. There is a high likelihood of game-breaking bugs and missing content/animations.{/color}"
+
+    # game/scripts/screens.rpy:472
+    old "Join our community"
+    new "Join our community"
+
+    # game/scripts/screens.rpy:477
+    old "Buy on Steam"
+    new "Buy on Steam"
+
+    # game/scripts/screens.rpy:482
+    old "Support on Patreon"
+    new "Support on Patreon"
+
+    # game/scripts/screens.rpy:487
+    old "Support on SubscribeStar"
+    new "Support on SubscribeStar"
+
+    # game/scripts/screens.rpy:638
+    old "Save name: "
+    new "Save name: "
+
+    # game/scripts/screens.rpy:698
+    old "{#file_time}%A, %B %d %Y, %H:%M"
+    new "{#file_time}%A, %B %d %Y, %H:%M"
+
+    # game/scripts/screens.rpy:698
+    old "empty slot"
+    new "empty slot"
+
+    # game/scripts/screens.rpy:736
+    old "<"
+    new "<"
+
+    # game/scripts/screens.rpy:739
+    old "{#auto_page}A"
+    new "{#auto_page}A"
+
+    # game/scripts/screens.rpy:742
+    old "{#quick_page}Q"
+    new "{#quick_page}Q"
+
+    # game/scripts/screens.rpy:748
+    old ">"
+    new ">"
+
+    # game/scripts/screens.rpy:779
+    old "Preferences"
+    new "Preferences"
+
+    # game/scripts/screens.rpy:788
+    old "Gameplay"
+    new "Gameplay"
+
+    # game/scripts/screens.rpy:792
+    old "System"
+    new "System"
+
+    # game/scripts/screens.rpy:801
+    old "Content"
+    new "Content"
+
+    # game/scripts/screens.rpy:805
+    old "Gore"
+    new "Gore"
+
+    # game/scripts/screens.rpy:807
+    old "Enabled"
+    new "Enabled"
+
+    # game/scripts/screens.rpy:812
+    old "Disabled"
+    new "Disabled"
+
+    # game/scripts/screens.rpy:818
+    old "Forceplay"
+    new "Forceplay"
+
+    # game/scripts/screens.rpy:830
+    old "Sharing"
+    new "Sharing"
+
+    # game/scripts/screens.rpy:842
+    old "Game over scenes"
+    new "Game over scenes"
+
+    # game/scripts/screens.rpy:858
+    old "Quick Menu"
+    new "Quick Menu"
+
+    # game/scripts/screens.rpy:872
+    old "Unseen Text"
+    new "Unseen Text"
+
+    # game/scripts/screens.rpy:873
+    old "After Choices"
+    new "After Choices"
+
+    # game/scripts/screens.rpy:879
+    old "Transitions"
+    new "Transitions"
+
+    # game/scripts/screens.rpy:883
+    old "Rollback Side"
+    new "Rollback Side"
+
+    # game/scripts/screens.rpy:889
+    old "[preferences.desktop_rollback_side!tc]"
+    new "[preferences.desktop_rollback_side!tc]"
+
+    # game/scripts/screens.rpy:896
+    old "Language"
+    new "Language"
+
+    # game/scripts/screens.rpy:919
+    old "Display"
+    new "Display"
+
+    # game/scripts/screens.rpy:922
+    old "Display Mode"
+    new "Display Mode"
+
+    # game/scripts/screens.rpy:929
+    old "Fullscreen"
+    new "Fullscreen"
+
+    # game/scripts/screens.rpy:931
+    old "Windowed"
+    new "Windowed"
+
+    # game/scripts/screens.rpy:940
+    old "Sound"
+    new "Sound"
+
+    # game/scripts/screens.rpy:945
+    old "Music Volume"
+    new "Music Volume"
+
+    # game/scripts/screens.rpy:952
+    old "Sound Volume"
+    new "Sound Volume"
+
+    # game/scripts/screens.rpy:966
+    old "Mute Audio"
+    new "Mute Audio"
+
+    # game/scripts/screens.rpy:980
+    old "Text Speed"
+    new "Text Speed"
+
+    # game/scripts/screens.rpy:986
+    old "Auto-Forward Time"
+    new "Auto-Forward Time"
+
+    # game/scripts/screens.rpy:992
+    old "Textbox Opacity"
+    new "Textbox Opacity"
+
+    # game/scripts/screens.rpy:1044
+    old "The dialogue history is empty."
+    new "The dialogue history is empty."
+
+    # game/scripts/screens.rpy:1066
+    old "Help"
+    new "Help"
+
+    # game/scripts/screens.rpy:1075
+    old "Keyboard"
+    new "Keyboard"
+
+    # game/scripts/screens.rpy:1076
+    old "Mouse"
+    new "Mouse"
+
+    # game/scripts/screens.rpy:1079
+    old "Gamepad"
+    new "Gamepad"
+
+    # game/scripts/screens.rpy:1092
+    old "Enter"
+    new "Enter"
+
+    # game/scripts/screens.rpy:1093
+    old "Advances dialogue and activates the interface."
+    new "Advances dialogue and activates the interface."
+
+    # game/scripts/screens.rpy:1096
+    old "Space"
+    new "Space"
+
+    # game/scripts/screens.rpy:1097
+    old "Advances dialogue without selecting choices."
+    new "Advances dialogue without selecting choices."
+
+    # game/scripts/screens.rpy:1100
+    old "Arrow Keys"
+    new "Arrow Keys"
+
+    # game/scripts/screens.rpy:1101
+    old "Navigate the interface."
+    new "Navigate the interface."
+
+    # game/scripts/screens.rpy:1104
+    old "Escape"
+    new "Escape"
+
+    # game/scripts/screens.rpy:1105
+    old "Accesses the game menu."
+    new "Accesses the game menu."
+
+    # game/scripts/screens.rpy:1108
+    old "Ctrl"
+    new "Ctrl"
+
+    # game/scripts/screens.rpy:1109
+    old "Skips dialogue while held down."
+    new "Skips dialogue while held down."
+
+    # game/scripts/screens.rpy:1112
+    old "Tab"
+    new "Tab"
+
+    # game/scripts/screens.rpy:1113
+    old "Toggles dialogue skipping."
+    new "Toggles dialogue skipping."
+
+    # game/scripts/screens.rpy:1116
+    old "Page Up"
+    new "Page Up"
+
+    # game/scripts/screens.rpy:1117
+    old "Rolls back to earlier dialogue."
+    new "Rolls back to earlier dialogue."
+
+    # game/scripts/screens.rpy:1120
+    old "Page Down"
+    new "Page Down"
+
+    # game/scripts/screens.rpy:1121
+    old "Rolls forward to later dialogue."
+    new "Rolls forward to later dialogue."
+
+    # game/scripts/screens.rpy:1125
+    old "Hides the user interface."
+    new "Hides the user interface."
+
+    # game/scripts/screens.rpy:1129
+    old "Takes a screenshot."
+    new "Takes a screenshot."
+
+    # game/scripts/screens.rpy:1133
+    old "Toggles assistive self-voicing."
+    new "Toggles assistive self-voicing."
+
+    # game/scripts/screens.rpy:1139
+    old "Left Click"
+    new "Left Click"
+
+    # game/scripts/screens.rpy:1143
+    old "Middle Click"
+    new "Middle Click"
+
+    # game/scripts/screens.rpy:1147
+    old "Right Click"
+    new "Right Click"
+
+    # game/scripts/screens.rpy:1151
+    old "Mouse Wheel Up\nClick Rollback Side"
+    new "Mouse Wheel Up\nClick Rollback Side"
+
+    # game/scripts/screens.rpy:1155
+    old "Mouse Wheel Down"
+    new "Mouse Wheel Down"
+
+    # game/scripts/screens.rpy:1162
+    old "Right Trigger\nA/Bottom Button"
+    new "Right Trigger\nA/Bottom Button"
+
+    # game/scripts/screens.rpy:1166
+    old "Left Trigger\nLeft Shoulder"
+    new "Left Trigger\nLeft Shoulder"
+
+    # game/scripts/screens.rpy:1170
+    old "Right Shoulder"
+    new "Right Shoulder"
+
+    # game/scripts/screens.rpy:1175
+    old "D-Pad, Sticks"
+    new "D-Pad, Sticks"
+
+    # game/scripts/screens.rpy:1179
+    old "Start, Guide"
+    new "Start, Guide"
+
+    # game/scripts/screens.rpy:1183
+    old "Y/Top Button"
+    new "Y/Top Button"
+
+    # game/scripts/screens.rpy:1186
+    old "Calibrate"
+    new "Calibrate"
+
+    # game/scripts/screens.rpy:1250
+    old "Skipping"
+    new "Skipping"
+
+    # game/scripts/screens.rpy:1380
+    old "Menu"
+    new "Menu"
+
+    # game/scripts/screens.rpy:1381
+    old "Hide UI"
+    new "Hide UI"
+

@@ -1,0 +1,4368 @@
+﻿# TODO: Translation updated at 2026-06-29 18:49
+
+# game/scripts/palace.rpy:23
+translate spanish palace_throne_menu_8c11b0d1:
+
+    # Q "So... now that we got that out of the way..."
+    Q "So... now that we got that out of the way..."
+
+# game/scripts/palace.rpy:24
+translate spanish palace_throne_menu_8fffe919:
+
+    # Q "What would you like to help me with, Stalker [persistent.player_name]?"
+    Q "What would you like to help me with, Stalker [persistent.player_name]?"
+
+# game/scripts/palace.rpy:25
+translate spanish palace_throne_menu_44e92703:
+
+    # Q "There are multiple things I could use your help with. Some involve a bit more strategy, others are more menial tasks."
+    Q "There are multiple things I could use your help with. Some involve a bit more strategy, others are more menial tasks."
+
+# game/scripts/palace.rpy:26
+translate spanish palace_throne_menu_87c0f851:
+
+    # Q "Amongst other things, I will need your presence during upcoming public hearings. A man of your experience knows wastelanders better than many of my advisors and there are a few disputes that need to be settled."
+    Q "Amongst other things, I will need your presence during upcoming public hearings. A man of your experience knows wastelanders better than many of my advisors and there are a few disputes that need to be settled."
+
+# game/scripts/palace.rpy:28
+translate spanish palace_throne_menu_c227c8f4:
+
+    # Q "Welcome back, [persistent.player_name]."
+    Q "Welcome back, [persistent.player_name]."
+
+# game/scripts/palace.rpy:29
+translate spanish palace_throne_menu_fc4a84ec:
+
+    # Q "How do you intend to assist me today?"
+    Q "How do you intend to assist me today?"
+
+# game/scripts/palace.rpy:39
+translate spanish palace_throne_menu_b8b70ce8:
+
+    # Z "I have time for a simple job."
+    Z "I have time for a simple job."
+
+# game/scripts/palace.rpy:43
+translate spanish palace_throne_menu_45977baf:
+
+    # Q "Very well, head to the plaza. My guards will show you what to do."
+    Q "Very well, head to the plaza. My guards will show you what to do."
+
+# game/scripts/palace.rpy:45
+translate spanish palace_throne_menu_a6151e50:
+
+    # Q "Very well... there are a few things for you to do."
+    Q "Very well... there are a few things for you to do."
+
+# game/scripts/palace.rpy:46
+translate spanish palace_throne_menu_254300f9:
+
+    # Q "I expect you to report to me in my quarters when you're done, okay?"
+    Q "I expect you to report to me in my quarters when you're done, okay?"
+
+# game/scripts/palace.rpy:48
+translate spanish palace_throne_menu_e3f8b0fe:
+
+    # Q "There is only a minor thing to do today, should take no longer than ten minutes."
+    Q "There is only a minor thing to do today, should take no longer than ten minutes."
+
+# game/scripts/palace.rpy:49
+translate spanish palace_throne_menu_d2fba5fc:
+
+    # Q "Report to me in my quarters again. I need... your advice on something."
+    Q "Report to me in my quarters again. I need... your advice on something."
+
+# game/scripts/palace.rpy:62
+translate spanish palace_throne_menu_b5934fe6:
+
+    # Z "Let us return to the war room."
+    Z "Let us return to the war room."
+
+# game/scripts/palace.rpy:65
+translate spanish palace_throne_menu_b2d89539:
+
+    # Q "Yes, there is work to be done. Go ahead; I will join you shortly."
+    Q "Yes, there is work to be done. Go ahead; I will join you shortly."
+
+# game/scripts/palace.rpy:76
+translate spanish palace_throne_menu_76a6a653:
+
+    # Z "I am here to participate in the hearings."
+    Z "I am here to participate in the hearings."
+
+# game/scripts/palace.rpy:79
+translate spanish palace_throne_menu_d8434759:
+
+    # Q "Very good, we have one scheduled soon."
+    Q "Very good, we have one scheduled soon."
+
+# game/scripts/palace.rpy:80
+translate spanish palace_throne_menu_193b1f2c:
+
+    # Q "Follow me. It is almost time."
+    Q "Follow me. It is almost time."
+
+# game/scripts/palace.rpy:90
+translate spanish palace_throne_menu_5c42468d:
+
+    # Z "We were discussing about a certain person of interest last time."
+    Z "We were discussing about a certain person of interest last time."
+
+# game/scripts/palace.rpy:93
+translate spanish palace_throne_menu_1c3538d2:
+
+    # Q "Indeed, we were. I was hoping you'd ask."
+    Q "Indeed, we were. I was hoping you'd ask."
+
+# game/scripts/palace.rpy:94
+translate spanish palace_throne_menu_039b2da1:
+
+    # Q "If you don't mind, I'll have my guards escort you to the chambers."
+    Q "If you don't mind, I'll have my guards escort you to the chambers."
+
+# game/scripts/palace.rpy:102
+translate spanish palace_throne_menu_dd8cb38f:
+
+    # Z "I just came by to notify you that I won't be available today. I have a few other things that I need to do."
+    Z "I just came by to notify you that I won't be available today. I have a few other things that I need to do."
+
+# game/scripts/palace.rpy:103
+translate spanish palace_throne_menu_4fec0997:
+
+    # Z "I will see you another time."
+    Z "I will see you another time."
+
+# game/scripts/palace.rpy:106
+translate spanish palace_throne_menu_b5ae0399:
+
+    # Q "Well, that wasn't necessary. Anyways... Until next time, Stalker [persistent.player_name]."
+    Q "Well, that wasn't necessary. Anyways... Until next time, Stalker [persistent.player_name]."
+
+# game/scripts/palace.rpy:117
+translate spanish palace_bedroom_1_ad76a09c:
+
+    # "After completing the required task, you move unchallenged towards the private chambers."
+    "After completing the required task, you move unchallenged towards the private chambers."
+
+# game/scripts/palace.rpy:118
+translate spanish palace_bedroom_1_a0ae3b23:
+
+    # "You know that the point of all this ultimately isn't really the work itself..."
+    "You know that the point of all this ultimately isn't really the work itself..."
+
+# game/scripts/palace.rpy:121
+translate spanish palace_bedroom_1_f0e8f4ad:
+
+    # Q "{i}*humming*{/i}"
+    Q "{i}*humming*{/i}"
+
+# game/scripts/palace.rpy:124
+translate spanish palace_bedroom_1_bdc61a01:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:129
+translate spanish palace_bedroom_1_0ee72620:
+
+    # Q "[persistent.player_name], is that you?"
+    Q "[persistent.player_name], is that you?"
+
+# game/scripts/palace.rpy:132
+translate spanish palace_bedroom_1_be3482cd:
+
+    # "You step inside..."
+    "You step inside..."
+
+# game/scripts/palace.rpy:135
+translate spanish palace_bedroom_1_f56a209d:
+
+    # Q "I hope the job wasn't too tedious."
+    Q "I hope the job wasn't too tedious."
+
+# game/scripts/palace.rpy:138
+translate spanish palace_bedroom_1_8de687f8:
+
+    # Z "A dull excuse to be able to speak in private, but an excuse nonetheless."
+    Z "A dull excuse to be able to speak in private, but an excuse nonetheless."
+
+# game/scripts/palace.rpy:139
+translate spanish palace_bedroom_1_07ac6529:
+
+    # Z "I see you are trying out the skirt [S] was wearing."
+    Z "I see you are trying out the skirt [S] was wearing."
+
+# game/scripts/palace.rpy:142
+translate spanish palace_bedroom_1_4c576581:
+
+    # Q "It's... um..."
+    Q "It's... um..."
+
+# game/scripts/palace.rpy:143
+translate spanish palace_bedroom_1_eb66110c:
+
+    # Q "I've had that in my wardrobe well before she did."
+    Q "I've had that in my wardrobe well before she did."
+
+# game/scripts/palace.rpy:146
+translate spanish palace_bedroom_1_404d02aa:
+
+    # Z "It suits you just as well as it suits her. You will turn many heads."
+    Z "It suits you just as well as it suits her. You will turn many heads."
+
+# game/scripts/palace.rpy:149
+translate spanish palace_bedroom_1_bdc61a01_1:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:152
+translate spanish palace_bedroom_1_f0192a96:
+
+    # Q "I am the Queen, [persistent.player_name]... I always turn heads."
+    Q "I am the Queen, [persistent.player_name]... I always turn heads."
+
+# game/scripts/palace.rpy:155
+translate spanish palace_bedroom_1_f4c0ca56:
+
+    # "She is right, but you sense that your words have struck a chord..."
+    "She is right, but you sense that your words have struck a chord..."
+
+# game/scripts/palace.rpy:158
+translate spanish palace_bedroom_1_4fd8118e:
+
+    # Z "So, tell me... what's on your mind today. You wanted to speak about something."
+    Z "So, tell me... what's on your mind today. You wanted to speak about something."
+
+# game/scripts/palace.rpy:161
+translate spanish palace_bedroom_1_bb6be85b:
+
+    # Q "{i}*sigh*{/i} Not sure if I need to speak about anything, right now."
+    Q "{i}*sigh*{/i} Not sure if I need to speak about anything, right now."
+
+# game/scripts/palace.rpy:162
+translate spanish palace_bedroom_1_1ab58abf:
+
+    # Q "I am probably just wasting your time today."
+    Q "I am probably just wasting your time today."
+
+# game/scripts/palace.rpy:165
+translate spanish palace_bedroom_1_26125fdd:
+
+    # Q "It's one of those days. Elders playing politics and trying to one-up each other and treating me like I'm a stupid doll."
+    Q "It's one of those days. Elders playing politics and trying to one-up each other and treating me like I'm a stupid doll."
+
+# game/scripts/palace.rpy:166
+translate spanish palace_bedroom_1_55f4d40c:
+
+    # Q "...Then there's guards slacking in their duties and people coming to me for a ruling on the dumbest of things..."
+    Q "...Then there's guards slacking in their duties and people coming to me for a ruling on the dumbest of things..."
+
+# game/scripts/palace.rpy:169
+translate spanish palace_bedroom_1_bc66c47a:
+
+    # Q "On top of all that, there's nothing that spices up your day better than being almost attacked by some fanatic, mentally deranged citizens whose only point of existence is to worship their {i}dear Queen{/i}."
+    Q "On top of all that, there's nothing that spices up your day better than being almost attacked by some fanatic, mentally deranged citizens whose only point of existence is to worship their {i}dear Queen{/i}."
+
+# game/scripts/palace.rpy:170
+translate spanish palace_bedroom_1_1dbe03d9:
+
+    # Q "Why do they keep letting these people close to me in the first place?! What are guards for?!"
+    Q "Why do they keep letting these people close to me in the first place?! What are guards for?!"
+
+# game/scripts/palace.rpy:173
+translate spanish palace_bedroom_1_21a6cdff:
+
+    # Q "It's idiotic. So damn frustrating!"
+    Q "It's idiotic. So damn frustrating!"
+
+# game/scripts/palace.rpy:176
+translate spanish palace_bedroom_1_2f7f5e9f:
+
+    # "She pauses..."
+    "She pauses..."
+
+# game/scripts/palace.rpy:180
+translate spanish palace_bedroom_1_64d3e914:
+
+    # "...before continuing, with a voice like dripping venom..."
+    "...before continuing, with a voice like dripping venom..."
+
+# game/scripts/palace.rpy:183
+translate spanish palace_bedroom_1_b1c3512f:
+
+    # Q "And half the time these {i}oh so wise Elders{/i} don't even really want my input on things and don't expect me to actually take an interest. Why the hell ask me then in the first place?!!"
+    Q "And half the time these {i}oh so wise Elders{/i} don't even really want my input on things and don't expect me to actually take an interest. Why the hell ask me then in the first place?!!"
+
+# game/scripts/palace.rpy:184
+translate spanish palace_bedroom_1_0fb0b647:
+
+    # Q "I've been raised by these fools, and now I am supposed to keep them in line?!"
+    Q "I've been raised by these fools, and now I am supposed to keep them in line?!"
+
+# game/scripts/palace.rpy:187
+translate spanish palace_bedroom_1_020e1aa6:
+
+    # Q "They {i}RAISED{/i} me!! As if it was just a {i}job{/i} to take off the checklist for them, so what are they doing!?"
+    Q "They {i}RAISED{/i} me!! As if it was just a {i}job{/i} to take off the checklist for them, so what are they doing!?"
+
+# game/scripts/palace.rpy:190
+translate spanish palace_bedroom_1_bdc61a01_2:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:194
+translate spanish palace_bedroom_1_be9d070a:
+
+    # Q "Screw this..."
+    Q "Screw this..."
+
+# game/scripts/palace.rpy:200
+translate spanish palace_bedroom_1_bdc61a01_3:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:203
+translate spanish palace_bedroom_1_dbee2d21:
+
+    # Q "I'm sorry. I know it's hard to respond to that."
+    Q "I'm sorry. I know it's hard to respond to that."
+
+# game/scripts/palace.rpy:206
+translate spanish palace_bedroom_1_7accb78b:
+
+    # Z "I'm listening. That's why I'm here today."
+    Z "I'm listening. That's why I'm here today."
+
+# game/scripts/palace.rpy:209
+translate spanish palace_bedroom_1_bdc61a01_4:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:213
+translate spanish palace_bedroom_1_fc6958c0:
+
+    # Q "I didn't expect... that it would feel good to let it out."
+    Q "I didn't expect... that it would feel good to let it out."
+
+# game/scripts/palace.rpy:218
+translate spanish palace_bedroom_1_8c8ec2b4:
+
+    # Z "I'm glad you feel better."
+    Z "I'm glad you feel better."
+
+# game/scripts/palace.rpy:219
+translate spanish palace_bedroom_1_ae66c791:
+
+    # Z "I will be here more often from now on. You should make use of that."
+    Z "I will be here more often from now on. You should make use of that."
+
+# game/scripts/palace.rpy:222
+translate spanish palace_bedroom_1_cfe8bec6:
+
+    # "There is a faint smile behind her expression..."
+    "There is a faint smile behind her expression..."
+
+# game/scripts/palace.rpy:225
+translate spanish palace_bedroom_1_6ea2d249:
+
+    # Q "I guess..."
+    Q "I guess..."
+
+# game/scripts/palace.rpy:228
+translate spanish palace_bedroom_1_fad29142:
+
+    # Z "It seems you needed to get this off your chest."
+    Z "It seems you needed to get this off your chest."
+
+# game/scripts/palace.rpy:229
+translate spanish palace_bedroom_1_2bd5965b:
+
+    # Z "It doesn't hurt to vent sometimes."
+    Z "It doesn't hurt to vent sometimes."
+
+# game/scripts/palace.rpy:232
+translate spanish palace_bedroom_1_b5ee5e18:
+
+    # Q "If only that was possible."
+    Q "If only that was possible."
+
+# game/scripts/palace.rpy:233
+translate spanish palace_bedroom_1_a5de566e:
+
+    # Q "You're the first person I could speak to openly... without worrying for my reputation..."
+    Q "You're the first person I could speak to openly... without worrying for my reputation..."
+
+# game/scripts/palace.rpy:237
+translate spanish palace_bedroom_1_e45d10c3:
+
+    # Q "Anyways... thank you... for listening, [persistent.player_name]."
+    Q "Anyways... thank you... for listening, [persistent.player_name]."
+
+# game/scripts/palace.rpy:238
+translate spanish palace_bedroom_1_d5ec6ea4:
+
+    # Q "I assume your family misses you. If you don't mind, I would like to take a bath by myself, and contemplate things..."
+    Q "I assume your family misses you. If you don't mind, I would like to take a bath by myself, and contemplate things..."
+
+# game/scripts/palace.rpy:241
+translate spanish palace_bedroom_1_048a1b85:
+
+    # Z "Yes, I will see you another time. Try to get some rest for now."
+    Z "Yes, I will see you another time. Try to get some rest for now."
+
+# game/scripts/palace.rpy:251
+translate spanish palace_bedroom_2_77dd2415:
+
+    # "After quickly completing the task, you head towards the bedroom."
+    "After quickly completing the task, you head towards the bedroom."
+
+# game/scripts/palace.rpy:254
+translate spanish palace_bedroom_2_b1c4e41e:
+
+    # Q "Hello, [persistent.player_name]..."
+    Q "Hello, [persistent.player_name]..."
+
+# game/scripts/palace.rpy:257
+translate spanish palace_bedroom_2_85290699:
+
+    # "She looks to one side, frustrated... or maybe, sad?"
+    "She looks to one side, frustrated... or maybe, sad?"
+
+# game/scripts/palace.rpy:260
+translate spanish palace_bedroom_2_d9286bd9:
+
+    # Z "I know that look. What's wrong?"
+    Z "I know that look. What's wrong?"
+
+# game/scripts/palace.rpy:264
+translate spanish palace_bedroom_2_5ac7c0d1:
+
+    # Z "What kind of greeting is that supposed to be?"
+    Z "What kind of greeting is that supposed to be?"
+
+# game/scripts/palace.rpy:265
+translate spanish palace_bedroom_2_2857317e:
+
+    # Z "I think you can do better than that."
+    Z "I think you can do better than that."
+
+# game/scripts/palace.rpy:268
+translate spanish palace_bedroom_2_bdc61a01:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:271
+translate spanish palace_bedroom_2_de157343:
+
+    # Q "I'm sorry, it's just..."
+    Q "I'm sorry, it's just..."
+
+# game/scripts/palace.rpy:274
+translate spanish palace_bedroom_2_2fdb17d6:
+
+    # Z "Go on, tell me what's wrong. That is why you wanted me here, isn't it?"
+    Z "Go on, tell me what's wrong. That is why you wanted me here, isn't it?"
+
+# game/scripts/palace.rpy:278
+translate spanish palace_bedroom_2_bdc61a01_1:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:279
+translate spanish palace_bedroom_2_e054c8d7:
+
+    # "You stand there for a short moment, waiting for her reply..."
+    "You stand there for a short moment, waiting for her reply..."
+
+# game/scripts/palace.rpy:282
+translate spanish palace_bedroom_2_28b90c10:
+
+    # Q "{i}*sigh*{/i}"
+    Q "{i}*sigh*{/i}"
+
+# game/scripts/palace.rpy:283
+translate spanish palace_bedroom_2_967a60f4:
+
+    # Q "It's nothing, I shouldn't bother you with it. I have to deal with it and move on."
+    Q "It's nothing, I shouldn't bother you with it. I have to deal with it and move on."
+
+# game/scripts/palace.rpy:286
+translate spanish palace_bedroom_2_5ab3574d:
+
+    # Z "..."
+    Z "..."
+
+# game/scripts/palace.rpy:287
+translate spanish palace_bedroom_2_ee087e94:
+
+    # Z "Fine, scooch over please."
+    Z "Fine, scooch over please."
+
+# game/scripts/palace.rpy:290
+translate spanish palace_bedroom_2_568f8868:
+
+    # Q "What do you mean?"
+    Q "What do you mean?"
+
+# game/scripts/palace.rpy:293
+translate spanish palace_bedroom_2_9f0b3135:
+
+    # Z "Take a few steps back, and sit your pretty booty on the chair."
+    Z "Take a few steps back, and sit your pretty booty on the chair."
+
+# game/scripts/palace.rpy:296
+translate spanish palace_bedroom_2_0cca8624:
+
+    # "Moments later..."
+    "Moments later..."
+
+# game/scripts/palace.rpy:299
+translate spanish palace_bedroom_2_8916358c:
+
+    # Z "Go on, take a seat."
+    Z "Go on, take a seat."
+
+# game/scripts/palace.rpy:300
+translate spanish palace_bedroom_2_3aa81aa6:
+
+    # Z "I will sit on the bed and we can talk a bit."
+    Z "I will sit on the bed and we can talk a bit."
+
+# game/scripts/palace.rpy:303
+translate spanish palace_bedroom_2_bdc61a01_2:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:306
+translate spanish palace_bedroom_2_5aabd8dd:
+
+    # Z "Now, I've got all the time in the world."
+    Z "Now, I've got all the time in the world."
+
+# game/scripts/palace.rpy:307
+translate spanish palace_bedroom_2_b7fb8b20:
+
+    # Z "Last time you were blowing up over...well, life."
+    Z "Last time you were blowing up over...well, life."
+
+# game/scripts/palace.rpy:310
+translate spanish palace_bedroom_2_22d6e7f0:
+
+    # Z "What is it this time?"
+    Z "What is it this time?"
+
+# game/scripts/palace.rpy:311
+translate spanish palace_bedroom_2_af3110a5:
+
+    # Z "What has brought your mood down today? Stress again?"
+    Z "What has brought your mood down today? Stress again?"
+
+# game/scripts/palace.rpy:314
+translate spanish palace_bedroom_2_80072c0f:
+
+    # Q "Eh, I have been under pressure ever since I became the heir to the previous Queen. I guess I boiled over, the last time you were here."
+    Q "Eh, I have been under pressure ever since I became the heir to the previous Queen. I guess I boiled over, the last time you were here."
+
+# game/scripts/palace.rpy:315
+translate spanish palace_bedroom_2_ae7effec:
+
+    # Q "This time it's different."
+    Q "This time it's different."
+
+# game/scripts/palace.rpy:316
+translate spanish palace_bedroom_2_2dbcc6ea:
+
+    # Q "{i}*sigh*{/i} It's about Sharifa."
+    Q "{i}*sigh*{/i} It's about Sharifa."
+
+# game/scripts/palace.rpy:317
+translate spanish palace_bedroom_2_c561e53a:
+
+    # Z "The one you want to feed me my balls?"
+    Z "The one you want to feed me my balls?"
+
+# game/scripts/palace.rpy:320
+translate spanish palace_bedroom_2_cdb3391c:
+
+    # "With a wry smile, the Queen continues."
+    "With a wry smile, the Queen continues."
+
+# game/scripts/palace.rpy:321
+translate spanish palace_bedroom_2_7ebd98b3:
+
+    # Q "One of my closest advisors has informed me that Sharifa has done a lot of bad things to climb the ranks into her current position. Blackmail was mentioned, and worse."
+    Q "One of my closest advisors has informed me that Sharifa has done a lot of bad things to climb the ranks into her current position. Blackmail was mentioned, and worse."
+
+# game/scripts/palace.rpy:324
+translate spanish palace_bedroom_2_20d7fb12:
+
+    # Q "Do you remember that guard that I killed?"
+    Q "Do you remember that guard that I killed?"
+
+# game/scripts/palace.rpy:325
+translate spanish palace_bedroom_2_6c3713c9:
+
+    # Q "He was one of my closest advisors on the field, he was on the shortlist for the position of captain of my personal guard, a position that eventually went to Sharifa."
+    Q "He was one of my closest advisors on the field, he was on the shortlist for the position of captain of my personal guard, a position that eventually went to Sharifa."
+
+# game/scripts/palace.rpy:326
+translate spanish palace_bedroom_2_62df6c42:
+
+    # Q "After some interrogations, I found out that [Mi] never in fact preyed on the slave that accused him. He was put in a position that made it look like he did."
+    Q "After some interrogations, I found out that [Mi] never in fact preyed on the slave that accused him. He was put in a position that made it look like he did."
+
+# game/scripts/palace.rpy:329
+translate spanish palace_bedroom_2_45a8deb7:
+
+    # Q "And I executed him... for his mistake and his supposed betrayal of my trust."
+    Q "And I executed him... for his mistake and his supposed betrayal of my trust."
+
+# game/scripts/palace.rpy:330
+translate spanish palace_bedroom_2_41a1cf03:
+
+    # Q "There were other rumors circulating about him, so I had to do what I had to do, I thought."
+    Q "There were other rumors circulating about him, so I had to do what I had to do, I thought."
+
+# game/scripts/palace.rpy:333
+translate spanish palace_bedroom_2_74277422:
+
+    # Q "Well, it turns out I was just playing her game all along."
+    Q "Well, it turns out I was just playing her game all along."
+
+# game/scripts/palace.rpy:334
+translate spanish palace_bedroom_2_bd927441:
+
+    # Q "She confessed to spreading those rumors to have a better shot at becoming my personal guard herself."
+    Q "She confessed to spreading those rumors to have a better shot at becoming my personal guard herself."
+
+# game/scripts/palace.rpy:335
+translate spanish palace_bedroom_2_05179602:
+
+    # Q "She told me she wasn't responsible for the situation that forced my hand, but only for the rumors... And I don't know if I can trust her."
+    Q "She told me she wasn't responsible for the situation that forced my hand, but only for the rumors... And I don't know if I can trust her."
+
+# game/scripts/palace.rpy:336
+translate spanish palace_bedroom_2_efd33d23:
+
+    # Q "She lied to me and maneuvered to get close to me."
+    Q "She lied to me and maneuvered to get close to me."
+
+# game/scripts/palace.rpy:341
+translate spanish palace_bedroom_2_8a28b53f:
+
+    # Z "I suppose it's hard to find people you can trust in your position."
+    Z "I suppose it's hard to find people you can trust in your position."
+
+# game/scripts/palace.rpy:342
+translate spanish palace_bedroom_2_4a4859b1:
+
+    # Z "Everybody that interacts with you has something to gain from your favour, even if it is just your favour."
+    Z "Everybody that interacts with you has something to gain from your favour, even if it is just your favour."
+
+# game/scripts/palace.rpy:343
+translate spanish palace_bedroom_2_145384d2:
+
+    # Z "That alone, played in the right way, can be a mighty boon for anybody."
+    Z "That alone, played in the right way, can be a mighty boon for anybody."
+
+# game/scripts/palace.rpy:346
+translate spanish palace_bedroom_2_989b261a:
+
+    # Q "Yes, I learned that a long time ago."
+    Q "Yes, I learned that a long time ago."
+
+# game/scripts/palace.rpy:350
+translate spanish palace_bedroom_2_a82059e2:
+
+    # Z "Maybe her admiration for you is real, but her methods...."
+    Z "Maybe her admiration for you is real, but her methods...."
+
+# game/scripts/palace.rpy:351
+translate spanish palace_bedroom_2_fb9d8be8:
+
+    # Z "She strikes me as someone who cares for you. More so than just out of sense of duty or religious devotion."
+    Z "She strikes me as someone who cares for you. More so than just out of sense of duty or religious devotion."
+
+# game/scripts/palace.rpy:354
+translate spanish palace_bedroom_2_ffc22130:
+
+    # Q "I know..."
+    Q "I know..."
+
+# game/scripts/palace.rpy:357
+translate spanish palace_bedroom_2_84e2edaa:
+
+    # Q "But I must be able to trust the person who is directly in charge of keeping me alive."
+    Q "But I must be able to trust the person who is directly in charge of keeping me alive."
+
+# game/scripts/palace.rpy:361
+translate spanish palace_bedroom_2_3f0020f5:
+
+    # Z "I can't say I like the cranky bitch, but she has a solid reputation as a fighter, and her dislike of me, well.. it comes with the territory."
+    Z "I can't say I like the cranky bitch, but she has a solid reputation as a fighter, and her dislike of me, well.. it comes with the territory."
+
+# game/scripts/palace.rpy:364
+translate spanish palace_bedroom_2_136803c9:
+
+    # Q "I understand that, but she can be overprotective to the point of forgetting her place."
+    Q "I understand that, but she can be overprotective to the point of forgetting her place."
+
+# game/scripts/palace.rpy:365
+translate spanish palace_bedroom_2_a826caf0:
+
+    # Q "I am not supposed to tolerate that sort of things."
+    Q "I am not supposed to tolerate that sort of things."
+
+# game/scripts/palace.rpy:369
+translate spanish palace_bedroom_2_43fc5446:
+
+    # Z "Even so, he didn't deserve to die."
+    Z "Even so, he didn't deserve to die."
+
+# game/scripts/palace.rpy:372
+translate spanish palace_bedroom_2_800c0243:
+
+    # Q "He did not. But the way things went, do you think I could have handled it differently?"
+    Q "He did not. But the way things went, do you think I could have handled it differently?"
+
+# game/scripts/palace.rpy:373
+translate spanish palace_bedroom_2_5d1d504a:
+
+    # Q "The Elders raised me to be ruthless when needed! It is what am I supposed to do."
+    Q "The Elders raised me to be ruthless when needed! It is what am I supposed to do."
+
+# game/scripts/palace.rpy:376
+translate spanish palace_bedroom_2_3337ab92:
+
+    # Q "I can show no doubt, or fear. Never."
+    Q "I can show no doubt, or fear. Never."
+
+# game/scripts/palace.rpy:379
+translate spanish palace_bedroom_2_15b41086:
+
+    # "You are reminded of the description [S] gave you of how the young Queen executed a prisoner in front of her."
+    "You are reminded of the description [S] gave you of how the young Queen executed a prisoner in front of her."
+
+# game/scripts/palace.rpy:380
+translate spanish palace_bedroom_2_7ad49782:
+
+    # "The glee and sadism she showed make you wonder if she's being honest with herself, today."
+    "The glee and sadism she showed make you wonder if she's being honest with herself, today."
+
+# game/scripts/palace.rpy:386
+translate spanish pb28x4_687818b8:
+
+    # Q "It doesn't matter anyway. I've been expected to lead my whole life."
+    Q "It doesn't matter anyway. I've been expected to lead my whole life."
+
+# game/scripts/palace.rpy:387
+translate spanish pb28x4_c67dd76f:
+
+    # Q "I have known Sharifa for a long time, and yet I couldn't tell she was deceiving me."
+    Q "I have known Sharifa for a long time, and yet I couldn't tell she was deceiving me."
+
+# game/scripts/palace.rpy:390
+translate spanish pb28x4_05248ce2:
+
+    # Q "What does that say about me? Is it even my position at this point? Or am I just too weak?"
+    Q "What does that say about me? Is it even my position at this point? Or am I just too weak?"
+
+# game/scripts/palace.rpy:391
+translate spanish pb28x4_ef6c80b8:
+
+    # Q "Is there anybody who doesn't want something from me?"
+    Q "Is there anybody who doesn't want something from me?"
+
+# game/scripts/palace.rpy:394
+translate spanish pb28x4_bdc61a01:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:395
+translate spanish pb28x4_a1dbed2e:
+
+    # "She stares into the void for a few seconds, before gathering herself..."
+    "She stares into the void for a few seconds, before gathering herself..."
+
+# game/scripts/palace.rpy:398
+translate spanish pb28x4_76360a30:
+
+    # "She gets up..."
+    "She gets up..."
+
+# game/scripts/palace.rpy:401
+translate spanish pb28x4_4f3668ed:
+
+    # Q "I need a moment."
+    Q "I need a moment."
+
+# game/scripts/palace.rpy:402
+translate spanish pb28x4_40971e19:
+
+    # "She turns away from you. You stare at her back. As her shoulders go up and down, she tries to hide her quiet sobs."
+    "She turns away from you. You stare at her back. As her shoulders go up and down, she tries to hide her quiet sobs."
+
+# game/scripts/palace.rpy:403
+translate spanish pb28x4_72c72d01:
+
+    # Q "You should..."
+    Q "You should..."
+
+# game/scripts/palace.rpy:404
+translate spanish pb28x4_90c3081a:
+
+    # Q "...you should leave. I don't know what is... what is going on."
+    Q "...you should leave. I don't know what is... what is going on."
+
+# game/scripts/palace.rpy:407
+translate spanish pb28x4_86442bfe:
+
+    # Q "Mh... {i}*whimpering*{/i}"
+    Q "Mh... {i}*whimpering*{/i}"
+
+# game/scripts/palace.rpy:410
+translate spanish pb28x4_784e7389:
+
+    # "You get up..."
+    "You get up..."
+
+# game/scripts/palace.rpy:413
+translate spanish pb28x4_e752e27d:
+
+    # Q "This is pathetic. I'm..."
+    Q "This is pathetic. I'm..."
+
+# game/scripts/palace.rpy:414
+translate spanish pb28x4_b6b5dfd3:
+
+    # Q "...I'm not acting like myself."
+    Q "...I'm not acting like myself."
+
+# game/scripts/palace.rpy:417
+translate spanish pb28x4_17d0ddbd:
+
+    # Q "Just... please keep it to yourself, okay?"
+    Q "Just... please keep it to yourself, okay?"
+
+# game/scripts/palace.rpy:418
+translate spanish pb28x4_c6c9cbc1:
+
+    # Q "I don't want... people cannot be talking about this."
+    Q "I don't want... people cannot be talking about this."
+
+# game/scripts/palace.rpy:419
+translate spanish pb28x4_265d386a:
+
+    # Q "The Elders mustn't learn about this weakness..."
+    Q "The Elders mustn't learn about this weakness..."
+
+# game/scripts/palace.rpy:422
+translate spanish pb28x4_f185a736:
+
+    # Z "I won't tell anyone."
+    Z "I won't tell anyone."
+
+# game/scripts/palace.rpy:425
+translate spanish pb28x4_b250b48b:
+
+    # Q "You should... come back another time."
+    Q "You should... come back another time."
+
+# game/scripts/palace.rpy:426
+translate spanish pb28x4_e524d2cb:
+
+    # Q "I will sort this out...-"
+    Q "I will sort this out...-"
+
+# game/scripts/palace.rpy:432
+translate spanish pb28x4_7b6077fd:
+
+    # Q "...?!"
+    Q "...?!"
+
+# game/scripts/palace.rpy:435
+translate spanish pb28x4_6534a13e:
+
+    # Q "[persistent.player_name]?!"
+    Q "[persistent.player_name]?!"
+
+# game/scripts/palace.rpy:438
+translate spanish pb28x4_8b337485:
+
+    # "She looks at you with tears in her eyes. Her expression sad and exhausted."
+    "She looks at you with tears in her eyes. Her expression sad and exhausted."
+
+# game/scripts/palace.rpy:439
+translate spanish pb28x4_1fd4a4c3:
+
+    # Z "Nobody can act strong forever. Sooner or later, we all need someone to pick us up."
+    Z "Nobody can act strong forever. Sooner or later, we all need someone to pick us up."
+
+# game/scripts/palace.rpy:442
+translate spanish pb28x4_19beba94:
+
+    # Q "Not me. I'm not supposed to have anyone. I never had a father, or mother."
+    Q "Not me. I'm not supposed to have anyone. I never had a father, or mother."
+
+# game/scripts/palace.rpy:443
+translate spanish pb28x4_693e95d8:
+
+    # Q "I'm Queen. There is nothing else for me."
+    Q "I'm Queen. There is nothing else for me."
+
+# game/scripts/palace.rpy:446
+translate spanish pb28x4_3dc0b2d5:
+
+    # "Her words get stuck in her throat, and she tries to calm herself..."
+    "Her words get stuck in her throat, and she tries to calm herself..."
+
+# game/scripts/palace.rpy:447
+translate spanish pb28x4_3ce6314e:
+
+    # Z "Do you truly think that the Queens before you didn't have friends, relationships, a shoulder to lean on?"
+    Z "Do you truly think that the Queens before you didn't have friends, relationships, a shoulder to lean on?"
+
+# game/scripts/palace.rpy:448
+translate spanish pb28x4_d05e90f2:
+
+    # Z "I know what I can do."
+    Z "I know what I can do."
+
+# game/scripts/palace.rpy:454
+translate spanish pb28x4_0f1944c8:
+
+    # Q "...!"
+    Q "...!"
+
+# game/scripts/palace.rpy:455
+translate spanish pb28x4_27e8f7c5:
+
+    # "You grab her and pull her in, wrapping your arms around her in a strong hug."
+    "You grab her and pull her in, wrapping your arms around her in a strong hug."
+
+# game/scripts/palace.rpy:458
+translate spanish pb28x4_bdc61a01_1:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:462
+translate spanish pb28x4_a0f7a548:
+
+    # "Moments of stunned silence pass, ticking by slowly. Wide-eyed, the Queen forgets the rules for a second, standing frozen."
+    "Moments of stunned silence pass, ticking by slowly. Wide-eyed, the Queen forgets the rules for a second, standing frozen."
+
+# game/scripts/palace.rpy:471
+translate spanish pb28x4_bdc61a01_2:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:477
+translate spanish pb28x4_02547240:
+
+    # Q "{i}*sobbing*"
+    Q "{i}*sobbing*"
+
+# game/scripts/palace.rpy:480
+translate spanish pb28x4_67bdd959:
+
+    # "You hold her in a comforting embrace, as she vents her frustration."
+    "You hold her in a comforting embrace, as she vents her frustration."
+
+# game/scripts/palace.rpy:481
+translate spanish pb28x4_513b9aca:
+
+    # Q "I'm..."
+    Q "I'm..."
+
+# game/scripts/palace.rpy:482
+translate spanish pb28x4_d05d315c:
+
+    # Q "...I'm sorry."
+    Q "...I'm sorry."
+
+# game/scripts/palace.rpy:483
+translate spanish pb28x4_fc8807a9:
+
+    # Q "I am so tired, [persistent.player_name]..."
+    Q "I am so tired, [persistent.player_name]..."
+
+# game/scripts/palace.rpy:485
+translate spanish pb28x4_c1480bf1:
+
+    # "Her words come out haltingly, half sobbing. Now that the barriers are down, you get a rare glimpse at the young woman behind the facade."
+    "Her words come out haltingly, half sobbing. Now that the barriers are down, you get a rare glimpse at the young woman behind the facade."
+
+# game/scripts/palace.rpy:486
+translate spanish pb28x4_5ae11be2:
+
+    # "There is no authority or poise in her voice now, no commanding demands. Just a young woman in need for someone to hold her and show her with action that they are there for her."
+    "There is no authority or poise in her voice now, no commanding demands. Just a young woman in need for someone to hold her and show her with action that they are there for her."
+
+# game/scripts/palace.rpy:487
+translate spanish pb28x4_44324285:
+
+    # "Seconds pass, as you stand there, together, an aging veteran and a young woman in need of a genuine human connection."
+    "Seconds pass, as you stand there, together, an aging veteran and a young woman in need of a genuine human connection."
+
+# game/scripts/palace.rpy:490
+translate spanish pb28x4_bdc61a01_3:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:491
+translate spanish pb28x4_f819f92b:
+
+    # "She hugs you tighter..."
+    "She hugs you tighter..."
+
+# game/scripts/palace.rpy:492
+translate spanish pb28x4_10aa0d15:
+
+    # "You have known the Queen since she ascended to the throne, a few years back, and you have never really felt sympathy for her like you are doing now."
+    "You have known the Queen since she ascended to the throne, a few years back, and you have never really felt sympathy for her like you are doing now."
+
+# game/scripts/palace.rpy:493
+translate spanish pb28x4_bda7b8e1:
+
+    # "Right now, you are putting yourself in her situation, one of solitude, constant training in preparation for an impossible role, hounded into it by the Elders and the Temple."
+    "Right now, you are putting yourself in her situation, one of solitude, constant training in preparation for an impossible role, hounded into it by the Elders and the Temple."
+
+# game/scripts/palace.rpy:494
+translate spanish pb28x4_945bcfa2:
+
+    # "As you consider her position, you realise that you would not want such a fate bestowed upon one of your [persistent.da]s."
+    "As you consider her position, you realise that you would not want such a fate bestowed upon one of your [persistent.da]s."
+
+# game/scripts/palace.rpy:495
+translate spanish pb28x4_0836ed27:
+
+    # "Then you think about [S] and about how similar your treatment of her in the past years has been, and you are taken by a different flavour of sadness."
+    "Then you think about [S] and about how similar your treatment of her in the past years has been, and you are taken by a different flavour of sadness."
+
+# game/scripts/palace.rpy:496
+translate spanish pb28x4_5fb794f1:
+
+    # Z "Don't be sorry. I am here for you. As for the Queen of Zeta, there's very little that I need from her."
+    Z "Don't be sorry. I am here for you. As for the Queen of Zeta, there's very little that I need from her."
+
+# game/scripts/palace.rpy:497
+translate spanish pb28x4_5feb7ae4:
+
+    # Q "{i}*muffled*{/i} Okay..."
+    Q "{i}*muffled*{/i} Okay..."
+
+# game/scripts/palace.rpy:500
+translate spanish pb28x4_a3e65c44:
+
+    # Q "I... I think this is enough."
+    Q "I... I think this is enough."
+
+# game/scripts/palace.rpy:503
+translate spanish pb28x4_96d82d45:
+
+    # Z "Are you feeling better?"
+    Z "Are you feeling better?"
+
+# game/scripts/palace.rpy:506
+translate spanish pb28x4_994b8fd2:
+
+    # Q "I am..."
+    Q "I am..."
+
+# game/scripts/palace.rpy:507
+translate spanish pb28x4_968a4d75:
+
+    # Q "But..."
+    Q "But..."
+
+# game/scripts/palace.rpy:510
+translate spanish pb28x4_fb0875c3:
+
+    # Z "...but nobody must see us here like this, right?"
+    Z "...but nobody must see us here like this, right?"
+
+# game/scripts/palace.rpy:511
+translate spanish pb28x4_bdc61a01_4:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:512
+translate spanish pb28x4_4e8dd740:
+
+    # "Even in her private chambers, she must worry about appearing frail and clueless, should a random guard or servant enter the room."
+    "Even in her private chambers, she must worry about appearing frail and clueless, should a random guard or servant enter the room."
+
+# game/scripts/palace.rpy:513
+translate spanish pb28x4_5278f881:
+
+    # "You understand it, and don't take it personally."
+    "You understand it, and don't take it personally."
+
+# game/scripts/palace.rpy:514
+translate spanish pb28x4_6f842496:
+
+    # "You also understand that the liberties you took towards her are potentially a death sentence, should they be witnessed."
+    "You also understand that the liberties you took towards her are potentially a death sentence, should they be witnessed."
+
+# game/scripts/palace.rpy:515
+translate spanish pb28x4_81b1905f:
+
+    # "Something, you sense, has changed today, in your relationship with the Queen."
+    "Something, you sense, has changed today, in your relationship with the Queen."
+
+# game/scripts/palace.rpy:516
+translate spanish pb28x4_c789df22:
+
+    # Z "I understand. Take some rest, young Queen. I will see you another time."
+    Z "I understand. Take some rest, young Queen. I will see you another time."
+
+# game/scripts/palace.rpy:517
+translate spanish pb28x4_0632bed7:
+
+    # Z "I will visit again soon."
+    Z "I will visit again soon."
+
+# game/scripts/palace.rpy:520
+translate spanish pb28x4_3b078dbf:
+
+    # Q "But... [persistent.player_name]..."
+    Q "But... [persistent.player_name]..."
+
+# game/scripts/palace.rpy:521
+translate spanish pb28x4_1fa6827d:
+
+    # Q "Thank you for... this."
+    Q "Thank you for... this."
+
+# game/scripts/palace.rpy:530
+translate spanish pb28x4_8f5e7d79:
+
+    # Z "It's alright, don't worry."
+    Z "It's alright, don't worry."
+
+# game/scripts/palace.rpy:532
+translate spanish pb28x4_1e573402:
+
+    # Q "I..."
+    Q "I..."
+
+# game/scripts/palace.rpy:533
+translate spanish pb28x4_b97ab2e5:
+
+    # Q "...I'm sorry. I'm tired lately."
+    Q "...I'm sorry. I'm tired lately."
+
+# game/scripts/palace.rpy:536
+translate spanish pb28x4_3ed22b1e:
+
+    # Z "Don't apologize, there's a lot of pressure on you. It's best I indeed leave for today."
+    Z "Don't apologize, there's a lot of pressure on you. It's best I indeed leave for today."
+
+# game/scripts/palace.rpy:539
+translate spanish pb28x4_5feb7ae4_1:
+
+    # Q "{i}*muffled*{/i} Okay..."
+    Q "{i}*muffled*{/i} Okay..."
+
+# game/scripts/palace.rpy:542
+translate spanish pb28x4_de8f2c02:
+
+    # Z "And, hey..."
+    Z "And, hey..."
+
+# game/scripts/palace.rpy:545
+translate spanish pb28x4_d65846b4:
+
+    # Z "Didn't think you even had this side of you, miss stern-faced Queen."
+    Z "Didn't think you even had this side of you, miss stern-faced Queen."
+
+# game/scripts/palace.rpy:546
+translate spanish pb28x4_c1a4bc51:
+
+    # "You give her a slight smile..."
+    "You give her a slight smile..."
+
+# game/scripts/palace.rpy:549
+translate spanish pb28x4_ed3d01a8:
+
+    # Q "Heh, I guess..."
+    Q "Heh, I guess..."
+
+# game/scripts/palace.rpy:550
+translate spanish pb28x4_5451716e:
+
+    # Q "It does feel better."
+    Q "It does feel better."
+
+# game/scripts/palace.rpy:553
+translate spanish pb28x4_b43b2a3e:
+
+    # Z "I will visit you again soon. In the meantime, you should get some rest."
+    Z "I will visit you again soon. In the meantime, you should get some rest."
+
+# game/scripts/palace.rpy:564
+translate spanish palace_bedroom_3_bdc61a01:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:567
+translate spanish palace_bedroom_3_b0b3d1f7:
+
+    # Q "Hm..."
+    Q "Hm..."
+
+# game/scripts/palace.rpy:570
+translate spanish palace_bedroom_3_50b85eee:
+
+    # Qw "Is this too much...?"
+    Qw "Is this too much...?"
+
+# game/scripts/palace.rpy:577
+translate spanish palace_bedroom_3_bdc61a01_1:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:580
+translate spanish palace_bedroom_3_be3482cd:
+
+    # "You step inside..."
+    "You step inside..."
+
+# game/scripts/palace.rpy:583
+translate spanish palace_bedroom_3_da68150b:
+
+    # Q "Hello, [persistent.player_name]."
+    Q "Hello, [persistent.player_name]."
+
+# game/scripts/palace.rpy:584
+translate spanish palace_bedroom_3_70001ff4:
+
+    # Q "While we talk, I am figuring out a dress for an upcoming event, if you don't mind."
+    Q "While we talk, I am figuring out a dress for an upcoming event, if you don't mind."
+
+# game/scripts/palace.rpy:587
+translate spanish palace_bedroom_3_aa7e9e96:
+
+    # Z "Sure... what event are we talking about?"
+    Z "Sure... what event are we talking about?"
+
+# game/scripts/palace.rpy:590
+translate spanish palace_bedroom_3_3c8092c8:
+
+    # Q "The temple is holding an annual celebration of its highest ranking priestesses."
+    Q "The temple is holding an annual celebration of its highest ranking priestesses."
+
+# game/scripts/palace.rpy:591
+translate spanish palace_bedroom_3_cffeb088:
+
+    # Q "Those who have served the most children to the city will get acclaimed by me, the Queen."
+    Q "Those who have served the most children to the city will get acclaimed by me, the Queen."
+
+# game/scripts/palace.rpy:594
+translate spanish palace_bedroom_3_4d568605:
+
+    # Q "Anyways, I have thought of what to do with [Sh]."
+    Q "Anyways, I have thought of what to do with [Sh]."
+
+# game/scripts/palace.rpy:595
+translate spanish palace_bedroom_3_59b9a790:
+
+    # Q "Interested in hearing it?"
+    Q "Interested in hearing it?"
+
+# game/scripts/palace.rpy:598
+translate spanish palace_bedroom_3_61a4580f:
+
+    # Z "I'm all ears."
+    Z "I'm all ears."
+
+# game/scripts/palace.rpy:601
+translate spanish palace_bedroom_3_f348453f:
+
+    # "She turns around..."
+    "She turns around..."
+
+# game/scripts/palace.rpy:604
+translate spanish palace_bedroom_3_d9fa95bf:
+
+    # Q "The last time we talked about her, I..."
+    Q "The last time we talked about her, I..."
+
+# game/scripts/palace.rpy:605
+translate spanish palace_bedroom_3_1d03efce:
+
+    # Q "...was in too much of a bad space to see things more clearly."
+    Q "...was in too much of a bad space to see things more clearly."
+
+# game/scripts/palace.rpy:606
+translate spanish palace_bedroom_3_394d457d:
+
+    # Q "And yet, even in the moment of insecurity I knew what had to be done in case of treason."
+    Q "And yet, even in the moment of insecurity I knew what had to be done in case of treason."
+
+# game/scripts/palace.rpy:609
+translate spanish palace_bedroom_3_e07e08ef:
+
+    # Q "People, servants, gossip... and so the only course of action is that Sharifa needs to be punished, to be made an example of..."
+    Q "People, servants, gossip... and so the only course of action is that Sharifa needs to be punished, to be made an example of..."
+
+# game/scripts/palace.rpy:610
+translate spanish palace_bedroom_3_76575c3c:
+
+    # Q "And she has to suffer ten times the pain she has caused."
+    Q "And she has to suffer ten times the pain she has caused."
+
+# game/scripts/palace.rpy:613
+translate spanish palace_bedroom_3_c9948d4d:
+
+    # Q "I do understand that she did not do these things with the intention of betraying me though, so I will lend her an ear."
+    Q "I do understand that she did not do these things with the intention of betraying me though, so I will lend her an ear."
+
+# game/scripts/palace.rpy:614
+translate spanish palace_bedroom_3_221a68c2:
+
+    # Q "In the dungeon. And I would like you to be with me. Next to me. So that she truly understands her folly."
+    Q "In the dungeon. And I would like you to be with me. Next to me. So that she truly understands her folly."
+
+# game/scripts/palace.rpy:617
+translate spanish palace_bedroom_3_376d01b4:
+
+    # Z "I can imagine she will feel defeated."
+    Z "I can imagine she will feel defeated."
+
+# game/scripts/palace.rpy:620
+translate spanish palace_bedroom_3_8388701a:
+
+    # Q "Indeed, she will... hm..."
+    Q "Indeed, she will... hm..."
+
+# game/scripts/palace.rpy:623
+translate spanish palace_bedroom_3_03d33201:
+
+    # "She takes a small pause..."
+    "She takes a small pause..."
+
+# game/scripts/palace.rpy:626
+translate spanish palace_bedroom_3_1a2ba2ec:
+
+    # Q "And she should feel defeated. After all, she tried to get in my good graces at the cost of loyal servants, loyal people."
+    Q "And she should feel defeated. After all, she tried to get in my good graces at the cost of loyal servants, loyal people."
+
+# game/scripts/palace.rpy:631
+translate spanish palace_bedroom_3_12698cc9:
+
+    # Q "Anyways, enough about this. It is for another time and place."
+    Q "Anyways, enough about this. It is for another time and place."
+
+# game/scripts/palace.rpy:632
+translate spanish palace_bedroom_3_43de8ecb:
+
+    # Q "Let us focus on another matter..."
+    Q "Let us focus on another matter..."
+
+# game/scripts/palace.rpy:635
+translate spanish palace_bedroom_3_b82d9591:
+
+    # "She takes a small pause, as if she's contemplating her next words..."
+    "She takes a small pause, as if she's contemplating her next words..."
+
+# game/scripts/palace.rpy:639
+translate spanish palace_bedroom_3_f19e426c:
+
+    # Q "Well then, Stalker. That was about what I wanted to talk about, I think."
+    Q "Well then, Stalker. That was about what I wanted to talk about, I think."
+
+# game/scripts/palace.rpy:640
+translate spanish palace_bedroom_3_5885f490:
+
+    # Q "If there is nothing more that you want, I would say I'll see you next time?"
+    Q "If there is nothing more that you want, I would say I'll see you next time?"
+
+# game/scripts/palace.rpy:643
+translate spanish palace_bedroom_3_40823dca:
+
+    # Z "Alright. That will be it from my side as well."
+    Z "Alright. That will be it from my side as well."
+
+# game/scripts/palace.rpy:647
+translate spanish palace_bedroom_3_f1376e3f:
+
+    # Z "See you next time."
+    Z "See you next time."
+
+# game/scripts/palace.rpy:650
+translate spanish palace_bedroom_3_af911bb2:
+
+    # "Having done your duty, you head out and walk home..."
+    "Having done your duty, you head out and walk home..."
+
+# game/scripts/palace.rpy:658
+translate spanish re_pb79_0ff8a944:
+
+    # "What should the Queen act like?"
+    "What should the Queen act like?"
+
+# game/scripts/palace.rpy:670
+translate spanish re_pb79_a5e83fb5:
+
+    # Q "So, what do you think? This dress, the temple, reverent mothers..."
+    Q "So, what do you think? This dress, the temple, reverent mothers..."
+
+# game/scripts/palace.rpy:671
+translate spanish re_pb79_c827988a:
+
+    # Q "I personally have my doubts about the top... but... let's hear from my trusted advisor?"
+    Q "I personally have my doubts about the top... but... let's hear from my trusted advisor?"
+
+# game/scripts/palace.rpy:674
+translate spanish re_pb79_900f0148:
+
+    # Z "Hm..."
+    Z "Hm..."
+
+# game/scripts/palace.rpy:679
+translate spanish re_pb79_c3f50876:
+
+    # Z "A slim and young Queen, her toned and healthy figure..."
+    Z "A slim and young Queen, her toned and healthy figure..."
+
+# game/scripts/palace.rpy:680
+translate spanish re_pb79_7ad797ec:
+
+    # Z "...and all this in front of the temple, next to fertile and lustful women."
+    Z "...and all this in front of the temple, next to fertile and lustful women."
+
+# game/scripts/palace.rpy:683
+translate spanish re_pb79_b2af3459:
+
+    # Z "Yes, the people will fantasize about you. And they will regret you're not part of the temple."
+    Z "Yes, the people will fantasize about you. And they will regret you're not part of the temple."
+
+# game/scripts/palace.rpy:686
+translate spanish re_pb79_17edfb7f:
+
+    # Q "That is the plan, is it not? Let them admire what they can't get..."
+    Q "That is the plan, is it not? Let them admire what they can't get..."
+
+# game/scripts/palace.rpy:687
+translate spanish re_pb79_7963b003:
+
+    # Q "...and if I can increase the amount of future soldiers in the process, then I call it successful advertising..."
+    Q "...and if I can increase the amount of future soldiers in the process, then I call it successful advertising..."
+
+# game/scripts/palace.rpy:690
+translate spanish re_pb79_a71e8b97:
+
+    # Z "That top, however... It could be more revealing. You can show them more."
+    Z "That top, however... It could be more revealing. You can show them more."
+
+# game/scripts/palace.rpy:693
+translate spanish re_pb79_13ce1ef4:
+
+    # Q "Hm...?"
+    Q "Hm...?"
+
+# game/scripts/palace.rpy:696
+translate spanish re_pb79_bdc61a01:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:699
+translate spanish re_pb79_fea71599:
+
+    # Q "I suppose..."
+    Q "I suppose..."
+
+# game/scripts/palace.rpy:700
+translate spanish re_pb79_ed1fbf53:
+
+    # Q "Letting them see a little more... it can't hurt, right?"
+    Q "Letting them see a little more... it can't hurt, right?"
+
+# game/scripts/palace.rpy:704
+translate spanish re_pb79_cb2377e0:
+
+    # Z "It's an elegant and alluring outfit."
+    Z "It's an elegant and alluring outfit."
+
+# game/scripts/palace.rpy:705
+translate spanish re_pb79_fa6eccfa:
+
+    # Z "The people will admire it a lot."
+    Z "The people will admire it a lot."
+
+# game/scripts/palace.rpy:706
+translate spanish re_pb79_5bc24934:
+
+    # Z "The blouse however could change. Its pattern doesn't match well with the rest."
+    Z "The blouse however could change. Its pattern doesn't match well with the rest."
+
+# game/scripts/palace.rpy:709
+translate spanish re_pb79_13ce1ef4_1:
+
+    # Q "Hm...?"
+    Q "Hm...?"
+
+# game/scripts/palace.rpy:712
+translate spanish re_pb79_bdc61a01_1:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:715
+translate spanish re_pb79_99740214:
+
+    # Q "I suppose... I see where you are coming from..."
+    Q "I suppose... I see where you are coming from..."
+
+# game/scripts/palace.rpy:724
+translate spanish pb86_e9e05a3b:
+
+    # Q "She walks over to you..."
+    Q "She walks over to you..."
+
+# game/scripts/palace.rpy:727
+translate spanish pb86_7a2a1d3a:
+
+    # Q "But... what if you're wrong?"
+    Q "But... what if you're wrong?"
+
+# game/scripts/palace.rpy:730
+translate spanish pb86_8da44152:
+
+    # Q "You know..."
+    Q "You know..."
+
+# game/scripts/palace.rpy:733
+translate spanish pb86_1d0206a7:
+
+    # Q "...The distance can be deceiving."
+    Q "...The distance can be deceiving."
+
+# game/scripts/palace.rpy:736
+translate spanish pb86_d08992e7:
+
+    # Q "Maybe you want to see from up close...?"
+    Q "Maybe you want to see from up close...?"
+
+# game/scripts/palace.rpy:739
+translate spanish pb86_26dc4c26:
+
+    # Q "...Just to be certain..."
+    Q "...Just to be certain..."
+
+# game/scripts/palace.rpy:742
+translate spanish pb86_a2a160f9:
+
+    # Q "I value your opinion quite a lot, you know..."
+    Q "I value your opinion quite a lot, you know..."
+
+# game/scripts/palace.rpy:745
+translate spanish pb86_ac4f29f3:
+
+    # Z "It is surely a nice top..."
+    Z "It is surely a nice top..."
+
+# game/scripts/palace.rpy:746
+translate spanish pb86_a1626bd8:
+
+    # Q "But maybe you have a point."
+    Q "But maybe you have a point."
+
+# game/scripts/palace.rpy:747
+translate spanish pb86_1ecf7da9:
+
+    # Q "Ah, we will come back to that later..."
+    Q "Ah, we will come back to that later..."
+
+# game/scripts/palace.rpy:750
+translate spanish pb86_e78626e2:
+
+    # Q "Now... I have another small concern..."
+    Q "Now... I have another small concern..."
+
+# game/scripts/palace.rpy:751
+translate spanish pb86_51a70eac:
+
+    # Q "Do you think the dress is too open? I hope any sudden moves do not reveal too much..."
+    Q "Do you think the dress is too open? I hope any sudden moves do not reveal too much..."
+
+# game/scripts/palace.rpy:754
+translate spanish pb86_e87a34b8:
+
+    # Q "...like this for example..."
+    Q "...like this for example..."
+
+# game/scripts/palace.rpy:757
+translate spanish pb86_9f686dcc:
+
+    # Q "We wouldn't want people to see their Queen in such a state..."
+    Q "We wouldn't want people to see their Queen in such a state..."
+
+# game/scripts/palace.rpy:758
+translate spanish pb86_2173aee6:
+
+    # Q "...right...?"
+    Q "...right...?"
+
+# game/scripts/palace.rpy:761
+translate spanish pb86_17599104:
+
+    # Z "It would certainly be unbecoming of a Queen."
+    Z "It would certainly be unbecoming of a Queen."
+
+# game/scripts/palace.rpy:762
+translate spanish pb86_0eeea4c5:
+
+    # Z "What if that skirt falls off, and they would see more?"
+    Z "What if that skirt falls off, and they would see more?"
+
+# game/scripts/palace.rpy:763
+translate spanish pb86_b18b2577:
+
+    # Q "That would be unfortunate indeed..."
+    Q "That would be unfortunate indeed..."
+
+# game/scripts/palace.rpy:764
+translate spanish pb86_f3bbe4c9:
+
+    # Z "...Everyone seeing those legs.."
+    Z "...Everyone seeing those legs.."
+
+# game/scripts/palace.rpy:767
+translate spanish pb86_273403be:
+
+    # Z "...and let their imagination do the rest."
+    Z "...and let their imagination do the rest."
+
+# game/scripts/palace.rpy:768
+translate spanish pb86_20a5ae72:
+
+    # Q "...Are you speaking from experience, Stalker...?"
+    Q "...Are you speaking from experience, Stalker...?"
+
+# game/scripts/palace.rpy:771
+translate spanish pb86_730a64b8:
+
+    # Z "Is this what would you like me to do?"
+    Z "Is this what would you like me to do?"
+
+# game/scripts/palace.rpy:772
+translate spanish pb86_74e2a128:
+
+    # Z "Maybe I do, maybe I do that and more..."
+    Z "Maybe I do, maybe I do that and more..."
+
+# game/scripts/palace.rpy:775
+translate spanish pb86_79681f70:
+
+    # Q "Oh...Uhm.."
+    Q "Oh...Uhm.."
+
+# game/scripts/palace.rpy:778
+translate spanish pb86_cce23c38:
+
+    # Q "Well, thank you for your advice."
+    Q "Well, thank you for your advice."
+
+# game/scripts/palace.rpy:779
+translate spanish pb86_8605f9fd:
+
+    # Q "You have been of great help..."
+    Q "You have been of great help..."
+
+# game/scripts/palace.rpy:782
+translate spanish pb86_7c42ec6c:
+
+    # Z "At your service, my Queen."
+    Z "At your service, my Queen."
+
+# game/scripts/palace.rpy:785
+translate spanish pb86_d495143c:
+
+    # "She slowly walks back to the mirror..."
+    "She slowly walks back to the mirror..."
+
+# game/scripts/palace.rpy:788
+translate spanish pb86_a3850abb:
+
+    # Q "Maybe you are right about the top after all..."
+    Q "Maybe you are right about the top after all..."
+
+# game/scripts/palace.rpy:789
+translate spanish pb86_79f16284:
+
+    # Q "I should try another one, just to make sure."
+    Q "I should try another one, just to make sure."
+
+# game/scripts/palace.rpy:794
+translate spanish pb86_1e573402:
+
+    # Q "I..."
+    Q "I..."
+
+# game/scripts/palace.rpy:795
+translate spanish pb86_f16fe7fe:
+
+    # extend "feel a bit exposed..."
+    extend "feel a bit exposed..."
+
+# game/scripts/palace.rpy:798
+translate spanish pb86_8bb46f4c:
+
+    # Q "Maybe you should take your leave...?"
+    Q "Maybe you should take your leave...?"
+
+# game/scripts/palace.rpy:799
+translate spanish pb86_8f0c6467:
+
+    # Q "Or at least not stare..."
+    Q "Or at least not stare..."
+
+# game/scripts/palace.rpy:800
+translate spanish pb86_ec944139:
+
+    # extend "much?"
+    extend "much?"
+
+# game/scripts/palace.rpy:806
+translate spanish pb86_f59de026:
+
+    # Z "Sharifa was not the reason why you brought me here, was it."
+    Z "Sharifa was not the reason why you brought me here, was it."
+
+# game/scripts/palace.rpy:807
+translate spanish pb86_d64abb84:
+
+    # Z "You wanted to show me that dress of yours, and get my reaction."
+    Z "You wanted to show me that dress of yours, and get my reaction."
+
+# game/scripts/palace.rpy:810
+translate spanish pb86_46cef401:
+
+    # Q "Eh? What do you..."
+    Q "Eh? What do you..."
+
+# game/scripts/palace.rpy:813
+translate spanish pb86_2ac50e7e:
+
+    # Z "Don't act like you don't know. Your expression tells me everything."
+    Z "Don't act like you don't know. Your expression tells me everything."
+
+# game/scripts/palace.rpy:816
+translate spanish pb86_22a51a84:
+
+    # Q "But... I just wanted to show you my dress..."
+    Q "But... I just wanted to show you my dress..."
+
+# game/scripts/palace.rpy:817
+translate spanish pb86_1e9a9d0f:
+
+    # Zt "Little tease..."
+    Zt "Little tease..."
+
+# game/scripts/palace.rpy:820
+translate spanish pb86_2914d196:
+
+    # Q "I don't... know what you're talking about. I will change and look for a different top now."
+    Q "I don't... know what you're talking about. I will change and look for a different top now."
+
+# game/scripts/palace.rpy:821
+translate spanish pb86_1e573402_1:
+
+    # Q "I..."
+    Q "I..."
+
+# game/scripts/palace.rpy:822
+translate spanish pb86_143018ad:
+
+    # extend "think you should leave now, [persistent.player_name]."
+    extend "think you should leave now, [persistent.player_name]."
+
+# game/scripts/palace.rpy:827
+translate spanish pb86_a50d899d:
+
+    # Q "Please... [persistent.player_name]..."
+    Q "Please... [persistent.player_name]..."
+
+# game/scripts/palace.rpy:828
+translate spanish pb86_7116ffdf:
+
+    # Q "You can't see me like this..."
+    Q "You can't see me like this..."
+
+# game/scripts/palace.rpy:831
+translate spanish pb86_3792561b:
+
+    # Q "The guards will escort you outside the temple..."
+    Q "The guards will escort you outside the temple..."
+
+# game/scripts/palace.rpy:842
+translate spanish pb_exposed_menu_5ab3574d:
+
+    # Z "..."
+    Z "..."
+
+# game/scripts/palace.rpy:845
+translate spanish pb_exposed_menu_1f66d165:
+
+    # "You look at her for a moment, before taking action..."
+    "You look at her for a moment, before taking action..."
+
+# game/scripts/palace.rpy:848
+translate spanish pb_exposed_menu_64d69bf3:
+
+    # Q "{i}*gasp*{/i}"
+    Q "{i}*gasp*{/i}"
+
+# game/scripts/palace.rpy:851
+translate spanish pb_exposed_menu_0a3ce02d:
+
+    # "You stand behind her, gripping her shoulders."
+    "You stand behind her, gripping her shoulders."
+
+# game/scripts/palace.rpy:852
+translate spanish pb_exposed_menu_666ad63d:
+
+    # "She covers her breasts..."
+    "She covers her breasts..."
+
+# game/scripts/palace.rpy:855
+translate spanish pb_exposed_menu_9d5afb84:
+
+    # Qw "[persistent.player_name]... what are you doing?"
+    Qw "[persistent.player_name]... what are you doing?"
+
+# game/scripts/palace.rpy:856
+translate spanish pb_exposed_menu_fc26c457:
+
+    # Qw "The guards are right outside!"
+    Qw "The guards are right outside!"
+
+# game/scripts/palace.rpy:860
+translate spanish pb_exposed_menu_36e0841d:
+
+    # Zw "And I assume they will stay there..."
+    Zw "And I assume they will stay there..."
+
+# game/scripts/palace.rpy:861
+translate spanish pb_exposed_menu_372d9fe0:
+
+    # Zw "Unless you want to call them. You are free to do that."
+    Zw "Unless you want to call them. You are free to do that."
+
+# game/scripts/palace.rpy:863
+translate spanish pb_exposed_menu_3e4bfd95:
+
+    # Zw "Quit playing around. It's time to be quiet."
+    Zw "Quit playing around. It's time to be quiet."
+
+# game/scripts/palace.rpy:867
+translate spanish pb_exposed_menu_02281439:
+
+    # Zw "They would barge in and drag me outside, or worse."
+    Zw "They would barge in and drag me outside, or worse."
+
+# game/scripts/palace.rpy:868
+translate spanish pb_exposed_menu_98f93f60:
+
+    # Zw "All it takes is one word from you..."
+    Zw "All it takes is one word from you..."
+
+# game/scripts/palace.rpy:870
+translate spanish pb_exposed_menu_690cbd73:
+
+    # Zw "I know you don't want me to stop."
+    Zw "I know you don't want me to stop."
+
+# game/scripts/palace.rpy:874
+translate spanish pb_exposed_menu_2b6cb63f:
+
+    # Qw "Mh...?"
+    Qw "Mh...?"
+
+# game/scripts/palace.rpy:875
+translate spanish pb_exposed_menu_e0218240:
+
+    # Zw "...Well?"
+    Zw "...Well?"
+
+# game/scripts/palace.rpy:877
+translate spanish pb_exposed_menu_a1bf7f78:
+
+    # Qw "Please... you can't..."
+    Qw "Please... you can't..."
+
+# game/scripts/palace.rpy:880
+translate spanish pb_exposed_menu_e46519f1:
+
+    # Qw "{i}*gasp*{/i}...!"
+    Qw "{i}*gasp*{/i}...!"
+
+# game/scripts/palace.rpy:881
+translate spanish pb_exposed_menu_e088fed1:
+
+    # "You lower her arms..."
+    "You lower her arms..."
+
+# game/scripts/palace.rpy:883
+translate spanish pb_exposed_menu_3a233110:
+
+    # Zw "I thought as much..."
+    Zw "I thought as much..."
+
+# game/scripts/palace.rpy:886
+translate spanish pb_exposed_menu_257956cf:
+
+    # Qw "[persistent.player_name]...!"
+    Qw "[persistent.player_name]...!"
+
+# game/scripts/palace.rpy:890
+translate spanish pb_exposed_menu_b523b767:
+
+    # Zw "I know what I am doing, trust me."
+    Zw "I know what I am doing, trust me."
+
+# game/scripts/palace.rpy:893
+translate spanish pb_exposed_menu_f6d50f90:
+
+    # Zw "You won't mind if I do my thing, right?"
+    Zw "You won't mind if I do my thing, right?"
+
+# game/scripts/palace.rpy:894
+translate spanish pb_exposed_menu_fbe93a80:
+
+    # Qw "I... won't..."
+    Qw "I... won't..."
+
+# game/scripts/palace.rpy:896
+translate spanish pb_exposed_menu_0f7ea8f0:
+
+    # Zw "Do what I say, and you will enjoy it. Understand?"
+    Zw "Do what I say, and you will enjoy it. Understand?"
+
+# game/scripts/palace.rpy:899
+translate spanish pb_exposed_menu_73af566e:
+
+    # Q "Y...yes, sir..."
+    Q "Y...yes, sir..."
+
+# game/scripts/palace.rpy:900
+translate spanish pb_exposed_menu_3643ca07:
+
+    # Zw "Good girl."
+    Zw "Good girl."
+
+# game/scripts/palace.rpy:903
+translate spanish pb_exposed_menu_78c6fabe:
+
+    # "You clip off her dress..."
+    "You clip off her dress..."
+
+# game/scripts/palace.rpy:906
+translate spanish pb_exposed_menu_46ca1d74:
+
+    # Q "Mh..."
+    Q "Mh..."
+
+# game/scripts/palace.rpy:909
+translate spanish pb_exposed_menu_3d0c6e1f:
+
+    # Zw "If only the people would see this."
+    Zw "If only the people would see this."
+
+# game/scripts/palace.rpy:912
+translate spanish pb_exposed_menu_dff2cc5b:
+
+    # Qw "So... exposing..."
+    Qw "So... exposing..."
+
+# game/scripts/palace.rpy:915
+translate spanish pb_exposed_menu_9a3e837f:
+
+    # Qw "Ah..."
+    Qw "Ah..."
+
+# game/scripts/palace.rpy:916
+translate spanish pb_exposed_menu_44986b2f:
+
+    # "You cup her soft but firm breasts, kneading them lustfully..."
+    "You cup her soft but firm breasts, kneading them lustfully..."
+
+# game/scripts/palace.rpy:919
+translate spanish pb_exposed_menu_f4b0e945:
+
+    # "You keep massaging the young Queen's tits firmly."
+    "You keep massaging the young Queen's tits firmly."
+
+# game/scripts/palace.rpy:920
+translate spanish pb_exposed_menu_cbba271c:
+
+    # Qw "Mh... such... rough hands..."
+    Qw "Mh... such... rough hands..."
+
+# game/scripts/palace.rpy:923
+translate spanish pb_exposed_menu_9a3e837f_1:
+
+    # Qw "Ah..."
+    Qw "Ah..."
+
+# game/scripts/palace.rpy:924
+translate spanish pb_exposed_menu_ab8df996:
+
+    # "You kiss her neck, making her lean into you with soft moans..."
+    "You kiss her neck, making her lean into you with soft moans..."
+
+# game/scripts/palace.rpy:927
+translate spanish pb_exposed_menu_bd359158:
+
+    # Qw "Ngh... [persistent.player_name]..."
+    Qw "Ngh... [persistent.player_name]..."
+
+# game/scripts/palace.rpy:929
+translate spanish pb_exposed_menu_4b1d8c22:
+
+    # Zw "Do you mind a kiss, young Queen?"
+    Zw "Do you mind a kiss, young Queen?"
+
+# game/scripts/palace.rpy:931
+translate spanish pb_exposed_menu_0d106f06:
+
+    # Zw "Now, kiss me."
+    Zw "Now, kiss me."
+
+# game/scripts/palace.rpy:935
+translate spanish pb_exposed_menu_1d651498:
+
+    # Qw "Just like... in the...thermae..."
+    Qw "Just like... in the...thermae..."
+
+# game/scripts/palace.rpy:937
+translate spanish pb_exposed_menu_4638a9e3:
+
+    # Qw "I'm not sure... if we should..."
+    Qw "I'm not sure... if we should..."
+
+# game/scripts/palace.rpy:940
+translate spanish pb_exposed_menu_976336bb:
+
+    # Qw "Ngh..."
+    Qw "Ngh..."
+
+# game/scripts/palace.rpy:943
+translate spanish pb_exposed_menu_3e53cb4f:
+
+    # Q "{i}*kissing*{/i}"
+    Q "{i}*kissing*{/i}"
+
+# game/scripts/palace.rpy:944
+translate spanish pb_exposed_menu_63c3442b:
+
+    # "You take your time gently kissing the young Queen's lips, and flicking her tongue with yours..."
+    "You take your time gently kissing the young Queen's lips, and flicking her tongue with yours..."
+
+# game/scripts/palace.rpy:950
+translate spanish pb_exposed_menu_16948146:
+
+    # Qw "Nh..."
+    Qw "Nh..."
+
+# game/scripts/palace.rpy:951
+translate spanish pb_exposed_menu_5ab3574d_1:
+
+    # Z "..."
+    Z "..."
+
+# game/scripts/palace.rpy:954
+translate spanish pb_exposed_menu_2c2b3998:
+
+    # Qw "Nh?"
+    Qw "Nh?"
+
+# game/scripts/palace.rpy:955
+translate spanish pb_exposed_menu_8d8bad30:
+
+    # Z "Don't touch that."
+    Z "Don't touch that."
+
+# game/scripts/palace.rpy:956
+translate spanish pb_exposed_menu_166f2112:
+
+    # Qw "But..."
+    Qw "But..."
+
+# game/scripts/palace.rpy:957
+translate spanish pb_exposed_menu_13a06192:
+
+    # Z "Follow me."
+    Z "Follow me."
+
+# game/scripts/palace.rpy:962
+translate spanish pb_exposed_menu_cee98a20:
+
+    # Qw "Ah...?"
+    Qw "Ah...?"
+
+# game/scripts/palace.rpy:963
+translate spanish pb_exposed_menu_2c560f3e:
+
+    # Zw "Stay still."
+    Zw "Stay still."
+
+# game/scripts/palace.rpy:966
+translate spanish pb_exposed_menu_6f47d2c1:
+
+    # Q "{i}*soft breathing*{/i}"
+    Q "{i}*soft breathing*{/i}"
+
+# game/scripts/palace.rpy:967
+translate spanish pb_exposed_menu_ebe0eaac:
+
+    # "You look at her and see a lustful Queen, detached from responsibility and duty, solely focused on you."
+    "You look at her and see a lustful Queen, detached from responsibility and duty, solely focused on you."
+
+# game/scripts/palace.rpy:968
+translate spanish pb_exposed_menu_6b945c9e:
+
+    # "She knows you can make her feel good, if you wanted. Her eyes admire your confidence, your care and your strength."
+    "She knows you can make her feel good, if you wanted. Her eyes admire your confidence, your care and your strength."
+
+# game/scripts/palace.rpy:970
+translate spanish pb_exposed_menu_347ebc1a:
+
+    # "This is the real deal. Moments ago, she was the strong Queen the man in front of her should admire, fear, even."
+    "This is the real deal. Moments ago, she was the strong Queen the man in front of her should admire, fear, even."
+
+# game/scripts/palace.rpy:971
+translate spanish pb_exposed_menu_3c87bd0a:
+
+    # "Now... she stands before him exposed, weak... and she admires him."
+    "Now... she stands before him exposed, weak... and she admires him."
+
+# game/scripts/palace.rpy:973
+translate spanish pb_exposed_menu_a2249c8c:
+
+    # "This is the real deal. She stands in front of a man who, normally, would not even deserve her attention."
+    "This is the real deal. She stands in front of a man who, normally, would not even deserve her attention."
+
+# game/scripts/palace.rpy:974
+translate spanish pb_exposed_menu_4d59b703:
+
+    # "Now... he stands in front of her. An exposed, weak, and small Queen."
+    "Now... he stands in front of her. An exposed, weak, and small Queen."
+
+# game/scripts/palace.rpy:975
+translate spanish pb_exposed_menu_9b2d030f:
+
+    # "Eagerly, she waits for your next step, happy that the time of waiting, watching and edging comes to an end."
+    "Eagerly, she waits for your next step, happy that the time of waiting, watching and edging comes to an end."
+
+# game/scripts/palace.rpy:976
+translate spanish pb_exposed_menu_826952a8:
+
+    # "...Or does it?"
+    "...Or does it?"
+
+# game/scripts/palace.rpy:978
+translate spanish pb_exposed_menu_b5e02827:
+
+    # Zw "You are a beautiful young woman, Queen Merneith."
+    Zw "You are a beautiful young woman, Queen Merneith."
+
+# game/scripts/palace.rpy:981
+translate spanish pb_exposed_menu_40c5938d:
+
+    # Zw "And there is one thing left to do."
+    Zw "And there is one thing left to do."
+
+# game/scripts/palace.rpy:984
+translate spanish pb_exposed_menu_43faa419:
+
+    # "You grab her underwear..."
+    "You grab her underwear..."
+
+# game/scripts/palace.rpy:985
+translate spanish pb_exposed_menu_5e216356:
+
+    # Qw "[persistent.player_name]..."
+    Qw "[persistent.player_name]..."
+
+# game/scripts/palace.rpy:988
+translate spanish pb_exposed_menu_46aa859b:
+
+    # "You touch her abdomen gently while slowly removing her underwear... and she reacts, swaying slightly forward."
+    "You touch her abdomen gently while slowly removing her underwear... and she reacts, swaying slightly forward."
+
+# game/scripts/palace.rpy:991
+translate spanish pb_exposed_menu_7ddf29ab:
+
+    # Q "Are you sure... you can..."
+    Q "Are you sure... you can..."
+
+# game/scripts/palace.rpy:995
+translate spanish pb_exposed_menu_64fead04:
+
+    # Q "Ah...-"
+    Q "Ah...-"
+
+# game/scripts/palace.rpy:998
+translate spanish pb_exposed_menu_b5979835:
+
+    # "Tossing the ripped panties aside, you look at the naked Queen..."
+    "Tossing the ripped panties aside, you look at the naked Queen..."
+
+# game/scripts/palace.rpy:1001
+translate spanish pb_exposed_menu_ecd36a58:
+
+    # Qw "This... is so embarrassing..."
+    Qw "This... is so embarrassing..."
+
+# game/scripts/palace.rpy:1002
+translate spanish pb_exposed_menu_f37afaad:
+
+    # "You ignore her pleads, and take your time admiring her. She does not move one bit."
+    "You ignore her pleads, and take your time admiring her. She does not move one bit."
+
+# game/scripts/palace.rpy:1005
+translate spanish pb_exposed_menu_d9b0b3ca:
+
+    # "The idol of a city of thousands, the Queen, praised by some as a ruler appointed by the gods..."
+    "The idol of a city of thousands, the Queen, praised by some as a ruler appointed by the gods..."
+
+# game/scripts/palace.rpy:1006
+translate spanish pb_exposed_menu_b72b5609:
+
+    # "...is but a petite, young woman, in your hands."
+    "...is but a petite, young woman, in your hands."
+
+# game/scripts/palace.rpy:1009
+translate spanish pb_exposed_menu_5a3e7c17:
+
+    # Zw "I know you like being admired. Even like this."
+    Zw "I know you like being admired. Even like this."
+
+# game/scripts/palace.rpy:1010
+translate spanish pb_exposed_menu_bdc61a01:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:1013
+translate spanish pb_exposed_menu_bfab59b7:
+
+    # Qw "Mh..."
+    Qw "Mh..."
+
+# game/scripts/palace.rpy:1014
+translate spanish pb_exposed_menu_b5360a9c:
+
+    # Zw "Or maybe... especially like this?"
+    Zw "Or maybe... especially like this?"
+
+# game/scripts/palace.rpy:1017
+translate spanish pb_exposed_menu_cdb11859:
+
+    # Qw "What are you..."
+    Qw "What are you..."
+
+# game/scripts/palace.rpy:1020
+translate spanish pb_exposed_menu_99a1f414:
+
+    # Qw "Oh..."
+    Qw "Oh..."
+
+# game/scripts/palace.rpy:1021
+translate spanish pb_exposed_menu_1570bd2c:
+
+    # "You feel her up... and it becomes clear that being exposed like this has an effect on her."
+    "You feel her up... and it becomes clear that being exposed like this has an effect on her."
+
+# game/scripts/palace.rpy:1024
+translate spanish pb_exposed_menu_af90d757:
+
+    # Qw "Nh...!"
+    Qw "Nh...!"
+
+# game/scripts/palace.rpy:1025
+translate spanish pb_exposed_menu_28244da2:
+
+    # "You apply some pressure on her clit, testing out her sensitivities..."
+    "You apply some pressure on her clit, testing out her sensitivities..."
+
+# game/scripts/palace.rpy:1028
+translate spanish pb_exposed_menu_0e5040b3:
+
+    # Q "{i}*soft moaning*{/i}"
+    Q "{i}*soft moaning*{/i}"
+
+# game/scripts/palace.rpy:1029
+translate spanish pb_exposed_menu_0a1a08ae:
+
+    # Qw "This... feeling... ah..."
+    Qw "This... feeling... ah..."
+
+# game/scripts/palace.rpy:1032
+translate spanish pb_exposed_menu_124b9753:
+
+    # Zw "Thank you for your audience, my Queen."
+    Zw "Thank you for your audience, my Queen."
+
+# game/scripts/palace.rpy:1033
+translate spanish pb_exposed_menu_c5cf3235:
+
+    # Zw "I think this will have to do, for today."
+    Zw "I think this will have to do, for today."
+
+# game/scripts/palace.rpy:1036
+translate spanish pb_exposed_menu_1aa475da:
+
+    # Q "Nh...?"
+    Q "Nh...?"
+
+# game/scripts/palace.rpy:1039
+translate spanish pb_exposed_menu_6e1576f0:
+
+    # Q "What...?"
+    Q "What...?"
+
+# game/scripts/palace.rpy:1042
+translate spanish pb_exposed_menu_33ecb2b0:
+
+    # Q "[persistent.player_name]...?"
+    Q "[persistent.player_name]...?"
+
+# game/scripts/palace.rpy:1043
+translate spanish pb_exposed_menu_f10bff63:
+
+    # Zw "I am looking forward to your next task. Goodbye, for now."
+    Zw "I am looking forward to your next task. Goodbye, for now."
+
+# game/scripts/palace.rpy:1048
+translate spanish pb_exposed_menu_6fbb52c0:
+
+    # "You turn around, and walk towards the door..."
+    "You turn around, and walk towards the door..."
+
+# game/scripts/palace.rpy:1055
+translate spanish pb_exposed_menu_968a4d75:
+
+    # Q "But..."
+    Q "But..."
+
+# game/scripts/palace.rpy:1058
+translate spanish pb_exposed_menu_20e9f7ac:
+
+    # Q "Why would you... leave now...?"
+    Q "Why would you... leave now...?"
+
+# game/scripts/palace.rpy:1061
+translate spanish pb_exposed_menu_28b90c10:
+
+    # Q "{i}*sigh*{/i}"
+    Q "{i}*sigh*{/i}"
+
+# game/scripts/palace.rpy:1069
+translate spanish pb_exposed_menu_c45dd108:
+
+    # "You return home."
+    "You return home."
+
+# game/scripts/palace.rpy:1073
+translate spanish pb_exposed_menu_fbb8b2e6:
+
+    # Z "It's best I leave, indeed."
+    Z "It's best I leave, indeed."
+
+# game/scripts/palace.rpy:1078
+translate spanish pb_exposed_menu_125a93d2:
+
+    # Q "...?"
+    Q "...?"
+
+# game/scripts/palace.rpy:1079
+translate spanish pb_exposed_menu_079c54ab:
+
+    # Q "Y...yes. Maybe... it's for the best."
+    Q "Y...yes. Maybe... it's for the best."
+
+# game/scripts/palace.rpy:1080
+translate spanish pb_exposed_menu_97ba7641:
+
+    # Z "Goodbye for now."
+    Z "Goodbye for now."
+
+# game/scripts/palace.rpy:1086
+translate spanish pb_exposed_menu_23b51a05:
+
+    # "You walk out, leave the temple, and head home."
+    "You walk out, leave the temple, and head home."
+
+# game/scripts/palace.rpy:1094
+translate spanish palace_quarters_1_e6ee2581:
+
+    # "A while later, as you walk by the Queen's personal chambers, you overhear Sharifa's voice from inside..."
+    "A while later, as you walk by the Queen's personal chambers, you overhear Sharifa's voice from inside..."
+
+# game/scripts/palace.rpy:1097
+translate spanish palace_quarters_1_eead66db:
+
+    # Sh "I am sorry it had to come to this, my Queen."
+    Sh "I am sorry it had to come to this, my Queen."
+
+# game/scripts/palace.rpy:1098
+translate spanish palace_quarters_1_1e905d79:
+
+    # Q "If you speak the truth about her... then your decision was right."
+    Q "If you speak the truth about her... then your decision was right."
+
+# game/scripts/palace.rpy:1101
+translate spanish palace_quarters_1_f765c823:
+
+    # Sh "The council will ultimately decide her fate, but for now, I have placed her in isolation."
+    Sh "The council will ultimately decide her fate, but for now, I have placed her in isolation."
+
+# game/scripts/palace.rpy:1102
+translate spanish palace_quarters_1_aea2b971:
+
+    # Sh "Making such shady deals behind your back... I would have never thought."
+    Sh "Making such shady deals behind your back... I would have never thought."
+
+# game/scripts/palace.rpy:1105
+translate spanish palace_quarters_1_ab651f8a:
+
+    # Sh "My guards are interrogating her. They will use all necessary means."
+    Sh "My guards are interrogating her. They will use all necessary means."
+
+# game/scripts/palace.rpy:1108
+translate spanish palace_quarters_1_6a8f0dec:
+
+    # Q "Treachery at this high level is unsettling. I sometimes wonder who else is left to trust."
+    Q "Treachery at this high level is unsettling. I sometimes wonder who else is left to trust."
+
+# game/scripts/palace.rpy:1111
+translate spanish palace_quarters_1_9bf89eb1:
+
+    # Sh "I will keep you updated, my Queen. Thank you for confiding in me."
+    Sh "I will keep you updated, my Queen. Thank you for confiding in me."
+
+# game/scripts/palace.rpy:1114
+translate spanish palace_quarters_1_0deb3498:
+
+    # Sh "There are always going to be people who doubt your divinity, who doubt you for the youth and inexperience they see in you. It is my task to eradicate those thoughts from our closest ranks."
+    Sh "There are always going to be people who doubt your divinity, who doubt you for the youth and inexperience they see in you. It is my task to eradicate those thoughts from our closest ranks."
+
+# game/scripts/palace.rpy:1117
+translate spanish palace_quarters_1_bdc61a01:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:1120
+translate spanish palace_quarters_1_84811e7d:
+
+    # Sh "My Queen, I..."
+    Sh "My Queen, I..."
+
+# game/scripts/palace.rpy:1123
+translate spanish palace_quarters_1_02961129:
+
+    # Q "That's enough for today, [Sh]."
+    Q "That's enough for today, [Sh]."
+
+# game/scripts/palace.rpy:1124
+translate spanish palace_quarters_1_0bcb6d4c:
+
+    # Q "Your efforts deserve a reward, don't you think...?"
+    Q "Your efforts deserve a reward, don't you think...?"
+
+# game/scripts/palace.rpy:1127
+translate spanish palace_quarters_1_06d98c19:
+
+    # Q "Well, my Captain?"
+    Q "Well, my Captain?"
+
+# game/scripts/palace.rpy:1128
+translate spanish palace_quarters_1_4ddb4a97:
+
+    # Q "I know how you like to be pampered, so what shall it be?"
+    Q "I know how you like to be pampered, so what shall it be?"
+
+# game/scripts/palace.rpy:1129
+translate spanish palace_quarters_1_ddce15c4:
+
+    # Q "A day of company with my slaves in the thermae? A visit from my personal masseuse?"
+    Q "A day of company with my slaves in the thermae? A visit from my personal masseuse?"
+
+# game/scripts/palace.rpy:1132
+translate spanish palace_quarters_1_81affe3f:
+
+    # Sh "My Queen... You know the only reward I care about."
+    Sh "My Queen... You know the only reward I care about."
+
+# game/scripts/palace.rpy:1137
+translate spanish palace_quarters_1_7faead10:
+
+    # "She suddenly touches the Queen, moving forward, ever closer to her..."
+    "She suddenly touches the Queen, moving forward, ever closer to her..."
+
+# game/scripts/palace.rpy:1138
+translate spanish palace_quarters_1_ca95c2e5:
+
+    # Sh "Allow me, my Queen."
+    Sh "Allow me, my Queen."
+
+# game/scripts/palace.rpy:1141
+translate spanish palace_quarters_1_acc7df56:
+
+    # Q "Sharifa..."
+    Q "Sharifa..."
+
+# game/scripts/palace.rpy:1142
+translate spanish palace_quarters_1_b6652eeb:
+
+    # Sh "My Queen, we've known each other for so many years now."
+    Sh "My Queen, we've known each other for so many years now."
+
+# game/scripts/palace.rpy:1145
+translate spanish palace_quarters_1_2017f447:
+
+    # Sh "I have served the previous Queen diligently, ever since I was around your age."
+    Sh "I have served the previous Queen diligently, ever since I was around your age."
+
+# game/scripts/palace.rpy:1146
+translate spanish palace_quarters_1_3b63ac48:
+
+    # Sh "And ever since you were the gods' chosen to become the high Queen of this city, I..."
+    Sh "And ever since you were the gods' chosen to become the high Queen of this city, I..."
+
+# game/scripts/palace.rpy:1149
+translate spanish palace_quarters_1_6463705f:
+
+    # Sh "I stood beside you. Ever steadfast. My loyalty unchallenged."
+    Sh "I stood beside you. Ever steadfast. My loyalty unchallenged."
+
+# game/scripts/palace.rpy:1150
+translate spanish palace_quarters_1_cf738ce7:
+
+    # Sh "But during my service, some things became clear to me..."
+    Sh "But during my service, some things became clear to me..."
+
+# game/scripts/palace.rpy:1153
+translate spanish palace_quarters_1_e721ed50:
+
+    # Sh "...and that is my deep devotion to you, my Queen."
+    Sh "...and that is my deep devotion to you, my Queen."
+
+# game/scripts/palace.rpy:1156
+translate spanish palace_quarters_1_6f503a84:
+
+    # Q "Sharifa... I..."
+    Q "Sharifa... I..."
+
+# game/scripts/palace.rpy:1157
+translate spanish palace_quarters_1_b305f52b:
+
+    # Sh "My Queen, my love for you, you know of it."
+    Sh "My Queen, my love for you, you know of it."
+
+# game/scripts/palace.rpy:1158
+translate spanish palace_quarters_1_4502d426:
+
+    # Sh "You have seen the desire in my eyes, I know this."
+    Sh "You have seen the desire in my eyes, I know this."
+
+# game/scripts/palace.rpy:1161
+translate spanish palace_quarters_1_63b5b5e4:
+
+    # Sh "Every day I am with you, ready to shield you from all of those who would leech from you."
+    Sh "Every day I am with you, ready to shield you from all of those who would leech from you."
+
+# game/scripts/palace.rpy:1164
+translate spanish palace_quarters_1_11b1b1f6:
+
+    # Sh "What use have I for these rewards you offer me..."
+    Sh "What use have I for these rewards you offer me..."
+
+# game/scripts/palace.rpy:1167
+translate spanish palace_quarters_1_fb71928f:
+
+    # Sh "...when I cannot confess my true desire?"
+    Sh "...when I cannot confess my true desire?"
+
+# game/scripts/palace.rpy:1170
+translate spanish palace_quarters_1_8644b50c:
+
+    # Sh "My Queen. I know my desire is an impossible one. Your purity and everything you stand for, would be blemished."
+    Sh "My Queen. I know my desire is an impossible one. Your purity and everything you stand for, would be blemished."
+
+# game/scripts/palace.rpy:1171
+translate spanish palace_quarters_1_0b4c46b9:
+
+    # Sh "But I can't continue to serve you, to comfort you in your moments of loneliness or desire, to protect you with my blade, and ignore the truth."
+    Sh "But I can't continue to serve you, to comfort you in your moments of loneliness or desire, to protect you with my blade, and ignore the truth."
+
+# game/scripts/palace.rpy:1172
+translate spanish palace_quarters_1_1944ea70:
+
+    # Sh "My Queen. I have fallen for you."
+    Sh "My Queen. I have fallen for you."
+
+# game/scripts/palace.rpy:1175
+translate spanish palace_quarters_1_09773245:
+
+    # Q "Sharifa... this is..."
+    Q "Sharifa... this is..."
+
+# game/scripts/palace.rpy:1180
+translate spanish palace_quarters_1_3e59d655:
+
+    # Sh "Allow me the only reward I desire, I beg of you."
+    Sh "Allow me the only reward I desire, I beg of you."
+
+# game/scripts/palace.rpy:1183
+translate spanish palace_quarters_1_b46014be:
+
+    # Q "Shar..."
+    Q "Shar..."
+
+# game/scripts/palace.rpy:1184
+translate spanish palace_quarters_1_e5334c30:
+
+    # Sh "{i}*kissing*{/i}"
+    Sh "{i}*kissing*{/i}"
+
+# game/scripts/palace.rpy:1187
+translate spanish palace_quarters_1_032608e1:
+
+    # Q "...rifa...?!"
+    Q "...rifa...?!"
+
+# game/scripts/palace.rpy:1188
+translate spanish palace_quarters_1_3732a651:
+
+    # Sh "My Queen... forgive me..."
+    Sh "My Queen... forgive me..."
+
+# game/scripts/palace.rpy:1191
+translate spanish palace_quarters_1_e5334c30_1:
+
+    # Sh "{i}*kissing*{/i}"
+    Sh "{i}*kissing*{/i}"
+
+# game/scripts/palace.rpy:1192
+translate spanish palace_quarters_1_28105d22:
+
+    # "Sharifa starts kissing the Queen's neck passionately."
+    "Sharifa starts kissing the Queen's neck passionately."
+
+# game/scripts/palace.rpy:1193
+translate spanish palace_quarters_1_f024aabe:
+
+    # Zt "By the looks of it, the intimacy between Sharifa and the Queen is not something new, but I guess the Queen was unsettled by the declaration of love.."
+    Zt "By the looks of it, the intimacy between Sharifa and the Queen is not something new, but I guess the Queen was unsettled by the declaration of love.."
+
+# game/scripts/palace.rpy:1194
+translate spanish palace_quarters_1_29b05929:
+
+    # Zt "Something is off though... the Queen seems conflicted about her."
+    Zt "Something is off though... the Queen seems conflicted about her."
+
+# game/scripts/palace.rpy:1197
+translate spanish palace_quarters_1_990b719b:
+
+    # Shw "I know this is wrong, my Queen. You sit on the throne, I can never compare..."
+    Shw "I know this is wrong, my Queen. You sit on the throne, I can never compare..."
+
+# game/scripts/palace.rpy:1198
+translate spanish palace_quarters_1_06821519:
+
+    # Shw "But the touch of your skin, of your divine lips, is..."
+    Shw "But the touch of your skin, of your divine lips, is..."
+
+# game/scripts/palace.rpy:1201
+translate spanish palace_quarters_1_36f71c8d:
+
+    # Qw "Sharifa... pull yourself together..."
+    Qw "Sharifa... pull yourself together..."
+
+# game/scripts/palace.rpy:1202
+translate spanish palace_quarters_1_e5334c30_2:
+
+    # Sh "{i}*kissing*{/i}"
+    Sh "{i}*kissing*{/i}"
+
+# game/scripts/palace.rpy:1205
+translate spanish palace_quarters_1_bfab59b7:
+
+    # Qw "Mh..."
+    Qw "Mh..."
+
+# game/scripts/palace.rpy:1208
+translate spanish palace_quarters_1_e5334c30_3:
+
+    # Sh "{i}*kissing*{/i}"
+    Sh "{i}*kissing*{/i}"
+
+# game/scripts/palace.rpy:1209
+translate spanish palace_quarters_1_6787cb36:
+
+    # Shw "My Queen... let me serve you tonight..."
+    Shw "My Queen... let me serve you tonight..."
+
+# game/scripts/palace.rpy:1212
+translate spanish palace_quarters_1_bdc61a01_1:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:1213
+translate spanish palace_quarters_1_fc296f0e:
+
+    # Shw "I so desire..."
+    Shw "I so desire..."
+
+# game/scripts/palace.rpy:1216
+translate spanish palace_quarters_1_cec3a69b:
+
+    # Qw "Don't say such things, [Sh]..."
+    Qw "Don't say such things, [Sh]..."
+
+# game/scripts/palace.rpy:1217
+translate spanish palace_quarters_1_e5334c30_4:
+
+    # Sh "{i}*kissing*{/i}"
+    Sh "{i}*kissing*{/i}"
+
+# game/scripts/palace.rpy:1220
+translate spanish palace_quarters_1_3cb79390:
+
+    # Q "Sharifa, enough!"
+    Q "Sharifa, enough!"
+
+# game/scripts/palace.rpy:1223
+translate spanish palace_quarters_1_84811e7d_1:
+
+    # Sh "My Queen, I..."
+    Sh "My Queen, I..."
+
+# game/scripts/palace.rpy:1227
+translate spanish palace_quarters_1_e6021ac5:
+
+    # Sh "...apologize."
+    Sh "...apologize."
+
+# game/scripts/palace.rpy:1230
+translate spanish palace_quarters_1_241e1b2c:
+
+    # Sh "I will see myself out. There is nothing more I can say."
+    Sh "I will see myself out. There is nothing more I can say."
+
+# game/scripts/palace.rpy:1236
+translate spanish palace_quarters_1_ae7e1649:
+
+    # "You step aside, waiting for Sharifa to practically storm out, before entering the room..."
+    "You step aside, waiting for Sharifa to practically storm out, before entering the room..."
+
+# game/scripts/palace.rpy:1241
+translate spanish palace_quarters_1_258feb8f:
+
+    # Z "Ahem..."
+    Z "Ahem..."
+
+# game/scripts/palace.rpy:1244
+translate spanish palace_quarters_1_c4bf9e72:
+
+    # "You walk inside..."
+    "You walk inside..."
+
+# game/scripts/palace.rpy:1247
+translate spanish palace_quarters_1_4fbaa3ee:
+
+    # Sh "Stalker [persistent.player_name], you are not supposed to be here!"
+    Sh "Stalker [persistent.player_name], you are not supposed to be here!"
+
+# game/scripts/palace.rpy:1250
+translate spanish palace_quarters_1_1a41d020:
+
+    # "Sharifa's look ranges from unnerved to surprised..."
+    "Sharifa's look ranges from unnerved to surprised..."
+
+# game/scripts/palace.rpy:1251
+translate spanish palace_quarters_1_a7cb2378:
+
+    # Z "I have finished my task around the palace and wanted to report."
+    Z "I have finished my task around the palace and wanted to report."
+
+# game/scripts/palace.rpy:1252
+translate spanish palace_quarters_1_a45ae948:
+
+    # Z "I saw that the Queen is not on her own. Or did I interrupt you?"
+    Z "I saw that the Queen is not on her own. Or did I interrupt you?"
+
+# game/scripts/palace.rpy:1255
+translate spanish palace_quarters_1_6f92d890:
+
+    # Sh "N-no... you did not. My Queen, I will excuse myself."
+    Sh "N-no... you did not. My Queen, I will excuse myself."
+
+# game/scripts/palace.rpy:1258
+translate spanish palace_quarters_1_6d1b73a7:
+
+    # "She hurries out. Her voice at the end suggested that your interruption upset her greatly."
+    "She hurries out. Her voice at the end suggested that your interruption upset her greatly."
+
+# game/scripts/palace.rpy:1265
+translate spanish pq40_0336318f:
+
+    # Z "Looks like I showed up at the wrong time."
+    Z "Looks like I showed up at the wrong time."
+
+# game/scripts/palace.rpy:1268
+translate spanish pq40_feb219da:
+
+    # Q "I guess it was nothing. I don't know what exactly that was, but it doesn't matter now."
+    Q "I guess it was nothing. I don't know what exactly that was, but it doesn't matter now."
+
+# game/scripts/palace.rpy:1271
+translate spanish pq40_2e9a07ef:
+
+    # Z "Well, I've done that very important task you've asked me to do. That one matters."
+    Z "Well, I've done that very important task you've asked me to do. That one matters."
+
+# game/scripts/palace.rpy:1272
+translate spanish pq40_84396790:
+
+    # "You sigh at the idea of doing menial tasks for the palace..."
+    "You sigh at the idea of doing menial tasks for the palace..."
+
+# game/scripts/palace.rpy:1275
+translate spanish pq40_962cdf3b:
+
+    # Q "Yeah, I'm sorry about that. To be honest, I originally gave you that task to discuss something in here once you're done."
+    Q "Yeah, I'm sorry about that. To be honest, I originally gave you that task to discuss something in here once you're done."
+
+# game/scripts/palace.rpy:1276
+translate spanish pq40_a7ad06fb:
+
+    # Q "But it will have to wait. I don't have the mind for it right now."
+    Q "But it will have to wait. I don't have the mind for it right now."
+
+# game/scripts/palace.rpy:1279
+translate spanish pq40_e24b39c9:
+
+    # Z "Alright. I will leave you alone then for today. Take care."
+    Z "Alright. I will leave you alone then for today. Take care."
+
+# game/scripts/palace.rpy:1282
+translate spanish pq40_1da8060a:
+
+    # Q "Thank you for understanding, [persistent.player_name]. Have a good day."
+    Q "Thank you for understanding, [persistent.player_name]. Have a good day."
+
+# game/scripts/palace.rpy:1294
+translate spanish pq40_c9757158:
+
+    # "The Queen is set off, and the situation you just witnessed still irritates her."
+    "The Queen is set off, and the situation you just witnessed still irritates her."
+
+# game/scripts/palace.rpy:1295
+translate spanish pq40_fdc641bb:
+
+    # Z "I have not seen your highest guard this upset before. That's a new one."
+    Z "I have not seen your highest guard this upset before. That's a new one."
+
+# game/scripts/palace.rpy:1298
+translate spanish pq40_d4c59ccf:
+
+    # Q "Well it was her own fault. I don't know what just happened, but I sent her out."
+    Q "Well it was her own fault. I don't know what just happened, but I sent her out."
+
+# game/scripts/palace.rpy:1301
+translate spanish pq40_a086623b:
+
+    # "She looks down, frustration in her eyes, before speaking up again..."
+    "She looks down, frustration in her eyes, before speaking up again..."
+
+# game/scripts/palace.rpy:1304
+translate spanish pq40_2c948334:
+
+    # Q "I'm sorry, [persistent.player_name]. If it's okay with you, I'd rather not speak about it right now."
+    Q "I'm sorry, [persistent.player_name]. If it's okay with you, I'd rather not speak about it right now."
+
+# game/scripts/palace.rpy:1305
+translate spanish pq40_0d0bba2e:
+
+    # Q "You know... I knew you would come here once you were done with the task. That's why I gave it to you in the first place."
+    Q "You know... I knew you would come here once you were done with the task. That's why I gave it to you in the first place."
+
+# game/scripts/palace.rpy:1308
+translate spanish pq40_e8183c8d:
+
+    # Z "We can talk another time. I did my work, so I will be leaving."
+    Z "We can talk another time. I did my work, so I will be leaving."
+
+# game/scripts/palace.rpy:1309
+translate spanish pq40_31877883:
+
+    # Z "Until next time."
+    Z "Until next time."
+
+# game/scripts/palace.rpy:1312
+translate spanish pq40_292a426f:
+
+    # Q "Thank you for understanding, [persistent.player_name]. Until next time."
+    Q "Thank you for understanding, [persistent.player_name]. Until next time."
+
+# game/scripts/palace.rpy:1326
+translate spanish palace_planning_room_1_dfcb1eb9:
+
+    # "You take a few hours to study strategies, troop movements and supply lines, replying to the surprisingly pertinent questions of Queen Merneith..."
+    "You take a few hours to study strategies, troop movements and supply lines, replying to the surprisingly pertinent questions of Queen Merneith..."
+
+# game/scripts/palace.rpy:1328
+translate spanish palace_planning_room_1_c47df606:
+
+    # Q "That's enough for now. I need a break."
+    Q "That's enough for now. I need a break."
+
+# game/scripts/palace.rpy:1331
+translate spanish palace_planning_room_1_2343511a:
+
+    # Q "You should take one as well, [persistent.player_name]."
+    Q "You should take one as well, [persistent.player_name]."
+
+# game/scripts/palace.rpy:1336
+translate spanish palace_planning_room_1_bd1e5b94:
+
+    # Z "{i}*sigh*{/i} This is terribly tedious work..."
+    Z "{i}*sigh*{/i} This is terribly tedious work..."
+
+# game/scripts/palace.rpy:1337
+translate spanish palace_planning_room_1_5ebcda34:
+
+    # Q "I know... but your knowledge of the region is greatly appreciated."
+    Q "I know... but your knowledge of the region is greatly appreciated."
+
+# game/scripts/palace.rpy:1340
+translate spanish palace_planning_room_1_1938403d:
+
+    # Q "While I'm gone, I can offer you something to relax, if you want."
+    Q "While I'm gone, I can offer you something to relax, if you want."
+
+# game/scripts/palace.rpy:1343
+translate spanish palace_planning_room_1_41ecaa5c:
+
+    # Z "What do you have in mind?"
+    Z "What do you have in mind?"
+
+# game/scripts/palace.rpy:1346
+translate spanish palace_planning_room_1_44d26c5d:
+
+    # Q "Guards, send in one of the maidens!"
+    Q "Guards, send in one of the maidens!"
+
+# game/scripts/palace.rpy:1353
+translate spanish palace_planning_room_1_fd97bf96:
+
+    # Q "This one is at your disposal for a while, Stalker. I am sure you will appreciate her talents."
+    Q "This one is at your disposal for a while, Stalker. I am sure you will appreciate her talents."
+
+# game/scripts/palace.rpy:1356
+translate spanish palace_planning_room_1_2de41cec:
+
+    # "The short girl stands before you, her golden silky attire barely covering her most intimate parts..."
+    "The short girl stands before you, her golden silky attire barely covering her most intimate parts..."
+
+# game/scripts/palace.rpy:1359
+translate spanish palace_planning_room_1_b5bd4786:
+
+    # "The temple mask gives her an anonymity that cannot belie her young age."
+    "The temple mask gives her an anonymity that cannot belie her young age."
+
+# game/scripts/palace.rpy:1362
+translate spanish palace_planning_room_1_682cc62c:
+
+    # Q "You should know that she is one my newest servants."
+    Q "You should know that she is one my newest servants."
+
+# game/scripts/palace.rpy:1363
+translate spanish palace_planning_room_1_e0701484:
+
+    # Q "Despite her young age however, you will struggle to find someone more dedicated and eager to satisfy the demands of her Queen. Her devotion is exemplary."
+    Q "Despite her young age however, you will struggle to find someone more dedicated and eager to satisfy the demands of her Queen. Her devotion is exemplary."
+
+# game/scripts/palace.rpy:1366
+translate spanish palace_planning_room_1_7fffce27:
+
+    # Q "I will return soon."
+    Q "I will return soon."
+
+# game/scripts/palace.rpy:1371
+translate spanish palace_planning_room_1_94368a74:
+
+    # Z "I appreciate it."
+    Z "I appreciate it."
+
+# game/scripts/palace.rpy:1374
+translate spanish palace_planning_room_1_f978ccd3:
+
+    # "The Queen leaves..."
+    "The Queen leaves..."
+
+# game/scripts/palace.rpy:1384
+translate spanish re_pp17_634e58c9:
+
+    # "The diminutive slave stands before you, waiting for further command..."
+    "The diminutive slave stands before you, waiting for further command..."
+
+# game/scripts/palace.rpy:1392
+translate spanish pp_menu_ed857f00:
+
+    # Z "Turn around for me."
+    Z "Turn around for me."
+
+# game/scripts/palace.rpy:1395
+translate spanish pp_menu_7bc371e6:
+
+    # Sl "..."
+    Sl "..."
+
+# game/scripts/palace.rpy:1396
+translate spanish pp_menu_3de90f28:
+
+    # "She twirls around and spreads her arms. She seems to be accustomed to the request..."
+    "She twirls around and spreads her arms. She seems to be accustomed to the request..."
+
+# game/scripts/palace.rpy:1397
+translate spanish pp_menu_5ab3574d:
+
+    # Z "..."
+    Z "..."
+
+# game/scripts/palace.rpy:1398
+translate spanish pp_menu_2795bbd5:
+
+    # Z "Turn around, again."
+    Z "Turn around, again."
+
+# game/scripts/palace.rpy:1404
+translate spanish pp_menu_21cdef35:
+
+    # "Her olive skin shines in contrast with her golden dress. What a nice sight, you can't help but think..."
+    "Her olive skin shines in contrast with her golden dress. What a nice sight, you can't help but think..."
+
+# game/scripts/palace.rpy:1409
+translate spanish pp21_eab646a4:
+
+    # Z "Undress and come to me."
+    Z "Undress and come to me."
+
+# game/scripts/palace.rpy:1412
+translate spanish pp21_ab0434f3:
+
+    # "She does as you say..."
+    "She does as you say..."
+
+# game/scripts/palace.rpy:1415
+translate spanish pp21_de646096:
+
+    # Zt "She may be a new servant, but she puts on a great show."
+    Zt "She may be a new servant, but she puts on a great show."
+
+# game/scripts/palace.rpy:1418
+translate spanish pp21_63bf6bad:
+
+    # "She slowly crawls all over you, nimble like a cat. You take the opportunity to feel her up..."
+    "She slowly crawls all over you, nimble like a cat. You take the opportunity to feel her up..."
+
+# game/scripts/palace.rpy:1419
+translate spanish pp21_bc8cc879:
+
+    # Zt "If all my breaks will be spent like this, then I won't mind doing the work."
+    Zt "If all my breaks will be spent like this, then I won't mind doing the work."
+
+# game/scripts/palace.rpy:1422
+translate spanish pp21_2adda009:
+
+    # "Her ass is small, but firm, her skin soft to the touch."
+    "Her ass is small, but firm, her skin soft to the touch."
+
+# game/scripts/palace.rpy:1423
+translate spanish pp21_ffc11c32:
+
+    # "She is patiently waiting for your next signal."
+    "She is patiently waiting for your next signal."
+
+# game/scripts/palace.rpy:1426
+translate spanish pp21_7bc371e6:
+
+    # Sl "..."
+    Sl "..."
+
+# game/scripts/palace.rpy:1429
+translate spanish pp21_900f0148:
+
+    # Z "Hm..."
+    Z "Hm..."
+
+# game/scripts/palace.rpy:1432
+translate spanish pp21_57fe0f80:
+
+    # Z "Go on, undress me and show me what you can do."
+    Z "Go on, undress me and show me what you can do."
+
+# game/scripts/palace.rpy:1435
+translate spanish pp21_0e33584f:
+
+    # "She kneels down, takes your pants off, and gets to work..."
+    "She kneels down, takes your pants off, and gets to work..."
+
+# game/scripts/palace.rpy:1438
+translate spanish pp21_759e6d4f:
+
+    # Sl "{i}*sucking*{/i}"
+    Sl "{i}*sucking*{/i}"
+
+# game/scripts/palace.rpy:1439
+translate spanish pp21_7493f66e:
+
+    # Z "Good girl."
+    Z "Good girl."
+
+# game/scripts/palace.rpy:1440
+translate spanish pp21_ed78c616:
+
+    # "She obediently follows your guidance and puts her arms behind her back while tasting your cock, allowing you to fully focus on your pleasure..."
+    "She obediently follows your guidance and puts her arms behind her back while tasting your cock, allowing you to fully focus on your pleasure..."
+
+# game/scripts/palace.rpy:1443
+translate spanish pp21_a4c943d0:
+
+    # "A small metal band behind the back of her head keeps the mask in place, so you grab the cat ears of the mask, to accompany the bobbing motion of her head."
+    "A small metal band behind the back of her head keeps the mask in place, so you grab the cat ears of the mask, to accompany the bobbing motion of her head."
+
+# game/scripts/palace.rpy:1444
+translate spanish pp21_42051d54:
+
+    # "After the briefest moment of hesitation, she lets you guide her and set the pace."
+    "After the briefest moment of hesitation, she lets you guide her and set the pace."
+
+# game/scripts/palace.rpy:1445
+translate spanish pp21_936e1dba:
+
+    # Sl "{i}*slurp*{/i}"
+    Sl "{i}*slurp*{/i}"
+
+# game/scripts/palace.rpy:1448
+translate spanish pp21_759e6d4f_1:
+
+    # Sl "{i}*sucking*{/i}"
+    Sl "{i}*sucking*{/i}"
+
+# game/scripts/palace.rpy:1449
+translate spanish pp21_06667736:
+
+    # Zt "Got to love yourself some royal slaves. They're trained, quiet and do their job."
+    Zt "Got to love yourself some royal slaves. They're trained, quiet and do their job."
+
+# game/scripts/palace.rpy:1450
+translate spanish pp21_36e95679:
+
+    # "You feel yourself getting closer with each stroke."
+    "You feel yourself getting closer with each stroke."
+
+# game/scripts/palace.rpy:1451
+translate spanish pp21_b1283c93:
+
+    # Z "Prepare yourself, maiden..."
+    Z "Prepare yourself, maiden..."
+
+# game/scripts/palace.rpy:1454
+translate spanish pp21_eff530a5:
+
+    # "You can feel her lips tightening, and her tongue movement getting more sloppy, drowning your dick in saliva."
+    "You can feel her lips tightening, and her tongue movement getting more sloppy, drowning your dick in saliva."
+
+# game/scripts/palace.rpy:1455
+translate spanish pp21_43d26213:
+
+    # Zt "She's damn good..."
+    Zt "She's damn good..."
+
+# game/scripts/palace.rpy:1458
+translate spanish pp21_e156dcdd:
+
+    # Z "Ngh-"
+    Z "Ngh-"
+
+# game/scripts/palace.rpy:1459
+translate spanish pp21_e548b61c:
+
+    # "You pull her head towards your lap, engorging your shaft down her throat..."
+    "You pull her head towards your lap, engorging your shaft down her throat..."
+
+# game/scripts/palace.rpy:1461
+translate spanish pp21_e25bedad:
+
+    # Sl "{i}*gulp*{/i}"
+    Sl "{i}*gulp*{/i}"
+
+# game/scripts/palace.rpy:1463
+translate spanish pp21_b1aeb283:
+
+    # Z "Mh..."
+    Z "Mh..."
+
+# game/scripts/palace.rpy:1464
+translate spanish pp21_e25bedad_1:
+
+    # Sl "{i}*gulp*{/i}"
+    Sl "{i}*gulp*{/i}"
+
+# game/scripts/palace.rpy:1467
+translate spanish pp21_1290596e:
+
+    # "Cum flows out of her mouth, despite her best attempts to swallow your load..."
+    "Cum flows out of her mouth, despite her best attempts to swallow your load..."
+
+# game/scripts/palace.rpy:1473
+translate spanish pp21_c9f44e73:
+
+    # Q "I see you're having fun."
+    Q "I see you're having fun."
+
+# game/scripts/palace.rpy:1474
+translate spanish pp21_4e6d3b81:
+
+    # Z "Yeah... she's a good one. Very talented, as you said."
+    Z "Yeah... she's a good one. Very talented, as you said."
+
+# game/scripts/palace.rpy:1477
+translate spanish pp21_f288734d:
+
+    # Q "Ready to return to work?"
+    Q "Ready to return to work?"
+
+# game/scripts/palace.rpy:1478
+translate spanish pp21_398bbd47:
+
+    # Q "There are still some things I would like your advice on."
+    Q "There are still some things I would like your advice on."
+
+# game/scripts/palace.rpy:1481
+translate spanish pp21_b2f317be:
+
+    # Z "Go ahead, open the next scrolls. I will get dressed and join you."
+    Z "Go ahead, open the next scrolls. I will get dressed and join you."
+
+# game/scripts/palace.rpy:1486
+translate spanish pp21_fc6e88df:
+
+    # "You tackle a few more logistic issues the Queen is having, learning more about both the military forces of Zeta and some of the more boring administrative problems."
+    "You tackle a few more logistic issues the Queen is having, learning more about both the military forces of Zeta and some of the more boring administrative problems."
+
+# game/scripts/palace.rpy:1487
+translate spanish pp21_2c200fa9:
+
+    # "Eventually, the Queen dismisses you and you return home, aware that she will still spend a few more hours making deliberations over the resources of the city and how they are allocated."
+    "Eventually, the Queen dismisses you and you return home, aware that she will still spend a few more hours making deliberations over the resources of the city and how they are allocated."
+
+# game/scripts/palace.rpy:1492
+translate spanish pp21_1ef8630c:
+
+    # Z "I appreciate it, but I don't need anything today."
+    Z "I appreciate it, but I don't need anything today."
+
+# game/scripts/palace.rpy:1495
+translate spanish pp21_021820c1:
+
+    # Q "Oh, is that so?"
+    Q "Oh, is that so?"
+
+# game/scripts/palace.rpy:1499
+translate spanish pp21_38a04676:
+
+    # Z "Yeah. I'll wait for a better kind of reward, some other day..."
+    Z "Yeah. I'll wait for a better kind of reward, some other day..."
+
+# game/scripts/palace.rpy:1500
+translate spanish pp21_c6a717b7:
+
+    # Z "You know what? I say we get back to work instead. Let's get this over with."
+    Z "You know what? I say we get back to work instead. Let's get this over with."
+
+# game/scripts/palace.rpy:1510
+translate spanish palace_planning_room_2_2bd537cb:
+
+    # "The work is tedious. A mix of reading tables of city resources and staring at maps of the city proper... and you look forward to another break."
+    "The work is tedious. A mix of reading tables of city resources and staring at maps of the city proper... and you look forward to another break."
+
+# game/scripts/palace.rpy:1513
+translate spanish palace_planning_room_2_efa2fecb:
+
+    # Z "{i}*sigh*{/i}"
+    Z "{i}*sigh*{/i}"
+
+# game/scripts/palace.rpy:1514
+translate spanish palace_planning_room_2_97daf455:
+
+    # Z "Let's take a break, alright?"
+    Z "Let's take a break, alright?"
+
+# game/scripts/palace.rpy:1517
+translate spanish palace_planning_room_2_b1ce1b31:
+
+    # Q "Guards...!"
+    Q "Guards...!"
+
+# game/scripts/palace.rpy:1522
+translate spanish palace_planning_room_2_01b6e2cc:
+
+    # Q "Do you want to have someone to keep you company again?"
+    Q "Do you want to have someone to keep you company again?"
+
+# game/scripts/palace.rpy:1527
+translate spanish palace_planning_room_2_60a2a1e0:
+
+    # Q "Are you interested in her service this time, [persistent.player_name]?"
+    Q "Are you interested in her service this time, [persistent.player_name]?"
+
+# game/scripts/palace.rpy:1540
+translate spanish re_pp16_b9d40251:
+
+    # Z "Leave her here. I'll give the girl something to do."
+    Z "Leave her here. I'll give the girl something to do."
+
+# game/scripts/palace.rpy:1543
+translate spanish re_pp16_2763f09f:
+
+    # Q "Be nice, [persistent.player_name]."
+    Q "Be nice, [persistent.player_name]."
+
+# game/scripts/palace.rpy:1549
+translate spanish re_pp16_5a28e78f:
+
+    # Z "Fine, you win. Let's see what is so special about this one."
+    Z "Fine, you win. Let's see what is so special about this one."
+
+# game/scripts/palace.rpy:1552
+translate spanish re_pp16_de5cc782:
+
+    # Q "Enjoy your time with her, [persistent.player_name]."
+    Q "Enjoy your time with her, [persistent.player_name]."
+
+# game/scripts/palace.rpy:1559
+translate spanish re_pp16_6426d5b5:
+
+    # Z "I'll pass, this time."
+    Z "I'll pass, this time."
+
+# game/scripts/palace.rpy:1561
+translate spanish re_pp16_0bab687e:
+
+    # Z "No, thank you."
+    Z "No, thank you."
+
+# game/scripts/palace.rpy:1563
+translate spanish re_pp16_c92cb683:
+
+    # Z "What about the other girl who's standing in front of me, though?"
+    Z "What about the other girl who's standing in front of me, though?"
+
+# game/scripts/palace.rpy:1566
+translate spanish re_pp16_2f7f553a:
+
+    # Q "Nice try, [persistent.player_name], but we talked about this."
+    Q "Nice try, [persistent.player_name], but we talked about this."
+
+# game/scripts/palace.rpy:1567
+translate spanish re_pp16_015d840e:
+
+    # Q "I will take a break regardless now. I will see you in a bit."
+    Q "I will take a break regardless now. I will see you in a bit."
+
+# game/scripts/palace.rpy:1571
+translate spanish re_pp16_28a298e8:
+
+    # Q "As you wish."
+    Q "As you wish."
+
+# game/scripts/palace.rpy:1572
+translate spanish re_pp16_841fb81f:
+
+    # Q "I will take a break regardless now. Let's continue working in a while."
+    Q "I will take a break regardless now. Let's continue working in a while."
+
+# game/scripts/palace.rpy:1575
+translate spanish re_pp16_1274bf1d:
+
+    # Z "Alright. I will wait here."
+    Z "Alright. I will wait here."
+
+# game/scripts/palace.rpy:1584
+translate spanish pp29anim_759e6d4f:
+
+    # Sl "{i}*sucking*{/i}"
+    Sl "{i}*sucking*{/i}"
+
+# game/scripts/palace.rpy:1585
+translate spanish pp29anim_3783a677:
+
+    # Z "Good work, kid. You seem to put even more work into it today."
+    Z "Good work, kid. You seem to put even more work into it today."
+
+# game/scripts/palace.rpy:1586
+translate spanish pp29anim_a3d12b67:
+
+    # "You enjoy the young woman's sloppy sucking while trying to avoid thinking of the big pile of papers that is still waiting for you."
+    "You enjoy the young woman's sloppy sucking while trying to avoid thinking of the big pile of papers that is still waiting for you."
+
+# game/scripts/palace.rpy:1587
+translate spanish pp29anim_f7654e48:
+
+    # Zt "The only upside from this tedious work is the fact that the Queen seems to open up towards me more."
+    Zt "The only upside from this tedious work is the fact that the Queen seems to open up towards me more."
+
+# game/scripts/palace.rpy:1588
+translate spanish pp29anim_08f61128:
+
+    # Zt "I think she enjoys having someone like me on her side. I wonder if I am the only Stalker she cooperates with this closely?"
+    Zt "I think she enjoys having someone like me on her side. I wonder if I am the only Stalker she cooperates with this closely?"
+
+# game/scripts/palace.rpy:1589
+translate spanish pp29anim_dc4b4de5:
+
+    # Zt "I bet she couldn't resist taking a look at me on her way out..."
+    Zt "I bet she couldn't resist taking a look at me on her way out..."
+
+# game/scripts/palace.rpy:1590
+translate spanish pp29anim_936e1dba:
+
+    # Sl "{i}*slurp*{/i}"
+    Sl "{i}*slurp*{/i}"
+
+# game/scripts/palace.rpy:1593
+translate spanish pp29anim_ecf749a6:
+
+    # Zt "She seems very liberal with the services of her maidens."
+    Zt "She seems very liberal with the services of her maidens."
+
+# game/scripts/palace.rpy:1594
+translate spanish pp29anim_56b7fa24:
+
+    # Zt "I wonder if she's privately thinking about what's happening here."
+    Zt "I wonder if she's privately thinking about what's happening here."
+
+# game/scripts/palace.rpy:1595
+translate spanish pp29anim_759e6d4f_1:
+
+    # Sl "{i}*sucking*{/i}"
+    Sl "{i}*sucking*{/i}"
+
+# game/scripts/palace.rpy:1599
+translate spanish pp29anim_29c90c0e:
+
+    # Z "Hey, girl. You've gotten even better since last time."
+    Z "Hey, girl. You've gotten even better since last time."
+
+# game/scripts/palace.rpy:1600
+translate spanish pp29anim_651e2564:
+
+    # Z "Say, I guess you are getting more familiar with me, huh?"
+    Z "Say, I guess you are getting more familiar with me, huh?"
+
+# game/scripts/palace.rpy:1601
+translate spanish pp29anim_c700a355:
+
+    # Sl "{i}*slurp*{/i} Yesh, mahs... {i}*sucking*{/i}"
+    Sl "{i}*slurp*{/i} Yesh, mahs... {i}*sucking*{/i}"
+
+# game/scripts/palace.rpy:1603
+translate spanish pp29anim_17e5fa61:
+
+    # Z "You're not bad at this, for your age. I expected worse."
+    Z "You're not bad at this, for your age. I expected worse."
+
+# game/scripts/palace.rpy:1604
+translate spanish pp29anim_d80d6ced:
+
+    # Z "I wonder what you look like under that mask..."
+    Z "I wonder what you look like under that mask..."
+
+# game/scripts/palace.rpy:1605
+translate spanish pp29anim_a70500de:
+
+    # Sl "I must not... mh... {i}*slurp*{/i}"
+    Sl "I must not... mh... {i}*slurp*{/i}"
+
+# game/scripts/palace.rpy:1606
+translate spanish pp29anim_b03f3631:
+
+    # Z "I know."
+    Z "I know."
+
+# game/scripts/palace.rpy:1609
+translate spanish pp29anim_e8aa6c72:
+
+    # "You hear familiar footsteps approaching. The Queen came back early."
+    "You hear familiar footsteps approaching. The Queen came back early."
+
+# game/scripts/palace.rpy:1613
+translate spanish pp29anim_1a6aa7a9:
+
+    # Q "Having fun again, [persistent.player_name]?"
+    Q "Having fun again, [persistent.player_name]?"
+
+# game/scripts/palace.rpy:1615
+translate spanish pp29anim_8eea6c08:
+
+    # Q "I see you are having fun, [persistent.player_name]."
+    Q "I see you are having fun, [persistent.player_name]."
+
+# game/scripts/palace.rpy:1616
+translate spanish pp29anim_521a4b0d:
+
+    # Z "I am not finished, yet."
+    Z "I am not finished, yet."
+
+# game/scripts/palace.rpy:1619
+translate spanish pp29anim_9b46e32a:
+
+    # "She subtly touches your shoulder..."
+    "She subtly touches your shoulder..."
+
+# game/scripts/palace.rpy:1620
+translate spanish pp29anim_0e9b7e0d:
+
+    # Q "Maybe..."
+    Q "Maybe..."
+
+# game/scripts/palace.rpy:1623
+translate spanish pp29anim_e9b4328d:
+
+    # Q "There is still work to do. I could send her to the thermae to wait for you, if you want to finish?"
+    Q "There is still work to do. I could send her to the thermae to wait for you, if you want to finish?"
+
+# game/scripts/palace.rpy:1632
+translate spanish pp29anim_6ebcf416:
+
+    # Z "No... that won't be necessary."
+    Z "No... that won't be necessary."
+
+# game/scripts/palace.rpy:1634
+translate spanish pp29anim_0ae5c2ae:
+
+    # Z "I think I will finish right here, with your help."
+    Z "I think I will finish right here, with your help."
+
+# game/scripts/palace.rpy:1636
+translate spanish pp29anim_5e84da41:
+
+    # Z "I will try to finish right here. Would you care to help?"
+    Z "I will try to finish right here. Would you care to help?"
+
+# game/scripts/palace.rpy:1639
+translate spanish pp29anim_125a93d2:
+
+    # Q "...?"
+    Q "...?"
+
+# game/scripts/palace.rpy:1642
+translate spanish pp29anim_83627a53:
+
+    # Z "She's not bad, you see."
+    Z "She's not bad, you see."
+
+# game/scripts/palace.rpy:1643
+translate spanish pp29anim_936e1dba_1:
+
+    # Sl "{i}*slurp*{/i}"
+    Sl "{i}*slurp*{/i}"
+
+# game/scripts/palace.rpy:1646
+translate spanish pp29anim_07d7137e:
+
+    # Z "But there's only so much a girl can do when giving head."
+    Z "But there's only so much a girl can do when giving head."
+
+# game/scripts/palace.rpy:1649
+translate spanish pp29anim_aa86fb55:
+
+    # "You start touching her thighs..."
+    "You start touching her thighs..."
+
+# game/scripts/palace.rpy:1650
+translate spanish pp29anim_5e216356:
+
+    # Qw "[persistent.player_name]..."
+    Qw "[persistent.player_name]..."
+
+# game/scripts/palace.rpy:1654
+translate spanish pp29anim_673c9354:
+
+    # Q "[persistent.player_name]... {i}*sigh*{/i}"
+    Q "[persistent.player_name]... {i}*sigh*{/i}"
+
+# game/scripts/palace.rpy:1657
+translate spanish pp29anim_61b6376e:
+
+    # Q "Maybe looking at me will make it easier..."
+    Q "Maybe looking at me will make it easier..."
+
+# game/scripts/palace.rpy:1660
+translate spanish pp29anim_88fd81d5:
+
+    # Zt "She really is getting more familiar with me!"
+    Zt "She really is getting more familiar with me!"
+
+# game/scripts/palace.rpy:1661
+translate spanish pp29anim_114542bc:
+
+    # Z "That's a... splendid idea."
+    Z "That's a... splendid idea."
+
+# game/scripts/palace.rpy:1665
+translate spanish pp29anim_89eee7a7:
+
+    # Z "Kneel for a minute, will you."
+    Z "Kneel for a minute, will you."
+
+# game/scripts/palace.rpy:1668
+translate spanish pp29anim_62b08b92:
+
+    # "She does so, with a nervous look in her eyes."
+    "She does so, with a nervous look in her eyes."
+
+# game/scripts/palace.rpy:1669
+translate spanish pp29anim_bdc61a01:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:1670
+translate spanish pp29anim_70aba7a4:
+
+    # Zt "I expected a protest. I {i}should{/i} have received at least a protest. This is interesting."
+    Zt "I expected a protest. I {i}should{/i} have received at least a protest. This is interesting."
+
+# game/scripts/palace.rpy:1673
+translate spanish pp29anim_5164899f:
+
+    # "You stare deep into her eyes, assertively."
+    "You stare deep into her eyes, assertively."
+
+# game/scripts/palace.rpy:1674
+translate spanish pp29anim_bf655e73:
+
+    # Z "Stay there and watch me, that is all I need from you."
+    Z "Stay there and watch me, that is all I need from you."
+
+# game/scripts/palace.rpy:1678
+translate spanish pp29anim_2d505ca1:
+
+    # "You guide the slave's head on your dick, but your mind is fully focused on the Queen."
+    "You guide the slave's head on your dick, but your mind is fully focused on the Queen."
+
+# game/scripts/palace.rpy:1679
+translate spanish pp29anim_18a7bd67:
+
+    # "You feel your excitement growing. The Queen is kneeling down for you, waiting for your release, eyes transfixed on what is unfolding in front of her."
+    "You feel your excitement growing. The Queen is kneeling down for you, waiting for your release, eyes transfixed on what is unfolding in front of her."
+
+# game/scripts/palace.rpy:1682
+translate spanish pp29anim_83ed7cf4:
+
+    # "Moments pass, only the careful ministrations of the young slave breaking the silence."
+    "Moments pass, only the careful ministrations of the young slave breaking the silence."
+
+# game/scripts/palace.rpy:1683
+translate spanish pp29anim_b0be55a5:
+
+    # "You catch the Queen's eyes slowly roaming over your muscular body, then to your rigid dick, then to the slave, her head firmly guided by your grip."
+    "You catch the Queen's eyes slowly roaming over your muscular body, then to your rigid dick, then to the slave, her head firmly guided by your grip."
+
+# game/scripts/palace.rpy:1686
+translate spanish pp29anim_88f34ef1:
+
+    # Sl "{i}*licking*{/i}"
+    Sl "{i}*licking*{/i}"
+
+# game/scripts/palace.rpy:1687
+translate spanish pp29anim_4778e28a:
+
+    # "It doesn't matter much that the Queen is not undressed. It matters that she is still, knowing that her look turns you on more and more."
+    "It doesn't matter much that the Queen is not undressed. It matters that she is still, knowing that her look turns you on more and more."
+
+# game/scripts/palace.rpy:1688
+translate spanish pp29anim_5f1c9e24:
+
+    # "She seems to wait patiently, unmistakable excitement in her gaze."
+    "She seems to wait patiently, unmistakable excitement in her gaze."
+
+# game/scripts/palace.rpy:1691
+translate spanish pp29anim_8167af8a:
+
+    # "You look deep into her eyes and they tell you everything you need. Her instinct matches with yours."
+    "You look deep into her eyes and they tell you everything you need. Her instinct matches with yours."
+
+# game/scripts/palace.rpy:1694
+translate spanish pp29anim_80794bd4:
+
+    # Z "Don't stop."
+    Z "Don't stop."
+
+# game/scripts/palace.rpy:1697
+translate spanish pp29anim_908d5566:
+
+    # Sl "Mh.."
+    Sl "Mh.."
+
+# game/scripts/palace.rpy:1698
+translate spanish pp29anim_2f8a6c53:
+
+    # "You pull her head tighter, reaching your climax..."
+    "You pull her head tighter, reaching your climax..."
+
+# game/scripts/palace.rpy:1704
+translate spanish pp29anim_c71df830:
+
+    # Z "Mgh-"
+    Z "Mgh-"
+
+# game/scripts/palace.rpy:1707
+translate spanish pp29anim_5ab3574d:
+
+    # Z "..."
+    Z "..."
+
+# game/scripts/palace.rpy:1708
+translate spanish pp29anim_3a14fdcc:
+
+    # "The slave's lips tilt your dick to the right, your cum landing on the Queen's breast and shoulder."
+    "The slave's lips tilt your dick to the right, your cum landing on the Queen's breast and shoulder."
+
+# game/scripts/palace.rpy:1709
+translate spanish pp29anim_5e19bb70:
+
+    # "You know that your grip on the maiden's head may have had something to do with that outcome, and you didn't do anything to prevent it..."
+    "You know that your grip on the maiden's head may have had something to do with that outcome, and you didn't do anything to prevent it..."
+
+# game/scripts/palace.rpy:1712
+translate spanish pp29anim_bdc61a01_1:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:1713
+translate spanish pp29anim_bc00b2d0:
+
+    # "Something scandalous just occurred, you realise, in the afterglow of your orgasm, bringing you back to a sober reality."
+    "Something scandalous just occurred, you realise, in the afterglow of your orgasm, bringing you back to a sober reality."
+
+# game/scripts/palace.rpy:1714
+translate spanish pp29anim_86332927:
+
+    # "Something that the Queen could not possibly be subjected to. Something she can never publicly allow to be known."
+    "Something that the Queen could not possibly be subjected to. Something she can never publicly allow to be known."
+
+# game/scripts/palace.rpy:1715
+translate spanish pp29anim_919de16e:
+
+    # "And yet it happened, and she is silent. Her stare towards you betrays a jumble of different emotions."
+    "And yet it happened, and she is silent. Her stare towards you betrays a jumble of different emotions."
+
+# game/scripts/palace.rpy:1716
+translate spanish pp29anim_3dfe6fa6:
+
+    # Z "Thank you for your assistance."
+    Z "Thank you for your assistance."
+
+# game/scripts/palace.rpy:1717
+translate spanish pp29anim_f029414f:
+
+    # Z "It's best you clean up, my Queen. And then... we can continue our work."
+    Z "It's best you clean up, my Queen. And then... we can continue our work."
+
+# game/scripts/palace.rpy:1724
+translate spanish pp34_a31651fa:
+
+    # Z "No need. I'm about to finish. Give me a moment."
+    Z "No need. I'm about to finish. Give me a moment."
+
+# game/scripts/palace.rpy:1727
+translate spanish pp34_688f5a57:
+
+    # Sl "Ngh-"
+    Sl "Ngh-"
+
+# game/scripts/palace.rpy:1728
+translate spanish pp34_b5342a47:
+
+    # Z "Keep it down, girl."
+    Z "Keep it down, girl."
+
+# game/scripts/palace.rpy:1729
+translate spanish pp34_88f34ef1:
+
+    # Sl "{i}*licking*{/i}"
+    Sl "{i}*licking*{/i}"
+
+# game/scripts/palace.rpy:1730
+translate spanish pp34_7aca8a50:
+
+    # Z "Yeah. Like that..."
+    Z "Yeah. Like that..."
+
+# game/scripts/palace.rpy:1731
+translate spanish pp34_ca255869:
+
+    # Q "...[persistent.player_name]..."
+    Q "...[persistent.player_name]..."
+
+# game/scripts/palace.rpy:1734
+translate spanish pp34_6a4cdd0d:
+
+    # Qw "I can't be standing next to a Stalker and watch him cum into a slave, [persistent.player_name]."
+    Qw "I can't be standing next to a Stalker and watch him cum into a slave, [persistent.player_name]."
+
+# game/scripts/palace.rpy:1735
+translate spanish pp34_94bc1069:
+
+    # Qw "Imagine if the guards saw us..."
+    Qw "Imagine if the guards saw us..."
+
+# game/scripts/palace.rpy:1740
+translate spanish pp34_6b222cc1:
+
+    # Zw "Imagine they saw us when you had my cum all over your body."
+    Zw "Imagine they saw us when you had my cum all over your body."
+
+# game/scripts/palace.rpy:1743
+translate spanish pp34_bdc61a01:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:1744
+translate spanish pp34_4e1d761e:
+
+    # Zw "You looked fantastic, by the way."
+    Zw "You looked fantastic, by the way."
+
+# game/scripts/palace.rpy:1746
+translate spanish pp34_27fb1534:
+
+    # Zw "You're no stranger to watching me, though."
+    Zw "You're no stranger to watching me, though."
+
+# game/scripts/palace.rpy:1749
+translate spanish pp34_bdc61a01_1:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:1750
+translate spanish pp34_ba4183cd:
+
+    # Zw "Last time my [persistent.da] was in your slave's spot, remember?"
+    Zw "Last time my [persistent.da] was in your slave's spot, remember?"
+
+# game/scripts/palace.rpy:1753
+translate spanish pp34_6b6c72a2:
+
+    # Z "I'm sure you can make an exception."
+    Z "I'm sure you can make an exception."
+
+# game/scripts/palace.rpy:1755
+translate spanish pp34_6de5e2d9:
+
+    # Z "I am sure they can be...persuaded to be silent, if needed..."
+    Z "I am sure they can be...persuaded to be silent, if needed..."
+
+# game/scripts/palace.rpy:1760
+translate spanish pp34_8fc88b5a:
+
+    # Z "Back to it..."
+    Z "Back to it..."
+
+# game/scripts/palace.rpy:1761
+translate spanish pp34_c141ac4d:
+
+    # "The thought of the Queen observing the events seems to trigger you."
+    "The thought of the Queen observing the events seems to trigger you."
+
+# game/scripts/palace.rpy:1762
+translate spanish pp34_c86f8fd2:
+
+    # "The slave relaxes her throat even more for you, and you quickly reach climax..."
+    "The slave relaxes her throat even more for you, and you quickly reach climax..."
+
+# game/scripts/palace.rpy:1765
+translate spanish pp34_d4edf312:
+
+    # Z "Ngh..."
+    Z "Ngh..."
+
+# game/scripts/palace.rpy:1767
+translate spanish pp34_936e1dba:
+
+    # Sl "{i}*slurp*{/i}"
+    Sl "{i}*slurp*{/i}"
+
+# game/scripts/palace.rpy:1769
+translate spanish pp34_e25bedad:
+
+    # Sl "{i}*gulp*{/i}"
+    Sl "{i}*gulp*{/i}"
+
+# game/scripts/palace.rpy:1770
+translate spanish pp34_bdc61a01_2:
+
+    # Q "..."
+    Q "..."
+
+# game/scripts/palace.rpy:1772
+translate spanish pp34_20dd8b63:
+
+    # Qw "I can... hear her gulping."
+    Qw "I can... hear her gulping."
+
+# game/scripts/palace.rpy:1773
+translate spanish pp34_b125de17:
+
+    # Qw "Are you sure she can breathe...?"
+    Qw "Are you sure she can breathe...?"
+
+# game/scripts/palace.rpy:1776
+translate spanish pp34_397a052e:
+
+    # Z "That was good."
+    Z "That was good."
+
+# game/scripts/palace.rpy:1777
+translate spanish pp34_94f3c65a:
+
+    # Sl "{i}*cough*{/i}"
+    Sl "{i}*cough*{/i}"
+
+# game/scripts/palace.rpy:1778
+translate spanish pp34_5e0cd8c2:
+
+    # Z "Clean me up, and then you'll be free to go, slave."
+    Z "Clean me up, and then you'll be free to go, slave."
+
+# game/scripts/palace.rpy:1781
+translate spanish pp34_261357ac:
+
+    # "The maiden does as she is told, and after she's done cleaning your shaft, you get up and head back to work."
+    "The maiden does as she is told, and after she's done cleaning your shaft, you get up and head back to work."
+
+# game/scripts/palace.rpy:1793
+translate spanish palace_throne_room_1_bc4cd4a6:
+
+    # Q "Guards... Let the people in."
+    Q "Guards... Let the people in."
+
+# game/scripts/palace.rpy:1798
+translate spanish palace_throne_room_1_57212ae7:
+
+    # "You stand to the side as the visitors approach the throne..."
+    "You stand to the side as the visitors approach the throne..."
+
+# game/scripts/palace.rpy:1801
+translate spanish palace_throne_room_1_fa798278:
+
+    # Q "Huntsmen of the Karnak hills. We welcome you to our halls."
+    Q "Huntsmen of the Karnak hills. We welcome you to our halls."
+
+# game/scripts/palace.rpy:1802
+translate spanish palace_throne_room_1_487df74d:
+
+    # WL "My Queen, we thank you for granting us audience. We have travelled a long way and left our home tribe on pilgrimage to this Holy City. To be in your presence, sat on the golden throne is our greatest honour."
+    WL "My Queen, we thank you for granting us audience. We have travelled a long way and left our home tribe on pilgrimage to this Holy City. To be in your presence, sat on the golden throne is our greatest honour."
+
+# game/scripts/palace.rpy:1805
+translate spanish palace_throne_room_1_bbaa77f8:
+
+    # Q "Have you brought the customary tribute?"
+    Q "Have you brought the customary tribute?"
+
+# game/scripts/palace.rpy:1806
+translate spanish palace_throne_room_1_b058ad68:
+
+    # WL "Yes, my Queen. We have brought with us five of our children to swear loyalty to the temple."
+    WL "Yes, my Queen. We have brought with us five of our children to swear loyalty to the temple."
+
+# game/scripts/palace.rpy:1807
+translate spanish palace_throne_room_1_c6bf8f20:
+
+    # WL "Knowing that they are safe here in the City, ready to serve you loyally, fills us with pride."
+    WL "Knowing that they are safe here in the City, ready to serve you loyally, fills us with pride."
+
+# game/scripts/palace.rpy:1808
+translate spanish palace_throne_room_1_ce06696b:
+
+    # Q "If they acquit themselves well, you will see them become proud citizens of Zeta."
+    Q "If they acquit themselves well, you will see them become proud citizens of Zeta."
+
+# game/scripts/palace.rpy:1809
+translate spanish palace_throne_room_1_a1110867:
+
+    # Q "A small price to pay, an honour even, in exchange for extending our protecting hand over the hills of Karnak."
+    Q "A small price to pay, an honour even, in exchange for extending our protecting hand over the hills of Karnak."
+
+# game/scripts/palace.rpy:1810
+translate spanish palace_throne_room_1_89868602:
+
+    # Q "Let it be known that your tribe will be under the protection of the city of Zeta."
+    Q "Let it be known that your tribe will be under the protection of the city of Zeta."
+
+# game/scripts/palace.rpy:1811
+translate spanish palace_throne_room_1_9f35e251:
+
+    # WL "Thank you my Queen. In exchange we will pay tribute and protect your borders."
+    WL "Thank you my Queen. In exchange we will pay tribute and protect your borders."
+
+# game/scripts/palace.rpy:1812
+translate spanish palace_throne_room_1_3804b4f5:
+
+    # WL "To that effect, I must inform you that... we have been ambushed by Hathor's sphinxions. We barely managed to fend them off."
+    WL "To that effect, I must inform you that... we have been ambushed by Hathor's sphinxions. We barely managed to fend them off."
+
+# game/scripts/palace.rpy:1813
+translate spanish palace_throne_room_1_e039aa10:
+
+    # Q "How... how is this possible? Have you run into a lair?"
+    Q "How... how is this possible? Have you run into a lair?"
+
+# game/scripts/palace.rpy:1814
+translate spanish palace_throne_room_1_6f47b64f:
+
+    # Q "Where was this?"
+    Q "Where was this?"
+
+# game/scripts/palace.rpy:1817
+translate spanish palace_throne_room_1_b03d73e4:
+
+    # WL "Not too far off from the walls of the city, my Queen. I... suspect a new lair was nearby. As we were setting up our camp, we could hear faint humming in the distance, but we paid it no mind, so close to the City."
+    WL "Not too far off from the walls of the city, my Queen. I... suspect a new lair was nearby. As we were setting up our camp, we could hear faint humming in the distance, but we paid it no mind, so close to the City."
+
+# game/scripts/palace.rpy:1818
+translate spanish palace_throne_room_1_6644ab27:
+
+    # WL "None of us had faced them before, so we were unprepared. When the humming got suddenly louder, it was too late."
+    WL "None of us had faced them before, so we were unprepared. When the humming got suddenly louder, it was too late."
+
+# game/scripts/palace.rpy:1819
+translate spanish palace_throne_room_1_9f60ecaa:
+
+    # WL "Some of us got dragged away before we had a chance to react."
+    WL "Some of us got dragged away before we had a chance to react."
+
+# game/scripts/palace.rpy:1820
+translate spanish palace_throne_room_1_f647bf5e:
+
+    # WL "My sister was wounded also, similar cuts to the ones you can see in my face."
+    WL "My sister was wounded also, similar cuts to the ones you can see in my face."
+
+# game/scripts/palace.rpy:1821
+translate spanish palace_throne_room_1_9c77ce0a:
+
+    # WL "She humbly begs for assistance from the Temple."
+    WL "She humbly begs for assistance from the Temple."
+
+# game/scripts/palace.rpy:1824
+translate spanish palace_throne_room_1_3ade637a:
+
+    # Q "We shall see about that."
+    Q "We shall see about that."
+
+# game/scripts/palace.rpy:1825
+translate spanish palace_throne_room_1_988eba8b:
+
+    # Q "We appreciate that you are alive, and that your tribe has decided to serve the throne."
+    Q "We appreciate that you are alive, and that your tribe has decided to serve the throne."
+
+# game/scripts/palace.rpy:1828
+translate spanish palace_throne_room_1_40130d3d:
+
+    # Q "Now, go. You may eat and drink and rest until the morning. Your children will come greet you for one last time, before you return home."
+    Q "Now, go. You may eat and drink and rest until the morning. Your children will come greet you for one last time, before you return home."
+
+# game/scripts/palace.rpy:1829
+translate spanish palace_throne_room_1_22900227:
+
+    # Q "Our caravans will make sure to reach out to your village in the coming months, as agreed, to establish a proper trade agreement."
+    Q "Our caravans will make sure to reach out to your village in the coming months, as agreed, to establish a proper trade agreement."
+
+# game/scripts/palace.rpy:1830
+translate spanish palace_throne_room_1_830fe665:
+
+    # Q "You are dismissed, huntsmen."
+    Q "You are dismissed, huntsmen."
+
+# game/scripts/palace.rpy:1833
+translate spanish palace_throne_room_1_ede3029b:
+
+    # WL "Thank you, my Queen."
+    WL "Thank you, my Queen."
+
+# game/scripts/palace.rpy:1836
+translate spanish palace_throne_room_1_33db47ab:
+
+    # "You walk over to the throne as the guests leave..."
+    "You walk over to the throne as the guests leave..."
+
+# game/scripts/palace.rpy:1839
+translate spanish palace_throne_room_1_cc9be6f7:
+
+    # Q "So... what do you think? It's not that complicated, is it?"
+    Q "So... what do you think? It's not that complicated, is it?"
+
+# game/scripts/palace.rpy:1844
+translate spanish palace_throne_room_1_83db13eb:
+
+    # Z "You get straight to the point, that's for sure."
+    Z "You get straight to the point, that's for sure."
+
+# game/scripts/palace.rpy:1845
+translate spanish palace_throne_room_1_17f9cb87:
+
+    # Z "Reminds me of the first times I took part in a hearing."
+    Z "Reminds me of the first times I took part in a hearing."
+
+# game/scripts/palace.rpy:1848
+translate spanish palace_throne_room_1_ed005359:
+
+    # Q "Yes, somewhat. Except this one doesn't have the same consequences."
+    Q "Yes, somewhat. Except this one doesn't have the same consequences."
+
+# game/scripts/palace.rpy:1852
+translate spanish palace_throne_room_1_16dfc28b:
+
+    # Z "Well... these people have gone through tough times."
+    Z "Well... these people have gone through tough times."
+
+# game/scripts/palace.rpy:1853
+translate spanish palace_throne_room_1_1db1e21d:
+
+    # Z "Man's left with huge scars, and his sister is probably worse off."
+    Z "Man's left with huge scars, and his sister is probably worse off."
+
+# game/scripts/palace.rpy:1856
+translate spanish palace_throne_room_1_fcf798b4:
+
+    # Z "I don't think it's wrong to show more empathy here."
+    Z "I don't think it's wrong to show more empathy here."
+
+# game/scripts/palace.rpy:1859
+translate spanish palace_throne_room_1_14a93d82:
+
+    # Q "If I concerned myself for every injury my soldiers or servants endure during their missions, I would not be able to sleep at night."
+    Q "If I concerned myself for every injury my soldiers or servants endure during their missions, I would not be able to sleep at night."
+
+# game/scripts/palace.rpy:1862
+translate spanish palace_throne_room_1_30ff8360:
+
+    # Q "...but, I will consider what you said."
+    Q "...but, I will consider what you said."
+
+# game/scripts/palace.rpy:1868
+translate spanish pt15_8b64d7e3:
+
+    # Q "If you want, you can assist me in future hearings?"
+    Q "If you want, you can assist me in future hearings?"
+
+# game/scripts/palace.rpy:1871
+translate spanish pt15_7945db76:
+
+    # Q "I thought it would be beneficial to have you around, should there be more controversial cases coming up."
+    Q "I thought it would be beneficial to have you around, should there be more controversial cases coming up."
+
+# game/scripts/palace.rpy:1874
+translate spanish pt15_dcc7bbcd:
+
+    # Zt "Having a say in royal court hearings... I won't say no to that."
+    Zt "Having a say in royal court hearings... I won't say no to that."
+
+# game/scripts/palace.rpy:1875
+translate spanish pt15_b4c459f1:
+
+    # Z "Fine by me. Let me know when there are some more ambiguous hearings coming up."
+    Z "Fine by me. Let me know when there are some more ambiguous hearings coming up."
+
+# game/scripts/palace.rpy:1878
+translate spanish pt15_c78f74ea:
+
+    # Q "I will. Until then, there are other things to do around here. So... I sadly have to ask you to leave."
+    Q "I will. Until then, there are other things to do around here. So... I sadly have to ask you to leave."
+
+# game/scripts/palace.rpy:1881
+translate spanish pt15_4836e2d8:
+
+    # Z "Until next time, then."
+    Z "Until next time, then."
+
+# game/scripts/palace.rpy:1893
+translate spanish palace_return_home_c4203822:
+
+    # "You return home after finishing your task..."
+    "You return home after finishing your task..."
+
+translate spanish strings:
+
+    # game/scripts/palace.rpy:37
+    old "Menial work"
+    new "Menial work"
+
+    # game/scripts/palace.rpy:60
+    old "Planning work"
+    new "Planning work"
+
+    # game/scripts/palace.rpy:74
+    old "Public hearings"
+    new "Public hearings"
+
+    # game/scripts/palace.rpy:86
+    old "Ask about Lirah"
+    new "Ask about Lirah"
+
+    # game/scripts/palace.rpy:89
+    old "Ask about Sharifa"
+    new "Ask about Sharifa"
+
+    # game/scripts/palace.rpy:100
+    old "Not today"
+    new "Not today"
+
+    # game/scripts/palace.rpy:217
+    old "\"I'm glad you feel better.\""
+    new "\"I'm glad you feel better.\""
+
+    # game/scripts/palace.rpy:227
+    old "\"It seems you needed to get this off your chest.\""
+    new "\"It seems you needed to get this off your chest.\""
+
+    # game/scripts/palace.rpy:259
+    old "\"I know that look. What's wrong?\""
+    new "\"I know that look. What's wrong?\""
+
+    # game/scripts/palace.rpy:263
+    old "\"What kind of greeting is that supposed to be?\""
+    new "\"What kind of greeting is that supposed to be?\""
+
+    # game/scripts/palace.rpy:340
+    old "\"It's hard to find people you can trust in your position.\""
+    new "\"It's hard to find people you can trust in your position.\""
+
+    # game/scripts/palace.rpy:349
+    old "\"Maybe her admiration for you is real. Her methods are still wrong.\""
+    new "\"Maybe her admiration for you is real. Her methods are still wrong.\""
+
+    # game/scripts/palace.rpy:360
+    old "\"I never liked [Sh].\""
+    new "\"I never liked [Sh].\""
+
+    # game/scripts/palace.rpy:368
+    old "\"Even so, he didn't deserve to die.\""
+    new "\"Even so, he didn't deserve to die.\""
+
+    # game/scripts/palace.rpy:529
+    old "Keep your distance"
+    new "Keep your distance"
+
+    # game/scripts/palace.rpy:646
+    old "The Queen and I talked about Sharifa, and that she is planning her revenge on her."
+    new "The Queen and I talked about Sharifa, and that she is planning her revenge on her."
+
+    # game/scripts/palace.rpy:660
+    old "Confident"
+    new "Confident"
+
+    # game/scripts/palace.rpy:665
+    old "Submissive"
+    new "Submissive"
+
+    # game/scripts/palace.rpy:678
+    old "\"The people will fantasize about you.\""
+    new "\"The people will fantasize about you.\""
+
+    # game/scripts/palace.rpy:703
+    old "\"It's elegant and alluring.\""
+    new "\"It's elegant and alluring.\""
+
+    # game/scripts/palace.rpy:836
+    old "Approach her"
+    new "Approach her"
+
+    # game/scripts/palace.rpy:1052
+    old "The Queen invited me to her bedroom to talk about Sharifa... at least, that is what she wanted me to believe.\n\nThe time for cat and mouse play is over, and it is clear that she needs not just my advice, but also my hands... and so I gave her exactly that."
+    new "The Queen invited me to her bedroom to talk about Sharifa... at least, that is what she wanted me to believe.\n\nThe time for cat and mouse play is over, and it is clear that she needs not just my advice, but also my hands... and so I gave her exactly that."
+
+    # game/scripts/palace.rpy:1072
+    old "Take your leave"
+    new "Take your leave"
+
+    # game/scripts/palace.rpy:1077
+    old "The Queen invited me to her bedroom to talk about Sharifa... at least, that is what she wanted me to believe.\n\nThe time for cat and mouse play is over, and it is clear that she needs not just my advice, but also my hand. But this is not something I am interested in."
+    new "The Queen invited me to her bedroom to talk about Sharifa... at least, that is what she wanted me to believe.\n\nThe time for cat and mouse play is over, and it is clear that she needs not just my advice, but also my hand. But this is not something I am interested in."
+
+    # game/scripts/palace.rpy:1177
+    old "See what happens"
+    new "See what happens"
+
+    # game/scripts/palace.rpy:1239
+    old "Cut [Sh] off and step inside"
+    new "Cut [Sh] off and step inside"
+
+    # game/scripts/palace.rpy:1378
+    old "See first event"
+    new "See first event"
+
+    # game/scripts/palace.rpy:1380
+    old "See second event"
+    new "See second event"
+
+    # game/scripts/palace.rpy:1390
+    old "\"Give me a twirl.\""
+    new "\"Give me a twirl.\""
+
+    # game/scripts/palace.rpy:1490
+    old "Decline and go back to work."
+    new "Decline and go back to work."
+
+    # game/scripts/palace.rpy:1630
+    old "Start touching her"
+    new "Start touching her"
+
+    # game/scripts/palace.rpy:1722
+    old "Just finish"
+    new "Just finish"
+
+    # game/scripts/palace.rpy:1843
+    old "\"You get straight to the point, that's for sure.\""
+    new "\"You get straight to the point, that's for sure.\""
+
+    # game/scripts/palace.rpy:1851
+    old "\"You could show a bit more empathy.\""
+    new "\"You could show a bit more empathy.\""
+
+    # game/scripts/palace.rpy:1892
+    old "I have gotten to know the Queen a bit better, by helping her out when she asked me to, even if the tasks were not to my liking. I understand some of her difficulties now, and I am sure that similar future opportunities will help me get closer to her."
+    new "I have gotten to know the Queen a bit better, by helping her out when she asked me to, even if the tasks were not to my liking. I understand some of her difficulties now, and I am sure that similar future opportunities will help me get closer to her."
+
