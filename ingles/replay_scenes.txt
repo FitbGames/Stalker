@@ -1,0 +1,564 @@
+﻿# TODO: Translation updated at 2026-06-29 18:49
+
+translate spanish strings:
+
+    # game/scripts/replay_scenes.rpy:51
+    old "Wild encounter"
+    new "Wild encounter"
+
+    # game/scripts/replay_scenes.rpy:51
+    old "Enjoy the Raider after defeating her during the introduction."
+    new "Enjoy the Raider after defeating her during the introduction."
+
+    # game/scripts/replay_scenes.rpy:52
+    old "Coming home"
+    new "Coming home"
+
+    # game/scripts/replay_scenes.rpy:52
+    old "Progress the game to unlock this scene."
+    new "Progress the game to unlock this scene."
+
+    # game/scripts/replay_scenes.rpy:54
+    old "Tasty dessert"
+    new "Tasty dessert"
+
+    # game/scripts/replay_scenes.rpy:56
+    old "Introduction"
+    new "Introduction"
+
+    # game/scripts/replay_scenes.rpy:56
+    old "Accept Emilia when offered and visit the kitchen."
+    new "Accept Emilia when offered and visit the kitchen."
+
+    # game/scripts/replay_scenes.rpy:58
+    old "Fierce guest"
+    new "Fierce guest"
+
+    # game/scripts/replay_scenes.rpy:58
+    old "Save the raider from the Decayed and then visit her in the basement."
+    new "Save the raider from the Decayed and then visit her in the basement."
+
+    # game/scripts/replay_scenes.rpy:59
+    old "On the spot"
+    new "On the spot"
+
+    # game/scripts/replay_scenes.rpy:61
+    old "Recruitment test"
+    new "Recruitment test"
+
+    # game/scripts/replay_scenes.rpy:61
+    old "Convince Ivy to lead you to the tower."
+    new "Convince Ivy to lead you to the tower."
+
+    # game/scripts/replay_scenes.rpy:62
+    old "Sharing is caring"
+    new "Sharing is caring"
+
+    # game/scripts/replay_scenes.rpy:62
+    old "Have your friend Igor visit you at home."
+    new "Have your friend Igor visit you at home."
+
+    # game/scripts/replay_scenes.rpy:63
+    old "Punishment"
+    new "Punishment"
+
+    # game/scripts/replay_scenes.rpy:63
+    old "Allow your wife to punish [A] after the market incident."
+    new "Allow your wife to punish [A] after the market incident."
+
+    # game/scripts/replay_scenes.rpy:64
+    old "Knowing your place"
+    new "Knowing your place"
+
+    # game/scripts/replay_scenes.rpy:64
+    old "Confront Asha after claiming back their outpost."
+    new "Confront Asha after claiming back their outpost."
+
+    # game/scripts/replay_scenes.rpy:65
+    old "New toy"
+    new "New toy"
+
+    # game/scripts/replay_scenes.rpy:67
+    old "Not a fairytale"
+    new "Not a fairytale"
+
+    # game/scripts/replay_scenes.rpy:67
+    old "Meet Kinzi & Kosey alive in the introduction and keep them alive, then visit the Decayed."
+    new "Meet Kinzi & Kosey alive in the introduction and keep them alive, then visit the Decayed."
+
+    # game/scripts/replay_scenes.rpy:69
+    old "Foreign affairs"
+    new "Foreign affairs"
+
+    # game/scripts/replay_scenes.rpy:70
+    old "Drive by"
+    new "Drive by"
+
+    # game/scripts/replay_scenes.rpy:70
+    old "Don't kill Asani in the introduction, then progress the game."
+    new "Don't kill Asani in the introduction, then progress the game."
+
+    # game/scripts/replay_scenes.rpy:72
+    old "A royal offer"
+    new "A royal offer"
+
+    # game/scripts/replay_scenes.rpy:72
+    old "Kneel before the Queen and don't act out, then progress the game."
+    new "Kneel before the Queen and don't act out, then progress the game."
+
+    # game/scripts/replay_scenes.rpy:73
+    old "Lose your temper before the Queen, then progress the game."
+    new "Lose your temper before the Queen, then progress the game."
+
+    # game/scripts/replay_scenes.rpy:74
+    old "Alley adventures"
+    new "Alley adventures"
+
+    # game/scripts/replay_scenes.rpy:74
+    old "Visit your wife in the bedroom and arrange a meeting with your sister-in-law."
+    new "Visit your wife in the bedroom and arrange a meeting with your sister-in-law."
+
+    # game/scripts/replay_scenes.rpy:76
+    old "Oasis night"
+    new "Oasis night"
+
+    # game/scripts/replay_scenes.rpy:76
+    old "Show interest in [S] at the oasis."
+    new "Show interest in [S] at the oasis."
+
+    # game/scripts/replay_scenes.rpy:77
+    old "The man she needs"
+    new "The man she needs"
+
+    # game/scripts/replay_scenes.rpy:77
+    old "Tell Fangs that you will help the mutants."
+    new "Tell Fangs that you will help the mutants."
+
+    # game/scripts/replay_scenes.rpy:79
+    old "Public servant"
+    new "Public servant"
+
+    # game/scripts/replay_scenes.rpy:79
+    old "Keep the girl who tried to kidnap [A] alive."
+    new "Keep the girl who tried to kidnap [A] alive."
+
+    # game/scripts/replay_scenes.rpy:81
+    old "Team building"
+    new "Team building"
+
+    # game/scripts/replay_scenes.rpy:81
+    old "Take Mantis with you."
+    new "Take Mantis with you."
+
+    # game/scripts/replay_scenes.rpy:82
+    old "Breeding the Queen"
+    new "Breeding the Queen"
+
+    # game/scripts/replay_scenes.rpy:82
+    old "Leave Mantis behind."
+    new "Leave Mantis behind."
+
+    # game/scripts/replay_scenes.rpy:83
+    old "Victory lap"
+    new "Victory lap"
+
+    # game/scripts/replay_scenes.rpy:83
+    old "Take over the overpass settlement."
+    new "Take over the overpass settlement."
+
+    # game/scripts/replay_scenes.rpy:85
+    old "Spoils of war"
+    new "Spoils of war"
+
+    # game/scripts/replay_scenes.rpy:85
+    old "Take over the overpass settlement and enjoy the General's sister."
+    new "Take over the overpass settlement and enjoy the General's sister."
+
+    # game/scripts/replay_scenes.rpy:86
+    old "Night bath"
+    new "Night bath"
+
+    # game/scripts/replay_scenes.rpy:86
+    old "Visit Ivy to her hideout."
+    new "Visit Ivy to her hideout."
+
+    # game/scripts/replay_scenes.rpy:87
+    old "Amour nocturne"
+    new "Amour nocturne"
+
+    # game/scripts/replay_scenes.rpy:87
+    old "Visit [W] in the balcony while [S] is in the Zone."
+    new "Visit [W] in the balcony while [S] is in the Zone."
+
+    # game/scripts/replay_scenes.rpy:88
+    old "House party"
+    new "House party"
+
+    # game/scripts/replay_scenes.rpy:88
+    old "Visit Kateryna and Igor."
+    new "Visit Kateryna and Igor."
+
+    # game/scripts/replay_scenes.rpy:90
+    old "Gratitude"
+    new "Gratitude"
+
+    # game/scripts/replay_scenes.rpy:90
+    old "Treat Fairy as well as you can."
+    new "Treat Fairy as well as you can."
+
+    # game/scripts/replay_scenes.rpy:91
+    old "Appreciation"
+    new "Appreciation"
+
+    # game/scripts/replay_scenes.rpy:91
+    old "Treat Fairy decently."
+    new "Treat Fairy decently."
+
+    # game/scripts/replay_scenes.rpy:92
+    old "Cleaning service"
+    new "Cleaning service"
+
+    # game/scripts/replay_scenes.rpy:92
+    old "Have Emilia give Fairy a bath."
+    new "Have Emilia give Fairy a bath."
+
+    # game/scripts/replay_scenes.rpy:93
+    old "Haute couture"
+    new "Haute couture"
+
+    # game/scripts/replay_scenes.rpy:93
+    old "Have Nadia show off her outfits to you."
+    new "Have Nadia show off her outfits to you."
+
+    # game/scripts/replay_scenes.rpy:94
+    old "Caught in the act"
+    new "Caught in the act"
+
+    # game/scripts/replay_scenes.rpy:94
+    old "Have sex with Nadia in her room."
+    new "Have sex with Nadia in her room."
+
+    # game/scripts/replay_scenes.rpy:95
+    old "Egotistical"
+    new "Egotistical"
+
+    # game/scripts/replay_scenes.rpy:95
+    old "Tell Nadia a story about your past with Rabiah."
+    new "Tell Nadia a story about your past with Rabiah."
+
+    # game/scripts/replay_scenes.rpy:96
+    old "Supportive sister"
+    new "Supportive sister"
+
+    # game/scripts/replay_scenes.rpy:96
+    old "Tell Nadia yet another story about your past."
+    new "Tell Nadia yet another story about your past."
+
+    # game/scripts/replay_scenes.rpy:97
+    old "Little queen"
+    new "Little queen"
+
+    # game/scripts/replay_scenes.rpy:97
+    old "Progress Emilia's story."
+    new "Progress Emilia's story."
+
+    # game/scripts/replay_scenes.rpy:98
+    old "Morning routine"
+    new "Morning routine"
+
+    # game/scripts/replay_scenes.rpy:100
+    old "Waited long enough"
+    new "Waited long enough"
+
+    # game/scripts/replay_scenes.rpy:100
+    old "Romance [S] before the Zone and see the event after her return from her perspective."
+    new "Romance [S] before the Zone and see the event after her return from her perspective."
+
+    # game/scripts/replay_scenes.rpy:101
+    old "Reunion"
+    new "Reunion"
+
+    # game/scripts/replay_scenes.rpy:101
+    old "Romance [S] before the Zone, then wait for her return."
+    new "Romance [S] before the Zone, then wait for her return."
+
+    # game/scripts/replay_scenes.rpy:102
+    old "It can't be helped"
+    new "It can't be helped"
+
+    # game/scripts/replay_scenes.rpy:102
+    old "Finish the apartment event as [S] in the Zone, then visit her room after she returns."
+    new "Finish the apartment event as [S] in the Zone, then visit her room after she returns."
+
+    # game/scripts/replay_scenes.rpy:103
+    old "Making her jealous"
+    new "Making her jealous"
+
+    # game/scripts/replay_scenes.rpy:103
+    old "Romance [S] and visit the Queen in the thermae together."
+    new "Romance [S] and visit the Queen in the thermae together."
+
+    # game/scripts/replay_scenes.rpy:105
+    old "Mating season"
+    new "Mating season"
+
+    # game/scripts/replay_scenes.rpy:105
+    old "Introduce Kateryna to the household."
+    new "Introduce Kateryna to the household."
+
+    # game/scripts/replay_scenes.rpy:106
+    old "Intimate strangers"
+    new "Intimate strangers"
+
+    # game/scripts/replay_scenes.rpy:106
+    old "Visit Asani again."
+    new "Visit Asani again."
+
+    # game/scripts/replay_scenes.rpy:107
+    old "Therapy session"
+    new "Therapy session"
+
+    # game/scripts/replay_scenes.rpy:107
+    old "Have the trailer woman in the overpass become a therapist, then visit her."
+    new "Have the trailer woman in the overpass become a therapist, then visit her."
+
+    # game/scripts/replay_scenes.rpy:108
+    old "Trailer trash"
+    new "Trailer trash"
+
+    # game/scripts/replay_scenes.rpy:108
+    old "Turn the trailer woman in the overpass into a prostitute, then visit her."
+    new "Turn the trailer woman in the overpass into a prostitute, then visit her."
+
+    # game/scripts/replay_scenes.rpy:109
+    old "Regent benefits"
+    new "Regent benefits"
+
+    # game/scripts/replay_scenes.rpy:109
+    old "Help the Queen with her personal tasks and accept her reward."
+    new "Help the Queen with her personal tasks and accept her reward."
+
+    # game/scripts/replay_scenes.rpy:111
+    old "Pigtails and Curls"
+    new "Pigtails and Curls"
+
+    # game/scripts/replay_scenes.rpy:111
+    old "Wait for Nadia and Rabiah to visit your home."
+    new "Wait for Nadia and Rabiah to visit your home."
+
+    # game/scripts/replay_scenes.rpy:112
+    old "Partners in cream"
+    new "Partners in cream"
+
+    # game/scripts/replay_scenes.rpy:112
+    old "Romance [S] before the Zone and wait for her return."
+    new "Romance [S] before the Zone and wait for her return."
+
+    # game/scripts/replay_scenes.rpy:114
+    old "Forbidden fruit"
+    new "Forbidden fruit"
+
+    # game/scripts/replay_scenes.rpy:114
+    old "Invite Igor to your home after Kateryna's introduction to house."
+    new "Invite Igor to your home after Kateryna's introduction to house."
+
+    # game/scripts/replay_scenes.rpy:115
+    old "Waiting room"
+    new "Waiting room"
+
+    # game/scripts/replay_scenes.rpy:115
+    old "Visit the Queen after consoling her in her chambers."
+    new "Visit the Queen after consoling her in her chambers."
+
+    # game/scripts/replay_scenes.rpy:116
+    old "Trusted teacher"
+    new "Trusted teacher"
+
+    # game/scripts/replay_scenes.rpy:116
+    old "Help Lirah and support her decision."
+    new "Help Lirah and support her decision."
+
+    # game/scripts/replay_scenes.rpy:117
+    old "Duty above all"
+    new "Duty above all"
+
+    # game/scripts/replay_scenes.rpy:117
+    old "Help Lirah and convince her to remain a guard."
+    new "Help Lirah and convince her to remain a guard."
+
+    # game/scripts/replay_scenes.rpy:118
+    old "Tag team"
+    new "Tag team"
+
+    # game/scripts/replay_scenes.rpy:118
+    old "Convince Lirah to remain a guard and visit the palace two times afterwards."
+    new "Convince Lirah to remain a guard and visit the palace two times afterwards."
+
+    # game/scripts/replay_scenes.rpy:119
+    old "Anniversary date"
+    new "Anniversary date"
+
+    # game/scripts/replay_scenes.rpy:119
+    old "Go on a date with your wife."
+    new "Go on a date with your wife."
+
+    # game/scripts/replay_scenes.rpy:120
+    old "Straight from the tap"
+    new "Straight from the tap"
+
+    # game/scripts/replay_scenes.rpy:120
+    old "Go on a date with your wife and accept the waitress' offer."
+    new "Go on a date with your wife and accept the waitress' offer."
+
+    # game/scripts/replay_scenes.rpy:121
+    old "Five star service"
+    new "Five star service"
+
+    # game/scripts/replay_scenes.rpy:121
+    old "Go on a date with your wife and tell the waitress to serve the customers."
+    new "Go on a date with your wife and tell the waitress to serve the customers."
+
+    # game/scripts/replay_scenes.rpy:122
+    old "The emperor's new clothes"
+    new "The emperor's new clothes"
+
+    # game/scripts/replay_scenes.rpy:122
+    old "Talk to the Queen after the second arena event."
+    new "Talk to the Queen after the second arena event."
+
+    # game/scripts/replay_scenes.rpy:124
+    old "Gentle touch"
+    new "Gentle touch"
+
+    # game/scripts/replay_scenes.rpy:124
+    old "Check on Emilia in the bedroom"
+    new "Check on Emilia in the bedroom"
+
+    # game/scripts/replay_scenes.rpy:125
+    old "Jewel of the desert"
+    new "Jewel of the desert"
+
+    # game/scripts/replay_scenes.rpy:125
+    old "Take [A] to the slave market and explore the various goods"
+    new "Take [A] to the slave market and explore the various goods"
+
+    # game/scripts/replay_scenes.rpy:126
+    old "Nothing unusual"
+    new "Nothing unusual"
+
+    # game/scripts/replay_scenes.rpy:127
+    old "Family business"
+    new "Family business"
+
+    # game/scripts/replay_scenes.rpy:128
+    old "Quality control"
+    new "Quality control"
+
+    # game/scripts/replay_scenes.rpy:128
+    old "Suggest that the twins spend more time together during the visit to the slave market with [A]"
+    new "Suggest that the twins spend more time together during the visit to the slave market with [A]"
+
+    # game/scripts/replay_scenes.rpy:129
+    old "Primal instict"
+    new "Primal instict"
+
+    # game/scripts/replay_scenes.rpy:129
+    old "Have fun with [A] after exploring the slave market"
+    new "Have fun with [A] after exploring the slave market"
+
+    # game/scripts/replay_scenes.rpy:130
+    old "Struggle & submission"
+    new "Struggle & submission"
+
+    # game/scripts/replay_scenes.rpy:130
+    old "Progress the Queen's quest after leaving her flustered in her bedroom. (Requires romanced Queen)"
+    new "Progress the Queen's quest after leaving her flustered in her bedroom. (Requires romanced Queen)"
+
+    # game/scripts/replay_scenes.rpy:131
+    old "Hands off"
+    new "Hands off"
+
+    # game/scripts/replay_scenes.rpy:131
+    old "Sleep at the mutants base after meeting Krait at the gym (Requires romanced Fangs)"
+    new "Sleep at the mutants base after meeting Krait at the gym (Requires romanced Fangs)"
+
+    # game/scripts/replay_scenes.rpy:133
+    old "Steam release"
+    new "Steam release"
+
+    # game/scripts/replay_scenes.rpy:133
+    old "Let [S] stay while you are having a bath"
+    new "Let [S] stay while you are having a bath"
+
+    # game/scripts/replay_scenes.rpy:134
+    old "On the lookout"
+    new "On the lookout"
+
+    # game/scripts/replay_scenes.rpy:134
+    old "Approach Kyra while she's on the tower"
+    new "Approach Kyra while she's on the tower"
+
+    # game/scripts/replay_scenes.rpy:135
+    old "Team effort"
+    new "Team effort"
+
+    # game/scripts/replay_scenes.rpy:135
+    old "Enjoy the first night during the Elder's hideout quest together"
+    new "Enjoy the first night during the Elder's hideout quest together"
+
+    # game/scripts/replay_scenes.rpy:137
+    old "Bedroom massage"
+    new "Bedroom massage"
+
+    # game/scripts/replay_scenes.rpy:137
+    old "Visit [W]'s room some time after the prologue."
+    new "Visit [W]'s room some time after the prologue."
+
+    # game/scripts/replay_scenes.rpy:138
+    old "Ignore their words"
+    new "Ignore their words"
+
+    # game/scripts/replay_scenes.rpy:138
+    old "Give in to the bandits demands during the Elder's hideout quest."
+    new "Give in to the bandits demands during the Elder's hideout quest."
+
+    # game/scripts/replay_scenes.rpy:139
+    old "Her new role (bad end)"
+    new "Her new role (bad end)"
+
+    # game/scripts/replay_scenes.rpy:139
+    old "Give in to the bandits demands and fail the escape during the Elder's hideout quest."
+    new "Give in to the bandits demands and fail the escape during the Elder's hideout quest."
+
+    # game/scripts/replay_scenes.rpy:140
+    old "Double trouble"
+    new "Double trouble"
+
+    # game/scripts/replay_scenes.rpy:140
+    old "Visit [A]'s room some time after returning from Elder's hideout quest."
+    new "Visit [A]'s room some time after returning from Elder's hideout quest."
+
+    # game/scripts/replay_scenes.rpy:141
+    old "Stealing pepper"
+    new "Stealing pepper"
+
+    # game/scripts/replay_scenes.rpy:141
+    old "See Pepper at the mission table after having completed her examinations"
+    new "See Pepper at the mission table after having completed her examinations"
+
+    # game/scripts/replay_scenes.rpy:142
+    old "Eyes of Hathor"
+    new "Eyes of Hathor"
+
+    # game/scripts/replay_scenes.rpy:142
+    old "Visit Isra at the Temple."
+    new "Visit Isra at the Temple."
+
+    # game/scripts/replay_scenes.rpy:144
+    old "Timeless night"
+    new "Timeless night"
+
+    # game/scripts/replay_scenes.rpy:144
+    old "Follow [I]'s quest line."
+    new "Follow [I]'s quest line."
+

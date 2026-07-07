@@ -1,0 +1,500 @@
+﻿# TODO: Translation updated at 2026-06-29 18:49
+
+# game/scripts/library.rpy:6
+translate spanish la1_0d0c5476:
+
+    # EPN "Dear reader, if you hold this text, I can only hope that you have first read what I wrote about the end of the world, and the birth of a new one."
+    EPN "Dear reader, if you hold this text, I can only hope that you have first read what I wrote about the end of the world, and the birth of a new one."
+
+# game/scripts/library.rpy:7
+translate spanish la1_ade80b2b:
+
+    # EPN "Depending on your view of the world, I may have garnered your admiration or your scorn. Either way, that was the role I played on the larger stage."
+    EPN "Depending on your view of the world, I may have garnered your admiration or your scorn. Either way, that was the role I played on the larger stage."
+
+# game/scripts/library.rpy:8
+translate spanish la1_22dbe3bb:
+
+    # EPN "You will hopefully have come to understand my misgivings about how those things played out."
+    EPN "You will hopefully have come to understand my misgivings about how those things played out."
+
+# game/scripts/library.rpy:9
+translate spanish la1_509ca417:
+
+    # EPN "What may have eluded you however is that my personal indiscretions and missteps, my more intimate tribulations have played a role in shaping how I now look back at those events."
+    EPN "What may have eluded you however is that my personal indiscretions and missteps, my more intimate tribulations have played a role in shaping how I now look back at those events."
+
+# game/scripts/library.rpy:10
+translate spanish la1_b0103cd8:
+
+    # EPN "So let me enumerate to you my more private and saddest failures, so you can gain the full measure of this fallible man who is trying to impart what little wisdom his errors have granted him."
+    EPN "So let me enumerate to you my more private and saddest failures, so you can gain the full measure of this fallible man who is trying to impart what little wisdom his errors have granted him."
+
+# game/scripts/library.rpy:13
+translate spanish la1_5bd4e145:
+
+    # EPN "Long before the Queen's new edicts placed in my hand the lawful dominion over the women of my concern, allowing me to act upon them and with them how I saw fit... "
+    EPN "Long before the Queen's new edicts placed in my hand the lawful dominion over the women of my concern, allowing me to act upon them and with them how I saw fit... "
+
+# game/scripts/library.rpy:17
+translate spanish la1_ce640d6f:
+
+    # EPN "During the nights, hidden from the eyes of my daughter Skye, while the rest of my companions were sleeping, Vale, my personal assistant, kept me company."
+    EPN "During the nights, hidden from the eyes of my daughter Skye, while the rest of my companions were sleeping, Vale, my personal assistant, kept me company."
+
+# game/scripts/library.rpy:19
+translate spanish la1_4accfcd6:
+
+    # EPN "During the nights, hidden from the eyes of Skye, while the rest of my companions were sleeping, my personal assistant, Vale kept me company."
+    EPN "During the nights, hidden from the eyes of Skye, while the rest of my companions were sleeping, my personal assistant, Vale kept me company."
+
+# game/scripts/library.rpy:22
+translate spanish la1_0c95bb0f:
+
+    # Val "Mh..."
+    Val "Mh..."
+
+# game/scripts/library.rpy:23
+translate spanish la1_8a160561:
+
+    # EPN "If it wasn't obvious by now... the true reason for her employment was far removed from her clerical and administrative duties..."
+    EPN "If it wasn't obvious by now... the true reason for her employment was far removed from her clerical and administrative duties..."
+
+# game/scripts/library.rpy:26
+translate spanish la1_93688f62:
+
+    # Val "Mh... Professor..."
+    Val "Mh... Professor..."
+
+# game/scripts/library.rpy:29
+translate spanish la1_38c1043e:
+
+    # Val "You are especially hard today."
+    Val "You are especially hard today."
+
+# game/scripts/library.rpy:30
+translate spanish la1_57a6defd:
+
+    # PS "It's nothing you can't handle. Get to work."
+    PS "It's nothing you can't handle. Get to work."
+
+# game/scripts/library.rpy:33
+translate spanish la1_b9c792c7:
+
+    # Val "{i}*slurp*{/i}"
+    Val "{i}*slurp*{/i}"
+
+# game/scripts/library.rpy:34
+translate spanish la1_f2fb2e51:
+
+    # PS "Don't be too loud, we can't let the others hear."
+    PS "Don't be too loud, we can't let the others hear."
+
+# game/scripts/library.rpy:35
+translate spanish la1_1487a474:
+
+    # Val "Yes, professor..."
+    Val "Yes, professor..."
+
+# game/scripts/library.rpy:38
+translate spanish la1_f70bc8d2:
+
+    # Val "Ah..."
+    Val "Ah..."
+
+# game/scripts/library.rpy:39
+translate spanish la1_963bc448:
+
+    # EPN "Much of her dignity was already lost well before the war, and long before she assumed the role of my second wife."
+    EPN "Much of her dignity was already lost well before the war, and long before she assumed the role of my second wife."
+
+# game/scripts/library.rpy:40
+translate spanish la1_aaf4a217:
+
+    # EPN "Her role in the team was obvious to everyone, after all, how I chose my secretaries was by now an open secret for the other teachers on staff."
+    EPN "Her role in the team was obvious to everyone, after all, how I chose my secretaries was by now an open secret for the other teachers on staff."
+
+# game/scripts/library.rpy:43
+translate spanish la1_a0ab33c0:
+
+    # Val "Nh..."
+    Val "Nh..."
+
+# game/scripts/library.rpy:44
+translate spanish la1_fc0be211:
+
+    # PS "Agh... you damn tease."
+    PS "Agh... you damn tease."
+
+# game/scripts/library.rpy:47
+translate spanish la1_991e36df:
+
+    # Val "nha...~"
+    Val "nha...~"
+
+# game/scripts/library.rpy:48
+translate spanish la1_82296685:
+
+    # PS "Use your tongue."
+    PS "Use your tongue."
+
+# game/scripts/library.rpy:51
+translate spanish la1_935f05ae:
+
+    # EPN "If I look back, to this day, I do not know the real motivations for why Vale, who was more than thirty years younger than me, would meet my expectations with the passion she put in, as I did not exactly treat her gently."
+    EPN "If I look back, to this day, I do not know the real motivations for why Vale, who was more than thirty years younger than me, would meet my expectations with the passion she put in, as I did not exactly treat her gently."
+
+# game/scripts/library.rpy:52
+translate spanish la1_9d6e26fd:
+
+    # PS "Open up, now."
+    PS "Open up, now."
+
+# game/scripts/library.rpy:53
+translate spanish la1_a4468ad0:
+
+    # Val "Yhes..."
+    Val "Yhes..."
+
+# game/scripts/library.rpy:56
+translate spanish la1_b9c792c7_1:
+
+    # Val "{i}*slurp*{/i}"
+    Val "{i}*slurp*{/i}"
+
+# game/scripts/library.rpy:57
+translate spanish la1_0a70b6de:
+
+    # PS "{i}*muffled grunt*{/i}"
+    PS "{i}*muffled grunt*{/i}"
+
+# game/scripts/library.rpy:58
+translate spanish la1_ce6cefab:
+
+    # EPN "I can only explain her persistent loyalty with either a healthy sense of devotion to my title, if not to myself, a desperate need for money, or overdeveloped submissive tendencies."
+    EPN "I can only explain her persistent loyalty with either a healthy sense of devotion to my title, if not to myself, a desperate need for money, or overdeveloped submissive tendencies."
+
+# game/scripts/library.rpy:59
+translate spanish la1_17ccad73:
+
+    # EPN "Perhaps it was a combination of all three. The universities were full of young people willing to learn, after all, but little to no actual paid work options were available."
+    EPN "Perhaps it was a combination of all three. The universities were full of young people willing to learn, after all, but little to no actual paid work options were available."
+
+# game/scripts/library.rpy:60
+translate spanish la1_ae99019a:
+
+    # EPN "So there I was, stuffing my erect shaft into her petite face."
+    EPN "So there I was, stuffing my erect shaft into her petite face."
+
+# game/scripts/library.rpy:61
+translate spanish la1_5dad0450:
+
+    # EPN "The deeper I went, the more she stuck her tongue out to reward me. She was, to my tastes, the ideal whore."
+    EPN "The deeper I went, the more she stuck her tongue out to reward me. She was, to my tastes, the ideal whore."
+
+# game/scripts/library.rpy:65
+translate spanish la1_d4bcdd4d:
+
+    # Val "Mmph.... {i}*schlurp*{/i}"
+    Val "Mmph.... {i}*schlurp*{/i}"
+
+# game/scripts/library.rpy:66
+translate spanish la1_a1f444a8:
+
+    # EPN "Granted, Skye had a point when she confronted me about my hypocritical stances against her degenerate city-lifestyle."
+    EPN "Granted, Skye had a point when she confronted me about my hypocritical stances against her degenerate city-lifestyle."
+
+# game/scripts/library.rpy:67
+translate spanish la1_8b850e58:
+
+    # EPN "She was right. I was, not so secretly, a hypocrite."
+    EPN "She was right. I was, not so secretly, a hypocrite."
+
+# game/scripts/library.rpy:68
+translate spanish la1_d3d0c3f3:
+
+    # Val "Mmh..."
+    Val "Mmh..."
+
+# game/scripts/library.rpy:72
+translate spanish la1_bcc95d37:
+
+    # EPN "I was using the willing mouth of a more or less desperate young woman, who just two days earlier had shared with me that her boyfriend had just proposed to her."
+    EPN "I was using the willing mouth of a more or less desperate young woman, who just two days earlier had shared with me that her boyfriend had just proposed to her."
+
+# game/scripts/library.rpy:73
+translate spanish la1_197f2dd6:
+
+    # EPN "Only the gods know what happened to him on that fateful day."
+    EPN "Only the gods know what happened to him on that fateful day."
+
+# game/scripts/library.rpy:74
+translate spanish la1_a509ecac:
+
+    # Val "{i}*glug*{/i}"
+    Val "{i}*glug*{/i}"
+
+# game/scripts/library.rpy:75
+translate spanish la1_5adc9882:
+
+    # EPN "What I know is that there is a good chance he already knew what was going on at her work place. The things she had to do to earn her keep."
+    EPN "What I know is that there is a good chance he already knew what was going on at her work place. The things she had to do to earn her keep."
+
+# game/scripts/library.rpy:79
+translate spanish la1_5a18638e:
+
+    # Val "Mmh... {i}*slurp*{/i}"
+    Val "Mmh... {i}*slurp*{/i}"
+
+# game/scripts/library.rpy:80
+translate spanish la1_618f2cea:
+
+    # PS "Almost... keep going."
+    PS "Almost... keep going."
+
+# game/scripts/library.rpy:81
+translate spanish la1_7e29db56:
+
+    # EPN "But with the modern explosion of hedonistic sexual freedom, something the old pre-war world had already developed to excess, came the normalized belief that young women like herself could legitimately whore their way up the corporate ladder."
+    EPN "But with the modern explosion of hedonistic sexual freedom, something the old pre-war world had already developed to excess, came the normalized belief that young women like herself could legitimately whore their way up the corporate ladder."
+
+# game/scripts/library.rpy:85
+translate spanish la1_fc010138:
+
+    # EPN "Which was fine by me. Her fiancé perhaps saw it as defeating the competition, when she went the extra mile."
+    EPN "Which was fine by me. Her fiancé perhaps saw it as defeating the competition, when she went the extra mile."
+
+# game/scripts/library.rpy:86
+translate spanish la1_72969f5c:
+
+    # EPN "A \"smart move\" by a free woman to trick her stupid Professor into hiring her."
+    EPN "A \"smart move\" by a free woman to trick her stupid Professor into hiring her."
+
+# game/scripts/library.rpy:87
+translate spanish la1_30f345d8:
+
+    # Val "{i}*cough*{/i}"
+    Val "{i}*cough*{/i}"
+
+# game/scripts/library.rpy:88
+translate spanish la1_a3d1c44d:
+
+    # PS "Open wide, I'm not done yet."
+    PS "Open wide, I'm not done yet."
+
+# game/scripts/library.rpy:92
+translate spanish la1_d14e2822:
+
+    # EPN "But no. Secretary Vale was not a particularly smart woman, nor was she playing the system."
+    EPN "But no. Secretary Vale was not a particularly smart woman, nor was she playing the system."
+
+# game/scripts/library.rpy:93
+translate spanish la1_2bac7c01:
+
+    # EPN "She was down on her knees, pleasing me. I was using her throat every night, as roughly as I desired."
+    EPN "She was down on her knees, pleasing me. I was using her throat every night, as roughly as I desired."
+
+# game/scripts/library.rpy:94
+translate spanish la1_fd066e01:
+
+    # EPN "A personal, twenty-something year old whore, available for my pleasure. And all I had to do, was to pay her salary, a salary she was due anyway, but I was in the position of terminating.Tenure is a wonderful thing."
+    EPN "A personal, twenty-something year old whore, available for my pleasure. And all I had to do, was to pay her salary, a salary she was due anyway, but I was in the position of terminating.Tenure is a wonderful thing."
+
+# game/scripts/library.rpy:97
+translate spanish la1_0c95bb0f_1:
+
+    # Val "Mh..."
+    Val "Mh..."
+
+# game/scripts/library.rpy:98
+translate spanish la1_364605e5:
+
+    # PS "That's it..."
+    PS "That's it..."
+
+# game/scripts/library.rpy:101
+translate spanish la1_dd08e7f5:
+
+    # PS "Kgh-"
+    PS "Kgh-"
+
+# game/scripts/library.rpy:103
+translate spanish la1_f8a8633d:
+
+    # PS "Ngh..."
+    PS "Ngh..."
+
+# game/scripts/library.rpy:106
+translate spanish la1_17fd9dfc:
+
+    # PS "Don't spill a drop, you hear me?"
+    PS "Don't spill a drop, you hear me?"
+
+# game/scripts/library.rpy:107
+translate spanish la1_4a7f2a5f:
+
+    # Val "Mhn..."
+    Val "Mhn..."
+
+# game/scripts/library.rpy:110
+translate spanish la1_1ea2a51f:
+
+    # Val "{i}*gulp*{/i}"
+    Val "{i}*gulp*{/i}"
+
+# game/scripts/library.rpy:111
+translate spanish la1_2efc54c4:
+
+    # EPN "I patted her golden-red hair as she swallowed my first streams of cum, just like she always did."
+    EPN "I patted her golden-red hair as she swallowed my first streams of cum, just like she always did."
+
+# game/scripts/library.rpy:112
+translate spanish la1_30f345d8_1:
+
+    # Val "{i}*cough*{/i}"
+    Val "{i}*cough*{/i}"
+
+# game/scripts/library.rpy:113
+translate spanish la1_03c76f6e:
+
+    # EPN "To be precise, I enjoyed keeping her head down, just until I could feel her sway from the oxygen deprivation."
+    EPN "To be precise, I enjoyed keeping her head down, just until I could feel her sway from the oxygen deprivation."
+
+# game/scripts/library.rpy:116
+translate spanish la1_3a64222a:
+
+    # Val "{i}*gasp*{/i}"
+    Val "{i}*gasp*{/i}"
+
+# game/scripts/library.rpy:117
+translate spanish la1_68beaf10:
+
+    # Val "Haah... ah..."
+    Val "Haah... ah..."
+
+# game/scripts/library.rpy:120
+translate spanish la1_91bd7198:
+
+    # EPN "Having my personal whore almost suffocate on my shaft, frequently lead to another, quick climax for both of us."
+    EPN "Having my personal whore almost suffocate on my shaft, frequently lead to another, quick climax for both of us."
+
+# game/scripts/library.rpy:123
+translate spanish la1_f70bc8d2_1:
+
+    # Val "Ah..."
+    Val "Ah..."
+
+# game/scripts/library.rpy:124
+translate spanish la1_e0e384f9:
+
+    # EPN "Ngh-"
+    EPN "Ngh-"
+
+# game/scripts/library.rpy:126
+translate spanish la1_a0ab33c0_1:
+
+    # Val "Nh..."
+    Val "Nh..."
+
+# game/scripts/library.rpy:129
+translate spanish la1_9b7e921e:
+
+    # PS "You sultry whore..."
+    PS "You sultry whore..."
+
+# game/scripts/library.rpy:132
+translate spanish la1_f70bc8d2_2:
+
+    # Val "Ah..."
+    Val "Ah..."
+
+# game/scripts/library.rpy:135
+translate spanish la1_2979fd30:
+
+    # PS "Agh-"
+    PS "Agh-"
+
+# game/scripts/library.rpy:141
+translate spanish la1_c015e362:
+
+    # Val "Ngh..."
+    Val "Ngh..."
+
+# game/scripts/library.rpy:142
+translate spanish la1_8a6751a1:
+
+    # PS "For heaven's sake..."
+    PS "For heaven's sake..."
+
+# game/scripts/library.rpy:145
+translate spanish la1_79b84bdb:
+
+    # PS "I ruined you again..."
+    PS "I ruined you again..."
+
+# game/scripts/library.rpy:146
+translate spanish la1_f3d9f26d:
+
+    # PS "...just make sure to clean up properly. We can't have the others make a fuss."
+    PS "...just make sure to clean up properly. We can't have the others make a fuss."
+
+# game/scripts/library.rpy:147
+translate spanish la1_45558886:
+
+    # Val "Yhes, Profess..."
+    Val "Yhes, Profess..."
+
+# game/scripts/library.rpy:148
+translate spanish la1_7a1b9fa9:
+
+    # PS "Start with me."
+    PS "Start with me."
+
+# game/scripts/library.rpy:151
+translate spanish la1_30f345d8_2:
+
+    # Val "{i}*cough*{/i}"
+    Val "{i}*cough*{/i}"
+
+# game/scripts/library.rpy:152
+translate spanish la1_76811362:
+
+    # PS "I pulled her back down on my shaft. I enjoyed her humiliation before me, wanted more of it."
+    PS "I pulled her back down on my shaft. I enjoyed her humiliation before me, wanted more of it."
+
+# game/scripts/library.rpy:155
+translate spanish la1_cc6f0b65:
+
+    # EPN "Seeing her drooling mouth and face plastered with my seed, I couldn't help but quickly produce yet another strong erection."
+    EPN "Seeing her drooling mouth and face plastered with my seed, I couldn't help but quickly produce yet another strong erection."
+
+# game/scripts/library.rpy:156
+translate spanish la1_b9c792c7_2:
+
+    # Val "{i}*slurp*{/i}"
+    Val "{i}*slurp*{/i}"
+
+# game/scripts/library.rpy:157
+translate spanish la1_db6b995a:
+
+    # EPN "Hence... I changed my mind, and kept using her for many more hours into the night."
+    EPN "Hence... I changed my mind, and kept using her for many more hours into the night."
+
+# game/scripts/library.rpy:160
+translate spanish la1_34c1dfcf:
+
+    # EPN "Now that I think back, I suppose that despite my best attempts at discretion, we were probably heard clearly by the others, that night."
+    EPN "Now that I think back, I suppose that despite my best attempts at discretion, we were probably heard clearly by the others, that night."
+
+# game/scripts/library.rpy:163
+translate spanish la1_8b5b9aff:
+
+    # Sky "..."
+    Sky "..."
+
+# game/scripts/library.rpy:168
+translate spanish la1_e4d4310f:
+
+    # "You put the scripture aside..."
+    "You put the scripture aside..."
+

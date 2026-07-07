@@ -1,0 +1,5144 @@
+﻿# TODO: Translation updated at 2026-06-29 18:49
+
+# game/scripts/day6.rpy:9
+translate spanish d6a_dec509b8:
+
+    # Zt "Who is that?"
+    Zt "Who is that?"
+
+# game/scripts/day6.rpy:12
+translate spanish d6a_bb30c2a9:
+
+    # Z "I'm coming..."
+    Z "I'm coming..."
+
+# game/scripts/day6.rpy:15
+translate spanish d6a_2852dee6:
+
+    # Z "Oh, hello [Ka]."
+    Z "Oh, hello [Ka]."
+
+# game/scripts/day6.rpy:18
+translate spanish d6a_d5b3b228:
+
+    # Z "You... look stunning, today."
+    Z "You... look stunning, today."
+
+# game/scripts/day6.rpy:21
+translate spanish d6a_bd2532bc:
+
+    # Z "How can I help you?"
+    Z "How can I help you?"
+
+# game/scripts/day6.rpy:24
+translate spanish d6a_6abe6b2d:
+
+    # Ka "Hello again, Stalker [persistent.player_name]..."
+    Ka "Hello again, Stalker [persistent.player_name]..."
+
+# game/scripts/day6.rpy:25
+translate spanish d6a_fe88fb4b:
+
+    # Ka "I ask if you can show city today, maybe?"
+    Ka "I ask if you can show city today, maybe?"
+
+# game/scripts/day6.rpy:28
+translate spanish d6a_8074e4ee:
+
+    # Z "I haven't forgotten my promise. I guess it's your lucky day. "
+    Z "I haven't forgotten my promise. I guess it's your lucky day. "
+
+# game/scripts/day6.rpy:29
+translate spanish d6a_3cb35568:
+
+    # Z "Please, come inside and go to the kitchen while I grab my things."
+    Z "Please, come inside and go to the kitchen while I grab my things."
+
+# game/scripts/day6.rpy:31
+translate spanish d6a_ec888e26:
+
+    # Z "I will let Emilia know you're here."
+    Z "I will let Emilia know you're here."
+
+# game/scripts/day6.rpy:32
+translate spanish d6a_e3358cc8:
+
+    # Z "She will get you some refreshments. I bet you're not yet used to the heat of the desert."
+    Z "She will get you some refreshments. I bet you're not yet used to the heat of the desert."
+
+# game/scripts/day6.rpy:35
+translate spanish d6a_0f0526fb:
+
+    # Z "I will let [W] know you're here."
+    Z "I will let [W] know you're here."
+
+# game/scripts/day6.rpy:36
+translate spanish d6a_ed61f695:
+
+    # Z "She will take care of you. Walking under the desert sun is never easy for newcomers."
+    Z "She will take care of you. Walking under the desert sun is never easy for newcomers."
+
+# game/scripts/day6.rpy:43
+translate spanish d6a5_9074767b:
+
+    # "When you're ready, you and [Ka] head to the city center..."
+    "When you're ready, you and [Ka] head to the city center..."
+
+# game/scripts/day6.rpy:46
+translate spanish d6a5_2a824e29:
+
+    # Ci "Have you heard the news?"
+    Ci "Have you heard the news?"
+
+# game/scripts/day6.rpy:47
+translate spanish d6a5_faaf6243:
+
+    # Ci "Queen Merneith is said to have used her dragon to execute a prisoner."
+    Ci "Queen Merneith is said to have used her dragon to execute a prisoner."
+
+# game/scripts/day6.rpy:48
+translate spanish d6a5_b8c692f0:
+
+    # Ci "Some say the dragon's fire was so bright, it caused the cursed storm!"
+    Ci "Some say the dragon's fire was so bright, it caused the cursed storm!"
+
+# game/scripts/day6.rpy:51
+translate spanish d6a5_13e2ec8b:
+
+    # C "Do you think that's true?"
+    C "Do you think that's true?"
+
+# game/scripts/day6.rpy:54
+translate spanish d6a5_e65d16ec:
+
+    # C2 "I don't know... but if anyone can summon a dragon or a storm, it's our Queen."
+    C2 "I don't know... but if anyone can summon a dragon or a storm, it's our Queen."
+
+# game/scripts/day6.rpy:55
+translate spanish d6a5_666c33f6:
+
+    # C2 "I wish I could see the dragon with my own eyes one day."
+    C2 "I wish I could see the dragon with my own eyes one day."
+
+# game/scripts/day6.rpy:56
+translate spanish d6a5_b6e62cd3:
+
+    # C2 "It must be a magnificent creature!"
+    C2 "It must be a magnificent creature!"
+
+# game/scripts/day6.rpy:59
+translate spanish d6a5_b4fbc020:
+
+    # C "Let us pray to the gods that it will never leave our side!"
+    C "Let us pray to the gods that it will never leave our side!"
+
+# game/scripts/day6.rpy:62
+translate spanish d6a5_b1ae1a2e:
+
+    # Z "You have been here before, right?"
+    Z "You have been here before, right?"
+
+# game/scripts/day6.rpy:63
+translate spanish d6a5_6de9702f:
+
+    # Ka "No... sadly no."
+    Ka "No... sadly no."
+
+# game/scripts/day6.rpy:64
+translate spanish d6a5_0257ce67:
+
+    # Ka "Is very big place..!"
+    Ka "Is very big place..!"
+
+# game/scripts/day6.rpy:65
+translate spanish d6a5_46446812:
+
+    # Ka "What is place for?"
+    Ka "What is place for?"
+
+# game/scripts/day6.rpy:68
+translate spanish d6a5_af0979ec:
+
+    # Z "You could call this square the heart of the city."
+    Z "You could call this square the heart of the city."
+
+# game/scripts/day6.rpy:69
+translate spanish d6a5_400f1144:
+
+    # Z "Go straight ahead, and you will enter the Queen's Palace."
+    Z "Go straight ahead, and you will enter the Queen's Palace."
+
+# game/scripts/day6.rpy:70
+translate spanish d6a5_014f8bdb:
+
+    # Z "Unlike the market, not everyone is allowed to enter this plaza."
+    Z "Unlike the market, not everyone is allowed to enter this plaza."
+
+# game/scripts/day6.rpy:71
+translate spanish d6a5_cb2e5616:
+
+    # Ka "I see..."
+    Ka "I see..."
+
+# game/scripts/day6.rpy:74
+translate spanish d6a5_c89fe8aa:
+
+    # Ka "Is so open here. Such a big place."
+    Ka "Is so open here. Such a big place."
+
+# game/scripts/day6.rpy:75
+translate spanish d6a5_66d28a63:
+
+    # Ka "It is beautiful..."
+    Ka "It is beautiful..."
+
+# game/scripts/day6.rpy:80
+translate spanish d6a5_50ceeb52:
+
+    # Ka "It feel very safe here."
+    Ka "It feel very safe here."
+
+# game/scripts/day6.rpy:81
+translate spanish d6a5_e3532075:
+
+    # Ka "At home, we have small villages..."
+    Ka "At home, we have small villages..."
+
+# game/scripts/day6.rpy:82
+translate spanish d6a5_1d1a84ea:
+
+    # Ka "...many bandit hide in the wood outside the walls."
+    Ka "...many bandit hide in the wood outside the walls."
+
+# game/scripts/day6.rpy:85
+translate spanish d6a5_3d6755b5:
+
+    # Z "The lands outside of Zeta are very dangerous."
+    Z "The lands outside of Zeta are very dangerous."
+
+# game/scripts/day6.rpy:86
+translate spanish d6a5_bec57a89:
+
+    # Z "But inside these walls, you are safe; this place is protected."
+    Z "But inside these walls, you are safe; this place is protected."
+
+# game/scripts/day6.rpy:87
+translate spanish d6a5_4efc9560:
+
+    # Z "You can be sure about that."
+    Z "You can be sure about that."
+
+# game/scripts/day6.rpy:88
+translate spanish d6a5_0ac356bb:
+
+    # "You hear distant chatter..."
+    "You hear distant chatter..."
+
+# game/scripts/day6.rpy:92
+translate spanish re_d6a13_2812531a:
+
+    # Ci "{i}*distant mumbling*"
+    Ci "{i}*distant mumbling*"
+
+# game/scripts/day6.rpy:93
+translate spanish re_d6a13_e4e40b9d:
+
+    # Ka "A happy couple!"
+    Ka "A happy couple!"
+
+# game/scripts/day6.rpy:96
+translate spanish re_d6a13_8ab35088:
+
+    # Ka "And she is pregnant..."
+    Ka "And she is pregnant..."
+
+# game/scripts/day6.rpy:99
+translate spanish re_d6a13_cdd84a9d:
+
+    # Z "She is..."
+    Z "She is..."
+
+# game/scripts/day6.rpy:100
+translate spanish re_d6a13_52fd1813:
+
+    # Z "But they are not a couple..."
+    Z "But they are not a couple..."
+
+# game/scripts/day6.rpy:103
+translate spanish re_d6a13_4dc1c3ec:
+
+    # Ci "Blessings upon you, Revered Mother..."
+    Ci "Blessings upon you, Revered Mother..."
+
+# game/scripts/day6.rpy:104
+translate spanish re_d6a13_9d06d11a:
+
+    # Ci "How long before a new Child of Zeta joins us?"
+    Ci "How long before a new Child of Zeta joins us?"
+
+# game/scripts/day6.rpy:107
+translate spanish re_d6a13_1f0295c0:
+
+    # C2 "About six weeks, I think."
+    C2 "About six weeks, I think."
+
+# game/scripts/day6.rpy:110
+translate spanish re_d6a13_06c79f2e:
+
+    # Ci "Thank you for your service."
+    Ci "Thank you for your service."
+
+# game/scripts/day6.rpy:113
+translate spanish re_d6a13_e3e328b4:
+
+    # Ka "I don't understand..."
+    Ka "I don't understand..."
+
+# game/scripts/day6.rpy:114
+translate spanish re_d6a13_8c9deb49:
+
+    # Z "She's a Vessel of Zeta, a Priestess of the Temple."
+    Z "She's a Vessel of Zeta, a Priestess of the Temple."
+
+# game/scripts/day6.rpy:117
+translate spanish re_d6a13_32093b6f:
+
+    # Z "When a young woman joins the service of the temple, her first thirty years are dedicated to raising the Children of Zeta."
+    Z "When a young woman joins the service of the temple, her first thirty years are dedicated to raising the Children of Zeta."
+
+# game/scripts/day6.rpy:118
+translate spanish re_d6a13_498b5300:
+
+    # Z "During that time, she is known as a Vessel, because through her, the people of Zeta grow, with the blessing of the gods."
+    Z "During that time, she is known as a Vessel, because through her, the people of Zeta grow, with the blessing of the gods."
+
+# game/scripts/day6.rpy:121
+translate spanish re_d6a13_bd6124ec:
+
+    # Ka "You know her?"
+    Ka "You know her?"
+
+# game/scripts/day6.rpy:122
+translate spanish re_d6a13_76422ca3:
+
+    # Ka "She carries your baby?"
+    Ka "She carries your baby?"
+
+# game/scripts/day6.rpy:125
+translate spanish re_d6a13_4ebba69e:
+
+    # Z "I know her, in a way, we do not use names, ..."
+    Z "I know her, in a way, we do not use names, ..."
+
+# game/scripts/day6.rpy:129
+translate spanish re_d6a13_584088ab:
+
+    # Z "...and yes, this time I believe it's mine."
+    Z "...and yes, this time I believe it's mine."
+
+# game/scripts/day6.rpy:133
+translate spanish re_d6a13_af76f48a:
+
+    # Z "...but it's not mine."
+    Z "...but it's not mine."
+
+# game/scripts/day6.rpy:134
+translate spanish re_d6a13_ee4bb5df:
+
+    # Z "I have not served in too long a time for that to be the case."
+    Z "I have not served in too long a time for that to be the case."
+
+# game/scripts/day6.rpy:141
+translate spanish d6a7_c935c4f0:
+
+    # Rm "Well, if it isn't my last companion! Blessings upon you, Stalker..."
+    Rm "Well, if it isn't my last companion! Blessings upon you, Stalker..."
+
+# game/scripts/day6.rpy:142
+translate spanish d6a7_75602009:
+
+    # Rm "Is that a new concubine I see by your side?"
+    Rm "Is that a new concubine I see by your side?"
+
+# game/scripts/day6.rpy:143
+translate spanish d6a7_121b1cf2:
+
+    # Rm "Last time we met, I seem to remember a different woman by your side."
+    Rm "Last time we met, I seem to remember a different woman by your side."
+
+# game/scripts/day6.rpy:144
+translate spanish d6a7_5bf181a1:
+
+    # Z "That was my wife, [W], Revered Mother, and she still is."
+    Z "That was my wife, [W], Revered Mother, and she still is."
+
+# game/scripts/day6.rpy:145
+translate spanish d6a7_cc8bace0:
+
+    # Z "This is [Ka], she's my friend's nie-"
+    Z "This is [Ka], she's my friend's nie-"
+
+# game/scripts/day6.rpy:146
+translate spanish d6a7_cde76d7b:
+
+    # Z "She travelled here from the lands in the far north."
+    Z "She travelled here from the lands in the far north."
+
+# game/scripts/day6.rpy:149
+translate spanish d6a7_4662276d:
+
+    # Rm "Hm..."
+    Rm "Hm..."
+
+# game/scripts/day6.rpy:152
+translate spanish d6a7_6d28e249:
+
+    # Rm "So you pursue more exotic companions, I see..."
+    Rm "So you pursue more exotic companions, I see..."
+
+# game/scripts/day6.rpy:153
+translate spanish d6a7_bb29ffd0:
+
+    # Rm "Well, my dear, the Temple always appreciates it when a Stalker decides to serve."
+    Rm "Well, my dear, the Temple always appreciates it when a Stalker decides to serve."
+
+# game/scripts/day6.rpy:154
+translate spanish d6a7_878dd73e:
+
+    # Rm "So, keep it in mind... this one is coming soon..."
+    Rm "So, keep it in mind... this one is coming soon..."
+
+# game/scripts/day6.rpy:155
+translate spanish d6a7_deeea95b:
+
+    # Rm "And my next partner has not yet been decided upon..."
+    Rm "And my next partner has not yet been decided upon..."
+
+# game/scripts/day6.rpy:161
+translate spanish d6a7_e289eb0a:
+
+    # Rm "What do we have here, a Stalker and his concubine?"
+    Rm "What do we have here, a Stalker and his concubine?"
+
+# game/scripts/day6.rpy:162
+translate spanish d6a7_377a679b:
+
+    # Rm "I don't like to make assumptions..."
+    Rm "I don't like to make assumptions..."
+
+# game/scripts/day6.rpy:163
+translate spanish d6a7_c136e50b:
+
+    # Rm "...but she looks a little frail, to be bearing your children, or your advances."
+    Rm "...but she looks a little frail, to be bearing your children, or your advances."
+
+# game/scripts/day6.rpy:164
+translate spanish d6a7_10022406:
+
+    # Z "This is Kateryna. She's not my c-"
+    Z "This is Kateryna. She's not my c-"
+
+# game/scripts/day6.rpy:165
+translate spanish d6a7_5ab3574d:
+
+    # Z "..."
+    Z "..."
+
+# game/scripts/day6.rpy:166
+translate spanish d6a7_651e18a7:
+
+    # Z "She is not from here, [Rm]."
+    Z "She is not from here, [Rm]."
+
+# game/scripts/day6.rpy:169
+translate spanish d6a7_b6ff0a2b:
+
+    # Rm "Hmm... is that so..."
+    Rm "Hmm... is that so..."
+
+# game/scripts/day6.rpy:170
+translate spanish d6a7_b35f8bd8:
+
+    # Rm "Well then, Stalker... I don't remember seeing your face amongst those who offer to serve the Temple, not in any recent years at least."
+    Rm "Well then, Stalker... I don't remember seeing your face amongst those who offer to serve the Temple, not in any recent years at least."
+
+# game/scripts/day6.rpy:171
+translate spanish d6a7_4581e181:
+
+    # Rm "This Child is coming soon, and I would remind you of the needs of the city."
+    Rm "This Child is coming soon, and I would remind you of the needs of the city."
+
+# game/scripts/day6.rpy:172
+translate spanish d6a7_507518fd:
+
+    # Rm "I would like for you to be one of the men to offer your seed for the next one."
+    Rm "I would like for you to be one of the men to offer your seed for the next one."
+
+# game/scripts/day6.rpy:173
+translate spanish d6a7_53add446:
+
+    # Rm "Many families in Zeta could use the blessing of a strong baby."
+    Rm "Many families in Zeta could use the blessing of a strong baby."
+
+# game/scripts/day6.rpy:174
+translate spanish d6a7_7dabda99:
+
+    # Rm "What do you think?"
+    Rm "What do you think?"
+
+# game/scripts/day6.rpy:183
+translate spanish d6a22_0c42dd24:
+
+    # Z "Hmm... maybe."
+    Z "Hmm... maybe."
+
+# game/scripts/day6.rpy:187
+translate spanish d6a22_bf3b777e:
+
+    # Z "Let's see how this one is doing, first..."
+    Z "Let's see how this one is doing, first..."
+
+# game/scripts/day6.rpy:189
+translate spanish d6a22_bd345eb5:
+
+    # Z "Let me take a good look at you first, Revered Mother..."
+    Z "Let me take a good look at you first, Revered Mother..."
+
+# game/scripts/day6.rpy:190
+translate spanish d6a22_f2920fc3:
+
+    # Rm "Of course, Stalker..."
+    Rm "Of course, Stalker..."
+
+# game/scripts/day6.rpy:193
+translate spanish d6a22_0ed8e3d7:
+
+    # "You grab her top..."
+    "You grab her top..."
+
+# game/scripts/day6.rpy:195
+translate spanish d6a22_04d4a3c2:
+
+    # Rm "...the baby is doing very well already."
+    Rm "...the baby is doing very well already."
+
+# game/scripts/day6.rpy:197
+translate spanish d6a22_db6e308a:
+
+    # Rm "...you will not be disappointed."
+    Rm "...you will not be disappointed."
+
+# game/scripts/day6.rpy:200
+translate spanish d6a22_819ad93b:
+
+    # "{i}*You pull her top down..."
+    "{i}*You pull her top down..."
+
+# game/scripts/day6.rpy:203
+translate spanish d6a22_11230184:
+
+    # "You take her large breasts into your hand, feeling her up casually..."
+    "You take her large breasts into your hand, feeling her up casually..."
+
+# game/scripts/day6.rpy:206
+translate spanish d6a22_4f28ae98:
+
+    # Rm "Do you like them?"
+    Rm "Do you like them?"
+
+# game/scripts/day6.rpy:208
+translate spanish d6a22_7d530c5d:
+
+    # Z "I always do."
+    Z "I always do."
+
+# game/scripts/day6.rpy:210
+translate spanish d6a22_41b49433:
+
+    # Z "I do..."
+    Z "I do..."
+
+# game/scripts/day6.rpy:213
+translate spanish d6a22_95819314:
+
+    # Rm "They were busy feeding many people. However, I did not have to use them today yet."
+    Rm "They were busy feeding many people. However, I did not have to use them today yet."
+
+# game/scripts/day6.rpy:216
+translate spanish d6a22_900f0148:
+
+    # Z "Hm..."
+    Z "Hm..."
+
+# game/scripts/day6.rpy:219
+translate spanish d6a22_7661a7ca:
+
+    # "You turn her around, and pull her into you..."
+    "You turn her around, and pull her into you..."
+
+# game/scripts/day6.rpy:222
+translate spanish d6a22_5ab3574d:
+
+    # Z "..."
+    Z "..."
+
+# game/scripts/day6.rpy:223
+translate spanish d6a22_3ac40c9f:
+
+    # Z "You really do have a body made for breeding..."
+    Z "You really do have a body made for breeding..."
+
+# game/scripts/day6.rpy:226
+translate spanish d6a22_181d941d:
+
+    # Rm "Twenty three children and not a single incident."
+    Rm "Twenty three children and not a single incident."
+
+# game/scripts/day6.rpy:227
+translate spanish d6a22_8e4ad2e1:
+
+    # Rm "Not even when the triplets came..."
+    Rm "Not even when the triplets came..."
+
+# game/scripts/day6.rpy:228
+translate spanish d6a22_4e3db195:
+
+    # Z "Hmm..."
+    Z "Hmm..."
+
+# game/scripts/day6.rpy:231
+translate spanish d6a22_7a5b06f5:
+
+    # Ka "You... touch her in public..."
+    Ka "You... touch her in public..."
+
+# game/scripts/day6.rpy:233
+translate spanish d6a22_489a1072:
+
+    # Rm "Oh girl, you really are not from around here, are you...?"
+    Rm "Oh girl, you really are not from around here, are you...?"
+
+# game/scripts/day6.rpy:236
+translate spanish d6a22_4973d647:
+
+    # Rm "All your man is doing is checking that the baby and I are healthy."
+    Rm "All your man is doing is checking that the baby and I are healthy."
+
+# game/scripts/day6.rpy:237
+translate spanish d6a22_35e83585:
+
+    # Rm "Nothing wrong with that... in public or otherwise."
+    Rm "Nothing wrong with that... in public or otherwise."
+
+# game/scripts/day6.rpy:240
+translate spanish d6a22_313852b7:
+
+    # Rm "This will be a Child of Zeta. We vessels serve the city, not one man."
+    Rm "This will be a Child of Zeta. We vessels serve the city, not one man."
+
+# game/scripts/day6.rpy:242
+translate spanish d6a22_80b15e49:
+
+    # Rm "Oh girl, you really are not from around these lands, are you..."
+    Rm "Oh girl, you really are not from around these lands, are you..."
+
+# game/scripts/day6.rpy:245
+translate spanish d6a22_711a09d1:
+
+    # Rm "All your man is doing is verifying that I am healthy and strong, and can offer him a good time for his service."
+    Rm "All your man is doing is verifying that I am healthy and strong, and can offer him a good time for his service."
+
+# game/scripts/day6.rpy:248
+translate spanish d6a22_c66aeb56:
+
+    # Rm "Nothing wrong with that... In public or otherwise."
+    Rm "Nothing wrong with that... In public or otherwise."
+
+# game/scripts/day6.rpy:251
+translate spanish d6a22_83b7a7eb:
+
+    # Ka "..."
+    Ka "..."
+
+# game/scripts/day6.rpy:254
+translate spanish d6a22_72179de7:
+
+    # Z "Your children will never go hungry, that is for certain..."
+    Z "Your children will never go hungry, that is for certain..."
+
+# game/scripts/day6.rpy:257
+translate spanish d6a22_2882ae5e:
+
+    # "You squeeze her breast, and milk squishes and oozes out..."
+    "You squeeze her breast, and milk squishes and oozes out..."
+
+# game/scripts/day6.rpy:260
+translate spanish d6a22_0be4b441:
+
+    # Ka "You have milk...?"
+    Ka "You have milk...?"
+
+# game/scripts/day6.rpy:261
+translate spanish d6a22_e65be4cf:
+
+    # Rm "Of course. The baby is coming soon."
+    Rm "Of course. The baby is coming soon."
+
+# game/scripts/day6.rpy:264
+translate spanish d6a22_a48c79ea:
+
+    # "You squeeze again..."
+    "You squeeze again..."
+
+# game/scripts/day6.rpy:267
+translate spanish d6a22_cf39f722:
+
+    # Ka "I do not know much about this..."
+    Ka "I do not know much about this..."
+
+# game/scripts/day6.rpy:270
+translate spanish d6a22_524af5da:
+
+    # Rm "Oh... you sweet thing."
+    Rm "Oh... you sweet thing."
+
+# game/scripts/day6.rpy:273
+translate spanish d6a22_4b21c3dd:
+
+    # Rm "Would you like to taste it..?"
+    Rm "Would you like to taste it..?"
+
+# game/scripts/day6.rpy:276
+translate spanish d6a22_b6084d08:
+
+    # Ka "T-taste...?"
+    Ka "T-taste...?"
+
+# game/scripts/day6.rpy:282
+translate spanish d6a22_1b1994cf:
+
+    # Z "Go ahead if you want."
+    Z "Go ahead if you want."
+
+# game/scripts/day6.rpy:283
+translate spanish d6a22_a031fd8e:
+
+    # Rm "Listen to your man..."
+    Rm "Listen to your man..."
+
+# game/scripts/day6.rpy:286
+translate spanish d6a22_9fa1ac16:
+
+    # Ka "Okay."
+    Ka "Okay."
+
+# game/scripts/day6.rpy:293
+translate spanish d6a22_391fd441:
+
+    # Z "If you don't want to, you don't have to."
+    Z "If you don't want to, you don't have to."
+
+# game/scripts/day6.rpy:296
+translate spanish d6a22_03354756:
+
+    # Ka "Maybe... some other time."
+    Ka "Maybe... some other time."
+
+# game/scripts/day6.rpy:299
+translate spanish d6a22_88e06767:
+
+    # Z "I will think about your offer."
+    Z "I will think about your offer."
+
+# game/scripts/day6.rpy:300
+translate spanish d6a22_1b210696:
+
+    # Z "But we should move on now, [Rm]."
+    Z "But we should move on now, [Rm]."
+
+# game/scripts/day6.rpy:303
+translate spanish d6a22_24cca3ab:
+
+    # Rm "As you wish, Stalker."
+    Rm "As you wish, Stalker."
+
+# game/scripts/day6.rpy:306
+translate spanish d6a22_c2ab39f9:
+
+    # "You let go of her..."
+    "You let go of her..."
+
+# game/scripts/day6.rpy:309
+translate spanish d6a22_d776dffc:
+
+    # Rm "I should leave, too."
+    Rm "I should leave, too."
+
+# game/scripts/day6.rpy:310
+translate spanish d6a22_e49e0c1e:
+
+    # Rm "If you change your mind, you know where to find me..."
+    Rm "If you change your mind, you know where to find me..."
+
+# game/scripts/day6.rpy:313
+translate spanish d6a22_41b49433_1:
+
+    # Z "I do..."
+    Z "I do..."
+
+# game/scripts/day6.rpy:320
+translate spanish d6a22_bf017998:
+
+    # Z "Thank you, [Rm], but I want to show Kateryna around, not think about children, today."
+    Z "Thank you, [Rm], but I want to show Kateryna around, not think about children, today."
+
+# game/scripts/day6.rpy:321
+translate spanish d6a22_f04a18e9:
+
+    # Z "We might pay you a visit once you have delivered the baby."
+    Z "We might pay you a visit once you have delivered the baby."
+
+# game/scripts/day6.rpy:324
+translate spanish d6a22_7fa9c634:
+
+    # Rm "I understand..."
+    Rm "I understand..."
+
+# game/scripts/day6.rpy:327
+translate spanish d6a22_3096efe6:
+
+    # Ka "Stalker [persistent.player_name], can we head home soon?"
+    Ka "Stalker [persistent.player_name], can we head home soon?"
+
+# game/scripts/day6.rpy:330
+translate spanish d6a22_e38bed82:
+
+    # Z "Of course, [Ka]."
+    Z "Of course, [Ka]."
+
+# game/scripts/day6.rpy:331
+translate spanish d6a22_6cacc48d:
+
+    # Z "We will head back in a moment."
+    Z "We will head back in a moment."
+
+# game/scripts/day6.rpy:332
+translate spanish d6a22_d776dffc_1:
+
+    # Rm "I should leave, too."
+    Rm "I should leave, too."
+
+# game/scripts/day6.rpy:335
+translate spanish d6a22_e49e0c1e_1:
+
+    # Rm "If you change your mind, you know where to find me..."
+    Rm "If you change your mind, you know where to find me..."
+
+# game/scripts/day6.rpy:343
+translate spanish d6a22_8b31fd2d:
+
+    # Z "Thank you for the offer, but I am not interested."
+    Z "Thank you for the offer, but I am not interested."
+
+# game/scripts/day6.rpy:344
+translate spanish d6a22_0d18c2b4:
+
+    # Z "I'm sure the Temple does not lack volunteers to serve, [Rm]."
+    Z "I'm sure the Temple does not lack volunteers to serve, [Rm]."
+
+# game/scripts/day6.rpy:345
+translate spanish d6a22_efe708cc:
+
+    # Z "Maybe we will see each other again once your pregnancy is over..."
+    Z "Maybe we will see each other again once your pregnancy is over..."
+
+# game/scripts/day6.rpy:348
+translate spanish d6a22_dfd0663d:
+
+    # Rm "Hmm, you want to see how I look when I'm not with a child, is that it?"
+    Rm "Hmm, you want to see how I look when I'm not with a child, is that it?"
+
+# game/scripts/day6.rpy:349
+translate spanish d6a22_fcfcc473:
+
+    # Rm "Serving the Temple is about more than a quick romp, you know, Stalker?"
+    Rm "Serving the Temple is about more than a quick romp, you know, Stalker?"
+
+# game/scripts/day6.rpy:352
+translate spanish d6a22_3096efe6_1:
+
+    # Ka "Stalker [persistent.player_name], can we head home soon?"
+    Ka "Stalker [persistent.player_name], can we head home soon?"
+
+# game/scripts/day6.rpy:355
+translate spanish d6a22_e38bed82_1:
+
+    # Z "Of course, [Ka]."
+    Z "Of course, [Ka]."
+
+# game/scripts/day6.rpy:356
+translate spanish d6a22_6cacc48d_1:
+
+    # Z "We will head back in a moment."
+    Z "We will head back in a moment."
+
+# game/scripts/day6.rpy:357
+translate spanish d6a22_d776dffc_2:
+
+    # Rm "I should leave, too."
+    Rm "I should leave, too."
+
+# game/scripts/day6.rpy:360
+translate spanish d6a22_e49e0c1e_2:
+
+    # Rm "If you change your mind, you know where to find me..."
+    Rm "If you change your mind, you know where to find me..."
+
+# game/scripts/day6.rpy:369
+translate spanish d6a36_faf40968:
+
+    # Rm "Come on, don't be shy..."
+    Rm "Come on, don't be shy..."
+
+# game/scripts/day6.rpy:372
+translate spanish d6a36_20b11ad2:
+
+    # Ka "Okay..."
+    Ka "Okay..."
+
+# game/scripts/day6.rpy:375
+translate spanish d6a36_267eb20e:
+
+    # Ka "I only need to suck, yes...?"
+    Ka "I only need to suck, yes...?"
+
+# game/scripts/day6.rpy:378
+translate spanish d6a36_297567b2:
+
+    # Ka "{i}*sucking*"
+    Ka "{i}*sucking*"
+
+# game/scripts/day6.rpy:379
+translate spanish d6a36_403b4020:
+
+    # Rm "See... it's nice, isn't it?"
+    Rm "See... it's nice, isn't it?"
+
+# game/scripts/day6.rpy:382
+translate spanish d6a36_1fd2ed2a:
+
+    # Rm "That's a fine little woman you have here, Stalker."
+    Rm "That's a fine little woman you have here, Stalker."
+
+# game/scripts/day6.rpy:385
+translate spanish d6a36_75a9cd81:
+
+    # Ka "Mh..."
+    Ka "Mh..."
+
+# game/scripts/day6.rpy:386
+translate spanish d6a36_0bf058c7:
+
+    # Z "She seems to like the taste..."
+    Z "She seems to like the taste..."
+
+# game/scripts/day6.rpy:389
+translate spanish d6a36_92f6895c:
+
+    # Rm "There is a reason why a vessel's milk is popular."
+    Rm "There is a reason why a vessel's milk is popular."
+
+# game/scripts/day6.rpy:390
+translate spanish d6a36_6b92a6ac:
+
+    # Rm "We choose our food carefully, to encourage more and better milk."
+    Rm "We choose our food carefully, to encourage more and better milk."
+
+# game/scripts/day6.rpy:393
+translate spanish d6a36_17f2a35f:
+
+    # Rm "Sometimes, when we really have excess, we can even sell it."
+    Rm "Sometimes, when we really have excess, we can even sell it."
+
+# game/scripts/day6.rpy:394
+translate spanish d6a36_39a43bb6:
+
+    # Rm "You know how popular we are in the taverns..."
+    Rm "You know how popular we are in the taverns..."
+
+# game/scripts/day6.rpy:397
+translate spanish d6a36_65f5a4f3:
+
+    # Rm "Oh my... someone is hungry, today..."
+    Rm "Oh my... someone is hungry, today..."
+
+# game/scripts/day6.rpy:400
+translate spanish d6a36_51eeb4b7:
+
+    # Ka "Nhh... this is very sweet."
+    Ka "Nhh... this is very sweet."
+
+# game/scripts/day6.rpy:401
+translate spanish d6a36_77ce6c8b:
+
+    # Ka "Thank you."
+    Ka "Thank you."
+
+# game/scripts/day6.rpy:404
+translate spanish d6a36_406cd4f5:
+
+    # Ka "Ah..."
+    Ka "Ah..."
+
+# game/scripts/day6.rpy:405
+translate spanish d6a36_81debd6b:
+
+    # Rm "Oh honey, it's my pleasure and duty to share the blessing."
+    Rm "Oh honey, it's my pleasure and duty to share the blessing."
+
+# game/scripts/day6.rpy:408
+translate spanish d6a36_c65eb1af:
+
+    # Rm "I will have to leave now though."
+    Rm "I will have to leave now though."
+
+# game/scripts/day6.rpy:409
+translate spanish d6a36_bd3a4510:
+
+    # Z "We should get going as well..."
+    Z "We should get going as well..."
+
+# game/scripts/day6.rpy:412
+translate spanish d6a36_097be83a:
+
+    # "{i}Kateryna gets up and you get ready to leave..."
+    "{i}Kateryna gets up and you get ready to leave..."
+
+# game/scripts/day6.rpy:415
+translate spanish d6a36_f348453f:
+
+    # "She turns around..."
+    "She turns around..."
+
+# game/scripts/day6.rpy:420
+translate spanish d6a36_0fcfdee7:
+
+    # Rm "You should think about my offer..."
+    Rm "You should think about my offer..."
+
+# game/scripts/day6.rpy:421
+translate spanish d6a36_3787f7c1:
+
+    # Rm "This little one will be seeing the Sun in a matter of weeks."
+    Rm "This little one will be seeing the Sun in a matter of weeks."
+
+# game/scripts/day6.rpy:422
+translate spanish d6a36_5964ba33:
+
+    # Rm "After that, I can be at your service again..."
+    Rm "After that, I can be at your service again..."
+
+# game/scripts/day6.rpy:425
+translate spanish d6a36_cbbe577e:
+
+    # Z "I will think about it."
+    Z "I will think about it."
+
+# game/scripts/day6.rpy:428
+translate spanish d6a36_6fd59788:
+
+    # Rm "Blessings upon you both..."
+    Rm "Blessings upon you both..."
+
+# game/scripts/day6.rpy:433
+translate spanish d6a36_0fcfdee7_1:
+
+    # Rm "You should think about my offer..."
+    Rm "You should think about my offer..."
+
+# game/scripts/day6.rpy:434
+translate spanish d6a36_3787f7c1_1:
+
+    # Rm "This little one will be seeing the Sun in a matter of weeks."
+    Rm "This little one will be seeing the Sun in a matter of weeks."
+
+# game/scripts/day6.rpy:435
+translate spanish d6a36_5137acce:
+
+    # Rm "But after that, I can be at your service, Stalker..."
+    Rm "But after that, I can be at your service, Stalker..."
+
+# game/scripts/day6.rpy:438
+translate spanish d6a36_cbbe577e_1:
+
+    # Z "I will think about it."
+    Z "I will think about it."
+
+# game/scripts/day6.rpy:439
+translate spanish d6a36_61359b15:
+
+    # Z "I'm sure we will meet again."
+    Z "I'm sure we will meet again."
+
+# game/scripts/day6.rpy:442
+translate spanish d6a36_a7c9ba8c:
+
+    # Rm "I'm sure we will..."
+    Rm "I'm sure we will..."
+
+# game/scripts/day6.rpy:450
+translate spanish d6a42_382d63fd:
+
+    # Ka "She is very experienced with making babies..."
+    Ka "She is very experienced with making babies..."
+
+# game/scripts/day6.rpy:451
+translate spanish d6a42_fbc8fc73:
+
+    # Ka "There are more women like her?"
+    Ka "There are more women like her?"
+
+# game/scripts/day6.rpy:454
+translate spanish d6a42_8b63631a:
+
+    # Z "There are, yes, though not many."
+    Z "There are, yes, though not many."
+
+# game/scripts/day6.rpy:455
+translate spanish d6a42_f65be1a3:
+
+    # Z "Do you want to head home?"
+    Z "Do you want to head home?"
+
+# game/scripts/day6.rpy:458
+translate spanish d6a42_6f4aaf3a:
+
+    # Ka "Yes, we can go back."
+    Ka "Yes, we can go back."
+
+# game/scripts/day6.rpy:459
+translate spanish d6a42_77873acb:
+
+    # Ka "But now I am more curious than before..."
+    Ka "But now I am more curious than before..."
+
+# game/scripts/day6.rpy:460
+translate spanish d6a42_8d3f1953:
+
+    # Ka "Many thoughts..."
+    Ka "Many thoughts..."
+
+# game/scripts/day6.rpy:465
+translate spanish d6a42_a0cea2f3:
+
+    # "{i}You and Kateryna head back to [Ig]'s place nearby the market."
+    "{i}You and Kateryna head back to [Ig]'s place nearby the market."
+
+# game/scripts/day6.rpy:468
+translate spanish d6a42_9957f95e:
+
+    # Ka "Thank you for today, Stalker [persistent.player_name]."
+    Ka "Thank you for today, Stalker [persistent.player_name]."
+
+# game/scripts/day6.rpy:469
+translate spanish d6a42_1e88964e:
+
+    # Ka "It was very interesting to see city with you. Maybe we can do again, soon."
+    Ka "It was very interesting to see city with you. Maybe we can do again, soon."
+
+# game/scripts/day6.rpy:472
+translate spanish d6a42_278843f2:
+
+    # Z "Maybe we can, yes."
+    Z "Maybe we can, yes."
+
+# game/scripts/day6.rpy:475
+translate spanish d6a42_5442b423:
+
+    # Ka "Do you want come inside? Uncle [Ig] maybe prepared dinner now?"
+    Ka "Do you want come inside? Uncle [Ig] maybe prepared dinner now?"
+
+# game/scripts/day6.rpy:478
+translate spanish d6a42_c44b79dc:
+
+    # Z "I can stay for a while, sure."
+    Z "I can stay for a while, sure."
+
+# game/scripts/day6.rpy:479
+translate spanish d6a42_d3e394c3:
+
+    # Z "I haven't visited his home in a long time... curious to see this home bar he keeps telling me about."
+    Z "I haven't visited his home in a long time... curious to see this home bar he keeps telling me about."
+
+# game/scripts/day6.rpy:482
+translate spanish d6a42_1f2cae6b:
+
+    # Ka "Okay! Come inside!"
+    Ka "Okay! Come inside!"
+
+# game/scripts/day6.rpy:487
+translate spanish d6a42_74f3edd9:
+
+    # "She waits for you at the door..."
+    "She waits for you at the door..."
+
+# game/scripts/day6.rpy:490
+translate spanish d6a42_ba4766da:
+
+    # "She waits for you to come close, not letting her eyes off you..."
+    "She waits for you to come close, not letting her eyes off you..."
+
+# game/scripts/day6.rpy:493
+translate spanish d6a42_05861ffb:
+
+    # "...and then comes closer, and hesitatingly, yet sincerely..."
+    "...and then comes closer, and hesitatingly, yet sincerely..."
+
+# game/scripts/day6.rpy:496
+translate spanish d6a42_75a9cd81:
+
+    # Ka "Mh..."
+    Ka "Mh..."
+
+# game/scripts/day6.rpy:497
+translate spanish d6a42_34deeb2b:
+
+    # "...kisses you on your cheek."
+    "...kisses you on your cheek."
+
+# game/scripts/day6.rpy:500
+translate spanish d6a42_83b7a7eb:
+
+    # Ka "..."
+    Ka "..."
+
+# game/scripts/day6.rpy:503
+translate spanish d6a42_2b4c8bc6:
+
+    # "{i}You get inside and Kateryna leads you to her uncle's dining room..."
+    "{i}You get inside and Kateryna leads you to her uncle's dining room..."
+
+# game/scripts/day6.rpy:506
+translate spanish d6a42_495e9b85:
+
+    # Ig "Well, haha, look who is here!"
+    Ig "Well, haha, look who is here!"
+
+# game/scripts/day6.rpy:509
+translate spanish d6a42_c20c1784:
+
+    # Ka "We are back, uncle!"
+    Ka "We are back, uncle!"
+
+# game/scripts/day6.rpy:510
+translate spanish d6a42_1758b338:
+
+    # Ig "Oh, princess! Come say hello."
+    Ig "Oh, princess! Come say hello."
+
+# game/scripts/day6.rpy:513
+translate spanish d6a42_871246af:
+
+    # Ig "How was it? Did [persistent.player_name] show you around?"
+    Ig "How was it? Did [persistent.player_name] show you around?"
+
+# game/scripts/day6.rpy:516
+translate spanish d6a42_600555c6:
+
+    # Ka "He did, Uncle. He showed sights, and Plaza, and we met a Priestess!"
+    Ka "He did, Uncle. He showed sights, and Plaza, and we met a Priestess!"
+
+# game/scripts/day6.rpy:519
+translate spanish d6a42_fb2b44ae:
+
+    # Ka "I asked Stalker [persistent.player_name] to come to dinner. Is okay?"
+    Ka "I asked Stalker [persistent.player_name] to come to dinner. Is okay?"
+
+# game/scripts/day6.rpy:522
+translate spanish d6a42_638a9ebd:
+
+    # Z "Feel free to say no, Igor. I am not imposing..."
+    Z "Feel free to say no, Igor. I am not imposing..."
+
+# game/scripts/day6.rpy:525
+translate spanish d6a42_73b40afd:
+
+    # Ig "What are you saying, [persistent.player_name]?!"
+    Ig "What are you saying, [persistent.player_name]?!"
+
+# game/scripts/day6.rpy:526
+translate spanish d6a42_22a9a478:
+
+    # Ig "You are always welcome."
+    Ig "You are always welcome."
+
+# game/scripts/day6.rpy:527
+translate spanish d6a42_121a640c:
+
+    # Ig "Dinner is almost ready, have seat."
+    Ig "Dinner is almost ready, have seat."
+
+# game/scripts/day6.rpy:532
+translate spanish d6a42_4b018105:
+
+    # "Igor, Kateryna and you sit down and share a meal..."
+    "Igor, Kateryna and you sit down and share a meal..."
+
+# game/scripts/day6.rpy:535
+translate spanish d6a42_e6cb04c7:
+
+    # "You feast on the delicious stew, while Igor starts his stories about his latest adventures..."
+    "You feast on the delicious stew, while Igor starts his stories about his latest adventures..."
+
+# game/scripts/day6.rpy:538
+translate spanish d6a42_ef031ba2:
+
+    # Ig "...and then I told her; pretty woman, no need to apologize."
+    Ig "...and then I told her; pretty woman, no need to apologize."
+
+# game/scripts/day6.rpy:541
+translate spanish d6a42_41f5936e:
+
+    # Ig "And then I saw it!"
+    Ig "And then I saw it!"
+
+# game/scripts/day6.rpy:542
+translate spanish d6a42_d25d1a35:
+
+    # Ka "What did you see?"
+    Ka "What did you see?"
+
+# game/scripts/day6.rpy:543
+translate spanish d6a42_37e2aba0:
+
+    # Ig "Her smile, pretty as rising sun."
+    Ig "Her smile, pretty as rising sun."
+
+# game/scripts/day6.rpy:544
+translate spanish d6a42_1f7fbedf:
+
+    # Ig "Like yours, princess, haha!"
+    Ig "Like yours, princess, haha!"
+
+# game/scripts/day6.rpy:545
+translate spanish d6a42_a8646665:
+
+    # Ka "You only say that to get in her bed, haha."
+    Ka "You only say that to get in her bed, haha."
+
+# game/scripts/day6.rpy:546
+translate spanish d6a42_921f6938:
+
+    # Ig "No no no, young woman, you know this is not me!"
+    Ig "No no no, young woman, you know this is not me!"
+
+# game/scripts/day6.rpy:549
+translate spanish d6a42_5da8f2dc:
+
+    # Ka "No lying, uncle!"
+    Ka "No lying, uncle!"
+
+# game/scripts/day6.rpy:552
+translate spanish d6a42_05dcbcd0:
+
+    # Z "I'm pretty sure he means it, I have known him for long enough."
+    Z "I'm pretty sure he means it, I have known him for long enough."
+
+# game/scripts/day6.rpy:555
+translate spanish d6a42_bcf67db5:
+
+    # Z "Hey! Let's drink to that!"
+    Z "Hey! Let's drink to that!"
+
+# game/scripts/day6.rpy:556
+translate spanish d6a42_e160fc7d:
+
+    # Z "The old man found a new girlfriend, finally!"
+    Z "The old man found a new girlfriend, finally!"
+
+# game/scripts/day6.rpy:559
+translate spanish d6a42_cce9ed01:
+
+    # Ka "Pust' ty budesh' schastliv do kontsa svoikh dney!"
+    Ka "Pust' ty budesh' schastliv do kontsa svoikh dney!"
+
+# game/scripts/day6.rpy:562
+translate spanish d6a42_101f3ee0:
+
+    # Z "Shereve!"
+    Z "Shereve!"
+
+# game/scripts/day6.rpy:563
+translate spanish d6a42_8b0828b5:
+
+    # Ig "Za tvoe schast'e!"
+    Ig "Za tvoe schast'e!"
+
+# game/scripts/day6.rpy:566
+translate spanish d6a42_335efd1d:
+
+    # Ig "{i}*slurp*{/i}"
+    Ig "{i}*slurp*{/i}"
+
+# game/scripts/day6.rpy:567
+translate spanish d6a42_62915b43:
+
+    # Z "Pace yourself, old friend!"
+    Z "Pace yourself, old friend!"
+
+# game/scripts/day6.rpy:568
+translate spanish d6a42_5b9e9dd5:
+
+    # Ka "I try to tell him always..."
+    Ka "I try to tell him always..."
+
+# game/scripts/day6.rpy:569
+translate spanish d6a42_2796da5d:
+
+    # Z "{i}*laughs*"
+    Z "{i}*laughs*"
+
+# game/scripts/day6.rpy:573
+translate spanish d6a42_c7d9942b:
+
+    # "{i}You talk and drink, and have a good time."
+    "{i}You talk and drink, and have a good time."
+
+# game/scripts/day6.rpy:574
+translate spanish d6a42_65ee4912:
+
+    # "{i}Eventually, Kateryna thanks [Ig] for the dinner and excuses herself."
+    "{i}Eventually, Kateryna thanks [Ig] for the dinner and excuses herself."
+
+# game/scripts/day6.rpy:578
+translate spanish d6a42_63123240:
+
+    # Ig "[persistent.player_name!c], I tell you, we are become lightweight."
+    Ig "[persistent.player_name!c], I tell you, we are become lightweight."
+
+# game/scripts/day6.rpy:579
+translate spanish d6a42_1f165f75:
+
+    # Ig "Three beer and we are full..."
+    Ig "Three beer and we are full..."
+
+# game/scripts/day6.rpy:580
+translate spanish d6a42_659c4d56:
+
+    # Z "You speak the truth, my friend. Time passes faster now..."
+    Z "You speak the truth, my friend. Time passes faster now..."
+
+# game/scripts/day6.rpy:581
+translate spanish d6a42_5de0b2c3:
+
+    # Z "I should get back home soon."
+    Z "I should get back home soon."
+
+# game/scripts/day6.rpy:582
+translate spanish d6a42_faab82ed:
+
+    # Z "I had a good time, as always."
+    Z "I had a good time, as always."
+
+# game/scripts/day6.rpy:585
+translate spanish d6a42_5fde9246:
+
+    # Ig "You are friend, and honoured guest."
+    Ig "You are friend, and honoured guest."
+
+# game/scripts/day6.rpy:586
+translate spanish d6a42_99508e53:
+
+    # Ig "Before you go, I want to tell you something."
+    Ig "Before you go, I want to tell you something."
+
+# game/scripts/day6.rpy:589
+translate spanish d6a42_4160013e:
+
+    # Ig "Early today, Kateryna could not stop talking about you."
+    Ig "Early today, Kateryna could not stop talking about you."
+
+# game/scripts/day6.rpy:592
+translate spanish d6a42_fda3b9f2:
+
+    # Ig "She seems very taken by you, haha."
+    Ig "She seems very taken by you, haha."
+
+# game/scripts/day6.rpy:595
+translate spanish d6a42_282edf1b:
+
+    # Z "She is very... interested in our culture here, yes."
+    Z "She is very... interested in our culture here, yes."
+
+# game/scripts/day6.rpy:598
+translate spanish d6a42_bd45af2f:
+
+    # Ig "Don't hide behind words, my friend."
+    Ig "Don't hide behind words, my friend."
+
+# game/scripts/day6.rpy:599
+translate spanish d6a42_013ee464:
+
+    # Ig "I know her well; and I know you."
+    Ig "I know her well; and I know you."
+
+# game/scripts/day6.rpy:600
+translate spanish d6a42_913cb16f:
+
+    # Ig "She is girl who likes new things."
+    Ig "She is girl who likes new things."
+
+# game/scripts/day6.rpy:603
+translate spanish d6a42_f1437b47:
+
+    # Ig "But she is also scared of world, she wants secure home."
+    Ig "But she is also scared of world, she wants secure home."
+
+# game/scripts/day6.rpy:604
+translate spanish d6a42_06978a54:
+
+    # Ig "I don't know if she told you, but her home village..."
+    Ig "I don't know if she told you, but her home village..."
+
+# game/scripts/day6.rpy:607
+translate spanish d6a42_6ab6d6e9:
+
+    # Ig "...is not very safe there."
+    Ig "...is not very safe there."
+
+# game/scripts/day6.rpy:608
+translate spanish d6a42_63d35322:
+
+    # Ig "She has not much to return to, maybe nothing."
+    Ig "She has not much to return to, maybe nothing."
+
+# game/scripts/day6.rpy:611
+translate spanish d6a42_fbfee575:
+
+    # Ig "I am not always around, [persistent.player_name]."
+    Ig "I am not always around, [persistent.player_name]."
+
+# game/scripts/day6.rpy:612
+translate spanish d6a42_d9f8d45b:
+
+    # Ig "I am trader. She can not come with me always. And I want her to have good man, not one who treats her badly."
+    Ig "I am trader. She can not come with me always. And I want her to have good man, not one who treats her badly."
+
+# game/scripts/day6.rpy:613
+translate spanish d6a42_a0588ebb:
+
+    # Ig "So..."
+    Ig "So..."
+
+# game/scripts/day6.rpy:616
+translate spanish d6a42_830a8552:
+
+    # Ig "I think she likes you."
+    Ig "I think she likes you."
+
+# game/scripts/day6.rpy:617
+translate spanish d6a42_85941533:
+
+    # Ig "If she wants to make life with you, I am not against."
+    Ig "If she wants to make life with you, I am not against."
+
+# game/scripts/day6.rpy:618
+translate spanish d6a42_5183b6d7:
+
+    # Ig "You are good man and I trust you."
+    Ig "You are good man and I trust you."
+
+# game/scripts/day6.rpy:621
+translate spanish d6a42_0412d5d7:
+
+    # Ig "She is young, and exploring world."
+    Ig "She is young, and exploring world."
+
+# game/scripts/day6.rpy:622
+translate spanish d6a42_2b0713e8:
+
+    # Ig "Maybe she will forget tomorrow, and find other interest.."
+    Ig "Maybe she will forget tomorrow, and find other interest.."
+
+# game/scripts/day6.rpy:623
+translate spanish d6a42_c34ba92c:
+
+    # Ig "But I think not, so... what to do?"
+    Ig "But I think not, so... what to do?"
+
+# game/scripts/day6.rpy:624
+translate spanish d6a42_bbf07eb2:
+
+    # Ig "I know it is big ask. You don't have to reply now."
+    Ig "I know it is big ask. You don't have to reply now."
+
+# game/scripts/day6.rpy:629
+translate spanish d6a42_daaffd9f:
+
+    # Z "I will remember that, [Ig]."
+    Z "I will remember that, [Ig]."
+
+# game/scripts/day6.rpy:630
+translate spanish d6a42_330f78fe:
+
+    # Z "I understand your worries about her future."
+    Z "I understand your worries about her future."
+
+# game/scripts/day6.rpy:631
+translate spanish d6a42_81cdc01d:
+
+    # Z "I have a big household already."
+    Z "I have a big household already."
+
+# game/scripts/day6.rpy:632
+translate spanish d6a42_f2b08863:
+
+    # Z "But if she should truly desire to live with me and my family, I will give it some thought."
+    Z "But if she should truly desire to live with me and my family, I will give it some thought."
+
+# game/scripts/day6.rpy:635
+translate spanish d6a42_171dfc89:
+
+    # Ig "Thank you, old friend."
+    Ig "Thank you, old friend."
+
+# game/scripts/day6.rpy:636
+translate spanish d6a42_35345805:
+
+    # Ig "I made promise to her mother, that I will see her happy and safe."
+    Ig "I made promise to her mother, that I will see her happy and safe."
+
+# game/scripts/day6.rpy:641
+translate spanish d6a42_b042c1f2:
+
+    # Z "She's a nice girl, I like her."
+    Z "She's a nice girl, I like her."
+
+# game/scripts/day6.rpy:642
+translate spanish d6a42_18674b78:
+
+    # Z "We should see what she truly wants."
+    Z "We should see what she truly wants."
+
+# game/scripts/day6.rpy:643
+translate spanish d6a42_2c732551:
+
+    # Z "Maybe she just feels unsafe at the moment and looks up to me for some reassurance."
+    Z "Maybe she just feels unsafe at the moment and looks up to me for some reassurance."
+
+# game/scripts/day6.rpy:646
+translate spanish d6a42_01c3b9ed:
+
+    # Ig "Let me say thing I noticed."
+    Ig "Let me say thing I noticed."
+
+# game/scripts/day6.rpy:647
+translate spanish d6a42_22e23278:
+
+    # Ig "She never likes boys her age."
+    Ig "She never likes boys her age."
+
+# game/scripts/day6.rpy:648
+translate spanish d6a42_b8f408a7:
+
+    # Ig "I made promise to mother, that I will see her happy and safe."
+    Ig "I made promise to mother, that I will see her happy and safe."
+
+# game/scripts/day6.rpy:653
+translate spanish d6a42_867b2b46:
+
+    # Z "She's cute, and I like her."
+    Z "She's cute, and I like her."
+
+# game/scripts/day6.rpy:654
+translate spanish d6a42_4cf9ef0d:
+
+    # Z "But you know I already have a family, and if she wants to join the household..."
+    Z "But you know I already have a family, and if she wants to join the household..."
+
+# game/scripts/day6.rpy:655
+translate spanish d6a42_332696d3:
+
+    # Z "...I'm afraid she will have to work for it, like other servants."
+    Z "...I'm afraid she will have to work for it, like other servants."
+
+# game/scripts/day6.rpy:656
+translate spanish d6a42_83732633:
+
+    # Z "But we will see about that."
+    Z "But we will see about that."
+
+# game/scripts/day6.rpy:659
+translate spanish d6a42_1dd211a5:
+
+    # Ig "I am sure this will be no problem."
+    Ig "I am sure this will be no problem."
+
+# game/scripts/day6.rpy:660
+translate spanish d6a42_83fd7805:
+
+    # Ig "She is always very diligent in house."
+    Ig "She is always very diligent in house."
+
+# game/scripts/day6.rpy:663
+translate spanish d6a42_35345805_1:
+
+    # Ig "I made promise to her mother, that I will see her happy and safe."
+    Ig "I made promise to her mother, that I will see her happy and safe."
+
+# game/scripts/day6.rpy:664
+translate spanish d6a42_20c0c146:
+
+    # Ig "If serving you will make her happy, I know you will protect her."
+    Ig "If serving you will make her happy, I know you will protect her."
+
+# game/scripts/day6.rpy:672
+translate spanish d6a64_7ae72290:
+
+    # "{i}You get up and ready to leave..."
+    "{i}You get up and ready to leave..."
+
+# game/scripts/day6.rpy:675
+translate spanish d6a64_bebe7451:
+
+    # Z "Thank you for the dinner."
+    Z "Thank you for the dinner."
+
+# game/scripts/day6.rpy:676
+translate spanish d6a64_3046345b:
+
+    # Z "I will say goodbye to [Ka] and head out."
+    Z "I will say goodbye to [Ka] and head out."
+
+# game/scripts/day6.rpy:679
+translate spanish d6a64_d1128716:
+
+    # Ig "You do so; will see you again soon, I'm sure."
+    Ig "You do so; will see you again soon, I'm sure."
+
+# game/scripts/day6.rpy:682
+translate spanish d6a64_c1bbc3d9:
+
+    # Z "Until then, take care out there."
+    Z "Until then, take care out there."
+
+# game/scripts/day6.rpy:685
+translate spanish d6a64_2a098ac9:
+
+    # "You head to her room..."
+    "You head to her room..."
+
+# game/scripts/day6.rpy:688
+translate spanish d6a64_d11f277d:
+
+    # Z "[Ka]? Are you in here?"
+    Z "[Ka]? Are you in here?"
+
+# game/scripts/day6.rpy:689
+translate spanish d6a64_b1d62cf8:
+
+    # Z "I am leaving and wanted to say goodbye."
+    Z "I am leaving and wanted to say goodbye."
+
+# game/scripts/day6.rpy:692
+translate spanish d6a64_2e40f74c:
+
+    # Z "Hey... Is everything okay?"
+    Z "Hey... Is everything okay?"
+
+# game/scripts/day6.rpy:693
+translate spanish d6a64_7d8aea14:
+
+    # Ka "Yes, Stalker [persistent.player_name]..."
+    Ka "Yes, Stalker [persistent.player_name]..."
+
+# game/scripts/day6.rpy:699
+translate spanish d6a64_8ca25af1:
+
+    # Z "What's wrong?"
+    Z "What's wrong?"
+
+# game/scripts/day6.rpy:700
+translate spanish d6a64_7beba1dc:
+
+    # Z "You can tell me."
+    Z "You can tell me."
+
+# game/scripts/day6.rpy:703
+translate spanish d6a64_5be478bd:
+
+    # Ka "The woman before..."
+    Ka "The woman before..."
+
+# game/scripts/day6.rpy:704
+translate spanish d6a64_46b088eb:
+
+    # Ka "She looked pretty, yes?"
+    Ka "She looked pretty, yes?"
+
+# game/scripts/day6.rpy:707
+translate spanish d6a64_e286ecdd:
+
+    # Z "Very, yes..."
+    Z "Very, yes..."
+
+# game/scripts/day6.rpy:710
+translate spanish d6a64_db57c516:
+
+    # Ka "She said I don't have body like her..."
+    Ka "She said I don't have body like her..."
+
+# game/scripts/day6.rpy:711
+translate spanish d6a64_85289359:
+
+    # Ka "You think she is right...?"
+    Ka "You think she is right...?"
+
+# game/scripts/day6.rpy:712
+translate spanish d6a64_320f3187:
+
+    # Ka "You think I am pretty, Stalker [persistent.player_name]?"
+    Ka "You think I am pretty, Stalker [persistent.player_name]?"
+
+# game/scripts/day6.rpy:718
+translate spanish d6a64_bd293341:
+
+    # Z "I do think so."
+    Z "I do think so."
+
+# game/scripts/day6.rpy:719
+translate spanish d6a64_468b7bf1:
+
+    # Z "You are a very pretty woman, on the inside and out."
+    Z "You are a very pretty woman, on the inside and out."
+
+# game/scripts/day6.rpy:720
+translate spanish d6a64_1108f7ea:
+
+    # Ka "And..."
+    Ka "And..."
+
+# game/scripts/day6.rpy:723
+translate spanish d6a64_a07a6057:
+
+    # Ka "...can I do what the priestess does, too...?"
+    Ka "...can I do what the priestess does, too...?"
+
+# game/scripts/day6.rpy:724
+translate spanish d6a64_c51da8ef:
+
+    # Ka "Make... many babies?"
+    Ka "Make... many babies?"
+
+# game/scripts/day6.rpy:730
+translate spanish d6a64_0ac77690:
+
+    # Z "I don't see why not."
+    Z "I don't see why not."
+
+# game/scripts/day6.rpy:733
+translate spanish d6a64_4b9e2f73:
+
+    # Z "You may not have her proportions, or ample bosom..."
+    Z "You may not have her proportions, or ample bosom..."
+
+# game/scripts/day6.rpy:736
+translate spanish d6a64_3764a18f:
+
+    # Z "But you are a young and healthy woman...."
+    Z "But you are a young and healthy woman...."
+
+# game/scripts/day6.rpy:739
+translate spanish d6a64_75a9cd81:
+
+    # Ka "Mh..."
+    Ka "Mh..."
+
+# game/scripts/day6.rpy:740
+translate spanish d6a64_1eb58b20:
+
+    # Z "If that is what you want, I see nothing that could stop you."
+    Z "If that is what you want, I see nothing that could stop you."
+
+# game/scripts/day6.rpy:743
+translate spanish d6a64_58d57ebc:
+
+    # Z "So what if you're a bit slimmer than the Priestess... Many women are."
+    Z "So what if you're a bit slimmer than the Priestess... Many women are."
+
+# game/scripts/day6.rpy:746
+translate spanish d6a64_80732329:
+
+    # Z "You will discover that childbearing changes a woman's body."
+    Z "You will discover that childbearing changes a woman's body."
+
+# game/scripts/day6.rpy:749
+translate spanish d6a64_2462a5df:
+
+    # Z "Who is to say how your body will react when the time comes?"
+    Z "Who is to say how your body will react when the time comes?"
+
+# game/scripts/day6.rpy:752
+translate spanish d6a64_87624d29:
+
+    # Ka "It must... feel nice..."
+    Ka "It must... feel nice..."
+
+# game/scripts/day6.rpy:753
+translate spanish d6a64_3cf11edf:
+
+    # Z "What do you mean?"
+    Z "What do you mean?"
+
+# game/scripts/day6.rpy:754
+translate spanish d6a64_44378df0:
+
+    # Ka "Making a life, and feeling it grow inside you."
+    Ka "Making a life, and feeling it grow inside you."
+
+# game/scripts/day6.rpy:757
+translate spanish d6a64_b05b9cb9:
+
+    # Z "Maybe you will find out one day..."
+    Z "Maybe you will find out one day..."
+
+# game/scripts/day6.rpy:760
+translate spanish d6a64_664a46a2:
+
+    # Ka "Also the making...of love."
+    Ka "Also the making...of love."
+
+# game/scripts/day6.rpy:761
+translate spanish d6a64_2700272a:
+
+    # Ka "I would like to know more. I have seen the animals... and others in my family."
+    Ka "I would like to know more. I have seen the animals... and others in my family."
+
+# game/scripts/day6.rpy:764
+translate spanish d6a64_900f0148:
+
+    # Z "Hm..."
+    Z "Hm..."
+
+# game/scripts/day6.rpy:767
+translate spanish d6a64_2eb95a23:
+
+    # Z "Your day will come, Kateryna..."
+    Z "Your day will come, Kateryna..."
+
+# game/scripts/day6.rpy:770
+translate spanish d6a64_0590594b:
+
+    # Ka "...mnh."
+    Ka "...mnh."
+
+# game/scripts/day6.rpy:771
+translate spanish d6a64_bea4b7d5:
+
+    # Z "...I am sure of it."
+    Z "...I am sure of it."
+
+# game/scripts/day6.rpy:777
+translate spanish d6a64_34552c9e:
+
+    # Z "I see no reason why you should not be able to bear children, even now."
+    Z "I see no reason why you should not be able to bear children, even now."
+
+# game/scripts/day6.rpy:780
+translate spanish d6a64_b2a024d2:
+
+    # Z "...but you can always consider having them later."
+    Z "...but you can always consider having them later."
+
+# game/scripts/day6.rpy:781
+translate spanish d6a64_8ab647ce:
+
+    # Ka "Later... yes..."
+    Ka "Later... yes..."
+
+# game/scripts/day6.rpy:784
+translate spanish d6a64_95a75121:
+
+    # Z "With a body like yours..."
+    Z "With a body like yours..."
+
+# game/scripts/day6.rpy:787
+translate spanish d6a64_dfceba5e:
+
+    # "You slowly, and sensually roam around her breasts..."
+    "You slowly, and sensually roam around her breasts..."
+
+# game/scripts/day6.rpy:790
+translate spanish d6a64_75a9cd81_1:
+
+    # Ka "Mh..."
+    Ka "Mh..."
+
+# game/scripts/day6.rpy:793
+translate spanish d6a64_9358157a:
+
+    # "...uncovering her loose dress little by little..."
+    "...uncovering her loose dress little by little..."
+
+# game/scripts/day6.rpy:796
+translate spanish d6a64_d92e2f32:
+
+    # Z "...and such pretty lips..."
+    Z "...and such pretty lips..."
+
+# game/scripts/day6.rpy:799
+translate spanish d6a64_95c8e82e:
+
+    # Ka "Hah..."
+    Ka "Hah..."
+
+# game/scripts/day6.rpy:800
+translate spanish d6a64_ee98fc2e:
+
+    # Z "...you can, if you want to, explore life to the fullest, before settling down with someone worthy and having his children."
+    Z "...you can, if you want to, explore life to the fullest, before settling down with someone worthy and having his children."
+
+# game/scripts/day6.rpy:801
+translate spanish d6a64_4c28c722:
+
+    # Ka "I want to... experience it."
+    Ka "I want to... experience it."
+
+# game/scripts/day6.rpy:802
+translate spanish d6a64_b8659685:
+
+    # Z "You have never before...?"
+    Z "You have never before...?"
+
+# game/scripts/day6.rpy:803
+translate spanish d6a64_196b2f92:
+
+    # Ka "No..."
+    Ka "No..."
+
+# game/scripts/day6.rpy:806
+translate spanish d6a64_900f0148_1:
+
+    # Z "Hm..."
+    Z "Hm..."
+
+# game/scripts/day6.rpy:807
+translate spanish d6a64_39447400:
+
+    # Z "Maybe you will one day."
+    Z "Maybe you will one day."
+
+# game/scripts/day6.rpy:810
+translate spanish d6a64_fe7886cf:
+
+    # Ka "One day..."
+    Ka "One day..."
+
+# game/scripts/day6.rpy:813
+translate spanish d6a64_406cd4f5:
+
+    # Ka "Ah..."
+    Ka "Ah..."
+
+# game/scripts/day6.rpy:814
+translate spanish d6a64_37cbe629:
+
+    # Z "One day."
+    Z "One day."
+
+# game/scripts/day6.rpy:821
+translate spanish d6a64_9658e416:
+
+    # Z "You are a very pretty woman, [Ka]."
+    Z "You are a very pretty woman, [Ka]."
+
+# game/scripts/day6.rpy:822
+translate spanish d6a64_735aef12:
+
+    # Z "Don't let the words of the Priestess bother you."
+    Z "Don't let the words of the Priestess bother you."
+
+# game/scripts/day6.rpy:825
+translate spanish d6a64_31c8daa3:
+
+    # Z "There are many men, and women too, who would give everything to see your smile every day, trust me."
+    Z "There are many men, and women too, who would give everything to see your smile every day, trust me."
+
+# game/scripts/day6.rpy:826
+translate spanish d6a64_83b7a7eb:
+
+    # Ka "..."
+    Ka "..."
+
+# game/scripts/day6.rpy:829
+translate spanish d6a64_99fbee55:
+
+    # Z "I have to leave now."
+    Z "I have to leave now."
+
+# game/scripts/day6.rpy:832
+translate spanish d6a64_f39725f2:
+
+    # Ka "We see each other soon?"
+    Ka "We see each other soon?"
+
+# game/scripts/day6.rpy:835
+translate spanish d6a64_2fd5c86a:
+
+    # Z "We can, yes."
+    Z "We can, yes."
+
+# game/scripts/day6.rpy:840
+translate spanish d6a64_9957f95e:
+
+    # Ka "Thank you for today, Stalker [persistent.player_name]."
+    Ka "Thank you for today, Stalker [persistent.player_name]."
+
+# game/scripts/day6.rpy:843
+translate spanish d6a64_e9c99b89:
+
+    # Z "You don't have to call me Stalker next time we meet, okay?"
+    Z "You don't have to call me Stalker next time we meet, okay?"
+
+# game/scripts/day6.rpy:844
+translate spanish d6a64_d5771d5b:
+
+    # Z "Bye for now, [Ka]."
+    Z "Bye for now, [Ka]."
+
+# game/scripts/day6.rpy:847
+translate spanish d6a64_bdddb7ff:
+
+    # Ka "Okay... Bye, [persistent.player_name]..."
+    Ka "Okay... Bye, [persistent.player_name]..."
+
+# game/scripts/day6.rpy:852
+translate spanish d6a64_b4736591:
+
+    # "{i}You head home..."
+    "{i}You head home..."
+
+# game/scripts/day6.rpy:858
+translate spanish d6a78_3edc0075:
+
+    # Z "I have to leave you now, sweet [Ka]."
+    Z "I have to leave you now, sweet [Ka]."
+
+# game/scripts/day6.rpy:861
+translate spanish d6a78_f61fa7dc:
+
+    # Ka "Can we... meet again soon, Stalker [persistent.player_name]?"
+    Ka "Can we... meet again soon, Stalker [persistent.player_name]?"
+
+# game/scripts/day6.rpy:864
+translate spanish d6a78_2fd5c86a:
+
+    # Z "We can, yes."
+    Z "We can, yes."
+
+# game/scripts/day6.rpy:867
+translate spanish d6a78_e8c8473a:
+
+    # Z "You don't have to call me Stalker every time."
+    Z "You don't have to call me Stalker every time."
+
+# game/scripts/day6.rpy:868
+translate spanish d6a78_bba19d52:
+
+    # Z "Next time we meet; [persistent.player_name] will do."
+    Z "Next time we meet; [persistent.player_name] will do."
+
+# game/scripts/day6.rpy:869
+translate spanish d6a78_d5771d5b:
+
+    # Z "Bye for now, [Ka]."
+    Z "Bye for now, [Ka]."
+
+# game/scripts/day6.rpy:872
+translate spanish d6a78_bdddb7ff:
+
+    # Ka "Okay... Bye, [persistent.player_name]..."
+    Ka "Okay... Bye, [persistent.player_name]..."
+
+# game/scripts/day6.rpy:877
+translate spanish d6a78_b4736591:
+
+    # "{i}You head home..."
+    "{i}You head home..."
+
+# game/scripts/day6.rpy:885
+translate spanish d6b1_49688798:
+
+    # Zt "I guess it's time to check the map [Ky] gave me and figure out where that car is..."
+    Zt "I guess it's time to check the map [Ky] gave me and figure out where that car is..."
+
+# game/scripts/day6.rpy:889
+translate spanish d6b1_bdcecafd:
+
+    # Zt "Southwest of Adira... hmm..."
+    Zt "Southwest of Adira... hmm..."
+
+# game/scripts/day6.rpy:892
+translate spanish d6b1_49359a23:
+
+    # Zt "Should be a couple of hours ride from here."
+    Zt "Should be a couple of hours ride from here."
+
+# game/scripts/day6.rpy:893
+translate spanish d6b1_b55c5613:
+
+    # Zt "In the barren lands, just a little away from the riverbed."
+    Zt "In the barren lands, just a little away from the riverbed."
+
+# game/scripts/day6.rpy:894
+translate spanish d6b1_70c836aa:
+
+    # Zt "Whoever manages to survive out there must be tough."
+    Zt "Whoever manages to survive out there must be tough."
+
+# game/scripts/day6.rpy:897
+translate spanish d6b1_bdcecafd_1:
+
+    # Zt "Southwest of Adira... hmm..."
+    Zt "Southwest of Adira... hmm..."
+
+# game/scripts/day6.rpy:898
+translate spanish d6b1_9a02f12a:
+
+    # Zt "That's a rotten place to live in, so far out in the desert, removed from everything."
+    Zt "That's a rotten place to live in, so far out in the desert, removed from everything."
+
+# game/scripts/day6.rpy:901
+translate spanish d6b1_43c91b12:
+
+    # Zt "Should be a 45 minute ride from here, to find this girl... Asani, she said."
+    Zt "Should be a 45 minute ride from here, to find this girl... Asani, she said."
+
+# game/scripts/day6.rpy:902
+translate spanish d6b1_b55c5613_1:
+
+    # Zt "In the barren lands, just a little away from the riverbed."
+    Zt "In the barren lands, just a little away from the riverbed."
+
+# game/scripts/day6.rpy:903
+translate spanish d6b1_5732302b:
+
+    # Zt "I wonder how she survives out there."
+    Zt "I wonder how she survives out there."
+
+# game/scripts/day6.rpy:907
+translate spanish d6b1_b05bb276:
+
+    # Z "Well..."
+    Z "Well..."
+
+# game/scripts/day6.rpy:911
+translate spanish d6b1_3911c0f8:
+
+    # Z "...time to find out."
+    Z "...time to find out."
+
+# game/scripts/day6.rpy:921
+translate spanish d6b1_964ef893:
+
+    # "{i}A while later..."
+    "{i}A while later..."
+
+# game/scripts/day6.rpy:924
+translate spanish d6b1_1263fd2e:
+
+    # Zt "This should be the place..."
+    Zt "This should be the place..."
+
+# game/scripts/day6.rpy:927
+translate spanish d6b1_96d6f19a:
+
+    # Zt "No activity, no sounds or signs of life..."
+    Zt "No activity, no sounds or signs of life..."
+
+# game/scripts/day6.rpy:930
+translate spanish d6b1_bf331151:
+
+    # Zt "...but you can never be too sure."
+    Zt "...but you can never be too sure."
+
+# game/scripts/day6.rpy:933
+translate spanish d6b1_5ab3574d:
+
+    # Z "..."
+    Z "..."
+
+# game/scripts/day6.rpy:937
+translate spanish d6b1_1da472a3:
+
+    # Z "Anyone home?!"
+    Z "Anyone home?!"
+
+# game/scripts/day6.rpy:938
+translate spanish d6b1_fff1d41e:
+
+    # Z "I won't ask again!"
+    Z "I won't ask again!"
+
+# game/scripts/day6.rpy:939
+translate spanish d6b1_27fe6775:
+
+    # C "Who is it!?"
+    C "Who is it!?"
+
+# game/scripts/day6.rpy:940
+translate spanish d6b1_90fa3dc6:
+
+    # C "You knocked on the wrong door, buddy..."
+    C "You knocked on the wrong door, buddy..."
+
+# game/scripts/day6.rpy:943
+translate spanish d6b1_2811886c:
+
+    # C "Let's see who wants to..."
+    C "Let's see who wants to..."
+
+# game/scripts/day6.rpy:947
+translate spanish d6b1_26a803bc:
+
+    # C "..."
+    C "..."
+
+# game/scripts/day6.rpy:948
+translate spanish d6b1_e77dc794:
+
+    # Z "{i}You{/i} are [Asa]?"
+    Z "{i}You{/i} are [Asa]?"
+
+# game/scripts/day6.rpy:949
+translate spanish d6b1_de528326:
+
+    # Asa "So we meet again..."
+    Asa "So we meet again..."
+
+# game/scripts/day6.rpy:953
+translate spanish d6b1_3fe37e2a:
+
+    # Asa "I expected many things when I got up this morning."
+    Asa "I expected many things when I got up this morning."
+
+# game/scripts/day6.rpy:954
+translate spanish d6b1_049de7d2:
+
+    # Asa "You were not one of them."
+    Asa "You were not one of them."
+
+# game/scripts/day6.rpy:957
+translate spanish d6b1_800d43ff:
+
+    # Z "I need your help with something."
+    Z "I need your help with something."
+
+# game/scripts/day6.rpy:960
+translate spanish d6b1_20a6c135:
+
+    # Asa "After you spared my life?"
+    Asa "After you spared my life?"
+
+# game/scripts/day6.rpy:961
+translate spanish d6b1_8cb467df:
+
+    # Asa "{i}*chuckles*{/i} Of course, come inside."
+    Asa "{i}*chuckles*{/i} Of course, come inside."
+
+# game/scripts/day6.rpy:965
+translate spanish d6b1_bbb67bf1:
+
+    # Z "I spared your life, remember?"
+    Z "I spared your life, remember?"
+
+# game/scripts/day6.rpy:966
+translate spanish d6b1_507426a1:
+
+    # Z "I need you to do something for me now."
+    Z "I need you to do something for me now."
+
+# game/scripts/day6.rpy:967
+translate spanish d6b1_1a2edaaf:
+
+    # Asa "Sure... come inside."
+    Asa "Sure... come inside."
+
+# game/scripts/day6.rpy:975
+translate spanish d6b1_cd6d0dc0:
+
+    # Z "Yes... yes... coming..."
+    Z "Yes... yes... coming..."
+
+# game/scripts/day6.rpy:978
+translate spanish d6b1_61b72c4f:
+
+    # Ig "[persistent.player_name!c]? Do you have time for an old friend?"
+    Ig "[persistent.player_name!c]? Do you have time for an old friend?"
+
+# game/scripts/day6.rpy:979
+translate spanish d6b1_b09fe361:
+
+    # Z "Igor, my friend."
+    Z "Igor, my friend."
+
+# game/scripts/day6.rpy:980
+translate spanish d6b1_21183534:
+
+    # Ig "Well met, [persistent.player_name]. I have something you will be interested in."
+    Ig "Well met, [persistent.player_name]. I have something you will be interested in."
+
+# game/scripts/day6.rpy:981
+translate spanish d6b1_330c0287:
+
+    # Z "Do tell. Do you want to come inside?"
+    Z "Do tell. Do you want to come inside?"
+
+# game/scripts/day6.rpy:984
+translate spanish d6b1_c026ac54:
+
+    # Ig "Thank you, but no. My men and women wait for me."
+    Ig "Thank you, but no. My men and women wait for me."
+
+# game/scripts/day6.rpy:985
+translate spanish d6b1_f20343e1:
+
+    # Z "Suit yourself. So... what do you have for me?"
+    Z "Suit yourself. So... what do you have for me?"
+
+# game/scripts/day6.rpy:986
+translate spanish d6b1_62c71426:
+
+    # Ig "I am coming home from supply run. I travel new route, or so it seems. Dunes have shifted a lot, with wind."
+    Ig "I am coming home from supply run. I travel new route, or so it seems. Dunes have shifted a lot, with wind."
+
+# game/scripts/day6.rpy:987
+translate spanish d6b1_6a4ba624:
+
+    # Ig "I saw dunes have revealed old scavenge outpost, and I think of my friend [persistent.player_name]."
+    Ig "I saw dunes have revealed old scavenge outpost, and I think of my friend [persistent.player_name]."
+
+# game/scripts/day6.rpy:988
+translate spanish d6b1_4226cb51:
+
+    # Z "And you want me to take a look at it. But why not do it yourself?"
+    Z "And you want me to take a look at it. But why not do it yourself?"
+
+# game/scripts/day6.rpy:991
+translate spanish d6b1_90104819:
+
+    # Ig "I saw it in distance. I carry fruit today."
+    Ig "I saw it in distance. I carry fruit today."
+
+# game/scripts/day6.rpy:992
+translate spanish d6b1_5657dd92:
+
+    # Ig "Not good idea to stay in sun if you want to sell it fresh."
+    Ig "Not good idea to stay in sun if you want to sell it fresh."
+
+# game/scripts/day6.rpy:993
+translate spanish d6b1_340df797:
+
+    # Z "So... you want me to do the actual hard work...?"
+    Z "So... you want me to do the actual hard work...?"
+
+# game/scripts/day6.rpy:994
+translate spanish d6b1_e0c5ce13:
+
+    # Ig "You have comfy car. You want I lend you camel, so you learn about hard work?"
+    Ig "You have comfy car. You want I lend you camel, so you learn about hard work?"
+
+# game/scripts/day6.rpy:995
+translate spanish d6b1_b49043a2:
+
+    # Z "Ha, no thank you! I'll go have a look and see if there's anything valuable."
+    Z "Ha, no thank you! I'll go have a look and see if there's anything valuable."
+
+# game/scripts/day6.rpy:996
+translate spanish d6b1_02e69010:
+
+    # Ig "Good. If you find good stuff, remember that you have good friend who is merchant, yes?"
+    Ig "Good. If you find good stuff, remember that you have good friend who is merchant, yes?"
+
+# game/scripts/day6.rpy:997
+translate spanish d6b1_7cf43d00:
+
+    # Z "As always, Igor, you will get your cut for sure, in goods or coin."
+    Z "As always, Igor, you will get your cut for sure, in goods or coin."
+
+# game/scripts/day6.rpy:998
+translate spanish d6b1_a5f53951:
+
+    # Ig "Good friend. Now I go. My camels get restless. If camels get restless, my men get restless. If my men get restless, they protest, and I don't sleep well. I get..."
+    Ig "Good friend. Now I go. My camels get restless. If camels get restless, my men get restless. If my men get restless, they protest, and I don't sleep well. I get..."
+
+# game/scripts/day6.rpy:1001
+translate spanish d6b1_b237a031:
+
+    # Z "Restless, I get it. Your wit is so sharp you'll cut yourself, one of these days. Go home, before your melons go to waste."
+    Z "Restless, I get it. Your wit is so sharp you'll cut yourself, one of these days. Go home, before your melons go to waste."
+
+# game/scripts/day6.rpy:1002
+translate spanish d6b1_be17d68e:
+
+    # Ig "Always same story! Igor makes good joke, but friend [persistent.player_name] is sourpuss and does not appreciate. [persistent.player_name] will not get any of my melons."
+    Ig "Always same story! Igor makes good joke, but friend [persistent.player_name] is sourpuss and does not appreciate. [persistent.player_name] will not get any of my melons."
+
+# game/scripts/day6.rpy:1003
+translate spanish d6b1_5d419d8c:
+
+    # Z "How shall I possibly survive without melons?"
+    Z "How shall I possibly survive without melons?"
+
+# game/scripts/day6.rpy:1004
+translate spanish d6b1_b743705e:
+
+    # Ig "You shall survive melonless."
+    Ig "You shall survive melonless."
+
+# game/scripts/day6.rpy:1005
+translate spanish d6b1_d7efeaba:
+
+    # Z "With a heavy heart. See you soon, [Ig]."
+    Z "With a heavy heart. See you soon, [Ig]."
+
+# game/scripts/day6.rpy:1006
+translate spanish d6b1_63ee839f:
+
+    # Ig "Until next time, [persistent.player_name]."
+    Ig "Until next time, [persistent.player_name]."
+
+# game/scripts/day6.rpy:1009
+translate spanish d6b1_9efa7807:
+
+    # Zt "That's not far away. About a few hours from here."
+    Zt "That's not far away. About a few hours from here."
+
+# game/scripts/day6.rpy:1010
+translate spanish d6b1_4aad367a:
+
+    # Z "Alright then."
+    Z "Alright then."
+
+# game/scripts/day6.rpy:1014
+translate spanish d6b1_b05bb276_1:
+
+    # Z "Well..."
+    Z "Well..."
+
+# game/scripts/day6.rpy:1018
+translate spanish d6b1_2011df74:
+
+    # Z "...time to find out what Igor actually saw."
+    Z "...time to find out what Igor actually saw."
+
+# game/scripts/day6.rpy:1028
+translate spanish d6b1_964ef893_1:
+
+    # "{i}A while later..."
+    "{i}A while later..."
+
+# game/scripts/day6.rpy:1031
+translate spanish d6b1_2e9cb945:
+
+    # Zt "I'm going in the right direction, I know that much."
+    Zt "I'm going in the right direction, I know that much."
+
+# game/scripts/day6.rpy:1032
+translate spanish d6b1_99d814ad:
+
+    # "{i}You scour the dunes, coasting alongside what used to be the expanded riverbed of the Sacred Nile, before the river dried up."
+    "{i}You scour the dunes, coasting alongside what used to be the expanded riverbed of the Sacred Nile, before the river dried up."
+
+# game/scripts/day6.rpy:1034
+translate spanish d6b1_2e9cb945_1:
+
+    # Zt "I'm going in the right direction, I know that much."
+    Zt "I'm going in the right direction, I know that much."
+
+# game/scripts/day6.rpy:1035
+translate spanish d6b1_2c18d7b2:
+
+    # "{i}You scour the dunes, coasting alongside what used to be the expanded riverbed of the Sacred Nile, before the river dried up. Before you find the place your friend Igor has told you about, you bump into what looks like a small shack."
+    "{i}You scour the dunes, coasting alongside what used to be the expanded riverbed of the Sacred Nile, before the river dried up. Before you find the place your friend Igor has told you about, you bump into what looks like a small shack."
+
+# game/scripts/day6.rpy:1036
+translate spanish d6b1_cbade631:
+
+    # "{i}Not many people can survive out here on their own. You decide to have a closer look."
+    "{i}Not many people can survive out here on their own. You decide to have a closer look."
+
+# game/scripts/day6.rpy:1039
+translate spanish d6b1_96d6f19a_1:
+
+    # Zt "No activity, no sounds or signs of life..."
+    Zt "No activity, no sounds or signs of life..."
+
+# game/scripts/day6.rpy:1042
+translate spanish d6b1_bf331151_1:
+
+    # Zt "...but you can never be too sure."
+    Zt "...but you can never be too sure."
+
+# game/scripts/day6.rpy:1045
+translate spanish d6b1_5ab3574d_1:
+
+    # Z "..."
+    Z "..."
+
+# game/scripts/day6.rpy:1049
+translate spanish d6b1_1da472a3_1:
+
+    # Z "Anyone home?!"
+    Z "Anyone home?!"
+
+# game/scripts/day6.rpy:1050
+translate spanish d6b1_fff1d41e_1:
+
+    # Z "I won't ask again!"
+    Z "I won't ask again!"
+
+# game/scripts/day6.rpy:1051
+translate spanish d6b1_27fe6775_1:
+
+    # C "Who is it!?"
+    C "Who is it!?"
+
+# game/scripts/day6.rpy:1052
+translate spanish d6b1_90fa3dc6_1:
+
+    # C "You knocked on the wrong door, buddy..."
+    C "You knocked on the wrong door, buddy..."
+
+# game/scripts/day6.rpy:1055
+translate spanish d6b1_2811886c_1:
+
+    # C "Let's see who wants to..."
+    C "Let's see who wants to..."
+
+# game/scripts/day6.rpy:1059
+translate spanish d6b1_26a803bc_1:
+
+    # C "..."
+    C "..."
+
+# game/scripts/day6.rpy:1060
+translate spanish d6b1_cb6a38c8:
+
+    # Z "You!"
+    Z "You!"
+
+# game/scripts/day6.rpy:1061
+translate spanish d6b1_80db0624:
+
+    # C "So we meet again..."
+    C "So we meet again..."
+
+# game/scripts/day6.rpy:1064
+translate spanish d6b1_7ae209db:
+
+    # C "I expected many things, when I got up this morning."
+    C "I expected many things, when I got up this morning."
+
+# game/scripts/day6.rpy:1065
+translate spanish d6b1_14892d27:
+
+    # C "But you were not one of them."
+    C "But you were not one of them."
+
+# game/scripts/day6.rpy:1071
+translate spanish d6b18_ab90d02d:
+
+    # Z "You never told me your name."
+    Z "You never told me your name."
+
+# game/scripts/day6.rpy:1072
+translate spanish d6b18_cb63dffd:
+
+    # C "You never asked."
+    C "You never asked."
+
+# game/scripts/day6.rpy:1073
+translate spanish d6b18_9d3fea00:
+
+    # Z "I had no reason to then, but... let's start over."
+    Z "I had no reason to then, but... let's start over."
+
+# game/scripts/day6.rpy:1074
+translate spanish d6b18_5262bce5:
+
+    # Z "My name is [persistent.player_name]."
+    Z "My name is [persistent.player_name]."
+
+# game/scripts/day6.rpy:1075
+translate spanish d6b18_31e8ada0:
+
+    # Asa "I am Asani."
+    Asa "I am Asani."
+
+# game/scripts/day6.rpy:1076
+translate spanish d6b18_b037770f:
+
+    # Asa "Have a seat, Stalker."
+    Asa "Have a seat, Stalker."
+
+# game/scripts/day6.rpy:1077
+translate spanish d6b18_f321bde3:
+
+    # Asa "You remember I told you I would cut ties with the Raiders, right?"
+    Asa "You remember I told you I would cut ties with the Raiders, right?"
+
+# game/scripts/day6.rpy:1078
+translate spanish d6b18_20707086:
+
+    # Asa "Well, with it comes a... simpler life... but I'm doing better now."
+    Asa "Well, with it comes a... simpler life... but I'm doing better now."
+
+# game/scripts/day6.rpy:1081
+translate spanish d6b18_a4f9a8a6:
+
+    # Asa "Anyway... let's talk."
+    Asa "Anyway... let's talk."
+
+# game/scripts/day6.rpy:1082
+translate spanish d6b18_5ab3574d:
+
+    # Z "..."
+    Z "..."
+
+# game/scripts/day6.rpy:1085
+translate spanish d6b18_809b1b6f:
+
+    # Asa "Now..."
+    Asa "Now..."
+
+# game/scripts/day6.rpy:1088
+translate spanish d6b18_c2465bbc:
+
+    # Asa "To what exactly do I owe the pleasure of meeting you again, hm?"
+    Asa "To what exactly do I owe the pleasure of meeting you again, hm?"
+
+# game/scripts/day6.rpy:1089
+translate spanish d6b18_df3976d9:
+
+    # Z "Sit with me and I will tell you."
+    Z "Sit with me and I will tell you."
+
+# game/scripts/day6.rpy:1095
+translate spanish d6b18_39511d96:
+
+    # Z "I've been given a lead to some potential findings by a business associate of mine."
+    Z "I've been given a lead to some potential findings by a business associate of mine."
+
+# game/scripts/day6.rpy:1096
+translate spanish d6b18_a76cab0c:
+
+    # Z "I am on my way there now, and I had no idea anyone actually could live here indefinitely."
+    Z "I am on my way there now, and I had no idea anyone actually could live here indefinitely."
+
+# game/scripts/day6.rpy:1097
+translate spanish d6b18_ba60a037:
+
+    # Asa "Well, you're not wrong. It's not easy, but this is where I am, especially since our last encounter."
+    Asa "Well, you're not wrong. It's not easy, but this is where I am, especially since our last encounter."
+
+# game/scripts/day6.rpy:1100
+translate spanish d6b18_0de5f0f5:
+
+    # Asa "But don't worry, I'm not blaming you for this."
+    Asa "But don't worry, I'm not blaming you for this."
+
+# game/scripts/day6.rpy:1103
+translate spanish d6b18_fe25d773:
+
+    # Z "You've been alone for days now."
+    Z "You've been alone for days now."
+
+# game/scripts/day6.rpy:1104
+translate spanish d6b18_6e0b8161:
+
+    # Z "Where do you get your supplies from?"
+    Z "Where do you get your supplies from?"
+
+# game/scripts/day6.rpy:1107
+translate spanish d6b18_57b8e6c7:
+
+    # Z "I don't know of anyone growing anything in these barren lands."
+    Z "I don't know of anyone growing anything in these barren lands."
+
+# game/scripts/day6.rpy:1108
+translate spanish d6b18_a07e52ee:
+
+    # Asa "Oh, it has just been a couple of days."
+    Asa "Oh, it has just been a couple of days."
+
+# game/scripts/day6.rpy:1109
+translate spanish d6b18_47db33f4:
+
+    # Asa "Scavengers and traders occasionally pass by and trade food, you know."
+    Asa "Scavengers and traders occasionally pass by and trade food, you know."
+
+# game/scripts/day6.rpy:1112
+translate spanish d6b18_98c666e0:
+
+    # Z "What are they trading it for though?"
+    Z "What are they trading it for though?"
+
+# game/scripts/day6.rpy:1113
+translate spanish d6b18_ad4f118e:
+
+    # Asa "Oh, you know, I didn't start out here yesterday. I have a few more valuable items hidden here and there."
+    Asa "Oh, you know, I didn't start out here yesterday. I have a few more valuable items hidden here and there."
+
+# game/scripts/day6.rpy:1114
+translate spanish d6b18_4d84ab0b:
+
+    # Asa "The raiders didn't seem to mind me taking my share of what they had in their base..."
+    Asa "The raiders didn't seem to mind me taking my share of what they had in their base..."
+
+# game/scripts/day6.rpy:1115
+translate spanish d6b18_db1e1329:
+
+    # Asa "Anyway, enough with the questions honey."
+    Asa "Anyway, enough with the questions honey."
+
+# game/scripts/day6.rpy:1118
+translate spanish d6b18_b4fb37b5:
+
+    # Asa "I do remember what I promised you during our first encounter..."
+    Asa "I do remember what I promised you during our first encounter..."
+
+# game/scripts/day6.rpy:1119
+translate spanish d6b18_044d967d:
+
+    # Zt "Merneith be blessed..."
+    Zt "Merneith be blessed..."
+
+# game/scripts/day6.rpy:1122
+translate spanish d6b18_4df22afa:
+
+    # Asa "How about you go follow your lead and find whatever treasure you think is buried in these dunes..."
+    Asa "How about you go follow your lead and find whatever treasure you think is buried in these dunes..."
+
+# game/scripts/day6.rpy:1123
+translate spanish d6b18_990b0a52:
+
+    # Asa "And when you come back, you and I take some time for ourselves..."
+    Asa "And when you come back, you and I take some time for ourselves..."
+
+# game/scripts/day6.rpy:1124
+translate spanish d6b18_af96e8d1:
+
+    # Asa "If you get it done quickly, you don't have to camp out in the desert."
+    Asa "If you get it done quickly, you don't have to camp out in the desert."
+
+# game/scripts/day6.rpy:1127
+translate spanish d6b18_31a467d5:
+
+    # Asa "It's quite lonely out there... And it gets lonely here too..."
+    Asa "It's quite lonely out there... And it gets lonely here too..."
+
+# game/scripts/day6.rpy:1130
+translate spanish d6b18_788334d2:
+
+    # Asa "I really am grateful for you getting me out of that crew, and I will make sure to treat you like a king once you return."
+    Asa "I really am grateful for you getting me out of that crew, and I will make sure to treat you like a king once you return."
+
+# game/scripts/day6.rpy:1133
+translate spanish d6b18_ff304532:
+
+    # Asa "What do you say?"
+    Asa "What do you say?"
+
+# game/scripts/day6.rpy:1139
+translate spanish d6b18_47f0b726:
+
+    # Z "I say we will have a lot of fun together."
+    Z "I say we will have a lot of fun together."
+
+# game/scripts/day6.rpy:1142
+translate spanish d6b18_7f9261e1:
+
+    # Z "I've been looking forward to play with these tits since I got here..."
+    Z "I've been looking forward to play with these tits since I got here..."
+
+# game/scripts/day6.rpy:1145
+translate spanish d6b18_92369967:
+
+    # Asa "And you will, I promise..."
+    Asa "And you will, I promise..."
+
+# game/scripts/day6.rpy:1146
+translate spanish d6b18_c4493607:
+
+    # Asa "Go on your way, Stalker, I will be waiting..."
+    Asa "Go on your way, Stalker, I will be waiting..."
+
+# game/scripts/day6.rpy:1151
+translate spanish d6b18_52fa77f4:
+
+    # Z "We will see..."
+    Z "We will see..."
+
+# game/scripts/day6.rpy:1152
+translate spanish d6b18_fa2c25d2:
+
+    # Z "First I want to complete this job, find whatever is out there to find."
+    Z "First I want to complete this job, find whatever is out there to find."
+
+# game/scripts/day6.rpy:1155
+translate spanish d6b18_7b91ff07:
+
+    # Asa "You really like to make a woman beg, don't you?"
+    Asa "You really like to make a woman beg, don't you?"
+
+# game/scripts/day6.rpy:1156
+translate spanish d6b18_c0d9e9a3:
+
+    # Asa "See you later, Stalker."
+    Asa "See you later, Stalker."
+
+# game/scripts/day6.rpy:1160
+translate spanish d6b18_eb0103ea:
+
+    # Z "I want this done quickly."
+    Z "I want this done quickly."
+
+# game/scripts/day6.rpy:1161
+translate spanish d6b18_2ee807ee:
+
+    # Z "I'm just looking to score something to loot. Finding your place was a happy accident."
+    Z "I'm just looking to score something to loot. Finding your place was a happy accident."
+
+# game/scripts/day6.rpy:1162
+translate spanish d6b18_c9cf0335:
+
+    # Z "If I can make it before sundown, I won't need your hospitality."
+    Z "If I can make it before sundown, I won't need your hospitality."
+
+# game/scripts/day6.rpy:1163
+translate spanish d6b18_3e3ad588:
+
+    # Z "But we will see how it goes..."
+    Z "But we will see how it goes..."
+
+# game/scripts/day6.rpy:1166
+translate spanish d6b18_de375b8e:
+
+    # Asa "Hmm.. what a shame..."
+    Asa "Hmm.. what a shame..."
+
+# game/scripts/day6.rpy:1169
+translate spanish d6b18_a148d609:
+
+    # Asa "You should go follow your lead then."
+    Asa "You should go follow your lead then."
+
+# game/scripts/day6.rpy:1170
+translate spanish d6b18_92ef027a:
+
+    # Z "Thank you, I will."
+    Z "Thank you, I will."
+
+# game/scripts/day6.rpy:1176
+translate spanish d6b18_e6aa15e6:
+
+    # "{i}You repeat Kyra's words, and her assurance that Asani should know the location of the hidden car."
+    "{i}You repeat Kyra's words, and her assurance that Asani should know the location of the hidden car."
+
+# game/scripts/day6.rpy:1179
+translate spanish d6b18_6426cd89:
+
+    # Asa "Well... she is not wrong."
+    Asa "Well... she is not wrong."
+
+# game/scripts/day6.rpy:1180
+translate spanish d6b18_d28737b7:
+
+    # Asa "I could lead you to the location."
+    Asa "I could lead you to the location."
+
+# game/scripts/day6.rpy:1183
+translate spanish d6b18_1b114b56:
+
+    # Z "How long have you known about this?"
+    Z "How long have you known about this?"
+
+# game/scripts/day6.rpy:1184
+translate spanish d6b18_4dbd3b4b:
+
+    # Z "And tell me, why didn't you go and take it for yourself?"
+    Z "And tell me, why didn't you go and take it for yourself?"
+
+# game/scripts/day6.rpy:1187
+translate spanish d6b18_e4587475:
+
+    # Asa "I discovered it not long ago."
+    Asa "I discovered it not long ago."
+
+# game/scripts/day6.rpy:1188
+translate spanish d6b18_bfa3fd05:
+
+    # Asa "I bumped into the place about a day before Asha kinda forced me into a raiding tour that ended up crossing your path."
+    Asa "I bumped into the place about a day before Asha kinda forced me into a raiding tour that ended up crossing your path."
+
+# game/scripts/day6.rpy:1191
+translate spanish d6b18_dbcfb2d8:
+
+    # Asa "It's several containers and shacks, piled up in the sand, some buried, and some in the open."
+    Asa "It's several containers and shacks, piled up in the sand, some buried, and some in the open."
+
+# game/scripts/day6.rpy:1192
+translate spanish d6b18_c30bdd4f:
+
+    # Asa "I imagine it was a scavenger base of some sort. What happened to them, I don't know."
+    Asa "I imagine it was a scavenger base of some sort. What happened to them, I don't know."
+
+# game/scripts/day6.rpy:1193
+translate spanish d6b18_faf52882:
+
+    # Asa "Anyway, all I saw was a bunch of containers and half repaired vehicles..."
+    Asa "Anyway, all I saw was a bunch of containers and half repaired vehicles..."
+
+# game/scripts/day6.rpy:1196
+translate spanish d6b18_54b233dc:
+
+    # Z "Containers? And you didn't open them?"
+    Z "Containers? And you didn't open them?"
+
+# game/scripts/day6.rpy:1199
+translate spanish d6b18_ec9ee967:
+
+    # Asa "I did open a couple... there was one that was looking promising, but it didn't start up."
+    Asa "I did open a couple... there was one that was looking promising, but it didn't start up."
+
+# game/scripts/day6.rpy:1200
+translate spanish d6b18_a9648404:
+
+    # Asa "...and it was getting quite dark out there."
+    Asa "...and it was getting quite dark out there."
+
+# game/scripts/day6.rpy:1203
+translate spanish d6b18_d1e0e12d:
+
+    # Asa "I don' t have to tell you that the desert can become a bad place at night..."
+    Asa "I don' t have to tell you that the desert can become a bad place at night..."
+
+# game/scripts/day6.rpy:1206
+translate spanish d6b18_7fd98aaf:
+
+    # Asa "I made the mistake of talking about it to Kyra, before leaving for the raid."
+    Asa "I made the mistake of talking about it to Kyra, before leaving for the raid."
+
+# game/scripts/day6.rpy:1207
+translate spanish d6b18_79d54661:
+
+    # Asa "Of course that meant that my chances of keeping it for myself were pretty much gone."
+    Asa "Of course that meant that my chances of keeping it for myself were pretty much gone."
+
+# game/scripts/day6.rpy:1208
+translate spanish d6b18_398413c6:
+
+    # Asa "I'm actually surprised..."
+    Asa "I'm actually surprised..."
+
+# game/scripts/day6.rpy:1209
+translate spanish d6b18_d916161b:
+
+    # Asa "What have you done for her, that she would give it up to you?"
+    Asa "What have you done for her, that she would give it up to you?"
+
+# game/scripts/day6.rpy:1212
+translate spanish d6b18_2974134e:
+
+    # Z "Let's just say she owes me... A lot."
+    Z "Let's just say she owes me... A lot."
+
+# game/scripts/day6.rpy:1213
+translate spanish d6b18_5ab3574d_1:
+
+    # Z "..."
+    Z "..."
+
+# game/scripts/day6.rpy:1216
+translate spanish d6b18_fe25d773_1:
+
+    # Z "You've been alone for days now."
+    Z "You've been alone for days now."
+
+# game/scripts/day6.rpy:1217
+translate spanish d6b18_6e0b8161_1:
+
+    # Z "Where do you get your supplies from?"
+    Z "Where do you get your supplies from?"
+
+# game/scripts/day6.rpy:1220
+translate spanish d6b18_44707e79:
+
+    # Z "I can't remember anyone growing anything in these barren lands."
+    Z "I can't remember anyone growing anything in these barren lands."
+
+# game/scripts/day6.rpy:1221
+translate spanish d6b18_a07e52ee_1:
+
+    # Asa "Oh, it has just been a couple of days."
+    Asa "Oh, it has just been a couple of days."
+
+# game/scripts/day6.rpy:1222
+translate spanish d6b18_47db33f4_1:
+
+    # Asa "Scavengers and traders occasionally pass by and trade food, you know."
+    Asa "Scavengers and traders occasionally pass by and trade food, you know."
+
+# game/scripts/day6.rpy:1225
+translate spanish d6b18_98c666e0_1:
+
+    # Z "What are they trading it for though?"
+    Z "What are they trading it for though?"
+
+# game/scripts/day6.rpy:1226
+translate spanish d6b18_ad4f118e_1:
+
+    # Asa "Oh, you know, I didn't start out here yesterday. I have a few more valuable items hidden here and there."
+    Asa "Oh, you know, I didn't start out here yesterday. I have a few more valuable items hidden here and there."
+
+# game/scripts/day6.rpy:1227
+translate spanish d6b18_4d84ab0b_1:
+
+    # Asa "The raiders didn't seem to mind me taking my share of what they had in their base..."
+    Asa "The raiders didn't seem to mind me taking my share of what they had in their base..."
+
+# game/scripts/day6.rpy:1228
+translate spanish d6b18_db1e1329_1:
+
+    # Asa "Anyway, enough with the questions honey."
+    Asa "Anyway, enough with the questions honey."
+
+# game/scripts/day6.rpy:1231
+translate spanish d6b18_b4fb37b5_1:
+
+    # Asa "I do remember what I promised you during our first encounter..."
+    Asa "I do remember what I promised you during our first encounter..."
+
+# game/scripts/day6.rpy:1232
+translate spanish d6b18_044d967d_1:
+
+    # Zt "Merneith be blessed..."
+    Zt "Merneith be blessed..."
+
+# game/scripts/day6.rpy:1235
+translate spanish d6b18_83bb5180:
+
+    # Asa "How about you go get your car..."
+    Asa "How about you go get your car..."
+
+# game/scripts/day6.rpy:1236
+translate spanish d6b18_990b0a52_1:
+
+    # Asa "And when you come back, you and I take some time for ourselves..."
+    Asa "And when you come back, you and I take some time for ourselves..."
+
+# game/scripts/day6.rpy:1237
+translate spanish d6b18_af96e8d1_1:
+
+    # Asa "If you get it done quickly, you don't have to camp out in the desert."
+    Asa "If you get it done quickly, you don't have to camp out in the desert."
+
+# game/scripts/day6.rpy:1240
+translate spanish d6b18_31a467d5_1:
+
+    # Asa "It's quite lonely out there... And it gets lonely here too..."
+    Asa "It's quite lonely out there... And it gets lonely here too..."
+
+# game/scripts/day6.rpy:1243
+translate spanish d6b18_788334d2_1:
+
+    # Asa "I really am grateful for you getting me out of that crew, and I will make sure to treat you like a king once you return."
+    Asa "I really am grateful for you getting me out of that crew, and I will make sure to treat you like a king once you return."
+
+# game/scripts/day6.rpy:1246
+translate spanish d6b18_ff304532_1:
+
+    # Asa "What do you say?"
+    Asa "What do you say?"
+
+# game/scripts/day6.rpy:1252
+translate spanish d6b18_47f0b726_1:
+
+    # Z "I say we will have a lot of fun together."
+    Z "I say we will have a lot of fun together."
+
+# game/scripts/day6.rpy:1255
+translate spanish d6b18_7f9261e1_1:
+
+    # Z "I've been looking forward to play with these tits since I got here..."
+    Z "I've been looking forward to play with these tits since I got here..."
+
+# game/scripts/day6.rpy:1258
+translate spanish d6b18_92369967_1:
+
+    # Asa "And you will, I promise..."
+    Asa "And you will, I promise..."
+
+# game/scripts/day6.rpy:1259
+translate spanish d6b18_c4493607_1:
+
+    # Asa "Go on your way, Stalker, I will be waiting..."
+    Asa "Go on your way, Stalker, I will be waiting..."
+
+# game/scripts/day6.rpy:1264
+translate spanish d6b18_52fa77f4_1:
+
+    # Z "We will see..."
+    Z "We will see..."
+
+# game/scripts/day6.rpy:1265
+translate spanish d6b18_82693cbd:
+
+    # Z "I will go get the car first."
+    Z "I will go get the car first."
+
+# game/scripts/day6.rpy:1268
+translate spanish d6b18_7b91ff07_1:
+
+    # Asa "You really like to make a woman beg, don't you?"
+    Asa "You really like to make a woman beg, don't you?"
+
+# game/scripts/day6.rpy:1269
+translate spanish d6b18_c0d9e9a3_1:
+
+    # Asa "See you later, Stalker."
+    Asa "See you later, Stalker."
+
+# game/scripts/day6.rpy:1273
+translate spanish d6b18_eb0103ea_1:
+
+    # Z "I want this done quickly."
+    Z "I want this done quickly."
+
+# game/scripts/day6.rpy:1274
+translate spanish d6b18_a9dae9ba:
+
+    # Z "I just came here to get the car."
+    Z "I just came here to get the car."
+
+# game/scripts/day6.rpy:1275
+translate spanish d6b18_c9cf0335_1:
+
+    # Z "If I can make it before sundown, I won't need your hospitality."
+    Z "If I can make it before sundown, I won't need your hospitality."
+
+# game/scripts/day6.rpy:1276
+translate spanish d6b18_3e3ad588_1:
+
+    # Z "But we will see how it goes..."
+    Z "But we will see how it goes..."
+
+# game/scripts/day6.rpy:1279
+translate spanish d6b18_de375b8e_1:
+
+    # Asa "Hmm.. what a shame..."
+    Asa "Hmm.. what a shame..."
+
+# game/scripts/day6.rpy:1282
+translate spanish d6b18_a4cb4864:
+
+    # Asa "You should go get the car then."
+    Asa "You should go get the car then."
+
+# game/scripts/day6.rpy:1283
+translate spanish d6b18_92ef027a_1:
+
+    # Z "Thank you, I will."
+    Z "Thank you, I will."
+
+# game/scripts/day6.rpy:1290
+translate spanish d6b31_7906ea43:
+
+    # "{i}Some time later..."
+    "{i}Some time later..."
+
+# game/scripts/day6.rpy:1297
+translate spanish d6b31_ca792ce4:
+
+    # Zt "This should be the place."
+    Zt "This should be the place."
+
+# game/scripts/day6.rpy:1298
+translate spanish d6b31_696c0fec:
+
+    # "You approach the large, desolated area. Metal shacks, scrap and spare parts fill the place."
+    "You approach the large, desolated area. Metal shacks, scrap and spare parts fill the place."
+
+# game/scripts/day6.rpy:1301
+translate spanish d6b31_bcf7700a:
+
+    # "Whoever lived or took shelter here must have built a small community. The presence of palm trees suggests this place once stood atop an oasis, seemingly long gone."
+    "Whoever lived or took shelter here must have built a small community. The presence of palm trees suggests this place once stood atop an oasis, seemingly long gone."
+
+# game/scripts/day6.rpy:1302
+translate spanish d6b31_6e72d6c8:
+
+    # "What became of them -whether the scavengers fled or perished- remains a mystery."
+    "What became of them -whether the scavengers fled or perished- remains a mystery."
+
+# game/scripts/day6.rpy:1303
+translate spanish d6b31_e2e8dfc4:
+
+    # "But not an unusual one. Out here, deep in the desert, lives vanish as swiftly as the wind sweeps away the sand."
+    "But not an unusual one. Out here, deep in the desert, lives vanish as swiftly as the wind sweeps away the sand."
+
+# game/scripts/day6.rpy:1307
+translate spanish d6b31_d9faf903:
+
+    # Zt "The car I'm looking for should be in one of those containers."
+    Zt "The car I'm looking for should be in one of those containers."
+
+# game/scripts/day6.rpy:1314
+translate spanish d6b31_d45e335d:
+
+    # Zt "Let's see... two..."
+    Zt "Let's see... two..."
+
+# game/scripts/day6.rpy:1317
+translate spanish d6b31_6013d301:
+
+    # Zt "Three..."
+    Zt "Three..."
+
+# game/scripts/day6.rpy:1320
+translate spanish d6b31_e070ae5a:
+
+    # Zt "And one already open."
+    Zt "And one already open."
+
+# game/scripts/day6.rpy:1323
+translate spanish d6b31_bb2abb9c:
+
+    # Zt "Let's check this one first..."
+    Zt "Let's check this one first..."
+
+# game/scripts/day6.rpy:1325
+translate spanish d6b31_b412790e:
+
+    # Zt "It would be nice if Igor's lead brought us something valuable..."
+    Zt "It would be nice if Igor's lead brought us something valuable..."
+
+# game/scripts/day6.rpy:1332
+translate spanish d6b31_737661ab:
+
+    # Zt "The sands of time and... well... the sand, seem to have done some fatal damage to this car. A pity."
+    Zt "The sands of time and... well... the sand, seem to have done some fatal damage to this car. A pity."
+
+# game/scripts/day6.rpy:1335
+translate spanish d6b31_1b9561dc:
+
+    # Zt "How about that container..."
+    Zt "How about that container..."
+
+# game/scripts/day6.rpy:1338
+translate spanish d6b31_2beff89f:
+
+    # Zt "These doors are heavy..."
+    Zt "These doors are heavy..."
+
+# game/scripts/day6.rpy:1342
+translate spanish d6b31_f6c35e2d:
+
+    # Zt "..."
+    Zt "..."
+
+# game/scripts/day6.rpy:1346
+translate spanish d6b31_f6c35e2d_1:
+
+    # Zt "..."
+    Zt "..."
+
+# game/scripts/day6.rpy:1347
+translate spanish d6b31_640e4b84:
+
+    # Zt "I must be dreaming..."
+    Zt "I must be dreaming..."
+
+# game/scripts/day6.rpy:1351
+translate spanish d6b31_54b0e6f9:
+
+    # "{i}You open the container doors..."
+    "{i}You open the container doors..."
+
+# game/scripts/day6.rpy:1354
+translate spanish d6b31_a46ef0ff:
+
+    # Z "I have to be the luckiest fucking man in the world."
+    Z "I have to be the luckiest fucking man in the world."
+
+# game/scripts/day6.rpy:1355
+translate spanish d6b31_d54fa884:
+
+    # Zt "How do we get you out of there..."
+    Zt "How do we get you out of there..."
+
+# game/scripts/day6.rpy:1359
+translate spanish d6b31_58347afa:
+
+    # "{i}You connect the cars with a chain and slowly pull the pickup out of the half sunken container."
+    "{i}You connect the cars with a chain and slowly pull the pickup out of the half sunken container."
+
+# game/scripts/day6.rpy:1360
+translate spanish d6b31_16977618:
+
+    # "{i}You don't remember ever hearing of a car that wasn't a ragtag collection of parts of at least half a dozen other cars, let alone seeing one."
+    "{i}You don't remember ever hearing of a car that wasn't a ragtag collection of parts of at least half a dozen other cars, let alone seeing one."
+
+# game/scripts/day6.rpy:1363
+translate spanish d6b31_c9a8869e:
+
+    # "{i}It must've been sealed tight for all this time."
+    "{i}It must've been sealed tight for all this time."
+
+# game/scripts/day6.rpy:1364
+translate spanish d6b31_bdb0b8c9:
+
+    # "{i}Sure, there's a lot of rust, but it still looks great."
+    "{i}Sure, there's a lot of rust, but it still looks great."
+
+# game/scripts/day6.rpy:1367
+translate spanish d6b31_5d9b6d1a:
+
+    # "{i}You came prepared with tools and years of experience building and then patching up your old ride."
+    "{i}You came prepared with tools and years of experience building and then patching up your old ride."
+
+# game/scripts/day6.rpy:1368
+translate spanish d6b31_3f87c416:
+
+    # "{i}You toss away the old battery and use the one from your car."
+    "{i}You toss away the old battery and use the one from your car."
+
+# game/scripts/day6.rpy:1372
+translate spanish d6b31_02ca89e1:
+
+    # Z "I would've dragged you back home, but..."
+    Z "I would've dragged you back home, but..."
+
+# game/scripts/day6.rpy:1373
+translate spanish d6b31_52136239:
+
+    # Z "Maybe it's better you get your final rest out here."
+    Z "Maybe it's better you get your final rest out here."
+
+# game/scripts/day6.rpy:1374
+translate spanish d6b31_42468892:
+
+    # Z "We have gone through so much, you and me."
+    Z "We have gone through so much, you and me."
+
+# game/scripts/day6.rpy:1375
+translate spanish d6b31_5b63aac1:
+
+    # Z "Rest in peace, old friend..."
+    Z "Rest in peace, old friend..."
+
+# game/scripts/day6.rpy:1378
+translate spanish d6b31_5ab3574d:
+
+    # Z "..."
+    Z "..."
+
+# game/scripts/day6.rpy:1382
+translate spanish d6b31_264b9568:
+
+    # Z "You have sat in the dark, waiting to get on the road for long enough..."
+    Z "You have sat in the dark, waiting to get on the road for long enough..."
+
+# game/scripts/day6.rpy:1383
+translate spanish d6b31_77a4f4ba:
+
+    # Z "Let's see how you fare in the dunes, shall we...?"
+    Z "Let's see how you fare in the dunes, shall we...?"
+
+# game/scripts/day6.rpy:1390
+translate spanish d6b31_2bf19ea4:
+
+    # "{i}With a soft rumble that sounds like a magical melody to your ears, the engine starts..."
+    "{i}With a soft rumble that sounds like a magical melody to your ears, the engine starts..."
+
+# game/scripts/day6.rpy:1395
+translate spanish d6b31_1dae6843:
+
+    # Zt "I wonder how long these windows will last..."
+    Zt "I wonder how long these windows will last..."
+
+# game/scripts/day6.rpy:1405
+translate spanish d6b53_161cdb8b:
+
+    # "{i}You eventually get back to Asani's shack..."
+    "{i}You eventually get back to Asani's shack..."
+
+# game/scripts/day6.rpy:1409
+translate spanish d6b53_6b63c11b:
+
+    # Z "I'm back, and yes, I found it."
+    Z "I'm back, and yes, I found it."
+
+# game/scripts/day6.rpy:1412
+translate spanish d6b53_6ab385f7:
+
+    # Z "Hello?"
+    Z "Hello?"
+
+# game/scripts/day6.rpy:1415
+translate spanish d6b53_ba01dbdb:
+
+    # Zt "Where is she?"
+    Zt "Where is she?"
+
+# game/scripts/day6.rpy:1419
+translate spanish d6b53_d6e3e793:
+
+    # Z "These are Zetan coins..."
+    Z "These are Zetan coins..."
+
+# game/scripts/day6.rpy:1422
+translate spanish re_d6b53_24b8d12f:
+
+    # Asa "Well look at you..."
+    Asa "Well look at you..."
+
+# game/scripts/day6.rpy:1423
+translate spanish re_d6b53_a6271b43:
+
+    # Asa "I'm gone for just a few minutes and that's when you decide to show up?"
+    Asa "I'm gone for just a few minutes and that's when you decide to show up?"
+
+# game/scripts/day6.rpy:1426
+translate spanish re_d6b53_6557497b:
+
+    # Z "Oh my..."
+    Z "Oh my..."
+
+# game/scripts/day6.rpy:1429
+translate spanish re_d6b53_6a59645d:
+
+    # Asa "I see that you've found a working car... and your way back to me."
+    Asa "I see that you've found a working car... and your way back to me."
+
+# game/scripts/day6.rpy:1432
+translate spanish re_d6b53_ed228e98:
+
+    # Asa "Are you here to claim your second prize of the day?"
+    Asa "Are you here to claim your second prize of the day?"
+
+# game/scripts/day6.rpy:1441
+translate spanish re_d6b53_f1a99089:
+
+    # Asaw "{i}I'm all yours, as promised..."
+    Asaw "{i}I'm all yours, as promised..."
+
+# game/scripts/day6.rpy:1444
+translate spanish re_d6b53_07242ee7:
+
+    # "{i}..."
+    "{i}..."
+
+# game/scripts/day6.rpy:1447
+translate spanish re_d6b53_9249f00a:
+
+    # Asaw "Hmm..."
+    Asaw "Hmm..."
+
+# game/scripts/day6.rpy:1450
+translate spanish re_d6b53_9a28d5cb:
+
+    # Asaw "Are you trying to decide if you like my tits or my ass more?"
+    Asaw "Are you trying to decide if you like my tits or my ass more?"
+
+# game/scripts/day6.rpy:1453
+translate spanish re_d6b53_dab65a90:
+
+    # Asaw "Mmmh...such a firm grip..."
+    Asaw "Mmmh...such a firm grip..."
+
+# game/scripts/day6.rpy:1456
+translate spanish re_d6b53_579f313a:
+
+    # Asaw "I have to tell you a secret."
+    Asaw "I have to tell you a secret."
+
+# game/scripts/day6.rpy:1458
+translate spanish re_d6b53_de8197dd:
+
+    # Asaw "When you let me go, during the raid..."
+    Asaw "When you let me go, during the raid..."
+
+# game/scripts/day6.rpy:1459
+translate spanish re_d6b53_fbc0de42:
+
+    # Asaw "I saw how you fucked Asha's throat after you defeated her."
+    Asaw "I saw how you fucked Asha's throat after you defeated her."
+
+# game/scripts/day6.rpy:1460
+translate spanish re_d6b53_0d63d6e9:
+
+    # Asaw "I saw the bliss in her eyes..."
+    Asaw "I saw the bliss in her eyes..."
+
+# game/scripts/day6.rpy:1461
+translate spanish re_d6b53_b0d7adcc:
+
+    # Asaw "...and now, I think I want to find out for myself what that was about."
+    Asaw "...and now, I think I want to find out for myself what that was about."
+
+# game/scripts/day6.rpy:1463
+translate spanish re_d6b53_de8197dd_1:
+
+    # Asaw "When you let me go, during the raid..."
+    Asaw "When you let me go, during the raid..."
+
+# game/scripts/day6.rpy:1464
+translate spanish re_d6b53_8dbe1280:
+
+    # Asaw "I'll just say you made an impression on me.."
+    Asaw "I'll just say you made an impression on me.."
+
+# game/scripts/day6.rpy:1465
+translate spanish re_d6b53_2db86c58:
+
+    # Asaw "Have a man like you teach all that raider filth what they deserve, it was exciting..."
+    Asaw "Have a man like you teach all that raider filth what they deserve, it was exciting..."
+
+# game/scripts/day6.rpy:1468
+translate spanish re_d6b53_bac67a18:
+
+    # Zw "Your skin is soft, yet you are strong..."
+    Zw "Your skin is soft, yet you are strong..."
+
+# game/scripts/day6.rpy:1471
+translate spanish re_d6b53_097f3094:
+
+    # Zw "The priestesses in Zeta are looking for women like you."
+    Zw "The priestesses in Zeta are looking for women like you."
+
+# game/scripts/day6.rpy:1472
+translate spanish re_d6b53_4cde89b1:
+
+    # Zw "Have you thought of that...? starting anew, in a place where they would revere you."
+    Zw "Have you thought of that...? starting anew, in a place where they would revere you."
+
+# game/scripts/day6.rpy:1475
+translate spanish re_d6b53_1069553d:
+
+    # Asaw "Where do you think I was born? I'm one of the Children of Zeta. More Raiders than you'd think come from the City."
+    Asaw "Where do you think I was born? I'm one of the Children of Zeta. More Raiders than you'd think come from the City."
+
+# game/scripts/day6.rpy:1476
+translate spanish re_d6b53_fb200af6:
+
+    # Asaw "The Temple doesn't always place children in loving families. Or sometimes, it's the child that's just not suited for the life in Zeta."
+    Asaw "The Temple doesn't always place children in loving families. Or sometimes, it's the child that's just not suited for the life in Zeta."
+
+# game/scripts/day6.rpy:1477
+translate spanish re_d6b53_70b30809:
+
+    # Asaw "That was my case."
+    Asaw "That was my case."
+
+# game/scripts/day6.rpy:1478
+translate spanish re_d6b53_4801618e:
+
+    # Asaw "I know where I belong, honey. Don't talk to me about the Temple."
+    Asaw "I know where I belong, honey. Don't talk to me about the Temple."
+
+# game/scripts/day6.rpy:1479
+translate spanish re_d6b53_5f1583f5:
+
+    # Asaw "I'm better off by myself."
+    Asaw "I'm better off by myself."
+
+# game/scripts/day6.rpy:1480
+translate spanish re_d6b53_cbdb4d5c:
+
+    # Asaw "Now... have a seat..."
+    Asaw "Now... have a seat..."
+
+# game/scripts/day6.rpy:1483
+translate spanish re_d6b53_5001d4ad:
+
+    # Z "Your body is stunning..."
+    Z "Your body is stunning..."
+
+# game/scripts/day6.rpy:1486
+translate spanish re_d6b53_f223bfec:
+
+    # Asa "Your's isn't bad either..."
+    Asa "Your's isn't bad either..."
+
+# game/scripts/day6.rpy:1489
+translate spanish re_d6b53_f32fac44:
+
+    # Zt "Fuck..."
+    Zt "Fuck..."
+
+# game/scripts/day6.rpy:1492
+translate spanish re_d6b53_b4a9c604:
+
+    # Asa "Mmhh... look at you..."
+    Asa "Mmhh... look at you..."
+
+# game/scripts/day6.rpy:1495
+translate spanish re_d6b53_73c152f9:
+
+    # Asa "Such a strong man..."
+    Asa "Such a strong man..."
+
+# game/scripts/day6.rpy:1496
+translate spanish re_d6b53_1af226f3:
+
+    # Asa "Let me take care of you."
+    Asa "Let me take care of you."
+
+# game/scripts/day6.rpy:1511
+translate spanish re_d6b53_7c9f7739:
+
+    # Z "So soft..."
+    Z "So soft..."
+
+# game/scripts/day6.rpy:1512
+translate spanish re_d6b53_be2c0803:
+
+    # Asa "Does your wife treat you like that, too?"
+    Asa "Does your wife treat you like that, too?"
+
+# game/scripts/day6.rpy:1515
+translate spanish re_d6b53_2bf9478e:
+
+    # Z "She does everything for me; this and more."
+    Z "She does everything for me; this and more."
+
+# game/scripts/day6.rpy:1518
+translate spanish re_d6b53_f5ac3817:
+
+    # Asa "Is that so..."
+    Asa "Is that so..."
+
+# game/scripts/day6.rpy:1519
+translate spanish re_d6b53_83b2a730:
+
+    # Asa "{i}*mmmngh*"
+    Asa "{i}*mmmngh*"
+
+# game/scripts/day6.rpy:1522
+translate spanish re_d6b53_696a4ace:
+
+    # Asa "Hmm... I was just thinking about all the girls in Adira..."
+    Asa "Hmm... I was just thinking about all the girls in Adira..."
+
+# game/scripts/day6.rpy:1525
+translate spanish re_d6b53_6a4566cb:
+
+    # Asa "...what they wouldn't do to get their hands on this thing."
+    Asa "...what they wouldn't do to get their hands on this thing."
+
+# game/scripts/day6.rpy:1528
+translate spanish re_d6b53_219ae969:
+
+    # Asa "..."
+    Asa "..."
+
+# game/scripts/day6.rpy:1529
+translate spanish re_d6b53_6691321e:
+
+    # Z "Wow..."
+    Z "Wow..."
+
+# game/scripts/day6.rpy:1532
+translate spanish re_d6b53_9e61facd:
+
+    # Asa "Are you ready for more...?"
+    Asa "Are you ready for more...?"
+
+# game/scripts/day6.rpy:1533
+translate spanish re_d6b53_5ab3574d:
+
+    # Z "..."
+    Z "..."
+
+# game/scripts/day6.rpy:1539
+translate spanish re_d6b53_89f99935:
+
+    # Asa "Haa..."
+    Asa "Haa..."
+
+# game/scripts/day6.rpy:1540
+translate spanish re_d6b53_34a3063c:
+
+    # Z "You don't have to ask me twice."
+    Z "You don't have to ask me twice."
+
+# game/scripts/day6.rpy:1543
+translate spanish re_d6b53_0a508315:
+
+    # Asa "Oh..."
+    Asa "Oh..."
+
+# game/scripts/day6.rpy:1546
+translate spanish re_d6b53_6992c834:
+
+    # Asa "I can... take more..."
+    Asa "I can... take more..."
+
+# game/scripts/day6.rpy:1547
+translate spanish re_d6b53_8feaacb2:
+
+    # Asa "Haaa..."
+    Asa "Haaa..."
+
+# game/scripts/day6.rpy:1548
+translate spanish re_d6b53_0cf5cbea:
+
+    # Zt "This woman... I'm all the way in..."
+    Zt "This woman... I'm all the way in..."
+
+# game/scripts/day6.rpy:1549
+translate spanish re_d6b53_49e1f734:
+
+    # Asa "Hmmm..."
+    Asa "Hmmm..."
+
+# game/scripts/day6.rpy:1550
+translate spanish re_d6b53_9347b637:
+
+    # Asa "Yes..."
+    Asa "Yes..."
+
+# game/scripts/day6.rpy:1553
+translate spanish re_d6b53_1f4c3810:
+
+    # "{i}You keep going for some time..."
+    "{i}You keep going for some time..."
+
+# game/scripts/day6.rpy:1554
+translate spanish re_d6b53_9f42bcb3:
+
+    # "{i}For a short while, your excitement allows you to forget the world outside of this little refuge..."
+    "{i}For a short while, your excitement allows you to forget the world outside of this little refuge..."
+
+# game/scripts/day6.rpy:1557
+translate spanish re_d6b53_89f99935_1:
+
+    # Asa "Haa..."
+    Asa "Haa..."
+
+# game/scripts/day6.rpy:1560
+translate spanish re_d6b53_915cf897:
+
+    # Z "I'm close..."
+    Z "I'm close..."
+
+# game/scripts/day6.rpy:1561
+translate spanish re_d6b53_dfcaa4f7:
+
+    # Asa "Let it all out, old man..."
+    Asa "Let it all out, old man..."
+
+# game/scripts/day6.rpy:1566
+translate spanish re_d6b53_0d6301fb:
+
+    # Asa "Cum inside me, I want it..."
+    Asa "Cum inside me, I want it..."
+
+# game/scripts/day6.rpy:1567
+translate spanish re_d6b53_d4edf312:
+
+    # Z "Ngh..."
+    Z "Ngh..."
+
+# game/scripts/day6.rpy:1569
+translate spanish re_d6b53_2e6d50ab:
+
+    # "Spurred on by her deep and sensual voice, you reach your climax and inundate her womb with your semen."
+    "Spurred on by her deep and sensual voice, you reach your climax and inundate her womb with your semen."
+
+# game/scripts/day6.rpy:1571
+translate spanish re_d6b53_a8db3b1d:
+
+    # Z "Fuck..."
+    Z "Fuck..."
+
+# game/scripts/day6.rpy:1572
+translate spanish re_d6b53_7fdde7bd:
+
+    # Asa "Mh..."
+    Asa "Mh..."
+
+# game/scripts/day6.rpy:1574
+translate spanish re_d6b53_106385fd:
+
+    # Asa "That's a lot..."
+    Asa "That's a lot..."
+
+# game/scripts/day6.rpy:1577
+translate spanish re_d6b53_a8db3b1d_1:
+
+    # Z "Fuck..."
+    Z "Fuck..."
+
+# game/scripts/day6.rpy:1578
+translate spanish re_d6b53_366186ad:
+
+    # Z "You're something else..."
+    Z "You're something else..."
+
+# game/scripts/day6.rpy:1582
+translate spanish re_d6b53_b8767d81:
+
+    # Asa "Ah, what are you..."
+    Asa "Ah, what are you..."
+
+# game/scripts/day6.rpy:1583
+translate spanish re_d6b53_d61e4d8e:
+
+    # Z "I'm not done yet..."
+    Z "I'm not done yet..."
+
+# game/scripts/day6.rpy:1586
+translate spanish re_d6b53_f45997ab:
+
+    # Asa "Oh my... you're really ..."
+    Asa "Oh my... you're really ..."
+
+# game/scripts/day6.rpy:1587
+translate spanish re_d6b53_9eef617d:
+
+    # "You stare at her bubbly black ass... you're still horny, and want to have a bit more fun."
+    "You stare at her bubbly black ass... you're still horny, and want to have a bit more fun."
+
+# game/scripts/day6.rpy:1591
+translate spanish re_d6b53_193166d3:
+
+    # Z "I'm going to fill your slutty ass, too."
+    Z "I'm going to fill your slutty ass, too."
+
+# game/scripts/day6.rpy:1592
+translate spanish re_d6b53_7fdde7bd_1:
+
+    # Asa "Mh..."
+    Asa "Mh..."
+
+# game/scripts/day6.rpy:1595
+translate spanish re_d6b53_8fb07f6f:
+
+    # Asa "Go ahead, stud... take my ass..."
+    Asa "Go ahead, stud... take my ass..."
+
+# game/scripts/day6.rpy:1598
+translate spanish re_d6b53_d7ef563e:
+
+    # Asa "Ah..."
+    Asa "Ah..."
+
+# game/scripts/day6.rpy:1599
+translate spanish re_d6b53_4dff3a5c:
+
+    # "You penetrate her roughly, your manhood slick with juices entering her with ease..."
+    "You penetrate her roughly, your manhood slick with juices entering her with ease..."
+
+# game/scripts/day6.rpy:1601
+translate spanish re_d6b53_fb27701a:
+
+    # Asa "Ohh...!"
+    Asa "Ohh...!"
+
+# game/scripts/day6.rpy:1602
+translate spanish re_d6b53_e7fc8f6b:
+
+    # "You climax, and release the remainder of your cum inside her stretched hole."
+    "You climax, and release the remainder of your cum inside her stretched hole."
+
+# game/scripts/day6.rpy:1604
+translate spanish re_d6b53_d4edf312_1:
+
+    # Z "Ngh..."
+    Z "Ngh..."
+
+# game/scripts/day6.rpy:1605
+translate spanish re_d6b53_782f996a:
+
+    # Asa "Such a... mh... strong man..."
+    Asa "Such a... mh... strong man..."
+
+# game/scripts/day6.rpy:1613
+translate spanish re_d6b53_b0ed8744:
+
+    # Z "Hngh..."
+    Z "Hngh..."
+
+# game/scripts/day6.rpy:1619
+translate spanish re_d6b53_66cdf749:
+
+    # Asa "I can feel it, warm on my skin..."
+    Asa "I can feel it, warm on my skin..."
+
+# game/scripts/day6.rpy:1622
+translate spanish re_d6b53_18a46ec0:
+
+    # Z "It's a work of art..."
+    Z "It's a work of art..."
+
+# game/scripts/day6.rpy:1623
+translate spanish re_d6b53_0071b0b4:
+
+    # Asa "Smart-ass."
+    Asa "Smart-ass."
+
+# game/scripts/day6.rpy:1631
+translate spanish d6b103_593fdeeb:
+
+    # Asa "Hmm... that was exciting."
+    Asa "Hmm... that was exciting."
+
+# game/scripts/day6.rpy:1634
+translate spanish d6b103_9a4c6d71:
+
+    # Asa "Why don't you stay for the night...?"
+    Asa "Why don't you stay for the night...?"
+
+# game/scripts/day6.rpy:1635
+translate spanish d6b103_06bac69a:
+
+    # Asa "We could get to know each other a little better, before the day ends."
+    Asa "We could get to know each other a little better, before the day ends."
+
+# game/scripts/day6.rpy:1640
+translate spanish d6b103_2579696d:
+
+    # Zt "It is getting late, I might as well..."
+    Zt "It is getting late, I might as well..."
+
+# game/scripts/day6.rpy:1641
+translate spanish d6b103_00880bcd:
+
+    # Z "Alright, but tomorrow morning I'll have to leave."
+    Z "Alright, but tomorrow morning I'll have to leave."
+
+# game/scripts/day6.rpy:1644
+translate spanish d6b103_676ea12a:
+
+    # "{i}You and Asani eventually go bed together..."
+    "{i}You and Asani eventually go bed together..."
+
+# game/scripts/day6.rpy:1645
+translate spanish d6b103_6841ed6a:
+
+    # "{i}You spend some time talking about each other's lives."
+    "{i}You spend some time talking about each other's lives."
+
+# game/scripts/day6.rpy:1649
+translate spanish d6b103_2d1999ec:
+
+    # Asaw "I like you, [persistent.player_name]."
+    Asaw "I like you, [persistent.player_name]."
+
+# game/scripts/day6.rpy:1650
+translate spanish d6b103_3ca68a5a:
+
+    # Asaw "It is... unfortunate, that we have met so late in life."
+    Asaw "It is... unfortunate, that we have met so late in life."
+
+# game/scripts/day6.rpy:1651
+translate spanish d6b103_428833cc:
+
+    # Zw "What do you mean?"
+    Zw "What do you mean?"
+
+# game/scripts/day6.rpy:1652
+translate spanish d6b103_d7bf3a89:
+
+    # Asaw "I... don't know. It's just, the older you get, the harder it becomes to change who you are..."
+    Asaw "I... don't know. It's just, the older you get, the harder it becomes to change who you are..."
+
+# game/scripts/day6.rpy:1653
+translate spanish d6b103_51e12ff0:
+
+    # Asaw "If we had met earlier, maybe 20 years ago, when I was a different person, who knows..."
+    Asaw "If we had met earlier, maybe 20 years ago, when I was a different person, who knows..."
+
+# game/scripts/day6.rpy:1656
+translate spanish d6b103_a574b356:
+
+    # Zw "Who knows indeed."
+    Zw "Who knows indeed."
+
+# game/scripts/day6.rpy:1657
+translate spanish d6b103_b3ca8ca2:
+
+    # Zw "Were you ever the homely type, willing to wait patiently for the return home of her man?"
+    Zw "Were you ever the homely type, willing to wait patiently for the return home of her man?"
+
+# game/scripts/day6.rpy:1658
+translate spanish d6b103_70ef47a9:
+
+    # Asaw "There was a time when that life might have suited me, yes, but no more."
+    Asaw "There was a time when that life might have suited me, yes, but no more."
+
+# game/scripts/day6.rpy:1659
+translate spanish d6b103_e83b734f:
+
+    # Zw "I understand."
+    Zw "I understand."
+
+# game/scripts/day6.rpy:1660
+translate spanish d6b103_26df552c:
+
+    # Asaw "The darkness helps."
+    Asaw "The darkness helps."
+
+# game/scripts/day6.rpy:1661
+translate spanish d6b103_428833cc_1:
+
+    # Zw "What do you mean?"
+    Zw "What do you mean?"
+
+# game/scripts/day6.rpy:1662
+translate spanish d6b103_8ca9ee1a:
+
+    # Asaw "It hides, but also liberates, and reveals."
+    Asaw "It hides, but also liberates, and reveals."
+
+# game/scripts/day6.rpy:1663
+translate spanish d6b103_049e8c5a:
+
+    # Zw "..."
+    Zw "..."
+
+# game/scripts/day6.rpy:1664
+translate spanish d6b103_87a085d8:
+
+    # Asaw "That came out wrong."
+    Asaw "That came out wrong."
+
+# game/scripts/day6.rpy:1665
+translate spanish d6b103_56875f25:
+
+    # Asaw "What I mean is that lying here like this, when the only light is that of the stars peeking through the holes in my roof, it's easier to be myself, to be at peace."
+    Asaw "What I mean is that lying here like this, when the only light is that of the stars peeking through the holes in my roof, it's easier to be myself, to be at peace."
+
+# game/scripts/day6.rpy:1666
+translate spanish d6b103_33ef64a7:
+
+    # Asaw "I hope that tomorrow, when you ride away, you will remember me like this: happy and relaxed, removed from the hustle of fighting for survival."
+    Asaw "I hope that tomorrow, when you ride away, you will remember me like this: happy and relaxed, removed from the hustle of fighting for survival."
+
+# game/scripts/day6.rpy:1667
+translate spanish d6b103_5b95e3ad:
+
+    # Zw "I promise you that. Then again, it's never too late to try something new, to try to change yourself or your circumstances."
+    Zw "I promise you that. Then again, it's never too late to try something new, to try to change yourself or your circumstances."
+
+# game/scripts/day6.rpy:1668
+translate spanish d6b103_da657e1c:
+
+    # Asaw "We both have some years on our backs, you more so than me, so don't lie to me. Tell me, how often have you changed in your life?"
+    Asaw "We both have some years on our backs, you more so than me, so don't lie to me. Tell me, how often have you changed in your life?"
+
+# game/scripts/day6.rpy:1669
+translate spanish d6b103_afb7fe0e:
+
+    # Asaw "Have you not always been [persistent.player_name] the Desert Stalker, stalwart warrior of Zeta?"
+    Asaw "Have you not always been [persistent.player_name] the Desert Stalker, stalwart warrior of Zeta?"
+
+# game/scripts/day6.rpy:1670
+translate spanish d6b103_661cc996:
+
+    # Zw "You got me there. My life has been adventurous, sure, but pretty linear and consistent, in a way. I guess I'm lucky, all considered."
+    Zw "You got me there. My life has been adventurous, sure, but pretty linear and consistent, in a way. I guess I'm lucky, all considered."
+
+# game/scripts/day6.rpy:1671
+translate spanish d6b103_0642a3d5:
+
+    # Asaw "All this effort that goes into surviving, trying to live through the day... It rarely gives me pause, time to look back, you know? Do you ever look back?"
+    Asaw "All this effort that goes into surviving, trying to live through the day... It rarely gives me pause, time to look back, you know? Do you ever look back?"
+
+# game/scripts/day6.rpy:1672
+translate spanish d6b103_7eca2e3b:
+
+    # Zw "I try to look forward to the challenges of the next day, but I am fortunate I am surrounded by reasons to slow down, occasionally."
+    Zw "I try to look forward to the challenges of the next day, but I am fortunate I am surrounded by reasons to slow down, occasionally."
+
+# game/scripts/day6.rpy:1673
+translate spanish d6b103_dd44f0e5:
+
+    # "{i}Despite connecting with this woman differently than how you usually relate to those you lay with for a fleeting night, you sense a distance, a deeper well of thoughts and sadness."
+    "{i}Despite connecting with this woman differently than how you usually relate to those you lay with for a fleeting night, you sense a distance, a deeper well of thoughts and sadness."
+
+# game/scripts/day6.rpy:1674
+translate spanish d6b103_efda2225:
+
+    # "{i}In her embrace, you feel as if she is shielding you from her deeper thoughts, and before you close your eyes, a moment of sadness catches you."
+    "{i}In her embrace, you feel as if she is shielding you from her deeper thoughts, and before you close your eyes, a moment of sadness catches you."
+
+# game/scripts/day6.rpy:1675
+translate spanish d6b103_d6a38f4b:
+
+    # "{i}You want to, but you know better than to ask, and you take contentment in lying there, together."
+    "{i}You want to, but you know better than to ask, and you take contentment in lying there, together."
+
+# game/scripts/day6.rpy:1676
+translate spanish d6b103_2b934423:
+
+    # "{i}That night, you feel safe; more at ease than you usually do, when you spend time out in the wasteland, away from home."
+    "{i}That night, you feel safe; more at ease than you usually do, when you spend time out in the wasteland, away from home."
+
+# game/scripts/day6.rpy:1677
+translate spanish d6b103_5cb14a73:
+
+    # "{i}Nothing but the howling winds scouring the barren lands, a small hut, and a woman lying next to you."
+    "{i}Nothing but the howling winds scouring the barren lands, a small hut, and a woman lying next to you."
+
+# game/scripts/day6.rpy:1680
+translate spanish d6b103_d9ef36f2:
+
+    # "{i}After some time, you fall asleep."
+    "{i}After some time, you fall asleep."
+
+# game/scripts/day6.rpy:1681
+translate spanish d6b103_5ab3574d:
+
+    # Z "..."
+    Z "..."
+
+# game/scripts/day6.rpy:1682
+translate spanish d6b103_bf0e7cff:
+
+    # "{i}Waking up again, you feel strangely exhausted, as if you barely slept at all."
+    "{i}Waking up again, you feel strangely exhausted, as if you barely slept at all."
+
+# game/scripts/day6.rpy:1683
+translate spanish d6b103_8e24f9c6:
+
+    # "{i}You notice how dark it is outside, and sense it must still be deep in the night..."
+    "{i}You notice how dark it is outside, and sense it must still be deep in the night..."
+
+# game/scripts/day6.rpy:1684
+translate spanish d6b103_16e15a23:
+
+    # "{i}But... where is Asani?"
+    "{i}But... where is Asani?"
+
+# game/scripts/day6.rpy:1687
+translate spanish d6b103_caf5d670:
+
+    # "{i}You hear faint noises outside..."
+    "{i}You hear faint noises outside..."
+
+# game/scripts/day6.rpy:1688
+translate spanish d6b103_1bbaa9c1:
+
+    # Z "Asani?"
+    Z "Asani?"
+
+# game/scripts/day6.rpy:1691
+translate spanish d6b103_2b829905:
+
+    # "{i}You dress up..."
+    "{i}You dress up..."
+
+# game/scripts/day6.rpy:1700
+translate spanish d6b103_1bbaa9c1_1:
+
+    # Z "Asani?"
+    Z "Asani?"
+
+# game/scripts/day6.rpy:1703
+translate spanish d6b103_164c2698:
+
+    # Z "Why are you out here this late?"
+    Z "Why are you out here this late?"
+
+# game/scripts/day6.rpy:1706
+translate spanish d6b103_3d54e36a:
+
+    # Asa "I was looking at this car, [persistent.player_name]."
+    Asa "I was looking at this car, [persistent.player_name]."
+
+# game/scripts/day6.rpy:1709
+translate spanish d6b103_7b0bb90c:
+
+    # Asa "It's almost a relic of an era we can only dream about, yet people will look at it as a tool, look at these perfect windows and envy you, nothing more."
+    Asa "It's almost a relic of an era we can only dream about, yet people will look at it as a tool, look at these perfect windows and envy you, nothing more."
+
+# game/scripts/day6.rpy:1710
+translate spanish d6b103_bd425e28:
+
+    # Asa "Hell, it's a good thing for you that the Queen has banished technology from the city, or she'd probably requisition this car for her personal use."
+    Asa "Hell, it's a good thing for you that the Queen has banished technology from the city, or she'd probably requisition this car for her personal use."
+
+# game/scripts/day6.rpy:1711
+translate spanish d6b103_ecad2d4c:
+
+    # Asa "You'd be the talk of the city, if you rolled into Adira aboard this."
+    Asa "You'd be the talk of the city, if you rolled into Adira aboard this."
+
+# game/scripts/day6.rpy:1713
+translate spanish d6b103_b3764221:
+
+    # Z "We'll see about that when it happens again."
+    Z "We'll see about that when it happens again."
+
+# game/scripts/day6.rpy:1714
+translate spanish d6b103_ceacd633:
+
+    # Asa "You've actually been there and made it out alive?"
+    Asa "You've actually been there and made it out alive?"
+
+# game/scripts/day6.rpy:1715
+translate spanish d6b103_7762c3b7:
+
+    # Z "How else did you think I got the directions to find you?"
+    Z "How else did you think I got the directions to find you?"
+
+# game/scripts/day6.rpy:1716
+translate spanish d6b103_dfe9b4ed:
+
+    # Asa "You're going to have to tell me what the story is between you and Kyra!"
+    Asa "You're going to have to tell me what the story is between you and Kyra!"
+
+# game/scripts/day6.rpy:1717
+translate spanish d6b103_f36564f7:
+
+    # Z "Come back to bed, and I will..."
+    Z "Come back to bed, and I will..."
+
+# game/scripts/day6.rpy:1719
+translate spanish d6b103_3b9ea6da:
+
+    # Z "Stranger things have happened, I'm sure..."
+    Z "Stranger things have happened, I'm sure..."
+
+# game/scripts/day6.rpy:1720
+translate spanish d6b103_446f5289:
+
+    # Asa "They'd probably steal every part of it, or fight each others to claim it."
+    Asa "They'd probably steal every part of it, or fight each others to claim it."
+
+# game/scripts/day6.rpy:1721
+translate spanish d6b103_4bf250b1:
+
+    # Z "Let's hope for the latter.... Now come back inside. Let's go back to bed."
+    Z "Let's hope for the latter.... Now come back inside. Let's go back to bed."
+
+# game/scripts/day6.rpy:1722
+translate spanish d6b103_ac8f3ad7:
+
+    # Asa "Yes daddy!"
+    Asa "Yes daddy!"
+
+# game/scripts/day6.rpy:1723
+translate spanish d6b103_a0182c36:
+
+    # Z "Smart-ass."
+    Z "Smart-ass."
+
+# game/scripts/day6.rpy:1728
+translate spanish d6b103_60c6f4ca:
+
+    # Z "This was a long day, and it ended nicely, but I do need to sleep now."
+    Z "This was a long day, and it ended nicely, but I do need to sleep now."
+
+# game/scripts/day6.rpy:1731
+translate spanish d6b103_2c1fe24c:
+
+    # Asa "I would have liked to talk a bit more, but sure. Rest, if you want. You did give me a great time, after all."
+    Asa "I would have liked to talk a bit more, but sure. Rest, if you want. You did give me a great time, after all."
+
+# game/scripts/day6.rpy:1732
+translate spanish d6b103_94240d83:
+
+    # Asa "I still have a few things to do."
+    Asa "I still have a few things to do."
+
+# game/scripts/day6.rpy:1735
+translate spanish d6b103_f9e5ffaa:
+
+    # Z "I will leave you to it. I am sorry for not helping, but I really am shutting down."
+    Z "I will leave you to it. I am sorry for not helping, but I really am shutting down."
+
+# game/scripts/day6.rpy:1738
+translate spanish d6b103_8b893db7:
+
+    # Asa "Well then... make yourself comfortable. I will join you in a bit."
+    Asa "Well then... make yourself comfortable. I will join you in a bit."
+
+# game/scripts/day6.rpy:1744
+translate spanish d6b103_ac8e3d45:
+
+    # "{i}The following morning..."
+    "{i}The following morning..."
+
+# game/scripts/day6.rpy:1747
+translate spanish d6b103_ee6f0063:
+
+    # Asa "Last night was interesting."
+    Asa "Last night was interesting."
+
+# game/scripts/day6.rpy:1750
+translate spanish d6b103_d110787c:
+
+    # Z "It was indeed. We should do it again."
+    Z "It was indeed. We should do it again."
+
+# game/scripts/day6.rpy:1753
+translate spanish d6b103_3a0118b4:
+
+    # Asa "Do you plan on coming in this direction again soon?"
+    Asa "Do you plan on coming in this direction again soon?"
+
+# game/scripts/day6.rpy:1756
+translate spanish d6b103_22c9b4c5:
+
+    # Z "Hard to say, Stalkers go where there's profit, adventure or a mission to accomplish."
+    Z "Hard to say, Stalkers go where there's profit, adventure or a mission to accomplish."
+
+# game/scripts/day6.rpy:1759
+translate spanish d6b103_60f125c2:
+
+    # Asa "Well, see that you find a reason."
+    Asa "Well, see that you find a reason."
+
+# game/scripts/day6.rpy:1760
+translate spanish d6b103_16c551a5:
+
+    # Asa "Even in a remote place as this, I get visitors, traders, bedouins... but I could use a friend instead."
+    Asa "Even in a remote place as this, I get visitors, traders, bedouins... but I could use a friend instead."
+
+# game/scripts/day6.rpy:1763
+translate spanish d6b103_e6ff3fcd:
+
+    # Asa "...And I hear things, occasionally."
+    Asa "...And I hear things, occasionally."
+
+# game/scripts/day6.rpy:1766
+translate spanish d6b103_fc224c34:
+
+    # Z "You hear things?"
+    Z "You hear things?"
+
+# game/scripts/day6.rpy:1769
+translate spanish d6b103_d7bff931:
+
+    # Asa "Raiders and others, still swing by now and then. The occasional juicy bit of news could be interesting for types like you... Stalkers, but also Zetans."
+    Asa "Raiders and others, still swing by now and then. The occasional juicy bit of news could be interesting for types like you... Stalkers, but also Zetans."
+
+# game/scripts/day6.rpy:1772
+translate spanish d6b103_13eaada6:
+
+    # Z "Anything in particular on your mind?"
+    Z "Anything in particular on your mind?"
+
+# game/scripts/day6.rpy:1775
+translate spanish d6b103_32c498f3:
+
+    # Asa "Only that you should be careful."
+    Asa "Only that you should be careful."
+
+# game/scripts/day6.rpy:1776
+translate spanish d6b103_d7429d7a:
+
+    # Asa "Raiders are all stockpiling resources and trying to be more organised in their efforts to control the region."
+    Asa "Raiders are all stockpiling resources and trying to be more organised in their efforts to control the region."
+
+# game/scripts/day6.rpy:1777
+translate spanish d6b103_87175dc4:
+
+    # Asa "They tell me it's in response to the fact that the Decayed from Old Cairo are also expanding their influence."
+    Asa "They tell me it's in response to the fact that the Decayed from Old Cairo are also expanding their influence."
+
+# game/scripts/day6.rpy:1778
+translate spanish d6b103_20892c4e:
+
+    # Asa "Apparently they too are getting more organised by the day."
+    Asa "Apparently they too are getting more organised by the day."
+
+# game/scripts/day6.rpy:1779
+translate spanish d6b103_ca5f05d2:
+
+    # Asa "This could all come to a head, and if it becomes an all out war, Zeta will have to pick sides or be swept up, either during the war or by the victor."
+    Asa "This could all come to a head, and if it becomes an all out war, Zeta will have to pick sides or be swept up, either during the war or by the victor."
+
+# game/scripts/day6.rpy:1782
+translate spanish d6b103_62daab38:
+
+    # Zt "My own recent experiences with the various factions support some of this. Asani is actually well informed, for a straggler."
+    Zt "My own recent experiences with the various factions support some of this. Asani is actually well informed, for a straggler."
+
+# game/scripts/day6.rpy:1783
+translate spanish d6b103_41d83173:
+
+    # Z "I've heard similar stories. Will you be safe, out here?"
+    Z "I've heard similar stories. Will you be safe, out here?"
+
+# game/scripts/day6.rpy:1786
+translate spanish d6b103_f6b88c86:
+
+    # Asa "I told you, I still have people who look after me. I'm a good listener, I guess."
+    Asa "I told you, I still have people who look after me. I'm a good listener, I guess."
+
+# game/scripts/day6.rpy:1787
+translate spanish d6b103_13f83590:
+
+    # Asa "I have my ways."
+    Asa "I have my ways."
+
+# game/scripts/day6.rpy:1790
+translate spanish d6b103_1f93b904:
+
+    # Z "Even so, be safe, Asani... Friends are hard to come by, and who knows.. maybe that's something we could both learn to be, in time..."
+    Z "Even so, be safe, Asani... Friends are hard to come by, and who knows.. maybe that's something we could both learn to be, in time..."
+
+# game/scripts/day6.rpy:1793
+translate spanish d6b103_372ca646:
+
+    # Asa "I have no intention of dying, [persistent.player_name]."
+    Asa "I have no intention of dying, [persistent.player_name]."
+
+# game/scripts/day6.rpy:1796
+translate spanish d6b103_ec770346:
+
+    # Z "Who knows, I might have some business with you in the future."
+    Z "Who knows, I might have some business with you in the future."
+
+# game/scripts/day6.rpy:1799
+translate spanish d6b103_f60cb8cf:
+
+    # Asa "Well, don't be a stranger then... Friend."
+    Asa "Well, don't be a stranger then... Friend."
+
+# game/scripts/day6.rpy:1800
+translate spanish d6b103_7480da58:
+
+    # Asa "Now go, your family will be worried sick."
+    Asa "Now go, your family will be worried sick."
+
+# game/scripts/day6.rpy:1803
+translate spanish d6b103_e93cefec:
+
+    # Zt "She's not wrong."
+    Zt "She's not wrong."
+
+# game/scripts/day6.rpy:1809
+translate spanish d6b103_0cd8be33:
+
+    # Zt "Time to go home. This is a great find, and I can't wait to show it to [S]."
+    Zt "Time to go home. This is a great find, and I can't wait to show it to [S]."
+
+# game/scripts/day6.rpy:1811
+translate spanish d6b103_682cd2a6:
+
+    # Zt "I really do owe Igor a big gift."
+    Zt "I really do owe Igor a big gift."
+
+# game/scripts/day6.rpy:1813
+translate spanish d6b103_0109eb5f:
+
+    # Zt "I guess I can always go see her some other time, now that I know where she lives."
+    Zt "I guess I can always go see her some other time, now that I know where she lives."
+
+# game/scripts/day6.rpy:1819
+translate spanish d6b52_17624aa6:
+
+    # "{i}You head back on your way home..."
+    "{i}You head back on your way home..."
+
+# game/scripts/day6.rpy:1822
+translate spanish d6b52_8e06eb7c:
+
+    # "{i}Eventually, you arrive..."
+    "{i}Eventually, you arrive..."
+
+# game/scripts/day6.rpy:1825
+translate spanish d6b52_247e93f3:
+
+    # W "That's not the sound of your [persistent.dad]'s car. Let me go check first."
+    W "That's not the sound of your [persistent.dad]'s car. Let me go check first."
+
+# game/scripts/day6.rpy:1826
+translate spanish d6b52_0226c95b:
+
+    # A "Be careful [persistent.mom]."
+    A "Be careful [persistent.mom]."
+
+# game/scripts/day6.rpy:1827
+translate spanish d6b52_e4318135:
+
+    # W "[persistent.player_name!c], is that you?"
+    W "[persistent.player_name!c], is that you?"
+
+# game/scripts/day6.rpy:1831
+translate spanish d6b52_4bdce96b:
+
+    # Z "Yes, [W], it's me. You can come out."
+    Z "Yes, [W], it's me. You can come out."
+
+# game/scripts/day6.rpy:1832
+translate spanish d6b52_9ddca72d:
+
+    # Z "In fact, come see what I have found in the desert!"
+    Z "In fact, come see what I have found in the desert!"
+
+# game/scripts/day6.rpy:1834
+translate spanish d6b52_89b3fac9:
+
+    # Z "This time, Igor has truly outdone himself."
+    Z "This time, Igor has truly outdone himself."
+
+# game/scripts/day6.rpy:1836
+translate spanish d6b52_0811bc2f:
+
+    # Z "The Raiders have come through on their end of the deal."
+    Z "The Raiders have come through on their end of the deal."
+
+# game/scripts/day6.rpy:1840
+translate spanish d6b52_3ef9d557:
+
+    # W "So this is what you found following Igor's lead?"
+    W "So this is what you found following Igor's lead?"
+
+# game/scripts/day6.rpy:1842
+translate spanish d6b52_83b07b68:
+
+    # W "So that Kyra girl spoke the truth... is this the car she bartered for her freedom?"
+    W "So that Kyra girl spoke the truth... is this the car she bartered for her freedom?"
+
+# game/scripts/day6.rpy:1845
+translate spanish d6b52_df30d54b:
+
+    # Z "Yes it is. An actual vehicle dating back to the times before the End of Days."
+    Z "Yes it is. An actual vehicle dating back to the times before the End of Days."
+
+# game/scripts/day6.rpy:1846
+translate spanish d6b52_fcc02d80:
+
+    # Z "It took me a while to get it running again, but as you can see, it works. "
+    Z "It took me a while to get it running again, but as you can see, it works. "
+
+# game/scripts/day6.rpy:1849
+translate spanish d6b52_779f8b2a:
+
+    # A "Can I see it too?"
+    A "Can I see it too?"
+
+# game/scripts/day6.rpy:1850
+translate spanish d6b52_a84e5760:
+
+    # Z "Of course [A], come closer."
+    Z "Of course [A], come closer."
+
+# game/scripts/day6.rpy:1853
+translate spanish d6b52_2a1614c3:
+
+    # A "Wow! What a beast! It's so big!"
+    A "Wow! What a beast! It's so big!"
+
+# game/scripts/day6.rpy:1854
+translate spanish d6b52_a1f1133f:
+
+    # Z "Yes, that's what s-"
+    Z "Yes, that's what s-"
+
+# game/scripts/day6.rpy:1855
+translate spanish d6b52_c2c9cc07:
+
+    # W "..."
+    W "..."
+
+# game/scripts/day6.rpy:1856
+translate spanish d6b52_438afb5d:
+
+    # Z "Never mind."
+    Z "Never mind."
+
+# game/scripts/day6.rpy:1859
+translate spanish d6b52_46e899ca:
+
+    # "{i}As she was out all this time, you and [S] eventually meet in the evening."
+    "{i}As she was out all this time, you and [S] eventually meet in the evening."
+
+# game/scripts/day6.rpy:1860
+translate spanish d6b52_b78d86c7:
+
+    # "{i}You tell her everything that happened..."
+    "{i}You tell her everything that happened..."
+
+# game/scripts/day6.rpy:1867
+translate spanish d6b150_eef4cd55:
+
+    # S "So... do you think what she said is true?"
+    S "So... do you think what she said is true?"
+
+# game/scripts/day6.rpy:1868
+translate spanish d6b150_9098fa70:
+
+    # S "I mean... do you think the city could stand up for itself?"
+    S "I mean... do you think the city could stand up for itself?"
+
+# game/scripts/day6.rpy:1870
+translate spanish d6b150_cd417cae:
+
+    # S "About that girl Kyra... since she's a raider..."
+    S "About that girl Kyra... since she's a raider..."
+
+# game/scripts/day6.rpy:1871
+translate spanish d6b150_20118a59:
+
+    # S "How strong are they anyway?"
+    S "How strong are they anyway?"
+
+# game/scripts/day6.rpy:1872
+translate spanish d6b150_ad665a50:
+
+    # S "I've heard some concerns from people in the city that if they would attack, we would be in trouble."
+    S "I've heard some concerns from people in the city that if they would attack, we would be in trouble."
+
+# game/scripts/day6.rpy:1873
+translate spanish d6b150_c9134901:
+
+    # S "You think they have a point?"
+    S "You think they have a point?"
+
+# game/scripts/day6.rpy:1875
+translate spanish d6b150_5b580976:
+
+    # S "When I was in the city today, someone heard that we were in Old Cairo."
+    S "When I was in the city today, someone heard that we were in Old Cairo."
+
+# game/scripts/day6.rpy:1876
+translate spanish d6b150_31fa47d8:
+
+    # S "He asked me whether or not the decayed were strong, and what would happen if they attack."
+    S "He asked me whether or not the decayed were strong, and what would happen if they attack."
+
+# game/scripts/day6.rpy:1877
+translate spanish d6b150_0ace4cf6:
+
+    # S "I wonder... do you think Zeta is really safe at this point?"
+    S "I wonder... do you think Zeta is really safe at this point?"
+
+# game/scripts/day6.rpy:1878
+translate spanish d6b150_f4bdb7aa:
+
+    # S "Just curious..."
+    S "Just curious..."
+
+# game/scripts/day6.rpy:1884
+translate spanish d6b150_3062ff81:
+
+    # Z "The Queen's army is strong enough."
+    Z "The Queen's army is strong enough."
+
+# game/scripts/day6.rpy:1885
+translate spanish d6b150_cb0c8553:
+
+    # Z "What I've seen in Old Cairo... they are organized."
+    Z "What I've seen in Old Cairo... they are organized."
+
+# game/scripts/day6.rpy:1886
+translate spanish d6b150_d8ce1b40:
+
+    # Z "And I am not sure how much the Raiders are expanding yet."
+    Z "And I am not sure how much the Raiders are expanding yet."
+
+# game/scripts/day6.rpy:1887
+translate spanish d6b150_a2267ed4:
+
+    # Z "But Zeta has existed for 400 years. Even if Asani was right, this won't be the first insurrection or even open war it faces."
+    Z "But Zeta has existed for 400 years. Even if Asani was right, this won't be the first insurrection or even open war it faces."
+
+# game/scripts/day6.rpy:1888
+translate spanish d6b150_c14d979c:
+
+    # Z "The city endures, always."
+    Z "The city endures, always."
+
+# game/scripts/day6.rpy:1891
+translate spanish d6b150_19afa8b3:
+
+    # S "Let us hope for the best."
+    S "Let us hope for the best."
+
+# game/scripts/day6.rpy:1893
+translate spanish d6b150_6ebcdd5d:
+
+    # S "I don't want this place to become unsafe."
+    S "I don't want this place to become unsafe."
+
+# game/scripts/day6.rpy:1894
+translate spanish d6b150_cf3839c5:
+
+    # S "So a strong Zeta is probably our best chance of survival."
+    S "So a strong Zeta is probably our best chance of survival."
+
+# game/scripts/day6.rpy:1897
+translate spanish d6b150_f9f57b20:
+
+    # Z "I have been around a lot, and the Sacred City gives people hope and courage. It has resources most other factions lack completely."
+    Z "I have been around a lot, and the Sacred City gives people hope and courage. It has resources most other factions lack completely."
+
+# game/scripts/day6.rpy:1898
+translate spanish d6b150_f04352ee:
+
+    # Z "Should it come to it, we may even have to abandon our house and find refuge within the city itself. But that is a worst case scenario."
+    Z "Should it come to it, we may even have to abandon our house and find refuge within the city itself. But that is a worst case scenario."
+
+# game/scripts/day6.rpy:1899
+translate spanish d6b150_fbf2e380:
+
+    # Z "Should that woman even be right. She's lied on several other things, and her view on this matter may be tainted by her own experience."
+    Z "Should that woman even be right. She's lied on several other things, and her view on this matter may be tainted by her own experience."
+
+# game/scripts/day6.rpy:1901
+translate spanish d6b150_03e3d09e:
+
+    # S "If the worst should happen, we should consider moving away."
+    S "If the worst should happen, we should consider moving away."
+
+# game/scripts/day6.rpy:1902
+translate spanish d6b150_fd13ea71:
+
+    # S "There are other places where we can build up again."
+    S "There are other places where we can build up again."
+
+# game/scripts/day6.rpy:1905
+translate spanish d6b150_76e96c37:
+
+    # Z "I doubt it would be so easy..."
+    Z "I doubt it would be so easy..."
+
+# game/scripts/day6.rpy:1911
+translate spanish d6b150_055560f5:
+
+    # Z "From what I have seen in Old Cairo, they are expanding quite fast."
+    Z "From what I have seen in Old Cairo, they are expanding quite fast."
+
+# game/scripts/day6.rpy:1912
+translate spanish d6b150_bd8ae9e5:
+
+    # Z "I'm not sure about other factions, but I don't think Zeta can hold up on its own, not this time."
+    Z "I'm not sure about other factions, but I don't think Zeta can hold up on its own, not this time."
+
+# game/scripts/day6.rpy:1913
+translate spanish d6b150_823446aa:
+
+    # Z "We have an army, but no technology."
+    Z "We have an army, but no technology."
+
+# game/scripts/day6.rpy:1914
+translate spanish d6b150_3115266c:
+
+    # Z "I think the Queen should look for allies."
+    Z "I think the Queen should look for allies."
+
+# game/scripts/day6.rpy:1918
+translate spanish d6b150_bc77b3b2:
+
+    # S "But with whom?"
+    S "But with whom?"
+
+# game/scripts/day6.rpy:1920
+translate spanish d6b150_102422aa:
+
+    # S "Maybe the mutants you told me about?"
+    S "Maybe the mutants you told me about?"
+
+# game/scripts/day6.rpy:1921
+translate spanish d6b150_bd51bb67:
+
+    # S "I don't know what Zeta has against mutants anyway."
+    S "I don't know what Zeta has against mutants anyway."
+
+# game/scripts/day6.rpy:1922
+translate spanish d6b150_dcdfc24a:
+
+    # S "They're just people, like us."
+    S "They're just people, like us."
+
+# game/scripts/day6.rpy:1923
+translate spanish d6b150_f1e658ef:
+
+    # S "If the Queen would tolerate them inside the city, I'm sure they could find common causes."
+    S "If the Queen would tolerate them inside the city, I'm sure they could find common causes."
+
+# game/scripts/day6.rpy:1924
+translate spanish d6b150_c44004a7:
+
+    # S "Imagine what a force Zeta would be with them on our side!"
+    S "Imagine what a force Zeta would be with them on our side!"
+
+# game/scripts/day6.rpy:1927
+translate spanish d6b150_16091ff8:
+
+    # Z "Maybe... But the culture of rejecting technology goes back for centuries, and prejudice against mutants is strong."
+    Z "Maybe... But the culture of rejecting technology goes back for centuries, and prejudice against mutants is strong."
+
+# game/scripts/day6.rpy:1931
+translate spanish d6b150_74c7fc08:
+
+    # Z "If I only knew..."
+    Z "If I only knew..."
+
+# game/scripts/day6.rpy:1934
+translate spanish d6b150_18d2be28:
+
+    # S "Maybe there is a way to make peace with the decayed?"
+    S "Maybe there is a way to make peace with the decayed?"
+
+# game/scripts/day6.rpy:1935
+translate spanish d6b150_e32b3ca7:
+
+    # S "I mean... sure, they are cannibals..."
+    S "I mean... sure, they are cannibals..."
+
+# game/scripts/day6.rpy:1936
+translate spanish d6b150_089cd5f8:
+
+    # S "But as long as Zeta doesn't sacrifice their own, right?"
+    S "But as long as Zeta doesn't sacrifice their own, right?"
+
+# game/scripts/day6.rpy:1937
+translate spanish d6b150_22daf7ef:
+
+    # S "The same goes for the raiders."
+    S "The same goes for the raiders."
+
+# game/scripts/day6.rpy:1938
+translate spanish d6b150_2c1bb445:
+
+    # S "Maybe the Queen should look to combine forces with them..."
+    S "Maybe the Queen should look to combine forces with them..."
+
+# game/scripts/day6.rpy:1939
+translate spanish d6b150_e2799937:
+
+    # S "Zeta would be unstoppable!"
+    S "Zeta would be unstoppable!"
+
+# game/scripts/day6.rpy:1942
+translate spanish d6b150_4db8bc45:
+
+    # Z "I'm not sure if Zetans would tolerate decayed or raiders in their city..."
+    Z "I'm not sure if Zetans would tolerate decayed or raiders in their city..."
+
+# game/scripts/day6.rpy:1947
+translate spanish d6b150_7de07191:
+
+    # Z "Zeta has been around for centuries."
+    Z "Zeta has been around for centuries."
+
+# game/scripts/day6.rpy:1948
+translate spanish d6b150_1769dee4:
+
+    # Z "But from what I've seen, the decayed know how to use old technology to advance their goals."
+    Z "But from what I've seen, the decayed know how to use old technology to advance their goals."
+
+# game/scripts/day6.rpy:1949
+translate spanish d6b150_a265373f:
+
+    # Z "They are making strides in recovering the old ways of life."
+    Z "They are making strides in recovering the old ways of life."
+
+# game/scripts/day6.rpy:1950
+translate spanish d6b150_4f2425e8:
+
+    # Z "This means they are rediscovering old technology and means of combat."
+    Z "This means they are rediscovering old technology and means of combat."
+
+# game/scripts/day6.rpy:1951
+translate spanish d6b150_3e5c6314:
+
+    # Z "Sticking to swords and our rigid culture might not work, in the long run."
+    Z "Sticking to swords and our rigid culture might not work, in the long run."
+
+# game/scripts/day6.rpy:1952
+translate spanish d6b150_95781254:
+
+    # Z "It could very well be that Zeta will one day be conquered."
+    Z "It could very well be that Zeta will one day be conquered."
+
+# game/scripts/day6.rpy:1956
+translate spanish d6b150_6f1b0177:
+
+    # S "Let us hope that will never happen."
+    S "Let us hope that will never happen."
+
+# game/scripts/day6.rpy:1957
+translate spanish d6b150_37f970f7:
+
+    # S "I can't think of any culture that offers more than what we have now."
+    S "I can't think of any culture that offers more than what we have now."
+
+# game/scripts/day6.rpy:1958
+translate spanish d6b150_5b68d914:
+
+    # S "I don't know how those mutants you talked about see society..."
+    S "I don't know how those mutants you talked about see society..."
+
+# game/scripts/day6.rpy:1959
+translate spanish d6b150_baf62959:
+
+    # S "But a decayed-ruled Egypt... a nightmare."
+    S "But a decayed-ruled Egypt... a nightmare."
+
+# game/scripts/day6.rpy:1962
+translate spanish d6b150_0a52ca7f:
+
+    # Z "All we can do is wait and see..."
+    Z "All we can do is wait and see..."
+
+# game/scripts/day6.rpy:1963
+translate spanish d6b150_23759fbb:
+
+    # Z "Bide our time and jump to it when opportunity presents itself and a clear path forwards is forged."
+    Z "Bide our time and jump to it when opportunity presents itself and a clear path forwards is forged."
+
+# game/scripts/day6.rpy:1966
+translate spanish d6b150_5b546de8:
+
+    # S "Even if that happens, we will find a way."
+    S "Even if that happens, we will find a way."
+
+# game/scripts/day6.rpy:1967
+translate spanish d6b150_dd4a3307:
+
+    # S "Zeta is not the end all be all."
+    S "Zeta is not the end all be all."
+
+# game/scripts/day6.rpy:1968
+translate spanish d6b150_6ce45830:
+
+    # S "I'm sure we could come up on top even if the city was overrun by raiders."
+    S "I'm sure we could come up on top even if the city was overrun by raiders."
+
+# game/scripts/day6.rpy:1972
+translate spanish d6b150_56f977fe:
+
+    # S "And from what I heard, you already started climbing their ranks!"
+    S "And from what I heard, you already started climbing their ranks!"
+
+# game/scripts/day6.rpy:1975
+translate spanish d6b150_fa469abe:
+
+    # Z "Ha, let us wait and see, young woman."
+    Z "Ha, let us wait and see, young woman."
+
+# game/scripts/day6.rpy:1981
+translate spanish d6b151_6247293d:
+
+    # S "So... want to tell me how this new ride of yours works?"
+    S "So... want to tell me how this new ride of yours works?"
+
+# game/scripts/day6.rpy:1986
+translate spanish d6b151_1f3aa5c3:
+
+    # Z "You bet. But your [persistent.mom] should be done with the evening meal soon, so let's be quick."
+    Z "You bet. But your [persistent.mom] should be done with the evening meal soon, so let's be quick."
+
+# game/scripts/day6.rpy:1989
+translate spanish d6b151_b9d8c295:
+
+    # "{i}You show [S] the new car in detail."
+    "{i}You show [S] the new car in detail."
+
+# game/scripts/day6.rpy:1990
+translate spanish d6b151_024861cc:
+
+    # "{i}Later after dinner, you eventually head to sleep."
+    "{i}Later after dinner, you eventually head to sleep."
+
+translate spanish strings:
+
+    # game/scripts/day6.rpy:127
+    old "\"...and this time it's mine.\""
+    new "\"...and this time it's mine.\""
+
+    # game/scripts/day6.rpy:131
+    old "\"...but it's not mine.\""
+    new "\"...but it's not mine.\""
+
+    # game/scripts/day6.rpy:181
+    old "\"Maybe...\""
+    new "\"Maybe...\""
+
+    # game/scripts/day6.rpy:280
+    old "Encourage her"
+    new "Encourage her"
+
+    # game/scripts/day6.rpy:291
+    old "Discourage her"
+    new "Discourage her"
+
+    # game/scripts/day6.rpy:317
+    old "\"Not interested.\""
+    new "\"Not interested.\""
+
+    # game/scripts/day6.rpy:628
+    old "\"I will remember that, [Ig].\""
+    new "\"I will remember that, [Ig].\""
+
+    # game/scripts/day6.rpy:640
+    old "\"I like her, but we should see what she wants.\""
+    new "\"I like her, but we should see what she wants.\""
+
+    # game/scripts/day6.rpy:652
+    old "\"If she wants to join my household, she will have to work for it.\""
+    new "\"If she wants to join my household, she will have to work for it.\""
+
+    # game/scripts/day6.rpy:714
+    old "Show her that she is"
+    new "Show her that she is"
+
+    # game/scripts/day6.rpy:774
+    old "Steer her away from pregnancy"
+    new "Steer her away from pregnancy"
+
+    # game/scripts/day6.rpy:817
+    old "Talk your way out of this"
+    new "Talk your way out of this"
+
+    # game/scripts/day6.rpy:837
+    old "Kateryna is an interesting girl. I want to understand her better. Maybe I should invite her to our place again."
+    new "Kateryna is an interesting girl. I want to understand her better. Maybe I should invite her to our place again."
+
+    # game/scripts/day6.rpy:956
+    old "\"I need your help with something.\""
+    new "\"I need your help with something.\""
+
+    # game/scripts/day6.rpy:964
+    old "\"You owe me your life.\""
+    new "\"You owe me your life.\""
+
+    # game/scripts/day6.rpy:1137
+    old "\"We will have a lot of fun.\""
+    new "\"We will have a lot of fun.\""
+
+    # game/scripts/day6.rpy:1149
+    old "\"We will see.\""
+    new "\"We will see.\""
+
+    # game/scripts/day6.rpy:1159
+    old "\"I'm in a hurry.\""
+    new "\"I'm in a hurry.\""
+
+    # game/scripts/day6.rpy:1639
+    old "Stay the night and chat"
+    new "Stay the night and chat"
+
+    # game/scripts/day6.rpy:1882
+    old "\"The Queen's army is strong enough.\""
+    new "\"The Queen's army is strong enough.\""
+
+    # game/scripts/day6.rpy:1909
+    old "\"The Queen should look for allies.\""
+    new "\"The Queen should look for allies.\""
+
+    # game/scripts/day6.rpy:1945
+    old "\"All kingdoms fall eventually.\""
+    new "\"All kingdoms fall eventually.\""
+

@@ -1,0 +1,742 @@
+﻿# TODO: Translation updated at 2026-06-29 18:49
+
+# game/scripts/computer.rpy:209
+translate spanish entry_discussion_5f8e1b73:
+
+    # Z "Sonmi... that is the name of your friend, the one you mentioned to me, isn't it? Does she live here with you?"
+    Z "Sonmi... that is the name of your friend, the one you mentioned to me, isn't it? Does she live here with you?"
+
+# game/scripts/computer.rpy:210
+translate spanish entry_discussion_c7303f41:
+
+    # I "Yes. We've known each other for so long now..."
+    I "Yes. We've known each other for so long now..."
+
+# game/scripts/computer.rpy:211
+translate spanish entry_discussion_2fa320a5:
+
+    # Z "The place you described... I can't imagine such a place to exist in Old Cairo. The city is deserted, and all I've ever seen are the Decayed."
+    Z "The place you described... I can't imagine such a place to exist in Old Cairo. The city is deserted, and all I've ever seen are the Decayed."
+
+# game/scripts/computer.rpy:212
+translate spanish entry_discussion_81bedb25:
+
+    # Z "How long ago were you living in that place?"
+    Z "How long ago were you living in that place?"
+
+# game/scripts/computer.rpy:213
+translate spanish entry_discussion_d0430a56:
+
+    # I "It's... I can't remember, exactly."
+    I "It's... I can't remember, exactly."
+
+# game/scripts/computer.rpy:214
+translate spanish entry_discussion_356e75e2:
+
+    # Z "The next entry is locked.. and one other, too."
+    Z "The next entry is locked.. and one other, too."
+
+# game/scripts/computer.rpy:215
+translate spanish entry_discussion_1eb99a91:
+
+    # I "Yes. I'm... not ready to go there yet. Some things happened that are... difficult for me to revisit. Please read the other ones, for now."
+    I "Yes. I'm... not ready to go there yet. Some things happened that are... difficult for me to revisit. Please read the other ones, for now."
+
+# game/scripts/computer.rpy:217
+translate spanish entry_discussion_14362e58:
+
+    # Z "So you were living in a tower in Old Cairo similar to the one in the desert. A bunker, old technology, shelter... And something happened to you two."
+    Z "So you were living in a tower in Old Cairo similar to the one in the desert. A bunker, old technology, shelter... And something happened to you two."
+
+# game/scripts/computer.rpy:218
+translate spanish entry_discussion_f54fd212:
+
+    # I "Yes... as I said, I'd rather not...-"
+    I "Yes... as I said, I'd rather not...-"
+
+# game/scripts/computer.rpy:219
+translate spanish entry_discussion_4ffde44e:
+
+    # Z "I get it. I don't need to know for now."
+    Z "I get it. I don't need to know for now."
+
+# game/scripts/computer.rpy:221
+translate spanish entry_discussion_ac0d8821:
+
+    # Z "She seemed to be interested in researching things?"
+    Z "She seemed to be interested in researching things?"
+
+# game/scripts/computer.rpy:222
+translate spanish entry_discussion_71ec33fa:
+
+    # I "Yes. She was the most curious of our group, back then. She could never know enough of what happened before her time."
+    I "Yes. She was the most curious of our group, back then. She could never know enough of what happened before her time."
+
+# game/scripts/computer.rpy:224
+translate spanish entry_discussion_8cce0e4c:
+
+    # Z "I was wondering how such a place exists. The sky, the air, everything so close to the city..."
+    Z "I was wondering how such a place exists. The sky, the air, everything so close to the city..."
+
+# game/scripts/computer.rpy:225
+translate spanish entry_discussion_235dcc80:
+
+    # I "It's unusual, yes. For us back then, it was a miracle."
+    I "It's unusual, yes. For us back then, it was a miracle."
+
+# game/scripts/computer.rpy:226
+translate spanish entry_discussion_0a8b5e4c:
+
+    # Z "You have been living here since then?"
+    Z "You have been living here since then?"
+
+# game/scripts/computer.rpy:227
+translate spanish entry_discussion_59a247e1:
+
+    # I "Yes. For all this time..."
+    I "Yes. For all this time..."
+
+# game/scripts/computer.rpy:229
+translate spanish entry_discussion_5b051ce3:
+
+    # I "I... don't know why I wrote this down. It's just emotional ranting."
+    I "I... don't know why I wrote this down. It's just emotional ranting."
+
+# game/scripts/computer.rpy:230
+translate spanish entry_discussion_abe9eb2a:
+
+    # Z "You put the device away after that. But for how long?"
+    Z "You put the device away after that. But for how long?"
+
+# game/scripts/computer.rpy:231
+translate spanish entry_discussion_7640f2c1:
+
+    # I "For a long time. We just carried on."
+    I "For a long time. We just carried on."
+
+# game/scripts/computer.rpy:235
+translate spanish entry_discussion_733370df:
+
+    # Z "What you are writing here... about Zeta, and the decayed..."
+    Z "What you are writing here... about Zeta, and the decayed..."
+
+# game/scripts/computer.rpy:236
+translate spanish entry_discussion_f8ba6a9e:
+
+    # Z "As long as I can remember, Zeta has been as big as it is. And the decayed have only recently started to grow in numbers."
+    Z "As long as I can remember, Zeta has been as big as it is. And the decayed have only recently started to grow in numbers."
+
+# game/scripts/computer.rpy:237
+translate spanish entry_discussion_143737df:
+
+    # Z "But you... were there, before they grew? When Zeta was still merely a city in a desert, and not the small empire that it is now?"
+    Z "But you... were there, before they grew? When Zeta was still merely a city in a desert, and not the small empire that it is now?"
+
+# game/scripts/computer.rpy:240
+translate spanish entry_discussion_5018f220:
+
+    # I "..."
+    I "..."
+
+# game/scripts/computer.rpy:241
+translate spanish entry_discussion_ab7fb8cf:
+
+    # Z "[I]. How old are you?"
+    Z "[I]. How old are you?"
+
+# game/scripts/computer.rpy:244
+translate spanish entry_discussion_5018f220_1:
+
+    # I "..."
+    I "..."
+
+# game/scripts/computer.rpy:247
+translate spanish entry_discussion_2e0ba845:
+
+    # I "We used to compare our lives to a normal human lifespan..."
+    I "We used to compare our lives to a normal human lifespan..."
+
+# game/scripts/computer.rpy:248
+translate spanish entry_discussion_8f7864bd:
+
+    # I "...It's safe to assume I have lived a number of your lifespans, [persistent.player_name]. At some point, I stopped counting."
+    I "...It's safe to assume I have lived a number of your lifespans, [persistent.player_name]. At some point, I stopped counting."
+
+# game/scripts/computer.rpy:251
+translate spanish entry_discussion_5ab3574d:
+
+    # Z "..."
+    Z "..."
+
+# game/scripts/computer.rpy:252
+translate spanish entry_discussion_89b6d31a:
+
+    # Z "I see now why you didn't say anything all this time. Why Fangs didn't hear you speak."
+    Z "I see now why you didn't say anything all this time. Why Fangs didn't hear you speak."
+
+# game/scripts/computer.rpy:254
+translate spanish entry_discussion_5018f220_2:
+
+    # I "..."
+    I "..."
+
+# game/scripts/computer.rpy:255
+translate spanish entry_discussion_0157d8c8:
+
+    # Zt "I knew that elves can grow old... but to see the evidence in front of me..."
+    Zt "I knew that elves can grow old... but to see the evidence in front of me..."
+
+# game/scripts/computer.rpy:256
+translate spanish entry_discussion_c42b3aec:
+
+    # Zt "To think that this girl has lived on this planet for more than a century puts things in perspective."
+    Zt "To think that this girl has lived on this planet for more than a century puts things in perspective."
+
+# game/scripts/computer.rpy:259
+translate spanish entry_discussion_004cc0da:
+
+    # Zt "How would I behave if I was that old? I am not even half her age, and yet I have accumulated all these experiences over the years... some that never left me."
+    Zt "How would I behave if I was that old? I am not even half her age, and yet I have accumulated all these experiences over the years... some that never left me."
+
+# game/scripts/computer.rpy:262
+translate spanish entry_discussion_cdcbe758:
+
+    # I "You can... keep reading, if you want."
+    I "You can... keep reading, if you want."
+
+# game/scripts/computer.rpy:265
+translate spanish entry_discussion_307e681a:
+
+    # Z "Yes... Right."
+    Z "Yes... Right."
+
+# game/scripts/computer.rpy:272
+translate spanish entry_discussion_727a4ab1:
+
+    # I "I still wonder if it was the right choice, sometimes."
+    I "I still wonder if it was the right choice, sometimes."
+
+# game/scripts/computer.rpy:273
+translate spanish entry_discussion_c71f2e24:
+
+    # Z "She didn't want to experience it again, whatever it was."
+    Z "She didn't want to experience it again, whatever it was."
+
+# game/scripts/computer.rpy:274
+translate spanish entry_discussion_00c87e0c:
+
+    # I "She never needed to live there. But maybe she wanted to prevent it, anyways."
+    I "She never needed to live there. But maybe she wanted to prevent it, anyways."
+
+# game/scripts/computer.rpy:275
+translate spanish entry_discussion_07ea9096:
+
+    # Z "Did you ever tell her that you still led Fangs to the bunker?"
+    Z "Did you ever tell her that you still led Fangs to the bunker?"
+
+# game/scripts/computer.rpy:276
+translate spanish entry_discussion_7975cfd0:
+
+    # I "Yes, I did."
+    I "Yes, I did."
+
+# game/scripts/computer.rpy:278
+translate spanish entry_discussion_6e622ef1:
+
+    # Z "That sounds just like Fangs. Trying to fight fire with fire."
+    Z "That sounds just like Fangs. Trying to fight fire with fire."
+
+# game/scripts/computer.rpy:279
+translate spanish entry_discussion_572a0245:
+
+    # I "For better or worse."
+    I "For better or worse."
+
+# game/scripts/computer.rpy:280
+translate spanish entry_discussion_7bc2fc08:
+
+    # Z "I had to tell her that her plans to confront Zeta are futile."
+    Z "I had to tell her that her plans to confront Zeta are futile."
+
+# game/scripts/computer.rpy:281
+translate spanish entry_discussion_3e44abcf:
+
+    # I "I know... I was listening."
+    I "I know... I was listening."
+
+# game/scripts/computer.rpy:283
+translate spanish entry_discussion_86b4b81c:
+
+    # I "...and I saw her first interrogation of you before, as well."
+    I "...and I saw her first interrogation of you before, as well."
+
+# game/scripts/computer.rpy:284
+translate spanish entry_discussion_883b1cfb:
+
+    # Z "You saw everything?"
+    Z "You saw everything?"
+
+# game/scripts/computer.rpy:285
+translate spanish entry_discussion_5018f220_3:
+
+    # I "..."
+    I "..."
+
+# game/scripts/computer.rpy:286
+translate spanish entry_discussion_eb217210:
+
+    # I "{i}*chuckles*{/i} Yes."
+    I "{i}*chuckles*{/i} Yes."
+
+# game/scripts/computer.rpy:288
+translate spanish entry_discussion_cb331ea2:
+
+    # I "Sonmi had the right concern after all."
+    I "Sonmi had the right concern after all."
+
+# game/scripts/computer.rpy:289
+translate spanish entry_discussion_6a4caeee:
+
+    # Z "Seems she did. It is what I told Fangs as well, before deciding to help her further."
+    Z "Seems she did. It is what I told Fangs as well, before deciding to help her further."
+
+# game/scripts/computer.rpy:290
+translate spanish entry_discussion_48334045:
+
+    # I "She needed that reminder."
+    I "She needed that reminder."
+
+# game/scripts/computer.rpy:292
+translate spanish entry_discussion_96ad9fb0:
+
+    # Z "Yuna? Is that your real name?"
+    Z "Yuna? Is that your real name?"
+
+# game/scripts/computer.rpy:293
+translate spanish entry_discussion_29278400:
+
+    # I "Yes... I guess. Before everything happened, back then."
+    I "Yes... I guess. Before everything happened, back then."
+
+# game/scripts/computer.rpy:296
+translate spanish entry_discussion_086ca688:
+
+    # Z "Your family called you like that. Were you raised with that name?"
+    Z "Your family called you like that. Were you raised with that name?"
+
+# game/scripts/computer.rpy:299
+translate spanish entry_discussion_46eb996b:
+
+    # I "That's... another story. But yes, everyone in the tower called me that. Sonmi does to this day."
+    I "That's... another story. But yes, everyone in the tower called me that. Sonmi does to this day."
+
+# game/scripts/computer.rpy:300
+translate spanish entry_discussion_affd3677:
+
+    # I "Fangs gave me another name, because of my eyes. And then everyone started calling me that, including you."
+    I "Fangs gave me another name, because of my eyes. And then everyone started calling me that, including you."
+
+# game/scripts/computer.rpy:306
+translate spanish entry_discussion_5cd46c24:
+
+    # Z "It's a very pretty name. Yuna."
+    Z "It's a very pretty name. Yuna."
+
+# game/scripts/computer.rpy:307
+translate spanish entry_discussion_7c613eb1:
+
+    # Z "I'm calling you by that name."
+    Z "I'm calling you by that name."
+
+# game/scripts/computer.rpy:310
+translate spanish entry_discussion_89adc747:
+
+    # I "Thank you... I like it too."
+    I "Thank you... I like it too."
+
+# game/scripts/computer.rpy:313
+translate spanish entry_discussion_cb0e4fda:
+
+    # Z "It's a nice name. But I prefer Ivy."
+    Z "It's a nice name. But I prefer Ivy."
+
+# game/scripts/computer.rpy:316
+translate spanish entry_discussion_8c77ff1b:
+
+    # I "It's 25%% shorter, I guess."
+    I "It's 25%% shorter, I guess."
+
+# game/scripts/computer.rpy:317
+translate spanish entry_discussion_defa3a9e:
+
+    # Z "You're not wrong there."
+    Z "You're not wrong there."
+
+# game/scripts/computer.rpy:321
+translate spanish entry_discussion_54375ea5:
+
+    # Z "So this... mistake of yours, getting captured. All that because you wanted to reconnect with her?"
+    Z "So this... mistake of yours, getting captured. All that because you wanted to reconnect with her?"
+
+# game/scripts/computer.rpy:324
+translate spanish entry_discussion_ccbdb4cb:
+
+    # I "I didn't want to lose her... these expeditions into the zones. I see it in her face. She is not well."
+    I "I didn't want to lose her... these expeditions into the zones. I see it in her face. She is not well."
+
+# game/scripts/computer.rpy:325
+translate spanish entry_discussion_a51e7363:
+
+    # I "I wanted to head back to the tower, knowing it was guarded. I never made that mistake before. I don't know what got into me."
+    I "I wanted to head back to the tower, knowing it was guarded. I never made that mistake before. I don't know what got into me."
+
+# game/scripts/computer.rpy:328
+translate spanish entry_discussion_3b18c43d:
+
+    # Z "You kept it together for decades, [I]. Don't forget that."
+    Z "You kept it together for decades, [I]. Don't forget that."
+
+# game/scripts/computer.rpy:330
+translate spanish entry_discussion_5018f220_4:
+
+    # I "..."
+    I "..."
+
+# game/scripts/computer.rpy:337
+translate spanish entry_discussion_ebc3c498:
+
+    # I "[persistent.player_name]?"
+    I "[persistent.player_name]?"
+
+# game/scripts/computer.rpy:338
+translate spanish entry_discussion_4b5a9d52:
+
+    # Z "Yes?"
+    Z "Yes?"
+
+# game/scripts/computer.rpy:339
+translate spanish entry_discussion_05c3b6f5:
+
+    # I "Why did you put me in a dungeon, back when you rescued me from those decayed?"
+    I "Why did you put me in a dungeon, back when you rescued me from those decayed?"
+
+# game/scripts/computer.rpy:344
+translate spanish entry_discussion_5e29c096:
+
+    # Z "I needed to make sure you wouldn't harm my family."
+    Z "I needed to make sure you wouldn't harm my family."
+
+# game/scripts/computer.rpy:345
+translate spanish entry_discussion_e12a648d:
+
+    # Z "I'm not saying it was needed, knowing you now. But still... the wasteland breeds all kinds of people."
+    Z "I'm not saying it was needed, knowing you now. But still... the wasteland breeds all kinds of people."
+
+# game/scripts/computer.rpy:348
+translate spanish entry_discussion_5387c74e:
+
+    # I "I see..."
+    I "I see..."
+
+# game/scripts/computer.rpy:356
+translate spanish entry_discussion_c1c72576:
+
+    # Z "I did not trust you at first. The wasteland is a rough place, and I did not want to take any risks."
+    Z "I did not trust you at first. The wasteland is a rough place, and I did not want to take any risks."
+
+# game/scripts/computer.rpy:357
+translate spanish entry_discussion_c76b0c4a:
+
+    # Z "So I put you in the safest place in our home, to keep you away from my family."
+    Z "So I put you in the safest place in our home, to keep you away from my family."
+
+# game/scripts/computer.rpy:358
+translate spanish entry_discussion_5018f220_5:
+
+    # I "..."
+    I "..."
+
+# game/scripts/computer.rpy:361
+translate spanish entry_discussion_770ea0b3:
+
+    # I "I hope I am more trustworthy, now."
+    I "I hope I am more trustworthy, now."
+
+# game/scripts/computer.rpy:364
+translate spanish entry_discussion_a435d052:
+
+    # Z "You are."
+    Z "You are."
+
+# game/scripts/computer.rpy:373
+translate spanish entry_discussion_31bd009e:
+
+    # Z "Truth be told, I had no real plan for you yet. I guess the traditional thing would have been to keep you as a slave."
+    Z "Truth be told, I had no real plan for you yet. I guess the traditional thing would have been to keep you as a slave."
+
+# game/scripts/computer.rpy:376
+translate spanish entry_discussion_a390ea10:
+
+    # I "You keep... slaves?"
+    I "You keep... slaves?"
+
+# game/scripts/computer.rpy:379
+translate spanish entry_discussion_14c6fab1:
+
+    # Z "It's not the worst of fates, with a thoughtful master..."
+    Z "It's not the worst of fates, with a thoughtful master..."
+
+# game/scripts/computer.rpy:380
+translate spanish entry_discussion_dad0555f:
+
+    # Z "Servants, slaves... the name is immaterial. In the end, plenty of people find comfort in a role of servitude."
+    Z "Servants, slaves... the name is immaterial. In the end, plenty of people find comfort in a role of servitude."
+
+# game/scripts/computer.rpy:381
+translate spanish entry_discussion_992fe641:
+
+    # Z "In the right situation, its an easier life than having to struggle for survival on their own, like you do."
+    Z "In the right situation, its an easier life than having to struggle for survival on their own, like you do."
+
+# game/scripts/computer.rpy:384
+translate spanish entry_discussion_b1123e3c:
+
+    # I "You would have kept me locked up because I am different?"
+    I "You would have kept me locked up because I am different?"
+
+# game/scripts/computer.rpy:387
+translate spanish entry_discussion_74eaf072:
+
+    # Z "That doesn't have anything to do with it."
+    Z "That doesn't have anything to do with it."
+
+# game/scripts/computer.rpy:388
+translate spanish entry_discussion_f0481607:
+
+    # Z "Your kind are often hunted on sight, and at best mistreated. You've seen it yourself. But I can't and won't justify my thoughts."
+    Z "Your kind are often hunted on sight, and at best mistreated. You've seen it yourself. But I can't and won't justify my thoughts."
+
+# game/scripts/computer.rpy:396
+translate spanish entry_discussion_097fad3f:
+
+    # I "I did not yet write down the results..."
+    I "I did not yet write down the results..."
+
+# game/scripts/computer.rpy:397
+translate spanish entry_discussion_dc5b5934:
+
+    # Z "But your gamble didn't fail."
+    Z "But your gamble didn't fail."
+
+# game/scripts/computer.rpy:398
+translate spanish entry_discussion_e2eefc62:
+
+    # I "I heard when you confronted her the second time. Thank you for opening her eyes about your city's strength."
+    I "I heard when you confronted her the second time. Thank you for opening her eyes about your city's strength."
+
+# game/scripts/computer.rpy:399
+translate spanish entry_discussion_542b706b:
+
+    # Z "You must hate Zetans as much as the decayed, because they both hunt your kind. And yet, you're not vengeful."
+    Z "You must hate Zetans as much as the decayed, because they both hunt your kind. And yet, you're not vengeful."
+
+# game/scripts/computer.rpy:400
+translate spanish entry_discussion_3fe7667d:
+
+    # I "I don't hate Zetans... for a long time, I always wanted to be part of what you have. Having a place you can call home... living in a culture, however good or bad some aspects of it are."
+    I "I don't hate Zetans... for a long time, I always wanted to be part of what you have. Having a place you can call home... living in a culture, however good or bad some aspects of it are."
+
+# game/scripts/computer.rpy:401
+translate spanish entry_discussion_d4dd034a:
+
+    # I "But the years passed, and I know I will never be a part of it. At least, as long as mutants don't have any influence in Zeta, or over it."
+    I "But the years passed, and I know I will never be a part of it. At least, as long as mutants don't have any influence in Zeta, or over it."
+
+# game/scripts/computer.rpy:402
+translate spanish entry_discussion_e81cb266:
+
+    # I "I know it can be hard to break out of some prejudices, and I don't blame all of the people living there. Only those who are cruel about it."
+    I "I know it can be hard to break out of some prejudices, and I don't blame all of the people living there. Only those who are cruel about it."
+
+translate spanish strings:
+
+    # game/scripts/computer.rpy:81
+    old "Read Entries"
+    new "Read Entries"
+
+    # game/scripts/computer.rpy:86
+    old "New Entry"
+    new "New Entry"
+
+    # game/scripts/computer.rpy:95
+    old "Access Denied"
+    new "Access Denied"
+
+    # game/scripts/computer.rpy:121
+    old "Shutdown"
+    new "Shutdown"
+
+    # game/scripts/computer.rpy:124
+    old "Go Back"
+    new "Go Back"
+
+    # game/scripts/computer.rpy:304
+    old "\"It's a very pretty name.\""
+    new "\"It's a very pretty name.\""
+
+    # game/scripts/computer.rpy:312
+    old "\"It's a nice name, but I prefer Ivy.\""
+    new "\"It's a nice name, but I prefer Ivy.\""
+
+    # game/scripts/computer.rpy:343
+    old "\"I needed to make sure you wouldn't harm my family.\""
+    new "\"I needed to make sure you wouldn't harm my family.\""
+
+    # game/scripts/computer.rpy:355
+    old "\"I did not trust you at first.\""
+    new "\"I did not trust you at first.\""
+
+    # game/scripts/computer.rpy:371
+    old "\"I didn't have a real plan. Keeping you as a slave was an option.\""
+    new "\"I didn't have a real plan. Keeping you as a slave was an option.\""
+
+    # game/scripts/computer.rpy:406
+    old "New device"
+    new "New device"
+
+    # game/scripts/computer.rpy:406
+    old "This device was given to me by Aloi earlier today. He explained the gist of how to use it and what it can do and, well.. I had no idea this was possible. It's battery powered, and can store as much text as I could possibly think of and more. No more scribbling my thoughts and notes on salvaged pieces of paper and parchment! Performing my duties of recording the events that occur to us will be so much easier. I asked if I could also put my private thoughts and diary on the device and Aloi said he had no issues with that. I should try to learn more about it and find out if it has other functions and abilities.\n\nLife in the tower could not be better than it is now. We have managed to cultivate and grow a few more seeds into vegetables we didn't have available until now.\nSonmi however is restless. She wants to leave this place when we have completed our work here. I don't really see this having an end at all, let alone anytime soon. Even so, I indulge her in her desire for privacy as we climb the tall ruins, in search for a quiet corner to ourselves.\nI don't know what she enjoys so much about sitting up high and looking down at the city. It's a place of ruin and carnage, but from up there she seems unbothered by it. Me, I can't forget. Even from above, my mind's eye goes to the grime, the details of abject ruin and devastation.\nShe thinks one day we will rebuild all this and find places where the mist doesn't reach.\n\nIt falls to me to remind her of the other dangers.\nAloi warns everybody whenever he can about the attacks, the enemies that surround us... but she doesn't listen to him.\nAs the desert settlement grows into something more, so does the threat to our kind, and she would like to ignore that too.\nThe desert folks are rash and brutal, and more than a little violent when they meet one of us.\nThere's other problems too; people who don't seem to fit in with the desert people, and who instead choose to explore the city. Multiple times now, we've seen them go in the dead zone, the forbidden part of old Cairo.\nWe know it's a deadly place, yet they enter it almost naked, unprotected and without a mask. Sonmi would have loved to speak to them, to ask their motives, to understand why they brave the devastation the dead place brings to their bodies.\nI have had to keep her from approaching them. We cannot trust them. Too many of us have been attacked already.\n\nI know that I should be ready to protect her, but sometimes I wish I did not have to do that from herself."
+    new "This device was given to me by Aloi earlier today. He explained the gist of how to use it and what it can do and, well.. I had no idea this was possible. It's battery powered, and can store as much text as I could possibly think of and more. No more scribbling my thoughts and notes on salvaged pieces of paper and parchment! Performing my duties of recording the events that occur to us will be so much easier. I asked if I could also put my private thoughts and diary on the device and Aloi said he had no issues with that. I should try to learn more about it and find out if it has other functions and abilities.\n\nLife in the tower could not be better than it is now. We have managed to cultivate and grow a few more seeds into vegetables we didn't have available until now.\nSonmi however is restless. She wants to leave this place when we have completed our work here. I don't really see this having an end at all, let alone anytime soon. Even so, I indulge her in her desire for privacy as we climb the tall ruins, in search for a quiet corner to ourselves.\nI don't know what she enjoys so much about sitting up high and looking down at the city. It's a place of ruin and carnage, but from up there she seems unbothered by it. Me, I can't forget. Even from above, my mind's eye goes to the grime, the details of abject ruin and devastation.\nShe thinks one day we will rebuild all this and find places where the mist doesn't reach.\n\nIt falls to me to remind her of the other dangers.\nAloi warns everybody whenever he can about the attacks, the enemies that surround us... but she doesn't listen to him.\nAs the desert settlement grows into something more, so does the threat to our kind, and she would like to ignore that too.\nThe desert folks are rash and brutal, and more than a little violent when they meet one of us.\nThere's other problems too; people who don't seem to fit in with the desert people, and who instead choose to explore the city. Multiple times now, we've seen them go in the dead zone, the forbidden part of old Cairo.\nWe know it's a deadly place, yet they enter it almost naked, unprotected and without a mask. Sonmi would have loved to speak to them, to ask their motives, to understand why they brave the devastation the dead place brings to their bodies.\nI have had to keep her from approaching them. We cannot trust them. Too many of us have been attacked already.\n\nI know that I should be ready to protect her, but sometimes I wish I did not have to do that from herself."
+
+    # game/scripts/computer.rpy:406
+    old "High-rise"
+    new "High-rise"
+
+    # game/scripts/computer.rpy:406
+    old "Mercy"
+    new "Mercy"
+
+    # game/scripts/computer.rpy:406
+    old "A small mercy, finally...\nSonmi has not spoken a word since it happened. I haven't either, come to think of it.\nI think we, each in our own way, have found some measure of comfort in the silence.\nBut we're here finally. We found the bunker in the desert. The instructions on how to open the entrance to this place, and how to find it at all, were a bit unclear but in the end we managed.\nThe Tower to access it is similar to our previous refuge, but the... I think the word this device uses is bunker... the bunker seems to be better protected, more inaccessible.\nWill we find a new way, now that it's only the two of us?\nI have so many doubts, so many things to fear, now that we're alone.\nFor a little while, however, we can rest, protected."
+    new "A small mercy, finally...\nSonmi has not spoken a word since it happened. I haven't either, come to think of it.\nI think we, each in our own way, have found some measure of comfort in the silence.\nBut we're here finally. We found the bunker in the desert. The instructions on how to open the entrance to this place, and how to find it at all, were a bit unclear but in the end we managed.\nThe Tower to access it is similar to our previous refuge, but the... I think the word this device uses is bunker... the bunker seems to be better protected, more inaccessible.\nWill we find a new way, now that it's only the two of us?\nI have so many doubts, so many things to fear, now that we're alone.\nFor a little while, however, we can rest, protected."
+
+    # game/scripts/computer.rpy:406
+    old "What I saw"
+    new "What I saw"
+
+    # game/scripts/computer.rpy:406
+    old "Routine"
+    new "Routine"
+
+    # game/scripts/computer.rpy:406
+    old "We have spent weeks here now. In a way it feels like home, and there are enough supplies stored here since, I am still not sure when, really. On the other hand, it's too similar a place to our last home. Every wall and every device bring back bad memories...\nI have managed to hunt a little. There are still a few wild animals roaming even this wasteland of a desert... but I can't risk exposing myself.\nYesterday Sonmi spoke for the first time since...\nShe thanked me for saving her. We hugged for a long time and cried. Then we talked deep into the night, both our voices cracking with the drought of months of being unused and staying quiet.\nAfter a while, it felt odd to me, so I mostly listened as Sonmi continued to talk. We remembered the others. Then we talked about this place, made at least an inkling of a plan on what to do next.\nSonmi seems to be wanting to research something. She has found a few more of these devices, just like the one I am using right now... they store fractured and piecemeal information, and she is trying to make some sense of it; see if there is anything worth salvaging or learning.\n"
+    new "We have spent weeks here now. In a way it feels like home, and there are enough supplies stored here since, I am still not sure when, really. On the other hand, it's too similar a place to our last home. Every wall and every device bring back bad memories...\nI have managed to hunt a little. There are still a few wild animals roaming even this wasteland of a desert... but I can't risk exposing myself.\nYesterday Sonmi spoke for the first time since...\nShe thanked me for saving her. We hugged for a long time and cried. Then we talked deep into the night, both our voices cracking with the drought of months of being unused and staying quiet.\nAfter a while, it felt odd to me, so I mostly listened as Sonmi continued to talk. We remembered the others. Then we talked about this place, made at least an inkling of a plan on what to do next.\nSonmi seems to be wanting to research something. She has found a few more of these devices, just like the one I am using right now... they store fractured and piecemeal information, and she is trying to make some sense of it; see if there is anything worth salvaging or learning.\n"
+
+    # game/scripts/computer.rpy:406
+    old "New beginning"
+    new "New beginning"
+
+    # game/scripts/computer.rpy:406
+    old "As I read my previous entries in the device, I realise much has happened over the last months.\nWe are still sporadically using the bunker, but we have moved away.\nRight now I am writing under an altogether tepid sun, something I would not have thought existed, yet here we are.\nWe found a settlement hidden away at the base of the mountains, in a small valley leading to this underground place. It's cool enough, the ruins are dilapidated but not to the point where we couldn't patch together a good shelter.. and, more importantly, we have found water! Clean water, from underground!\nThe skyline seems to somehow always offer a bit of light here, and the air is sufficiently clean, even though we are still within walking distance of the settlements.\nI have much more to write, but the battery is running low, so I must cut this short.\nI should remember to talk about the new seeds Sonmi is trying to grow here.\nMaybe a run to the bunker is necessary, shortly... if nothing else, to recharge this device.\nI wish the others were still with us, to share both the load and the joy of a new beginning.\n"
+    new "As I read my previous entries in the device, I realise much has happened over the last months.\nWe are still sporadically using the bunker, but we have moved away.\nRight now I am writing under an altogether tepid sun, something I would not have thought existed, yet here we are.\nWe found a settlement hidden away at the base of the mountains, in a small valley leading to this underground place. It's cool enough, the ruins are dilapidated but not to the point where we couldn't patch together a good shelter.. and, more importantly, we have found water! Clean water, from underground!\nThe skyline seems to somehow always offer a bit of light here, and the air is sufficiently clean, even though we are still within walking distance of the settlements.\nI have much more to write, but the battery is running low, so I must cut this short.\nI should remember to talk about the new seeds Sonmi is trying to grow here.\nMaybe a run to the bunker is necessary, shortly... if nothing else, to recharge this device.\nI wish the others were still with us, to share both the load and the joy of a new beginning.\n"
+
+    # game/scripts/computer.rpy:406
+    old "Images"
+    new "Images"
+
+    # game/scripts/computer.rpy:406
+    old "It's been months since my last entry. I wish I was still in that frame of mind, still that positive.\nTruth is that the anguish, the struggle for survival is taking its toll. Sonmi is as closed off to me as she's ever been, but I have not been doing much better myself. Each of us died a little that night. I sometimes hear her cry in her sleep and nothing calms her down. I have lost count of the nights I myself have spent lying sleepless.\nThe images of... we have changed. We are damaged, but not yet broken.\nAs long as I have life in me, I will not allow either of us to give up. I promise!\nWe have, or scavenge or hunt what we can to survive, but the spirit of renewal, of rebuilding has all but died...\nI should do away with this stupid machine. What good is it, when there's nothing really worth recording anyway?\n"
+    new "It's been months since my last entry. I wish I was still in that frame of mind, still that positive.\nTruth is that the anguish, the struggle for survival is taking its toll. Sonmi is as closed off to me as she's ever been, but I have not been doing much better myself. Each of us died a little that night. I sometimes hear her cry in her sleep and nothing calms her down. I have lost count of the nights I myself have spent lying sleepless.\nThe images of... we have changed. We are damaged, but not yet broken.\nAs long as I have life in me, I will not allow either of us to give up. I promise!\nWe have, or scavenge or hunt what we can to survive, but the spirit of renewal, of rebuilding has all but died...\nI should do away with this stupid machine. What good is it, when there's nothing really worth recording anyway?\n"
+
+    # game/scripts/computer.rpy:406
+    old "{b}Fangs{/b}"
+    new "{b}Fangs{/b}"
+
+    # game/scripts/computer.rpy:406
+    old "It has been a long time since I last wrote. The bad memories this thing holds have kept me away from it for years, decades.\nIsolation is our salvation, but also our trap. Sometimes months go by without either of us uttering a word.\nWe communicate by touch, by looks, nods. What is there to talk about anyway?\nSometimes Sonmi will do something, I guess childish is a better word than stupid. It's like she's intentionally putting herself in danger. Like she wants this to be over.\nMeanwhile, I occasionally exit our little bubble of two, to find supplies, forage, explore our perimeter.\nBefore either of us really took notice, the city that I was so afraid of years ago has grown into something bigger, more organized. They call the city Zeta, their inhabitants are Zetans. They grew an army, a small city state, if you will.\nIn a way they are doing what we were supposed to do, what we were trying to do, before the others...died. I had to stop for a minute there, but I have decided it's no use hiding behind the words. They are dead. Have been for decades now.\nWhat we could have done is no more.\n\nEven now, the city of Cairo, and even the dead place at its heart, see new people coming and going. What was once the place where we hoped to rebuild, where our family..., is now nothing but an outpost of the \"decayed\". Decayed... that's what these people we saw back in the day are now called. If anything, those who walk around there now are even worse. More organised, more brutal, more violent and sadistic.. uncaring of anything but sating their occasional hunger. If they were ever human, they have mostly forgotten that. They are damaged in the flesh and in the spirit.\nTo them, other people are just food, and if they have the numbers, they will attack on sight. I almost fell prey to them a few times. I have had to learn to run fast, to hide, to fight smart.\n\nAloi used to say that time is the speed at which the past disappears, but... is it true?\nI sometimes wish it would truly disappear, but it never does. Not really.\nWe are still only surviving. We are still facing the same dangers as decades ago. We still have the occasional sleepless night in which no comfort seems to exist, not even with one another.\n\nI had pretty much put this device to rest forever, but something has happened over the last weeks.\nI have discovered more of our kind. The Zetans have coined a name for us: mutants. Sonmi says it's really an old name, and that it's accurate.\n\nAnyway, it seems that some of our kind have managed to band together, under the leadership of one of their own number; a blonde woman. I don't know her name, if she ever had one beyond what they call her: Fangs. I guess it's appropriate and that it speaks to her nature, and not just her body.\nThese \"new\" mutants truly are like children, next to Sonmi and me... their blood has coursed through the generations, manifesting as a curse every so many births. I am not sure any of them might be able to have children on their own. Fangs told me that most of them have \"normal\" mothers, or have no memories of their mothers at all, born into slavery or culled at the earliest sign of mutation.\n\nI don't speak to them. It feels...wrong. They ask questions to which I don't hold the answers, or the answers to which are too painful to speak for me, or too painful for them to be confronted with. I brought them food, so they tolerate me and accept that I will not get close to them.\n\nI do not want any of them to be the next Lunai. I could not bear it, nor could Sonmi.\nShe wants even less to do with them than I do, but I can't help being at least a little curious.\nIf possible, I would see them somewhere safe, protected.\nI have been meaning to ask Sonmi if we could give them access to the bunker. She, predictably, is against it.\n"
+    new "It has been a long time since I last wrote. The bad memories this thing holds have kept me away from it for years, decades.\nIsolation is our salvation, but also our trap. Sometimes months go by without either of us uttering a word.\nWe communicate by touch, by looks, nods. What is there to talk about anyway?\nSometimes Sonmi will do something, I guess childish is a better word than stupid. It's like she's intentionally putting herself in danger. Like she wants this to be over.\nMeanwhile, I occasionally exit our little bubble of two, to find supplies, forage, explore our perimeter.\nBefore either of us really took notice, the city that I was so afraid of years ago has grown into something bigger, more organized. They call the city Zeta, their inhabitants are Zetans. They grew an army, a small city state, if you will.\nIn a way they are doing what we were supposed to do, what we were trying to do, before the others...died. I had to stop for a minute there, but I have decided it's no use hiding behind the words. They are dead. Have been for decades now.\nWhat we could have done is no more.\n\nEven now, the city of Cairo, and even the dead place at its heart, see new people coming and going. What was once the place where we hoped to rebuild, where our family..., is now nothing but an outpost of the \"decayed\". Decayed... that's what these people we saw back in the day are now called. If anything, those who walk around there now are even worse. More organised, more brutal, more violent and sadistic.. uncaring of anything but sating their occasional hunger. If they were ever human, they have mostly forgotten that. They are damaged in the flesh and in the spirit.\nTo them, other people are just food, and if they have the numbers, they will attack on sight. I almost fell prey to them a few times. I have had to learn to run fast, to hide, to fight smart.\n\nAloi used to say that time is the speed at which the past disappears, but... is it true?\nI sometimes wish it would truly disappear, but it never does. Not really.\nWe are still only surviving. We are still facing the same dangers as decades ago. We still have the occasional sleepless night in which no comfort seems to exist, not even with one another.\n\nI had pretty much put this device to rest forever, but something has happened over the last weeks.\nI have discovered more of our kind. The Zetans have coined a name for us: mutants. Sonmi says it's really an old name, and that it's accurate.\n\nAnyway, it seems that some of our kind have managed to band together, under the leadership of one of their own number; a blonde woman. I don't know her name, if she ever had one beyond what they call her: Fangs. I guess it's appropriate and that it speaks to her nature, and not just her body.\nThese \"new\" mutants truly are like children, next to Sonmi and me... their blood has coursed through the generations, manifesting as a curse every so many births. I am not sure any of them might be able to have children on their own. Fangs told me that most of them have \"normal\" mothers, or have no memories of their mothers at all, born into slavery or culled at the earliest sign of mutation.\n\nI don't speak to them. It feels...wrong. They ask questions to which I don't hold the answers, or the answers to which are too painful to speak for me, or too painful for them to be confronted with. I brought them food, so they tolerate me and accept that I will not get close to them.\n\nI do not want any of them to be the next Lunai. I could not bear it, nor could Sonmi.\nShe wants even less to do with them than I do, but I can't help being at least a little curious.\nIf possible, I would see them somewhere safe, protected.\nI have been meaning to ask Sonmi if we could give them access to the bunker. She, predictably, is against it.\n"
+
+    # game/scripts/computer.rpy:406
+    old "Isolation"
+    new "Isolation"
+
+    # game/scripts/computer.rpy:406
+    old "My last entry was from months ago and Sonmi has still not changed her mind.\nThe new group of our kin are suffering. They have no safe place, no real refuge other than trying to stay out of sight. A few of them have been lost to the Decayed, a few have been captured and brought to Zeta.\nI can see the fury in Fangs. She seems a willing leader, but she's out of her depth.\nMore and more I find myself bringing food to them and taking risks to procure it.\nOn the other hand, Sonmi has taken to traveling towards Zones, as they are called in Zeta. Those places are... troubling.\nShe however tells me she sees things in them that give her purpose.\nI am afraid that the years are starting to take a toll on our relationship. We have grown apart, isolating somewhat from one another.\nI am running ragged, trying to both be there for her and keep her safe, and trying to lend a hand to the new mutants.\nIf Sonmi really doesn't relent, I fear I will have to go behind her back and just let Fangs and her little group find shelter in the Bunker, whether Sonmi likes it or not.\n"
+    new "My last entry was from months ago and Sonmi has still not changed her mind.\nThe new group of our kin are suffering. They have no safe place, no real refuge other than trying to stay out of sight. A few of them have been lost to the Decayed, a few have been captured and brought to Zeta.\nI can see the fury in Fangs. She seems a willing leader, but she's out of her depth.\nMore and more I find myself bringing food to them and taking risks to procure it.\nOn the other hand, Sonmi has taken to traveling towards Zones, as they are called in Zeta. Those places are... troubling.\nShe however tells me she sees things in them that give her purpose.\nI am afraid that the years are starting to take a toll on our relationship. We have grown apart, isolating somewhat from one another.\nI am running ragged, trying to both be there for her and keep her safe, and trying to lend a hand to the new mutants.\nIf Sonmi really doesn't relent, I fear I will have to go behind her back and just let Fangs and her little group find shelter in the Bunker, whether Sonmi likes it or not.\n"
+
+    # game/scripts/computer.rpy:406
+    old "Young ones"
+    new "Young ones"
+
+    # game/scripts/computer.rpy:406
+    old "There seems to be fight in the hearts of these young ones. Since I led them to the bunker, they have tried to organise themselves, and are starting to making it into their home. They are taking calculated risks, so far, but are showing courage and initiative to levels that we lacked back in our days at the old base. Had we had a few of these kin with us, maybe we would not have been overrun and we would still be in Cairo. I guess that these new ones have the advantage of experience on their side.\nFor all his years, for all our collective resilience, Aloi nor any of us had any real experience or sense of the danger that was expecting us. The Decayed were a relatively new thing. Them and the short lived humans were few enough to not pose a threat..until they weren't.\nFangs and her people...they were born in this and to this. Some have trained in the ways of fighting, some just learned by living in Zeta, most have at least a passing understanding of the rules that govern the world today.\nSonmi and me? We had to learn things bit by bit, blow by blow, spying from afar, or trying to come up with ways around problems all on our own. As smart as Sonmi can be, a whole city will always find solutions faster than any of us can individually. Fangs seems to understand this.\nEven through my reservation, she seems to sense my...thoughts, about what she's trying to accomplish..\nI guess she's too grateful for having a home, to really try and confront me about it.\n"
+    new "There seems to be fight in the hearts of these young ones. Since I led them to the bunker, they have tried to organise themselves, and are starting to making it into their home. They are taking calculated risks, so far, but are showing courage and initiative to levels that we lacked back in our days at the old base. Had we had a few of these kin with us, maybe we would not have been overrun and we would still be in Cairo. I guess that these new ones have the advantage of experience on their side.\nFor all his years, for all our collective resilience, Aloi nor any of us had any real experience or sense of the danger that was expecting us. The Decayed were a relatively new thing. Them and the short lived humans were few enough to not pose a threat..until they weren't.\nFangs and her people...they were born in this and to this. Some have trained in the ways of fighting, some just learned by living in Zeta, most have at least a passing understanding of the rules that govern the world today.\nSonmi and me? We had to learn things bit by bit, blow by blow, spying from afar, or trying to come up with ways around problems all on our own. As smart as Sonmi can be, a whole city will always find solutions faster than any of us can individually. Fangs seems to understand this.\nEven through my reservation, she seems to sense my...thoughts, about what she's trying to accomplish..\nI guess she's too grateful for having a home, to really try and confront me about it.\n"
+
+    # game/scripts/computer.rpy:406
+    old "Radicalized"
+    new "Radicalized"
+
+    # game/scripts/computer.rpy:406
+    old "Fangs becomes more and more radical as time passes. My intention was not to set up a small army, but now she openly talks about killing people to gain territory? I am concerned about this.\nThey have been in the Bunker for a while now, running drills and conducting small raids, stealing from the occasional settlement or caravan. I think that so far they have been able to pass for Raiders, and people have not caught on, but that could change at any time.\nAll I can see is history repeating itself. They have been almost completely isolated for a while now, very few of the group actually leaving the Bunker. I feel they might be losing touch with what the world, what Zetans are really like.\nFangs is building them up into a frenzy, but she's losing sense of what she's up against.\n\nI should find a way to open her eyes.\n\nI wish Sonmi would agree to...to do something... anything!\nMaybe she could help them see.\n"
+    new "Fangs becomes more and more radical as time passes. My intention was not to set up a small army, but now she openly talks about killing people to gain territory? I am concerned about this.\nThey have been in the Bunker for a while now, running drills and conducting small raids, stealing from the occasional settlement or caravan. I think that so far they have been able to pass for Raiders, and people have not caught on, but that could change at any time.\nAll I can see is history repeating itself. They have been almost completely isolated for a while now, very few of the group actually leaving the Bunker. I feel they might be losing touch with what the world, what Zetans are really like.\nFangs is building them up into a frenzy, but she's losing sense of what she's up against.\n\nI should find a way to open her eyes.\n\nI wish Sonmi would agree to...to do something... anything!\nMaybe she could help them see.\n"
+
+    # game/scripts/computer.rpy:406
+    old "Close to death"
+    new "Close to death"
+
+    # game/scripts/computer.rpy:406
+    old "That was close. I have not been that close to death in forever.\nI made a mistake.\nI went to try and access our old home. I wanted to find a way to shake Sonmi, get something of a reaction out of her after all these years. I figured I would go find some of her old belongings, and bring them to her.\nMaybe that would have shaken something loose.\n\nI was desperately tired, but even so, letting them catch me in my sleep was stupid. Stupid Yuna!\nOnce they had me in irons, I was paralised by fear. All I could think of was the night we lost our family, even though it was so long ago.\n\nEven as I write this, I can't stop shaking, the tears won't stop falling.\nThe only reason I got away was that I found an opening.\nAn opening I would not have found if not for him...\nThey called him a Stalker. Sonmi might have mentioned something similar to me... I should ask her about it.\nHe brought me to his house and put me in a dungeon. I don't even know why he did that, really. To capture me, or to protect his family?\nEither way, I got a lucky break and the opening materialised in front of me, in the form of a key.\nHis [persistent.da] left it nearby enough for me to reach it and free myself.\n\nOnce free, I was still mostly naked, but didn't dare risk waking anybody up in the house, so I ran away. I ended up getting right at the doors of Zeta, where I'd been only a handful of times before, at night, much like this time.\nI managed to steal something to eat and to find my way to the Palace. Now that I was in Zeta I wanted to make the most of it. Over the years there have been indications that the queens of that place were hoarding items of technological and historical value. I did find the access to the very rooms in which those items were stored.\nThere was very little on display, and much that was stored away in ways that I could not explore without causing a scene, so I grabbed what I could. I got lucky in that amongst other things I found these clothes and this body armour that I am wearing.\nI can't tell if they are just very stretchy or if they were just ideally cut to my size, but I am not complaining.\nGoing from being near death to safe and sound at home was enough emotion for one night.\nI climbed up on the roof of one of the taller buildings and fell asleep again. No Decayed this time.\nBy the time I woke up, guards were patrolling all over the place. I guess my nightly visit didn't go unnoticed after all.\n\nBefore I managed to crawl away, out of the city, I happened upon the same man who, sort of, saved me that night.\nAside from the role he played delivering me from the Decayed, he strikes me as a complex individual, but not an uncaring one, despite being a Zetan. Maybe because he's a Stalker, or maybe it's just him... but he might be what I need, so I left him a message.\n"
+    new "That was close. I have not been that close to death in forever.\nI made a mistake.\nI went to try and access our old home. I wanted to find a way to shake Sonmi, get something of a reaction out of her after all these years. I figured I would go find some of her old belongings, and bring them to her.\nMaybe that would have shaken something loose.\n\nI was desperately tired, but even so, letting them catch me in my sleep was stupid. Stupid Yuna!\nOnce they had me in irons, I was paralised by fear. All I could think of was the night we lost our family, even though it was so long ago.\n\nEven as I write this, I can't stop shaking, the tears won't stop falling.\nThe only reason I got away was that I found an opening.\nAn opening I would not have found if not for him...\nThey called him a Stalker. Sonmi might have mentioned something similar to me... I should ask her about it.\nHe brought me to his house and put me in a dungeon. I don't even know why he did that, really. To capture me, or to protect his family?\nEither way, I got a lucky break and the opening materialised in front of me, in the form of a key.\nHis [persistent.da] left it nearby enough for me to reach it and free myself.\n\nOnce free, I was still mostly naked, but didn't dare risk waking anybody up in the house, so I ran away. I ended up getting right at the doors of Zeta, where I'd been only a handful of times before, at night, much like this time.\nI managed to steal something to eat and to find my way to the Palace. Now that I was in Zeta I wanted to make the most of it. Over the years there have been indications that the queens of that place were hoarding items of technological and historical value. I did find the access to the very rooms in which those items were stored.\nThere was very little on display, and much that was stored away in ways that I could not explore without causing a scene, so I grabbed what I could. I got lucky in that amongst other things I found these clothes and this body armour that I am wearing.\nI can't tell if they are just very stretchy or if they were just ideally cut to my size, but I am not complaining.\nGoing from being near death to safe and sound at home was enough emotion for one night.\nI climbed up on the roof of one of the taller buildings and fell asleep again. No Decayed this time.\nBy the time I woke up, guards were patrolling all over the place. I guess my nightly visit didn't go unnoticed after all.\n\nBefore I managed to crawl away, out of the city, I happened upon the same man who, sort of, saved me that night.\nAside from the role he played delivering me from the Decayed, he strikes me as a complex individual, but not an uncaring one, despite being a Zetan. Maybe because he's a Stalker, or maybe it's just him... but he might be what I need, so I left him a message.\n"
+
+    # game/scripts/computer.rpy:406
+    old "A gamble"
+    new "A gamble"
+
+    # game/scripts/computer.rpy:406
+    old "\nI have, once again, followed my gut instinct and I have led him to the Bunker. It's a huge gamble, but one that seems to be paying off. I think he might just be able to talk some sense into Fangs.\n\n\n"
+    new "\nI have, once again, followed my gut instinct and I have led him to the Bunker. It's a huge gamble, but one that seems to be paying off. I think he might just be able to talk some sense into Fangs.\n\n\n"
+
+    # game/scripts/computer.rpy:556
+    old "=== High-rise ==="
+    new "=== High-rise ==="
+
+    # game/scripts/computer.rpy:557
+    old "Sonmi and I were back on the old high-rise again, today. Yes, it was yet another place Sonmi was forbidden to go. But this became our place, and Sonmi was always happiest when she was up there.\nPerhaps it was because she can overlook the city from there? Or because it gave her the opportunity to take off her gas mask? Maybe both...\nShe had been even more upbeat than usual lately... which meant I had to watch over her even more closely."
+    new "Sonmi and I were back on the old high-rise again, today. Yes, it was yet another place Sonmi was forbidden to go. But this became our place, and Sonmi was always happiest when she was up there.\nPerhaps it was because she can overlook the city from there? Or because it gave her the opportunity to take off her gas mask? Maybe both...\nShe had been even more upbeat than usual lately... which meant I had to watch over her even more closely."
+
+    # game/scripts/computer.rpy:590
+    old "ARCHIVE TERMINAL\nID: DX-4A98 // FIELD UNIT // STORAGE CLASS: DEGRADED"
+    new "ARCHIVE TERMINAL\nID: DX-4A98 // FIELD UNIT // STORAGE CLASS: DEGRADED"
+
+    # game/scripts/computer.rpy:640
+    old "\n#\\> Message ready to load...\n#\\> Screen detachable...\n"
+    new "\n#\\> Message ready to load...\n#\\> Screen detachable...\n"
+
+    # game/scripts/computer.rpy:644
+    old "> Tap here to open"
+    new "> Tap here to open"
+
+    # game/scripts/computer.rpy:659
+    old "Mankind's advancements"
+    new "Mankind's advancements"
+
+    # game/scripts/computer.rpy:659
+    old "It seems that after more than three hundred thousand years of evolution, they have finally reached their full potential.\nFirst, they built immunity against disease.\nRid themselves of genetic defects, UV-sensitivities, and a host of other similar anomalies.\n\nThey re-engineered the human genome, curating and designing their offspring from the very first instances of life.\nThen they created us; a perfected version of humankind. They looked at their gods and fictional paragons and created us in their image. \nTo become them.\n\nAnd because their thirst was not sated, they chose to invent the ultimate weapon to reach that goal. And now, true eternity is reached, and gods we became.\nUltimately, they condemned us and themselves to the underworld, to become Hades, never to see the light of day.\n\nWelcome to the afterlife."
+    new "It seems that after more than three hundred thousand years of evolution, they have finally reached their full potential.\nFirst, they built immunity against disease.\nRid themselves of genetic defects, UV-sensitivities, and a host of other similar anomalies.\n\nThey re-engineered the human genome, curating and designing their offspring from the very first instances of life.\nThen they created us; a perfected version of humankind. They looked at their gods and fictional paragons and created us in their image. \nTo become them.\n\nAnd because their thirst was not sated, they chose to invent the ultimate weapon to reach that goal. And now, true eternity is reached, and gods we became.\nUltimately, they condemned us and themselves to the underworld, to become Hades, never to see the light of day.\n\nWelcome to the afterlife."
+
+    # game/scripts/computer.rpy:659
+    old "Weekly routine"
+    new "Weekly routine"
+
+    # game/scripts/computer.rpy:659
+    old "We have fixed the greenhouse and the lamps for it. It took some work, but we repurposed a few glass panels from an old office. \nI expect that we will soon be able to cultivate a few vegetables again, and add them to our diet of tins and pastes.\n\nSweet Lunai has been doing the dishes for a week now, and I should really help her, but she doesn't seem to mind.\nThen again, she doesn't like doing the floors, and I don't mind too much, so maybe this arrangement works for both.\n\nI caught her singing last night. It was a simple song, but she really seems to have a talent for it, and even draws happiness from it.\nAs I continue cataloguing the books and records, I could maybe look out for anything about singing, or any music records. \nIt's odd that we haven't found any. People used to like music.\n\nI want to ask Aloi if maybe I can join the next exploration."
+    new "We have fixed the greenhouse and the lamps for it. It took some work, but we repurposed a few glass panels from an old office. \nI expect that we will soon be able to cultivate a few vegetables again, and add them to our diet of tins and pastes.\n\nSweet Lunai has been doing the dishes for a week now, and I should really help her, but she doesn't seem to mind.\nThen again, she doesn't like doing the floors, and I don't mind too much, so maybe this arrangement works for both.\n\nI caught her singing last night. It was a simple song, but she really seems to have a talent for it, and even draws happiness from it.\nAs I continue cataloguing the books and records, I could maybe look out for anything about singing, or any music records. \nIt's odd that we haven't found any. People used to like music.\n\nI want to ask Aloi if maybe I can join the next exploration."
+
+    # game/scripts/computer.rpy:659
+    old "{b}My message to Sonmi{/b}"
+    new "{b}My message to Sonmi{/b}"
+
+    # game/scripts/computer.rpy:659
+    old "I trust you to show this to her, when the time is right.\nYou have been her best friend, from the moment you joined our little community, and have seen her grow up.\nYou know what is best for her, when to show her this, if I cannot. \n\nI have a similar recording saved for Lunai."
+    new "I trust you to show this to her, when the time is right.\nYou have been her best friend, from the moment you joined our little community, and have seen her grow up.\nYou know what is best for her, when to show her this, if I cannot. \n\nI have a similar recording saved for Lunai."
+

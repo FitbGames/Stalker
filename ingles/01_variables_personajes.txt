@@ -1,0 +1,1225 @@
+init -1 python:
+    renpy.music.register_channel('music_1', mixer='music', loop = False)
+    renpy.music.register_channel('music_2', mixer='music', loop = False)
+    renpy.music.register_channel('music_3', mixer='music', loop = False)
+    renpy.music.register_channel('sfx_1', mixer='sfx', loop = False)
+    renpy.music.register_channel('sfx_2', mixer='sfx', loop = False)
+    renpy.music.register_channel('sfx_3', mixer='sfx', loop = False)
+
+    ### Keybinding registration
+    config.underlay.append(renpy.Keymap(show_ql = ToggleScreen('toggle_ql')))
+    config.keymap['show_ql'] = ['q']
+    config.underlay.append(renpy.Keymap(toggle_navhelp = ToggleScreen('nav_help')))
+    config.keymap['toggle_navhelp'] = ['m']
+    config.underlay.append(renpy.Keymap(toggle_event_list = ToggleScreen('event_list')))
+    config.keymap['toggle_event_list'] = ['e']
+
+##### STEAM APP ID #####
+define config.steam_appid = 2899050
+
+##### GAME CONFIGURATION #####
+define config.developer = False
+define config.save_token_keys = ['MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEfGAaSZN5JRA/B/CCYEiPPeHrV8/TiPOef/EhKV0PWw38uK8YghUfwQCsUYkTTK4gDquzFwiupVFO/sZ/9yGjPw==']
+define config.console = True
+define config.say_allow_dismiss = None
+define config.language = None
+define config.allow_underfull_grids = True
+define config.debug_text_overflow = False
+define config.check_conflicting_properties = True
+# define config.load_failed_label = "daily_home"
+define config.label_callbacks = [track_labels, register_label_day]
+default persistent.quick_menu = True
+default persistent.textbox_opacity = 1.0
+default persistent.first_person = False
+
+##### CONTENT OPTIONS #####
+default persistent.sharing = None
+default persistent.gore = None
+default persistent.forceplay = None
+
+##### NAME DEFAULTS #####
+default persistent.player_name = "Zaton"
+default persistent.W_name = "Zahra"
+default persistent.S_name = "Shani"
+default persistent.A_name = "Ain"
+default ivy_name = "Ivy"
+default fairy_name = "Fairy"
+default kitty_name = "Kitty"
+
+##### GALLERY UNLOCKS #####
+default persistent.met_kyra = False
+default persistent.met_fairy = False
+default persistent.met_ivy = False
+default persistent.met_emilia = False
+default persistent.met_fangs = False
+default persistent.met_asani = False
+default persistent.met_nadia = False
+default persistent.met_krait = False
+
+##### CHARACTERS #####
+### Generic
+define Nar = Character("", kind=nvl)
+define Mov = Character("", screen="subtitle_say")
+
+### Household
+define DS = Character(_("Desert Stalker"), color="#ff8c1a")
+define DSt = Character(_("Desert Stalker (thinking)"), color="#ff8c1a")
+define Z = Character(pov_view, color="#a54100", dynamic = True)
+define Zt = Character(pov_view, who_suffix = _(" (thinking)"),color="#a54100", what_prefix = "{i}", what_suffix = "{/i}", dynamic = True)
+define Zw = Character(pov_view, who_suffix = _(" (whispering)"), color="#a54100", dynamic = True)
+define S = Character("[persistent.S_name]", color="#ff8c1a")
+define Sw = Character(_("[persistent.S_name] (whispering)"), color="#ff8c1a")
+define St = Character(_("[persistent.S_name] (thinking)"), color="#ff8c1a", what_prefix = "{i}", what_suffix = "{/i}")
+define A = Character("[persistent.A_name]", color="#d82a0e")
+define Aw = Character(_("[persistent.A_name] (whispering)"), color="#d82a0e")
+define W = Character("[persistent.W_name]", color="#c10000")
+define Ww = Character(_("[persistent.W_name] (whispering)"), color="#c10000")
+define Yw = Character("[persistent.W_name]", who_prefix = _("Younger "), color="#5bbe53")
+define Yz = Character(pov_view, who_prefix = _("Younger "), color="#5497cf", dynamic = True)
+define E = Character(_("Emilia"), color="#67b137")
+define Ew = Character(_("Emilia (whispering)"), color="#67b137")
+define F = Character(_("[fairy_name]"), color="#ff751a")
+define Fw = Character(_("[fairy_name] (whispering)"), color="#ff751a")
+
+### Random
+define C = Character("???", color="#ff8c1a")
+define Cw = Character("??? (whispering)", color="#ff8c1a")
+define C2 = Character("???", color="#808000")
+define C3 = Character("???", color="#733926")
+define C4 = Character("???", color="#666699")
+define C5 = Character("???", color="#888888")
+define C6 = Character("???", color="#dfdfdf")
+define Cr = Character("Crowd", color="#dfdfdf")
+define Ci = Character("Citizen", color="#dfdfdf")
+define Ci2 = Character("Citizen", color="#c2adad")
+
+### Zeta
+define Q = Character(_("Queen Merneith"), color="#d3a90b")
+define Qw = Character(_("Queen Merneith (whispering)"), color="#d3a90b")
+define Ne = Character(_("Neith"), color="#d3a90b")
+define New = Character(_("Neith (whispering)"), color="#d3a90b")
+define ER = Character (_("Elder Radames"), color="#402902")
+define Le = Character(_("Legate"), color="#e4dc2c")
+define G = Character(_("Guard"), color="1d8e9b")
+define Gw = Character(_("Guard (whispering)"), color="1d8e9b")
+define Gx = Character(_("Other guard"), color="3099a5")
+define G1 = Character(_("Left guard"), color="009004")
+define G2 = Character(_("Right guard"), color="009004")
+define Ta = Character(_("Talia"), color="21d2bf")
+define Li = Character(_("Lirah"), color="009004")
+define Liw = Character(_("Lirah (whispering)"), color="009004")
+define Ka = Character(_("Kateryna"), color="#bae316")
+define Kaw = Character(_("Kateryna (whispering)"), color="#bae316")
+define Ig = Character(_("Igor"), color="#afb825")
+define Ma = Character(_("Mandisa"), color="#646464")
+define Ce = Character(_("Cepos"), color="#393939")
+define Rm = Character(_("Revered Mother"), color="d690d2")
+define Rm2 = Character(_("Revered Mother"), color="B06BAC")
+define Rm3 = Character(_("Revered Mother"), color="C282B7")
+define Rt = Character(_("Revered twins"), color="B57B9B")
+define Sp = Character(_("Spectator"), color="e3d773")
+define Sp2 = Character(_("Other Spectator"), color="d8cc66")
+define Au = Character(_("Audience"), color="#81771e")
+define Sh = Character(_("Sharifa"), color="#8dd6e0")
+define Shw = Character(_("Sharifa (whispering)"), color="#8dd6e0")
+define Bru = Character(_("The Brute"), color="733916")
+define Ra = Character(_("Rabiah"), color="#843737")
+define Raw = Character(_("Rabiah (whispering)"), color="#843737")
+define Na = Character(_("Nadia"), color="#d46c6c")
+define Naw = Character(_("Nadia (whispering)"), color="#d46c6c")
+define Om = Character(_("Omar"), color="#ada190")
+define Omw = Character(_("Omar (whispering)"), color="#ada190")
+define He = Character(_("Heka"), color="#b9b93d")
+define Jaz = Character(_("Jazmin"), color="b9de00")
+define Ev = Character(_("Eva"), color="e7d42e")
+define Mi = Character(_("Mido"), color="009004")
+define Yra = Character(_("Younger Rabiah"), color="#be53a2")
+define Wom = Character(_("Woman"), color="e3d773")
+define Girl = Character(_("Girl"), color="f1e478")
+define Girlw = Character(_("Girl (whispering)"), color="f1e478")
+define Girl2 = Character(_("Other girl"), color="e2e06a")
+define Girl2w = Character(_("Other girl (whispering)"), color="e2e06a")
+define Man = Character(_("Man"), color="98b04f")
+define Manw = Character(_("Man (whispering)"), color="98b04f")
+define YMan = Character(_("Young man"), color="c4da81")
+define OMan = Character(_("Old man"), color ="5C584C")
+define Merc = Character(_("Mercenary"), color="6d7334")
+define Merc2 = Character(_("Mercenary 2"), color="53803b")
+define WL = Character(_("Wastelander"), color="6d7334")
+define Sav = Character(_("Savana"), color="#eccd63")
+define Wa = Character(_("Waitress"), color="#eccd63")
+define Sl = Character(_("Slave"), color="b4b4b4")
+define Slw = Character(_("Slave (whispering)"), color="b4b4b4")
+define Sltr = Character(_("Slave trader"), color="6d4a3f")
+define Sltrw = Character(_("Slave trader (whispering)"), color="6d4a3f")
+define Kha = Character(_("Khalil"), color= "#b07a5a")
+define Ram = Character(_("Rami"), color= "b7c96e")
+define Merch = Character(_("Merchant"), color="c6aa60")
+define Fl = Character(_("Flai-Fa'op"), color="27adbc")
+define Flw = Character(_("Flai-Fa'op (whispering)"), color="27adbc")
+define Domi = Character(_("Domitius"), color="B0A572")
+
+#Temple
+define Nez = Character(_("Nezmira"), color="D4A65D")
+define Isr = Character(_("Isra"), color="A14867")
+define Ja = Character(_("Jamila"), color="b06dac")
+
+
+#Archeologists
+define Val = Character(_("Sec. Vale"), color="AB7C59") #First name Calista
+define Cal = Character(_("Calista Vale"))
+define Sky = Character(_("Skye Sivara"), color="49698F")
+define Kai = Character(_("Dr. Kaito"), color="4D4539")
+define Noe = Character(_("Noel Kaito"), color="4D4539")
+define Barq = Character(_("Dr. Barqawi"), color="574432")
+define Aza = Character(_("Prof. Azari"), color="6E693C")
+define Sera = Character (_("Serafina Azari"), color="6E693C")
+define Hoa = Character (_("Dr. Daoz"), color="525C41")
+define Xen = Character(_("Xena"), color="7D5048")
+define EP = Character (_("Elder Paris"), color="#8F7F68")
+define EPN = Character (_("Elder Paris (narrating)"), color="#8F8678")
+define PS = Character (_("Prof. Sivara"), color="#8F7F68")
+define QS = Character (_("Queen Serafina"), color="E0D277")
+
+
+
+### Raiders
+define Rai = Character(_("Raider"), color="#733926")
+define RM = Character(_("Raider Thug"), color="#733926")
+define RS = Character (_("Raider Scum"), color="8C7045")
+define RT = Character(_("Raider Trash"), color="9E6C4F")
+define RF = Character(_("Raider Girl"), color="#808000")
+define RFb = Character(_("Raider Girl 2"), color="#666699")
+define Ky = Character(_("Kyra"), color="#8e03c2")
+define Kyw = Character(_("Kyra (whispering)"), color="#8e03c2")
+define As = Character(_("Asha"), color="#a66ddf")
+define Asw = Character(_("Asha (whispering)"), color="#a66ddf")
+define An = Character(_("Anya"), color="#5c3dd0")
+define Is = Character(_("Iseah"), color="#54043e")
+define Asa = Character(_("Asani"), color="#585720")
+define Asaw = Character(_("Asani (whispering)"), color="#585720")
+define Haz = Character(_("Hazim"), color="#7e6034")
+define SG = Character(_("Settlement Guard"), color ="#8f7b08")
+define SG2 = Character(_("Settlement Guard 2"), color ="#8f7b08")
+define Gen = Character(_("General"), color="#609307")
+define SW = Character(_("Settlement Worker"), color="8fa54f")
+define Kit = Character(_("[kitty_name]"), color="ff60a5")
+define Vac = Character(_("Vaclar"), color="786843")
+define Ca = Character(_("Casanova"), color="#985039")
+define Zi = Character(_("Zion"), color="#ad1800")
+define Med = Character(_("Medic"), color="#99b4ff")
+define OM = Character(_("Old Man"), color="#6c6c88")
+define Wat = Character(_("Water Woman"), color="#3bbdb7")
+define Wic = Character(_("Wick"), color="#9f5e39")
+define Rue = Character(_("Rue"), color="#9c6329")
+define Nj = Character(_("Njeri"), color="9f9736")
+define Tr = Character(_("Tribesman"), color="#837458")
+define Trw = Character(_("Tribeswoman"), color="#837458")
+define Tre = Character(_("Tribe Elder"), color="#5b513f")
+define Mis = Character(_("Misk"), color="#dfdd8f")
+define Rim = Character(_("Rim"), color="#c8c690")
+define Db = Character(_("Dudebro"), color="#733926")
+
+### Decayed
+define Ko = Character(_("Kosey"), color="#663300")
+define Ki = Character(_("Kinzi"), color="#4d3319")
+define Dec = Character(_("Decayed"), color="674730")
+define Decw = Character(_("Decayed (whispering)"), color="674730")
+define Decm = Character(_("Decaying man"), color="9E7659")
+define But = Character(_("Butcher"), color="674730")
+define LA = Character(_("Lord Abrax"), color="#CACFD2")
+define Zo = Character(_("Zosar"), color="#B7950B")
+define Abrw = Character(_("Abrax's wife"), color="#ABB2B9")
+
+### Mutants
+define Mu = Character(_("Mutant"), color="#395d1a")
+define Muw = Character(_("Mutant (whispering)"), color="#395d1a")
+define I = Character(_("[ivy_name]"), color="#00b300")
+define Iw = Character(_("[ivy_name] (whispering)"), color="#00b300")
+define Yu = Character(_("Yuna"), color="#00b300")
+define So = Character(_("Sonmi"), color="#e8e8e8")
+define Al = Character(_("Aloi"), color="#B6BAB9")
+define Lu = Character(_("Lunai"), color="#D5EDE2")
+define Elf = Character(_("Elf"), color="#999966")
+define Fa = Character(_("Fangs"), color="#8b8b18")
+define Faw = Character(_("Fangs (whispering)"), color="#8b8b18")
+define Pe = Character(_("Pepper"), color="#24b177")
+define Pew = Character(_("Pepper (whispering)"), color="#24b177")
+define Elv = Character(_("Elvira"), color="#24b177")
+define Chi = Character(_("Chili"), color="#2febc6")
+define Chiw = Character(_("Chili (whispering)"), color="#2febc6")
+define Min = Character(_("Mina"), color="#2febc6")
+define Re = Character(_("Red"), color="#2b7c55")
+define HG = Character(_("Hive girl"), color="#8caa06")
+define Ke = Character(_("Keen"), color="#90b949")
+define To = Character(_("Towser"), color="#295206")
+define Pr = Character(_("Prisoner"), color="5e5e5e")
+define Prw = Character(_("Prisoner (whispering)"), color="5e5e5e")
+define mas = Character(_("Master"))
+define tra = Character(_("Merchant"), color="#f3f301")
+define tra2 = Character(_("Merchant"), color="#f3dd01")
+define No = Character(_("Notes"), color="#ff8c1a")
+define Tg = Character(_("Thug girl"), color="#5f341f")
+define T = Character(_("Thug"), color="#5f421f")
+define QQ = Character(_("???"), color ="#d3a90b")
+define HQ = Character(_("Hive Queen"), color="630000")
+define Mant = Character(_("Mantis"), color= "#8caa06")
+define Mantw = Character(_("Mantis (whispering)"), color= "#8caa06")
+define Kr = Character(_("Krait"), color= "#929292")
+define Krw = Character(_("Krait (whispering)"), color= "#929292")
+define Sc = Character(_("Scarp"), color= "#D3D4D4")
+define Di = Character(_("Dinara"), color= "#ccbfa7")
+define Stw = Character(_("Sapa Tribeswoman"), color= "#7e999c")
+define Stm = Character(_("Sapa Tribesman"), color= "#7e999c")
+define Ira = Character(_("Ira"), color= "#99849a")
+define Sli = Character(_("Slink"), color= "#b07a5a")
+define Sliw = Character(_("Slink (whispering)"), color= "#b07a5a")
+
+### Monsters
+define Mum = Character(_("Mummy"), color="#5f5444")
+
+### Zone
+define Sa = Character(_("Sair"), color="#b4b4b4")
+define Saw = Character(_("Sair (whispering)"), color="#b4b4b4")
+define Ju = Character(_("Julia"), color="#d1ff95")
+define Rey = Character(_("Reyna"), color="#5e4a2d")
+define Narg = Character(_("Narg"), color="#5b411e")
+define Hak = Character(_("Hakunin"), color="#453117")
+define Myn = Character(_("Mynoc"), color="#613d17")
+define Ban = Character(_("Bandit"), color="66523D")
+define Ban2 = Character(_("Bandit"), color="946F54")
+define Ban2w = Character(_("Bandit (whispering)"), color="946F54")
+define Ban3 = Character(_("Bandit"), color="615640")
+define Rah = Character(_("Rahil"), color="615640")
+define Bfa = Character(_("\"Father\""), color="4D3B29")
+define Ab = Character(_("Abena"), color="91BABD")
+define Abw = Character(_("Abena (whispering)"), color="91BABD")
+
+##### VARIABLE DEFAULTS #####
+### Day-related variables
+default day_tracker = {}
+default day = 1
+default daytime = 'day'
+default daily_notification = True
+default daily_basement_fairy = False
+default daily_basement_ain = False
+default daily_lab = False
+default daily_hive = False
+default daily_omar = False
+default daily_rabiah = False
+default daily_nadia = False
+default daily_raiders_throne = False
+default daily_kitchen = False
+default daily_ain = False
+default daily_shani = False
+default daily_zahra = False
+default daily_basement = False
+default daily_emilia = False
+default daily_main_mission = False
+default daily_side_mission = False
+default daily_harem = False
+default daily_gym = False
+default daily_raiders_reward = False
+default daily_kyra_basement = False
+default daily_kyra_sex = False
+default daily_temple = False
+
+default basement_ain_puke = False
+default basement_ain_relief = False
+default basement_ain_spanked = False
+default basement_ain_repeatable_intro = False
+default basement_ain_hands = False
+default basement_ain_groped = False
+default basement_ain_suck = False
+default basement_ain_choked = False
+
+### Event flags
+default m_la1 = False
+default m_d21b = False
+default m_d21a = False
+default m_d20d = False
+default m_d20c = False
+default m_d20b = False
+default m_d20a = False
+default m_d19h = False
+default m_d19g = False
+default m_d19f = False
+default m_d19e = False
+default m_d19d = False
+default m_d19c = False
+default m_d19b = False
+default m_d19a = False
+default m_d18f = False
+default m_d18g = False
+default m_d18e = False
+default m_d18d = False
+default m_d18c = False
+default m_d18b = False
+default m_d18a = False
+default m_d17c = False
+default m_d17b = False
+default m_d17a_part_2 = False
+default m_d17a_part_1 = False
+default m_d16c = False
+default m_d16b = False
+default m_d16a_aftermath = False
+default m_d16a = False
+default m_d15c = False
+default m_d15b = False
+default m_d15a = False
+default m_d14g = False
+default m_d14f_part_2 = False
+default m_d14f_part_1 = False
+default m_d14e = False
+default m_d14d = False
+default m_d14c = False
+default m_d14b = False
+default m_d14a_part_2 = False
+default m_d14a_part_1 = False
+default m_d13l = False
+default m_d13k = False
+default m_d13j = False
+default m_d13i = False
+default m_d13h = False
+default m_d13g = False
+default m_d13f = False
+default m_d13e = False
+default m_d13d = False
+default m_d13c = False
+default m_d13b = False
+default m_d13a = False
+default m_d12c = False
+default m_d12b = False
+default m_d12a = False
+default m_d11e = False
+default m_d11d = False
+default m_d11c = False
+default m_d11b = False
+default m_d11a = False
+default m_d10c = False
+default m_d10b = False
+default m_d10a = False
+default m_d9c = False
+default m_d9b = False
+default m_d9a = False
+default m_d8d = False
+default m_d8c = False
+default m_d8b_part_2 = False
+default m_d8b_part_1 = False
+default m_d8a = False
+default m_d7c = False
+default m_d7b = False
+default m_d7a = False
+default m_d6b = False
+default m_d6a = False
+default m_d5h = False
+default m_d5g = False
+default m_d5f = False
+default m_d5e = False
+default m_d5d = False
+default m_d5c = False
+default m_d5b = False
+default m_d4g = False
+default m_d4e = False
+default m_d4d = False
+default m_d4c = False
+default m_d4b = False
+default m_d4a = False
+default m_d3d = False
+default m_d3c = False
+default m_d3b = False
+default m_d3a = False
+default m_d2f = False
+default m_d2e = False
+default m_d2d = False
+default m_d2c = False
+default m_d2b = False
+default m_d1c = False
+default m_d1b = False
+default m_d1a = False
+default m_rsa_1 = False
+default m_rsf_1 = False
+default m_rsf_2 = False
+default m_rsg_1 = False
+default m_rss_1 = False
+default m_rst_1 = False
+default m_rsw_1 = False
+
+
+### New stuff
+
+
+
+
+#0.21
+default ivy_romance = False
+default ivy_love = False
+default d21a_fighter = False
+default d21a_patriot = False
+default d21a_family_man = False
+default d21a_explorer = False
+default d21a_decayed_killed = False
+default d21a_ivy_conversation_1 = False
+default d21a_ivy_conversation_2 = False
+default d21a_ivy_conversation_3 = False
+default d21a_ivy_conversation_4 = False
+
+
+default d21b_ivy_action = 0
+default d21b_ivy_fuck = False
+default d21b_ivy_eat_out = False
+default d21a_ivy_q1 = False
+default d21a_ivy_q2 = False
+default d21a_ivy_q3 = False
+default d21a_ivy_q4 = False
+default d20c_ain_shani_sex = False
+default d20c_cum_inside_shani = False
+default d5c_kyra_sold_off = False
+default d20b_queen_hugged = False
+default d20a_check_windows = False
+default d20a_check_doors = False
+default d20a_prepare_fight = False
+default d20a_mc_kills_father = False
+default d20a_mc_killed = False
+default d20a_weak_hits = False
+default d20a_shani_provoked_bandit = False
+default d20a_shani_resisted = True #Should be True by default
+default d20a_shani_blowjob = False
+default d20a_father_killed_bandit = False
+default d20a_question_daughter = False
+default d20d_cum_inside = False
+default tm_question_2 = False
+default tm_question_1 = False
+default temple_introduction = False
+default temple_isra_introduction = False
+default temple_jamila_introduction = False
+default d19g_kyra_fucked = False
+default d19g_discussed_asha_kitty = False
+default d19g_discussed_nia = False
+default d19g_discussed_goals = False
+default d19g_left_early = False
+default d19f_early_ending = False
+default d19f_sex_menu_option = 0
+default d19f_cum_counter = 0
+default d19f_shani_deepthroat = False
+default d19f_shani_queen_sex = False
+default d19e_treasure_hint = False
+default d19e_mc_met_abena = False
+default d19e_shani_met_abena = False
+default d19e_holy_storm = False
+default d19e_spice_acquired = False
+default d19e_information_acquired = False
+default d19e_bazaar_fake_map_acquired = False
+default d19e_bazaar_domitius_teased = False
+default d19e_keepsake_acquired = False
+default d19e_domitius_question = False
+default d19e_appetizer_question = False
+default d19e_visited_ruins_no_storm = False
+default d19e_shani_won_fight = False
+default d19e_shani_ass_groped = False
+default d19e_shani_spanked = False
+default d19e_visited_ruins = False
+default d19e_visited_old_man = False
+default d19e_visited_bazaar = False
+default d19e_shani_breasts_sucked = False
+default d19e_mc_chosen_bazaar = False
+default d19e_shani_chosen_bazaar = False
+default d19_locations_visited = 0
+default d19b_mandisa_shani_date = False
+default d19b_glance_at_mandisa = False 
+default d19b_glance_at_slave = False
+default d18g_krait_footjob = False
+default d18f_queen_cum_inside = False
+default d18f_queen_ravaged = False
+default d18f_queen_subdued = False
+default d18b_ain_slave = False
+default d18b_twin_incest = False
+default d18b_twin_freed = False
+default d18b_twin_fucked = False
+default d18b_twin_questions_q1 = False
+default d18b_twin_questions_q2 = False
+default d18b_twin_questions_q3 = False
+default d18b_twin_questions_q4 = False
+default d18b_slave_deepthroat = False
+default d18b_savana_pulled = False
+default d18b_talked_to_savana = False
+default d18b_ain_show_off = False
+default d18b_ain_displayed = False
+default d18b_ain_puke = False
+default d18b_ain_relief = False
+default d18d_checked_out_zahra = False
+default d2f_look_down = False
+default d3b_question_1 = False
+default d3b_question_2 = False
+default d4a_kyra_fucked = False
+default d4a_kyra_blowjob = False # Not used
+default d4a_kyra_question_1 = False
+default d4a_kyra_question_2 = False
+default d4a_kyra_question_3 = False
+default d4d_talia_denied = False
+default d4d_talia_defeated = False
+default queen_cat_statue = False
+default d2c_question = False
+default d2e_clue_1 = False
+default d2e_clue_2 = False
+default d2e_clue_3 = False
+default settlement_medic_concluded = False
+default d13j_apartment_visited = False
+default ain_basement_done = False
+default fairy_outcome = False
+default m_d16a_lirah_freedom_path_1 = False
+default m_d16a_lirah_freedom_path_2 = False
+default m_d16a_lirah_freedom_path_3 = False
+default m_d16a_lirah_freedom_path_4 = False
+default m_d16a_lirah_duty_path_1 = False
+default d17a_pepper_q1 = False
+default d17a_pepper_q2 = False
+default d17a_fangs_q1 = False
+default d17a_fangs_q2 = False
+default d17a_fangs_q3 = False
+default d17a_fangs_q4 = False
+default d17a_camp_checkup_1 = False
+default d17a_camp_checkup_2 = False
+default d17a_camp_checkup_3 = False
+default d17a_camp_checkup_4 = False
+default fangs_romance = False
+default queen_romance = False
+default igor_visit_initial_repeat = False
+default d17a_time_piece_q1 = False
+default d17a_time_piece_q2 = False
+default d17a_time_piece_q3 = False
+default d5e_ain_mc = False
+default d5e_ain_igor = False
+default d5c_asha_passed_out = False
+default d5c_misk_cumshot = False
+default d11b_shani_died = False
+default pb_queen_exposed = False
+
+default d17a_hothouse_visited = False
+default d17a_tribesman_visited = False
+default d17a_ivy_visited = False
+default d17a_hothouse_q1 = False
+default d17a_hothouse_q2 = False
+default d17a_hothouse_q3 = False
+default d17a_tribesman_q1 = False
+default d17a_tribesman_q2 = False
+
+default sapa_assimilated = False
+default sapa_protected = False
+default ml_deepthroat_degraded = False #Pepper - mutants lab
+default world_map_introduction = False
+
+default d4b_q1 = False
+default d4b_q2 = False
+default d4b_q3 = False
+
+default d5g_attend_punishment = False
+default ml_ws_first_time = False
+default d2e_shani_advice = 0
+default d3b_owner_killed = False
+default mutants_gym_visited_red_first_time = False
+default mutants_gym_visited_krait_first_time = False
+default raiders_raid_first_time = False
+default raiders_reward_asha = False
+
+# Basement
+default ain_cage_repeatable_intro = False
+default fairy_fed_once = False
+default d5f_bought_fairy = False
+default repeatfairy_1 = False
+default repeatfairy_2 = False
+default repeatfairy_3 = False
+default d5f_help_fairy = False
+default d5f_fairy_bj = False
+default d5f_fairy_piss = False
+default fairy_limit = False
+default fairy_b = 0
+default fairy_h = 0
+default fairy_food_let_eat = False
+default fairy_food_disciplined = False
+default fairy_dehumanized = False
+default fairy_fed_floor = False
+default fairy_counter = 0
+default fairy_not_indulged = False
+default fbd_deepthroat = False
+default fbd_drink = False
+default fairy_broken_visited = False
+
+default fairy_gave_bed = False
+default fairy_proper_bed = False
+default fairy_pet_bed = False
+default fairy_bathed = False
+default fairy_talked_again = False
+default fairy_healed = False
+default fairy_neutral = False
+default fairy_broken = False
+default fairy_outcome_day = 0
+default fairy_pregnant = False
+default fairy_broken_renamed = False
+default fairy_broken_whipped_bloody = False
+
+# Faction planning rooms
+
+default faction_introduction = False
+default faction_mission_introduction = False
+default mutants_lab_intro = False
+
+# important stuff
+default shani_zone = False
+default shani_practice = False
+
+# queen stuff
+default queen_hugged = False
+default d7a_queen_groped = False
+default d7a_cocky_mc = False
+default d5b_queen_kissed_shani = False
+default queen_dominant = False
+default queen_submissive = False
+default d2c_queen_disrespected = False
+default queen_flirt = False
+default pp_touched_queen = False
+
+# Temple
+default daily_temple_isra_grind = False
+
+# Mutants
+default pepper_examination = False
+default pepper_exam_stage = 1
+default d10a_q1 = False
+default d10a_q2 = False
+default d10b_asha_kyra_sex = False
+default visited_hive_queen_repeatable_first_time = False
+default visited_hq_day = 0
+default hq_sex_day = 0
+default mutants_gym_visited_first_time = False
+
+# Raiders
+default raiders_met_day = 0
+default asha_affection = 0
+default d5c_kyra_cum_inside = False
+default daily_throne_kyra_cum_inside = False
+default daily_throne_kyra_cum_outside = False
+default daily_throne_asha_pussy = False
+default daily_throne_asha_ass = False
+
+# Family
+
+
+default family_limit = False
+default family_introduction = False
+default family_second_visit = False
+
+default rabiah_introduction = False
+default nadia_introduction = False
+default nadia_part_2 = False
+default nadia_part_3 = False
+default rabiah_part_2 = False
+default omar_part_2 = False
+default omar_part_3 = False
+default omar_introduction = False
+default omar_convi_2 = False
+
+default vfn_d1_a1 = False
+default vfn_d1_a2 = False
+default vf_dinner_part_1 = False
+default vf_dinner_part_2 = False
+default vf_dinner_part_3 = False
+default vf_dinner_part_3_day = 0
+
+#kitchen
+default kitchen_kateryna_introduction = False
+default kitchen_dinner = False
+default kitchen_ain_first_time = False
+default kitchen_kateryna_first_time = False
+
+# Faction missions
+default helped_mutants = False
+default denied_mutants = False
+
+#d17
+
+default d17a_stared_at_pepper = False
+default sapa_tribe_supported = False
+default sapa_tribe_assimilated = False
+
+#d16
+
+default d16b_arrangement = False
+default d16b_sharing = False
+default d16b_sex = False
+default d16a_talia_used = False
+default d16a_lirah_question_1 = False
+default d16a_lirah_question_2 = False
+default d16a_lirah_cleanup = False
+default d16a_lirah_cum_inside = False
+default d16a_lirah_degraded = False
+default d16a_lirah_degraded_2 = False
+default d16a_queen_caressed = False
+default d16a_queen_groped = False
+default lirah_freedom_path = False
+default lirah_duty_path = False
+default d16a_lirah_sex = False
+default lirah_pregnant = False
+default lirah_step_2_day = 0
+default lirah_step_4_day = 0
+default lirah_step_6_day = 0
+default lirah_step_8_day = 0
+default palace_bedroom_3 = False
+default d16c_waitress_degraded = False
+default d16c_waitress_milked = False
+default d16c_waitress_shared = False
+default d16c_defied_zahra = False
+
+#d15
+default d15b_day = 0
+default d15a_nadia_ain_sex = False
+
+#d14
+
+
+
+
+default palace_tasks_counter = 0
+default palace_planning_room_1 = False
+default palace_planning_room_2 = False
+default palace_planning_room_3 = False
+default palace_quarters_1 = False
+default palace_bedroom_1 = False
+default palace_bedroom_2 = False
+default palace_throne_room_1 = False
+default pp_1_slave_denied = False
+default pp_twirl = False
+default pq_interrupted = False
+
+default rt_kitty_feel = False
+default rt_kitty_name = False
+default rt_kitty_hair = False
+default rt_kitty_brother = False
+default rt_kitty_leave = False
+default rt_kitty_stroke_cheek = False
+default rt_kitty_blindfold = True
+
+default d14b_asani_denied = False
+default throne_first_visit = False
+default temple_first_visit = False
+default settlement_asha_kneel = False
+default settlement_simp_first_visit_day = 0
+default settlement_outcomes_seen = False
+default kateryna_join_day = 0
+default kateryna_pregnant = False
+default d14a_kateryna_rough = False
+default d14c_abrax_lie = False
+default d14a_zahra_blowjob = False
+default d14e_day = 0
+
+#d13
+
+default shani_zone_returned = False
+default d13a_bandit_killed = False
+default d13a_shani_played_along = False
+default d13a_qte = True
+default d13d_question_1 = False
+default d13d_question_2 = False
+default d13d_question_3 = False
+default d13d_question_4 = False
+default d13e_queen_trust = False
+default d13e_queen_pragmatic = False
+default d13e_abrax_trust = False
+default d13e_abrax_pragmatic = False
+default d13e_queen_discussion = False
+default d13e_abrax_discussion = False
+default d13c_day = 0
+default d13f_day = 0
+default d13g_day = 0
+default d13i_day = 0
+default d13g_shani_family_romance = False
+default d13h_shani_stroking = False
+default d13h_shani_blowjob = False
+default d13h_ain_stroking = False
+default d13h_ain_blowjob = False
+default d13h_count = 0
+default d13i_discussion_1 = False
+default d13i_discussion_2 = False
+default d13j_explored_entrance = False
+default d13j_explored_bedroom = False
+default d13j_explored_kitchen = False
+default d13j_explored_living_room = False
+default d13j_stage = 0
+default d13j_radio_shutdown = False
+default d13j_checked_note = False
+default d13j_seen_kitchen_body = False
+default d13j_killed_akh = False
+default d13l_thermae_fun = False
+default d13l_queen_kissed_shani = False
+default hea_eat_out_emilia = False
+
+
+
+#d12
+
+default vfn_rabiah_sex = False
+default vfn_zahra_blowjob = False
+
+default d12a_looked_closer = False
+default d12a_question_1 = False
+default d12a_question_2 = False
+default d12a_question_3 = False
+
+default emilia_counter = 0
+
+#d11
+default ivy_comp_menu = "main"
+default preferences_tab = 'system'
+
+default d11a_ivy_stared = False
+default d11a_ivy_looked = False
+default d11a_ivy_slave_argument = False
+
+default d11c_kitty_gentle = False
+default d11c_kitty_rough = False
+default d11c_kitty_makeout = False
+
+default d11d_sex = False
+
+default d11e_zahra_undressed = False
+default zahra_never_shared = False
+default d11e_sharing_intro = False
+default d11e_shared_ain = False
+default d11e_shared_zahra = False
+default d11e_shared_both = False
+default d11e_shared_none = False
+default d11e_no_sex = False
+default d11e_cum_kateryna_mouth = False
+default d11e_cum_kateryna_stroke = False
+default d11e_cum_kateryna_grind = False
+default d11e_watched_igor_ain = False
+default d11e_watched_igor_zahra = False
+default d11e_round_two = False
+
+default d11e_kateryna_day = 0
+default settlement_takeover_day = 0
+default d11b_julia_days = 0
+
+# d10
+default highway_guard_insulted = False
+default d10a_hq_sex = False
+default d10b_q1 = False
+default d10b_asha_praised = False
+default d10b_zion_insulted = False
+
+default d10b_kyra_came_inside = False
+default zone_read_note = False
+default d10b_asha_fucked_pussy = False
+default d10b_asha_fucked_ass = False
+default d10b_asha_kept_down = False
+default d10a_mantis_sleep = False
+default kitchen_discussion_zone = False
+
+default sair_told_name = False
+default bunker_crossbow = False
+default bunker_outside = False
+default bunker_note = False
+default bunker_device = False
+default shani_confronted_emission = False
+
+default settlement_alignment = 0
+default settlement_medic_intro = False
+default settlement_old_guy_visited = False
+default settlement_water_woman_visited = False
+default settlement_bathtub_worker_visited = False
+default settlement_camper_woman_visited = False
+default settlement_simp_visited = False
+
+default settlement_old_guy_helped = False
+default settlement_water_woman_helped = False
+default settlement_bathtub_worker_helped = False
+default settlement_camper_woman_helped = False
+default settlement_simp_helped = False
+
+# d9
+default d9b_q1 = False
+default d9b_q2 = False
+default d9b_q3 = False
+default d9aq_1 = False
+default d9a_q2 = False
+default d9a_q3 = False
+default d9a_q4 = False
+default d9a_q5 = False
+default d9c_statement_1 = False
+default d9c_statement_2 = False
+default d9c_statement_3 = False
+default d9c_statement_4 = False
+default d9c_decision_q1 = False
+default thug_humiliated = False
+default thug_praised = False
+default thug_cumshot = False
+default thug_pregnant = False
+default thug_used = False
+default thug_decision_released = False
+default thug_decision_prison = False
+default thug_decision_death = False
+default thug_decision_unknown = False
+
+default d9b_ain_exploring = False
+
+
+# d8
+
+default d8b_day_part_2 = 0
+default hivegirl_neutral = False
+default hivegirl_cute = False
+default hivegirl_truth = False
+default mantis_left_behind = False
+default pepper_complimented = False
+default d8a_looked_at_shani = False
+default shani_romance = False
+default shani_kiss_menu = False
+default shani_kiss_menu1 = False
+default shani_kiss_menu2 = False
+default shani_kiss_menu3 = False
+default shani_kiss_menu4 = False
+default shani_zone_departure_day = 0
+default ivy_q1 = False
+default ivy_q2 = False
+default ivy_q3 = False
+default ivy_q4 = False
+default ivy_joke = False
+default ivy_silent = False
+default ivy_disappear = False
+
+
+# d7
+
+default d7a_picked_left = False
+default d7a_picked_right = False
+default d7a_picked_both = False
+
+
+default prisoner_hurt = False
+default prisoner_used = False
+default d7a_immoral_punishment = False
+default d7b_question_a = False
+default d7b_question_b = False
+default d7b_question_bx = False
+default d7b_question_c = False
+default d7b_question_cx = False
+default d7b_question_d = False
+default d7b_question_e = False
+default nadia_sex = False
+default d7c_nadia_stared = False
+default d7c_nadia_watch = False
+default nadia_fingered = False
+default nadia_flirt = False
+
+
+# d6
+
+default d6a_day = 0
+default d6b_visited_asani_day = 0
+default jamila_baby = False
+default jamila_maybe = False
+default d6b_asani_sex = False
+default asani_killed = False
+default d5g_day = 0
+
+default asha_knocked_out = False
+default d1a_asha_dominated = False
+default d5c_asha_shared = False
+default asani_alive = False
+default ivy_done = False
+default ivy_alive = False
+default lost_artifact = False
+default ki_killed = False
+
+# d5
+default d5c_asha_kyra_nice = False
+default d5c_asha_kyra_rough = False
+default d5c_asha_kyra_sex = False
+default d5e_day = 0
+default d5d_deserved_torture = False
+
+# d2
+default d2b_lirah_disrespected = False
+
+# d1
+default d1c_stare = False
+
+# convis
+# Shani
+default shani_talk_1 = False
+default shani_talk_2 = False
+
+# Ain
+default ain_talk_1 = False
+default ain_talk_2 = False
+default sa_awake = False
+
+
+# Zahra
+default zahra_talk_1 = False
+default zahra_talk_2 = False
+default zahra_talk_3 = False
+default zahra_talk_4 = False
+
+
+default sz_groped = False
+default sz_bj = False
+
+
+default emilia_joined = False
+
+default shani_workout_repeat = False
+
+default d4c_shani_compliment = False
+default kyra_rescued = False
+default d3b_mutant_saved = False
+default d3d_zahra_stay = False
+default d3d_q1 = False
+default d3d_q2 = False
+default d3d_q3 = False
+default emilia_new_rule = False # raising your hand for Emilia
+default shani_killed_thug_girl = False
+default kateryna_romance = False # Romance = Path for Love/Servant opened -> romanceFalse = No household
+default kat_servant = False # Servant = Servant path after romance
+default kat_love = False # love = Love path after romance
+default kat_babywish = False # babywish = Pregnancy path after romance
+
+default d5b_ivy_touched = False
+default d5b_fangs_rough = False
+
+default shani_perspective = False
+
+
+# default biggygroped = False -> Hall of shame variable
+default d5f_abrax_q1 = False
+default d5f_abrax_q2 = False
+default d5f_abrax_q3 = False
+default d5f_abrax_q4 = False
+default d5f_abrax_q5 = False
+default d5f_abrax_q6 = False
+default d5f_abrax_q7 = False
+default d5f_abrax_q8 = False
+default d5f_abrax_q9 = False
+default d5f_abrax_q10 = False
+
+default d5b_fangs_gentle = False
+default d5g_ain_spanked = False
+default d5g_ain_sex = False 
+
+default faction_raiders = False
+default faction_mutants = False
+default faction_decayed = False
+
+### Daily flags
+
+
+### Dump
+default d6b_zeta_strong = False
+default d6b_zeta_allies = False
+default d6b_zeta_weak = False
+
+default home_day_fade = False
+default d3d_emilia_sex = False
+
+default shani_visit_intro = False
+default home_intro_seen = False
+default nav_help_seen = False
+default introduction_emilia = False
+default introduction_kateryna = False
+default introduction_fairy = False
+default second_offer_emilia = False
+default emilia_love = 0
+default emilia_sub = 0
+default shani_help = 0
+default shani_self = 0
+
+default ain_basement = False
+default d2c_refused_emilia = False
+default refused_fairy = False
+default d1b_kinzi_met = False
+
+
+default persistent.dad = "mentor"
+default persistent.da = "protege"
+default persistent.mom = "mistress"
+
+
+### Main Menu ###
+default persistent.mm = '0.21'
+default persistent.mm8_seen = False
+default persistent.mm9_seen = False
+default persistent.mm10_seen = False
+default persistent.mm11_seen = False
+default persistent.mm12_seen = False
+default persistent.mm13_seen = False
+default persistent.mm14_seen = False
+default persistent.mm15_seen = False
+default persistent.mm16_seen = False
+default persistent.mm17_seen = False
+default persistent.mm18_seen = False
+default persistent.mm19_seen = False
+default persistent.mm20_seen = False
+default persistent.mm21_seen = False
+# Menu unlocks
+default persistent.d19_end_1 = False
+default persistent.d19_end_2 = False
+default persistent.d20mm_2 = False
+default persistent.d21mm = False
+default persistent.d21mm_2 = False
+
+
+
+# {
+#     'group': {
+#         'variant': True, #enabled by default
+#         'variant': condition
+#     }
+# }
+define mm_list = {
+    '0.21': {
+        '0.21A': True,
+        '0.21B': persistent.d21mm_2
+    },
+    '0.20': {
+        '0.20A': True,
+        '0.20B': persistent.d20mm_2
+    },
+    '0.19': True,
+    '0.18': True,
+    '0.17': True,
+    '0.16': True,
+    '0.15': True,
+    '0.14': True,
+    '0.13': True,
+    '0.12': True,
+    '0.11': True,
+    '0.10': True,
+    '0.09': True,
+    '0.08': True,
+    '0.07': True,
+    '0.06': True,
+    '0.05': True,
+    '0.04': True,
+    '0.03': True,
+    '0.02': True,
+    '0.01': True
+}
+
+define eoc_screens = [
+    ('images/Extras/Bonus images/At the top.png', "audio/music/zeta/sahara desert.mp3"),
+    ('images/Extras/Bonus images/Blood Dragon.png', "audio/music/mutants/mutant hive disturbed.mp3"), 
+    ('images/Extras/Bonus images/Blowout.png', "audio/music/raiders/metal.mp3"), 
+    ('images/Extras/Bonus images/Caged.png', "audio/music/decayed/haunted.mp3"), 
+    ('images/Extras/Bonus images/Couple Date.png', "audio/music/playlists/widow.mp3"), 
+    ('images/Extras/Bonus images/Dust.png', "audio/music/raiders/mechanical dusk.mp3"), 
+    ('images/Extras/Bonus images/Factory.png', "audio/music/zone/jupiter.mp3"), 
+    ('images/Extras/Bonus images/Fire and Sickle.png', "audio/music/zeta/war music continued.mp3"), 
+    ('images/Extras/Bonus images/Hope.png', "audio/music/mutants/sonmis theme.mp3"), 
+    ('images/Extras/Bonus images/Native Village.png', "audio/music/home/katerynas theme.mp3"), 
+    ('images/Extras/Bonus images/Panoramic.png', "audio/music/playlists/bunker blues original.mp3"), 
+    ('images/Extras/Bonus images/Past and Present.png', "audio/music/zone/silent fields.mp3"), 
+    ('images/Extras/Bonus images/Postage stamp.png', "audio/music/home/music box september.mp3"), 
+    ('images/Extras/Bonus images/Raider Queen.png', "audio/music/raiders/scary rock full.mp3"), 
+    ('images/Extras/Bonus images/The Big One.png', "audio/music/raiders/atilla.mp3"), 
+    ('images/Extras/Bonus images/Vintage.png', "audio/music/playlists/mix classic.mp3")
+]
