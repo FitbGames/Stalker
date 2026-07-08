@@ -124,7 +124,7 @@ translate spanish d16a_f399acde:
 translate spanish d16a_5dcb0f56:
 
     # Ta "If I didn't hear the rumors of you doing exactly that and more... I'd probably save me the trouble and report you."
-    Ta "Si no escuchara los rumores de que estás haciendo exactamente eso y más... probablemente me ahorraría el problema y te denunciaría."
+    Ta "Si no escuchara los rumores de que estás haciendo exactamente eso y más... probablemente me ahorraría la molestia y te denunciaría."
 
 # game/scripts/day16.rpy:59
 translate spanish d16a_ca052894:
@@ -694,7 +694,7 @@ translate spanish re_d1620_3e70ae4b:
 translate spanish re_d1620_d402b4da:
 
     # Z "I needed that. Now lick me clean."
-    Z "Lo necesitaba. Ahora lámeme hasta dejarme limpio."
+    Z "Lo necesitaba. Ahora lámemela bien hasta dejarme limpio."
 
 # game/scripts/day16.rpy:270
 translate spanish re_d1620_514747a7:
