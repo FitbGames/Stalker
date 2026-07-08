@@ -172,7 +172,7 @@ translate spanish d2b_b30939b1:
 translate spanish d2b_27fe7da1:
 
     # G1 "{i}*chuckling*"
-    G1 "{i}*risitas*"
+    G1 "{i}*risitas*{/i}"
 
 # game/scripts/day2.rpy:88
 translate spanish d2b_320f3c28:

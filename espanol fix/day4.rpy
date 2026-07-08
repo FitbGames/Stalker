@@ -448,7 +448,7 @@ translate spanish d4e_4efbcd5b:
 translate spanish d4e_ce571eca:
 
     # Z "And that this room becomes available, so I want you to have it."
-    Z "Y que esta habitación queda disponible, por lo que quiero que la tengas."
+    Z "Y que esta habitación queda disponible, así que quiero que te la quedes."
 
 # game/scripts/day4.rpy:163
 translate spanish d4e_6b736fee:

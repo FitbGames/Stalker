@@ -4,7 +4,7 @@
 translate spanish d8a_85b112b5:
 
     # "{color=#eaf50e}This next event will progress the plot and make [S] unavailable for some time. Do you wish to proceed?"
-    "{color=#eaf50e}Este próximo evento hará avanzar la trama y [S] no estará disponible durante un tiempo. ¿Deseas continuar?"
+    "{color=#eaf50e}Este próximo evento hará avanzar la trama y [S] no estará disponible durante un tiempo. ¿Deseas continuar?{/color}"
 
 # game/scripts/day8.rpy:12
 translate spanish d8a_155d151e:
@@ -2104,7 +2104,7 @@ translate spanish d8a143x4_971a98df_2:
 translate spanish d8a143x4_6eee8664:
 
     # He "{i}But if there is something you want to do or say before you head towards the unknown, my suggestion is to get that over with. Deal with those things."
-    He "{i}Pero si hay algo que quieras hacer o decir antes de dirigirte a lo desconocido, mi sugerencia es que acabes con eso. Ocúpate de esas cosas."
+    He "{i}Pero si hay algo que quieras hacer o decir antes de dirigirte a lo desconocido, mi sugerencia es que acabes con eso. Ocúpate de esas cosas.{/i}"
 
 # game/scripts/day8.rpy:904
 translate spanish d8a143x4_aa068e3f:

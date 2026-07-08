@@ -51,7 +51,7 @@ translate spanish start_c2773fa0:
 # game/scripts/day1.rpy:61
 translate spanish start_c1462bb5:
 
-    # C5 "Some of those decisions will be important and have consequences
+    # C5 "Some of those decisions will be important and have consequences; some won't."
     C5 "Algunas de esas decisiones serán importantes y tendrán consecuencias; otras no."
 
 # game/scripts/day1.rpy:64
