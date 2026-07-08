@@ -2494,7 +2494,7 @@ translate spanish re_d8a174_971a98df:
 translate spanish re_d8a174_60365b64:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day8.rpy:1078
 translate spanish re_d8a174_938c7216:
@@ -2662,7 +2662,7 @@ translate spanish d8a193_971a98df_1:
 translate spanish d8a193_60365b64:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day8.rpy:1178
 translate spanish d8a193_1a56a166:
@@ -2698,7 +2698,7 @@ translate spanish shanikissmenu_a83a8501:
 translate spanish shanikissmenu_60365b64:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day8.rpy:1217
 translate spanish shanikissmenu_074803ee:
@@ -2710,7 +2710,7 @@ translate spanish shanikissmenu_074803ee:
 translate spanish shanikissmenu_60365b64_1:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day8.rpy:1232
 translate spanish d8a224_56fd113b:
@@ -2788,7 +2788,7 @@ translate spanish d8a231_d9452ff0:
 translate spanish d8a231_60365b64:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day8.rpy:1278
 translate spanish d8a231_145efbd5:
@@ -2914,7 +2914,7 @@ translate spanish d8a231_0a5bb6fa:
 translate spanish d8a231_60365b64_1:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day8.rpy:1332
 translate spanish d8a231_f665b905:
@@ -3034,7 +3034,7 @@ translate spanish d8a231_8bdd8ac4:
 translate spanish d8a231_76f38f97:
 
     # "{i}*kissing*{/i}"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day8.rpy:1411
 translate spanish d8a231_93f4f958:
@@ -3058,7 +3058,7 @@ translate spanish d8a231_01d7d478:
 translate spanish d8a231_60365b64_2:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day8.rpy:1423
 translate spanish d8a231_326f5a66:
@@ -3220,7 +3220,7 @@ translate spanish d8a231_08fc9c4e:
 translate spanish d8a231_60365b64_3:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day8.rpy:1496
 translate spanish d8a231_0c648d97:
@@ -3496,7 +3496,7 @@ translate spanish d8a305x_82a36d98:
 translate spanish d8a305x_c8743899:
 
     # S "{i}*kissing*"
-    S "{i}*beso*{/i}"
+    S "{i}*besando*{/i}"
 
 # game/scripts/day8.rpy:1639
 translate spanish d8a305x_b8e83c01:
@@ -4300,7 +4300,7 @@ translate spanish re_d8b17_22e693db:
 translate spanish re_d8b17_10377398:
 
     # Fa "{i}*kissing*"
-    Fa "{i}*beso*{/i}"
+    Fa "{i}*besando*{/i}"
 
 # game/scripts/day8.rpy:2023
 translate spanish re_d8b17_49faa386:
@@ -4312,7 +4312,7 @@ translate spanish re_d8b17_49faa386:
 translate spanish re_d8b17_10377398_1:
 
     # Fa "{i}*kissing*"
-    Fa "{i}*beso*{/i}"
+    Fa "{i}*besando*{/i}"
 
 # game/scripts/day8.rpy:2031
 translate spanish re_d8b17_130305ef:
@@ -4462,7 +4462,7 @@ translate spanish re_d8b17_c96faf57:
 translate spanish re_d8b17_10377398_2:
 
     # Fa "{i}*kissing*"
-    Fa "{i}*beso*{/i}"
+    Fa "{i}*besando*{/i}"
 
 # game/scripts/day8.rpy:2089
 translate spanish re_d8b17_a9269aff_2:
@@ -4474,7 +4474,7 @@ translate spanish re_d8b17_a9269aff_2:
 translate spanish re_d8b17_10377398_3:
 
     # Fa "{i}*kissing*"
-    Fa "{i}*beso*{/i}"
+    Fa "{i}*besando*{/i}"
 
 # game/scripts/day8.rpy:2097
 translate spanish re_d8b17_e22651ef:
@@ -4648,7 +4648,7 @@ translate spanish re_d8b17_7e4dcb90:
 translate spanish re_d8b17_10377398_4:
 
     # Fa "{i}*kissing*"
-    Fa "{i}*beso*{/i}"
+    Fa "{i}*besando*{/i}"
 
 # game/scripts/day8.rpy:2164
 translate spanish re_d8b17_7c5b8d17:
@@ -4666,7 +4666,7 @@ translate spanish re_d8b17_49faa386_2:
 translate spanish re_d8b17_10377398_5:
 
     # Fa "{i}*kissing*"
-    Fa "{i}*beso*{/i}"
+    Fa "{i}*besando*{/i}"
 
 # game/scripts/day8.rpy:2175
 translate spanish re_d8b17_bf5a3ca6:
@@ -4702,7 +4702,7 @@ translate spanish re_d8b17_02d8cf77:
 translate spanish re_d8b17_84d57db6:
 
     # Faw "{i}*kissing*"
-    Faw "{i}*beso*{/i}"
+    Faw "{i}*besando*{/i}"
 
 # game/scripts/day8.rpy:2185
 translate spanish re_d8b17_8b523e44:
@@ -4906,7 +4906,7 @@ translate spanish re_d8b17_613f0835:
 translate spanish re_d8b17_10377398_6:
 
     # Fa "{i}*kissing*"
-    Fa "{i}*beso*{/i}"
+    Fa "{i}*besando*{/i}"
 
 # game/scripts/day8.rpy:2274
 translate spanish re_d8b17_2442c4a0:
@@ -4936,7 +4936,7 @@ translate spanish re_d8b17_0773e8cc:
 translate spanish re_d8b17_10377398_7:
 
     # Fa "{i}*kissing*"
-    Fa "{i}*beso*{/i}"
+    Fa "{i}*besando*{/i}"
 
 # game/scripts/day8.rpy:2287
 translate spanish re_d8b17_a9269aff_5:

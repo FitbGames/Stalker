@@ -394,13 +394,13 @@ translate spanish d1a_6dda3033:
 translate spanish d1a_49b080e1:
 
     # C "Shut up you idiots, we've got a prey."
-    C "Callad, idiotas, tenemos una presa."
+    C "¡Callad, idiotas! Tenemos una presa."
 
 # game/scripts/day1.rpy:228
 translate spanish d1a_e391bae3:
 
     # Haz "Look at what we got here... he must be one of those Desert Stalkers."
-    Haz "Mira lo que tenemos aquí... él debe ser uno de esos Acechadores del Desierto"
+    Haz "Mira lo que tenemos aquí... debe ser uno de esos Acechadores del Desierto."
 
 # game/scripts/day1.rpy:229
 translate spanish d1a_d4d2106f:
@@ -3844,7 +3844,7 @@ translate spanish re_zahra1_f742cbe4:
 translate spanish re_zahra1_60365b64:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day1.rpy:1803
 translate spanish re_zahra1_5c7d09c7:
@@ -3880,7 +3880,7 @@ translate spanish re_zahra1_1a463b43:
 translate spanish re_zahra1_60365b64_1:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day1.rpy:1818
 translate spanish re_zahra1_c9d91aef:
@@ -4018,7 +4018,7 @@ translate spanish d1e13_1425fc36:
 translate spanish d1e13_1eb702c2:
 
     # W "{i}*kissing*"
-    W "{i}*beso*{/i}"
+    W "{i}*besando*{/i}"
 
 # game/scripts/day1.rpy:1891
 translate spanish d1e13_9cee8e25:

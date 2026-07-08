@@ -382,7 +382,7 @@ translate spanish d3d_emilia_menu_e49ce34e:
 translate spanish d3d_emilia_menu_60365b64:
 
     # "{i}*kissing*"
-    "{i}*besos*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day3.rpy:156
 translate spanish d3d_emilia_menu_7329681e:
@@ -796,7 +796,7 @@ translate spanish re_d3d22_5b2e0977:
 translate spanish re_d3d22_d77af54d:
 
     # E "{i}*kissing*{/i}"
-    E "{i}*besos*{/i}"
+    E "{i}*besando*{/i}"
 
 # game/scripts/day3.rpy:293
 translate spanish re_d3d22_9970a300:
@@ -2668,7 +2668,7 @@ translate spanish d3a_7fa1ec2b:
 translate spanish d3a_a2a5b9f8:
 
     # A "nh... {i}*kissing*{/i}"
-    A "nh... {i}*kissing*{/i}"
+    A "nh... {i}*besando*{/i}"
 
 # game/scripts/day3.rpy:1224
 translate spanish d3a_e75ace64:

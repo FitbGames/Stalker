@@ -6822,7 +6822,7 @@ translate spanish d13h_31684297:
 translate spanish d13h_9d698611:
 
     # W "{i}*kissing*{/i}"
-    W "{i}*beso*{/i}"
+    W "{i}*besando*{/i}"
 
 # game/scripts/day13.rpy:3002
 translate spanish d13h_ee3ab73c:
@@ -7638,7 +7638,7 @@ translate spanish d13h_cum_0b3b46d1:
 translate spanish d13h_cum_665e3da6:
 
     # A "{i}*kissing*{/i}"
-    A "{i}*beso*{/i}"
+    A "{i}*besando*{/i}"
 
 # game/scripts/day13.rpy:3311
 translate spanish d13h_cum_1799fd44:
@@ -7842,7 +7842,7 @@ translate spanish d13h_cum_415a905a:
 translate spanish d13h_cum_1dd341cb:
 
     # S "{i}*kissing*{/i}"
-    S "{i}*beso*{/i}"
+    S "{i}*besando*{/i}"
 
 # game/scripts/day13.rpy:3371
 translate spanish d13h_cum_712d4ae2_2:
@@ -10374,7 +10374,7 @@ translate spanish d13k26_1c343ce5:
 translate spanish d13k26_1dd341cb:
 
     # S "{i}*kissing*{/i}"
-    S "{i}*beso*{/i}"
+    S "{i}*besando*{/i}"
 
 # game/scripts/day13.rpy:4729
 translate spanish d13k26_971a98df_1:
@@ -12936,7 +12936,7 @@ translate spanish d13l179_00ca00b3:
 translate spanish d13l179_3e53cb4f:
 
     # Q "{i}*kissing*{/i}"
-    Q "{i}*beso*{/i}"
+    Q "{i}*besando*{/i}"
 
 # game/scripts/day13.rpy:5740
 translate spanish d13l179_57421bfb:
@@ -12996,7 +12996,7 @@ translate spanish d13l179_0a9b5902:
 translate spanish d13l179_3e53cb4f_1:
 
     # Q "{i}*kissing*{/i}"
-    Q "{i}*beso*{/i}"
+    Q "{i}*besando*{/i}"
 
 # game/scripts/day13.rpy:5760
 translate spanish d13l179_ee3ba28c:
@@ -13014,7 +13014,7 @@ translate spanish d13l179_7f7b4a48:
 translate spanish d13l179_1dd341cb:
 
     # S "{i}*kissing*{/i}"
-    S "{i}*beso*{/i}"
+    S "{i}*besando*{/i}"
 
 # game/scripts/day13.rpy:5767
 translate spanish d13l179_6c610c66:
@@ -13032,7 +13032,7 @@ translate spanish d13l179_079f44bb:
 translate spanish d13l179_3e53cb4f_2:
 
     # Q "{i}*kissing*{/i}"
-    Q "{i}*beso*{/i}"
+    Q "{i}*besando*{/i}"
 
 # game/scripts/day13.rpy:5772
 translate spanish d13l179_ea391e6f:
@@ -13050,7 +13050,7 @@ translate spanish d13l179_886895fe:
 translate spanish d13l179_1dd341cb_1:
 
     # S "{i}*kissing*{/i}"
-    S "{i}*beso*{/i}"
+    S "{i}*besando*{/i}"
 
 # game/scripts/day13.rpy:5779
 translate spanish d13l179_b90abe61:
@@ -13140,7 +13140,7 @@ translate spanish d13l179_b40ef53b:
 translate spanish d13l179_1dd341cb_2:
 
     # S "{i}*kissing*{/i}"
-    S "{i}*beso*{/i}"
+    S "{i}*besando*{/i}"
 
 # game/scripts/day13.rpy:5812
 translate spanish d13l179_eaa8b9d4:
@@ -13164,7 +13164,7 @@ translate spanish d13l179_688dd153:
 translate spanish d13l179_3e53cb4f_3:
 
     # Q "{i}*kissing*{/i}"
-    Q "{i}*beso*{/i}"
+    Q "{i}*besando*{/i}"
 
 # game/scripts/day13.rpy:5821
 translate spanish d13l179_e32e9968:
@@ -13548,7 +13548,7 @@ translate spanish d13l231_168c0a1e:
 translate spanish d13l231_3e53cb4f:
 
     # Q "{i}*kissing*{/i}"
-    Q "{i}*beso*{/i}"
+    Q "{i}*besando*{/i}"
 
 # game/scripts/day13.rpy:5952
 translate spanish d13l231_855a65c0:
@@ -13572,7 +13572,7 @@ translate spanish d13l231_06369c7b:
 translate spanish d13l231_3e53cb4f_1:
 
     # Q "{i}*kissing*{/i}"
-    Q "{i}*beso*{/i}"
+    Q "{i}*besando*{/i}"
 
 # game/scripts/day13.rpy:5958
 translate spanish d13l231_ce9cb4fa:
@@ -13818,7 +13818,7 @@ translate spanish d13l231_39b98873:
 translate spanish d13l231_3e53cb4f_2:
 
     # Q "{i}*kissing*{/i}"
-    Q "{i}*beso*{/i}"
+    Q "{i}*besando*{/i}"
 
 # game/scripts/day13.rpy:6042
 translate spanish d13l231_d4f59f65:
@@ -13896,7 +13896,7 @@ translate spanish d13l231_b450a640:
 translate spanish d13l231_3e53cb4f_3:
 
     # Q "{i}*kissing*{/i}"
-    Q "{i}*beso*{/i}"
+    Q "{i}*besando*{/i}"
 
 # game/scripts/day13.rpy:6077
 translate spanish d13l231_c86fc3be:
@@ -13974,7 +13974,7 @@ translate spanish d13l231_0d41a33a:
 translate spanish d13l231_3e53cb4f_4:
 
     # Q "{i}*kissing*{/i}"
-    Q "{i}*beso*{/i}"
+    Q "{i}*besando*{/i}"
 
 # game/scripts/day13.rpy:6102
 translate spanish d13l231_deed70dd:

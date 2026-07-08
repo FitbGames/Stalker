@@ -1144,7 +1144,7 @@ translate spanish re_d15a73_632f679e:
 translate spanish re_d15a73_6993b6da:
 
     # A "Nh... {i}*kissing*{/i}"
-    A "Nh... {i}*beso*{/i}"
+    A "Nh... {i}*besando*{/i}"
 
 # game/scripts/day15.rpy:495
 translate spanish re_d15a73_199d4814:
@@ -3094,7 +3094,7 @@ translate spanish d15a241_73790b4c:
 translate spanish d15a241_5c837578:
 
     # Na "{i}*kissing*{/i}"
-    Na "{i}*beso*{/i}"
+    Na "{i}*besando*{/i}"
 
 # game/scripts/day15.rpy:1252
 translate spanish d15a241_95ac65d5:
@@ -3598,7 +3598,7 @@ translate spanish re_d15b12_927fb953:
 translate spanish re_d15b12_1dd341cb:
 
     # S "{i}*kissing*{/i}"
-    S "{i}*beso*{/i}"
+    S "{i}*besando*{/i}"
 
 # game/scripts/day15.rpy:1524
 translate spanish re_d15b12_5419c1ed:
@@ -3730,7 +3730,7 @@ translate spanish re_d15b12_a3c68a48:
 translate spanish re_d15b12_1dd341cb_1:
 
     # S "{i}*kissing*{/i}"
-    S "{i}*beso*{/i}"
+    S "{i}*besando*{/i}"
 
 # game/scripts/day15.rpy:1597
 translate spanish re_d15b12_d08da064:
@@ -3748,7 +3748,7 @@ translate spanish re_d15b12_57421bfb_1:
 translate spanish re_d15b12_1dd341cb_2:
 
     # S "{i}*kissing*{/i}"
-    S "{i}*beso*{/i}"
+    S "{i}*besando*{/i}"
 
 # game/scripts/day15.rpy:1604
 translate spanish re_d15b12_23f6fe50:

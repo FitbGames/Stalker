@@ -664,7 +664,7 @@ translate spanish d14a35_6e037dd7:
 translate spanish d14a35_43698491:
 
     # Ka "{i}*kissing*{/i}"
-    Ka "{i}*beso*{/i}"
+    Ka "{i}*besando*{/i}"
 
 # game/scripts/day14.rpy:339
 translate spanish d14a35_a0eecaff:
@@ -1468,7 +1468,7 @@ translate spanish d14a104_53939d82:
 translate spanish d14a104_43698491:
 
     # Ka "{i}*kissing*{/i}"
-    Ka "{i}*beso*{/i}"
+    Ka "{i}*besando*{/i}"
 
 # game/scripts/day14.rpy:707
 translate spanish d14a104_0faf409f:
@@ -1486,7 +1486,7 @@ translate spanish d14a104_9220bdd4:
 translate spanish d14a104_43698491_1:
 
     # Ka "{i}*kissing*{/i}"
-    Ka "{i}*beso*{/i}"
+    Ka "{i}*besando*{/i}"
 
 # game/scripts/day14.rpy:714
 translate spanish d14a104_6b5fa366:
@@ -1516,7 +1516,7 @@ translate spanish d14a104_ba968c84:
 translate spanish d14a104_43698491_2:
 
     # Ka "{i}*kissing*{/i}"
-    Ka "{i}*beso*{/i}"
+    Ka "{i}*besando*{/i}"
 
 # game/scripts/day14.rpy:725
 translate spanish d14a104_75a9cd81_1:
@@ -3430,7 +3430,7 @@ translate spanish d14a273_75a9cd81_1:
 translate spanish d14a273_43698491:
 
     # Ka "{i}*kissing*{/i}"
-    Ka "{i}*beso*{/i}"
+    Ka "{i}*besando*{/i}"
 
 # game/scripts/day14.rpy:1532
 translate spanish d14a273_6c2f861c:

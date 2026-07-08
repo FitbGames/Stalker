@@ -6118,7 +6118,7 @@ translate spanish d16a435_b6887a40:
 translate spanish d16a435_6f9b49bf:
 
     # Li "{i}*kissing*{/i}"
-    Li "{i}*beso*{/i}"
+    Li "{i}*besando*{/i}"
 
 # game/scripts/day16.rpy:2580
 translate spanish d16a435_257d6a6b:
@@ -10354,7 +10354,7 @@ translate spanish d16b37_fbee13d7:
 translate spanish d16b37_06fa2425:
 
     # Ig "Mh... {i}*kissing*{/i}"
-    Ig "Mh... {i}*beso*{/i}"
+    Ig "Mh... {i}*besando*{/i}"
 
 # game/scripts/day16.rpy:4404
 translate spanish d16b37_310cbb98:
@@ -10366,7 +10366,7 @@ translate spanish d16b37_310cbb98:
 translate spanish d16b37_43698491:
 
     # Ka "{i}*kissing*{/i}"
-    Ka "{i}*beso*{/i}"
+    Ka "{i}*besando*{/i}"
 
 # game/scripts/day16.rpy:4410
 translate spanish d16b37_afa561ce:
@@ -15034,7 +15034,7 @@ translate spanish re_d16c194_6eb11595:
 translate spanish re_d16c194_9d698611:
 
     # W "{i}*kissing*{/i}"
-    W "{i}*beso*{/i}"
+    W "{i}*besando*{/i}"
 
 # game/scripts/day16.rpy:6297
 translate spanish re_d16c194_998943b8:
@@ -15058,7 +15058,7 @@ translate spanish re_d16c194_3266cc43:
 translate spanish re_d16c194_db5f3ebf:
 
     # Ww "I love you, [persistent.player_name]... {i}*kissing*{/i}"
-    Ww "Te amo, [persistent.player_name]... {i}*beso*{/i}"
+    Ww "Te quiero, [persistent.player_name]... {i}*besando*{/i}"
 
 # game/scripts/day16.rpy:6305
 translate spanish re_d16c194_9400adf2:
@@ -15526,7 +15526,7 @@ translate spanish re_d16c194_04f739e6:
 translate spanish re_d16c194_04721af9:
 
     # Z "{i}*kissing*{/i}"
-    Z "{i}*beso*{/i}"
+    Z "{i}*besando*{/i}"
 
 # game/scripts/day16.rpy:6481
 translate spanish re_d16c194_2ad034eb_4:
@@ -15754,7 +15754,7 @@ translate spanish re_d16c194_417ded94:
 translate spanish re_d16c194_9d698611_1:
 
     # W "{i}*kissing*{/i}"
-    W "{i}*beso*{/i}"
+    W "{i}*besando*{/i}"
 
 # game/scripts/day16.rpy:6561
 translate spanish re_d16c194_bc07f404:
@@ -15832,7 +15832,7 @@ translate spanish re_d16c194_9c8e0d10:
 translate spanish re_d16c194_9d698611_2:
 
     # W "{i}*kissing*{/i}"
-    W "{i}*beso*{/i}"
+    W "{i}*besando*{/i}"
 
 # game/scripts/day16.rpy:6601
 translate spanish re_d16c194_e6a52f48:

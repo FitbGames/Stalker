@@ -2494,7 +2494,7 @@ translate spanish d4d_3ceeec89_1:
 translate spanish d4d_talia_kissing_acb046a0:
 
     # Ta "{i}*kissing*"
-    Ta "{i}*besos*{/i}"
+    Ta "{i}*besando*{/i}"
 
 # game/scripts/day4.rpy:989
 translate spanish d4d_talia_kissing_41ca482a:

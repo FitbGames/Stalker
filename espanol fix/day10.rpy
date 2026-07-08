@@ -1504,7 +1504,7 @@ translate spanish re_d10a86_f8a747ee:
 translate spanish re_d10a86_10377398:
 
     # Fa "{i}*kissing*"
-    Fa "{i}*beso*{/i}"
+    Fa "{i}*besando*{/i}"
 
 # game/scripts/day10.rpy:626
 translate spanish re_d10a86_91ac2794:
@@ -1516,7 +1516,7 @@ translate spanish re_d10a86_91ac2794:
 translate spanish re_d10a86_2265dc2d:
 
     # Mant "{i}*kissing*"
-    Mant "{i}*beso*{/i}"
+    Mant "{i}*besando*{/i}"
 
 # game/scripts/day10.rpy:630
 translate spanish re_d10a86_043211fc:
@@ -1528,13 +1528,13 @@ translate spanish re_d10a86_043211fc:
 translate spanish re_d10a86_95324fe4:
 
     # Mant "...nh.. {i}*kissing*"
-    Mant "... nh.. {i}*beso*"
+    Mant "... nh.. {i}*besando*{/i}"
 
 # game/scripts/day10.rpy:636
 translate spanish re_d10a86_be59c349:
 
     # Mant "Ha...!"
-    Mant "¡Jajaja...!"
+    Mant "¡Ha...!"
 
 # game/scripts/day10.rpy:637
 translate spanish re_d10a86_3de6d4c4:
@@ -1582,7 +1582,7 @@ translate spanish re_d10a86_e928c4d8:
 translate spanish re_d10a86_10377398_1:
 
     # Fa "{i}*kissing*"
-    Fa "{i}*beso*{/i}"
+    Fa "{i}*besando*{/i}"
 
 # game/scripts/day10.rpy:651
 translate spanish re_d10a86_701f97f6:
@@ -1624,7 +1624,7 @@ translate spanish re_d10a86_bba36b4b:
 translate spanish re_d10a86_ed7b5ba9:
 
     # Mantw "{i}*kissing*"
-    Mantw "{i}*beso*{/i}"
+    Mantw "{i}*besando*{/i}"
 
 # game/scripts/day10.rpy:666
 translate spanish re_d10a86_ef2169fc:
@@ -5380,7 +5380,7 @@ translate spanish d10b80_3190db36:
 translate spanish d10b105_0c172790:
 
     # Ky "{i}*kissing*"
-    Ky "{i}*beso*{/i}"
+    Ky "{i}*besando*{/i}"
 
 # game/scripts/day10.rpy:2303
 translate spanish d10b105_f9a65257:
@@ -5428,7 +5428,7 @@ translate spanish d10b105_41d48e6a:
 translate spanish d10b105_c09b8289:
 
     # Ky "Ngh... {i}*kissing*"
-    Ky "Ngh...  {i}*beso*"
+    Ky "Ngh... {i}*besando*{/i}"
 
 # game/scripts/day10.rpy:2324
 translate spanish d10b105_35a67ac3_1:

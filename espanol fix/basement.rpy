@@ -4078,7 +4078,7 @@ translate spanish fairy_bath_solo_f92315d2_1:
 translate spanish fairy_bath_solo_0627a6a6:
 
     # E "{i}*kissing*"
-    E "{i}*besandose*{/i}"
+    E "{i}*besando*{/i}"
 
 # game/scripts/basement.rpy:1883
 translate spanish fairy_bath_solo_4e1af654:
@@ -4102,7 +4102,7 @@ translate spanish fairy_bath_solo_03cf1668:
 translate spanish fairy_bath_solo_60365b64:
 
     # "{i}*kissing*"
-    "{i}*besandose*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/basement.rpy:1892
 translate spanish fairy_bath_solo_baed6e47:

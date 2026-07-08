@@ -4972,7 +4972,7 @@ translate spanish d11c21_663968de:
 translate spanish d11c21_60365b64:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day11.rpy:2112
 translate spanish d11c21_373014d7:
@@ -5014,7 +5014,7 @@ translate spanish d11c21_127d68c9:
 translate spanish d11c21_60365b64_1:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day11.rpy:2123
 translate spanish d11c21_879fa6e2:
@@ -6232,7 +6232,7 @@ translate spanish d11d12_f19bbbf2:
 translate spanish d11d12_60365b64:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day11.rpy:2626
 translate spanish d11d12_ab074556:
@@ -6298,7 +6298,7 @@ translate spanish d11d12_6550ee93:
 translate spanish d11d12_60365b64_1:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day11.rpy:2656
 translate spanish d11d12_e9445bae:
@@ -6316,7 +6316,7 @@ translate spanish d11d12_783cf8ff:
 translate spanish d11d12_60365b64_2:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day11.rpy:2663
 translate spanish d11d12_bdcf22e6:
@@ -6418,7 +6418,7 @@ translate spanish d11d12_9394b289:
 translate spanish d11d12_60365b64_3:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day11.rpy:2700
 translate spanish d11d12_28fa78e8:
@@ -6616,7 +6616,7 @@ translate spanish d11d12_ed23cbed:
 translate spanish d11d12_485bf507:
 
     # Z "{i}*kissing*"
-    Z "{i}*beso*{/i}"
+    Z "{i}*besando*{/i}"
 
 # game/scripts/day11.rpy:2778
 translate spanish d11d12_2ad034eb:
@@ -6982,7 +6982,7 @@ translate spanish d11e5_43e917c9:
 translate spanish d11e5_60365b64:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day11.rpy:2947
 translate spanish d11e5_795412ad:
@@ -7192,7 +7192,7 @@ translate spanish d11e29_fbc86634:
 translate spanish d11e29_ad47788b:
 
     # Ka "{i}*kisses*"
-    Ka "{i}*beso*"
+    Ka "{i}*besos*{/i}"
 
 # game/scripts/day11.rpy:3034
 translate spanish d11e29_061cbaf1:
@@ -7678,7 +7678,7 @@ translate spanish d11e80_39790360:
 translate spanish d11e92_60365b64:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day11.rpy:3242
 translate spanish d11e92_2ad034eb:
@@ -7750,7 +7750,7 @@ translate spanish d11e92_47af36c6:
 translate spanish d11e92_60365b64_1:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day11.rpy:3278
 translate spanish d11e92_9fe16875:
@@ -7816,7 +7816,7 @@ translate spanish d11e92_75a9cd81:
 translate spanish d11e92_60365b64_2:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day11.rpy:3299
 translate spanish d11e92_052a0153:
@@ -8188,7 +8188,7 @@ translate spanish d11e_kissing_kateryna_7c48bace:
 translate spanish d11e_kissing_kateryna_60365b64:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day11.rpy:3510
 translate spanish d11e_kissing_kateryna_75fd72b9:
@@ -8242,7 +8242,7 @@ translate spanish d11e_kissing_kateryna_334482a6:
 translate spanish d11e_sex_kateryna_60365b64:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day11.rpy:3538
 translate spanish d11e_sex_kateryna_0681cd94:
@@ -8656,7 +8656,7 @@ translate spanish d11e_cum_kateryna_ef04e07f:
 translate spanish d11e_cum_kateryna_60365b64:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day11.rpy:3722
 translate spanish d11e_cum_kateryna_2bc87b95:
@@ -8668,13 +8668,13 @@ translate spanish d11e_cum_kateryna_2bc87b95:
 translate spanish d11e_cum_kateryna_60365b64_1:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day11.rpy:3728
 translate spanish d11e_cum_kateryna_60365b64_2:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day11.rpy:3729
 translate spanish d11e_cum_kateryna_867f49df:
@@ -9622,7 +9622,7 @@ translate spanish d11e_sex_kateryna_zahra_e8337a4a:
 translate spanish d11e_sex_kateryna_zahra_60365b64:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day11.rpy:4091
 translate spanish d11e_sex_kateryna_zahra_93a6f8c0:
@@ -9640,7 +9640,7 @@ translate spanish d11e_sex_kateryna_zahra_dd6168c7:
 translate spanish d11e_sex_kateryna_zahra_60365b64_1:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day11.rpy:4101
 translate spanish d11e_sex_kateryna_zahra_4a06c51c:

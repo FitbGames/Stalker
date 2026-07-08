@@ -1444,7 +1444,7 @@ translate spanish d12a35_e7913b4a:
 translate spanish d12a35_60365b64:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day12.rpy:792
 translate spanish d12a35_ba97f208:
@@ -1618,7 +1618,7 @@ translate spanish d12a35_d81c64c7:
 translate spanish d12a35_60365b64_1:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day12.rpy:855
 translate spanish d12a35_98126758:
@@ -1750,7 +1750,7 @@ translate spanish d12a35_437c6096:
 translate spanish d12a35_60365b64_2:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day12.rpy:908
 translate spanish d12a35_4567d708:
@@ -1912,7 +1912,7 @@ translate spanish d12a44_ef436a29:
 translate spanish d12a44_93bf955e:
 
     # F "{i}*kissing*"
-    F "{i}*beso*{/i}"
+    F "{i}*besando*{/i}"
 
 # game/scripts/day12.rpy:984
 translate spanish d12a44_8a1b6776:

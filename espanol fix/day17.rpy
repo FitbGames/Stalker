@@ -7438,7 +7438,7 @@ translate spanish d17b_d744b46c:
 translate spanish d17b_59ee0905:
 
     # Sli "{i}*kiss*{/i}"
-    Sli "{i}*beso*{/i}"
+    Sli "{i}*besando*{/i}"
 
 # game/scripts/day17.rpy:3666
 translate spanish d17b_bf08ef6f:

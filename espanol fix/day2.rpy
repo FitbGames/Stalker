@@ -28,7 +28,7 @@ translate spanish day1_end_ba01dbdb:
 translate spanish day1_end_c1a4e7dd:
 
     # Zt "I didn't hear anything during the night. She must've gotten out quietly."
-    Zt "No oí nada durante la noche. Ella debió de salir en silencio."
+    Zt "No oí nada durante la noche. Ella debió salir en silencio."
 
 # game/scripts/day2.rpy:31
 translate spanish day1_end_97a4fa3b:
@@ -130,7 +130,7 @@ translate spanish d2b_024c461e:
 translate spanish d2b_ee7aaf6b:
 
     # Zt "Old man?!"
-    Zt "¿Viejo?!"
+    Zt "¡¿Viejo?!"
 
 # game/scripts/day2.rpy:73
 translate spanish d2b_454a0c23:
@@ -916,7 +916,7 @@ translate spanish d2c6_3e79a8b1:
 translate spanish d2c6_7bb9b3ec:
 
     # Z "Why so polite..."
-    Z "¿Por qué tanta cortes..."
+    Z "¿Por qué tan cortes...?"
 
 # game/scripts/day2.rpy:432
 translate spanish d2c6_6621f641:
@@ -940,7 +940,7 @@ translate spanish d2c6_c479dba3:
 translate spanish d2c6_1b415baa:
 
     # Q "Kneel or I'll have you escorted out and you'll never enter my throne room again."
-    Q "Arrodíllate o haré que te echen y no volverás a entrar en mi sala del trono."
+    Q "Arrodíllate o haré que te saquen de aquí y no volverás a entrar nunca más en mi sala del trono."
 
 # game/scripts/day2.rpy:442
 translate spanish d2c6_c918f50c:

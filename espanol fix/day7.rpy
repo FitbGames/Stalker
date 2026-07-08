@@ -1336,7 +1336,7 @@ translate spanish d7a_6d298b8c:
 translate spanish d7a_60365b64:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besando*{/i}"
 
 # game/scripts/day7.rpy:460
 translate spanish d7a_c2c9cc07:
@@ -2548,7 +2548,7 @@ translate spanish d7a164_ca1d716f:
 translate spanish d7a164_e2591535:
 
     # "{i}*Kissing*"
-    "{i}*beso*"
+    "{i}*besando*{/i}
 
 # game/scripts/day7.rpy:963
 translate spanish d7a164_92d29227:
@@ -2950,7 +2950,7 @@ translate spanish d7a164_ec9ea178:
 translate spanish d7a180_08f7395a:
 
     # Sl "{i}*kissing*"
-    Sl "{i}*beso*{/i}"
+    Sl "{i}*besando*{/i}"
 
 # game/scripts/day7.rpy:1123
 translate spanish d7a180_d9b00ae2:

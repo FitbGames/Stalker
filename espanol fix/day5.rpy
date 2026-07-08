@@ -6274,7 +6274,7 @@ translate spanish d5c11_2b0155f6:
 translate spanish d5c11_0c172790:
 
     # Ky "{i}*kissing*"
-    Ky "{i}*besos*{/i}"
+    Ky "{i}*besando*{/i}"
 
 # game/scripts/day5.rpy:2720
 translate spanish d5c11_6e037dd7:
@@ -10120,7 +10120,7 @@ translate spanish re_d5c180_3fdee496:
 translate spanish re_d5c180_b66274fe:
 
     # Ky "{i}*kissing*{/i}"
-    Ky "{i}*besos*{/i}"
+    Ky "{i}*besando*{/i}"
 
 # game/scripts/day5.rpy:4357
 translate spanish re_d5c180_3b34fd56:
@@ -10156,7 +10156,7 @@ translate spanish re_d5c180_8218d58e:
 translate spanish re_d5c180_b66274fe_1:
 
     # Ky "{i}*kissing*{/i}"
-    Ky "{i}*besos*{/i}"
+    Ky "{i}*besando*{/i}"
 
 # game/scripts/day5.rpy:4367
 translate spanish re_d5c180_55eade9b:
@@ -14932,7 +14932,7 @@ translate spanish d5b_fangs_fight_p4_ab081859:
 translate spanish d5b_fangs_fight_p4_10377398:
 
     # Fa "{i}*kissing*"
-    Fa "{i}*besos*{/i}"
+    Fa "{i}*besando*{/i}"
 
 # game/scripts/day5.rpy:6566
 translate spanish fangstoplaid_757618bf:
@@ -14974,7 +14974,7 @@ translate spanish fangstoplaid_07db8355:
 translate spanish fangstoplaid_10377398:
 
     # Fa "{i}*kissing*"
-    Fa "{i}*besos*{/i}"
+    Fa "{i}*besando*{/i}"
 
 # game/scripts/day5.rpy:6581
 translate spanish fangstoplaid_a7d803e8:
