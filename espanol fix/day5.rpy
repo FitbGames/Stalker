@@ -688,7 +688,7 @@ translate spanish d5g_ain_sex_ea663f9d:
 translate spanish d5g_ain_sex_216da4e6:
 
     # W "Pay attention!"
-    W "Presta atención."
+    W "¡Presta atención!"
 
 # game/scripts/day5.rpy:357
 translate spanish d5g_ain_sex_7cee9c29:
@@ -1060,7 +1060,7 @@ translate spanish d5g_zahra_sex_eb195dc7:
 translate spanish d5g_zahra_sex_3d568730:
 
     # Ky "Your \"husband\" even fucked me while I was aslee-"
-    Ky "Tu \"
+    Ky "Tu \"marido\" incluso me folló mientras estaba dormi..."
 
 # game/scripts/day5.rpy:554
 translate spanish d5g_zahra_sex_d218c9fb:
@@ -1102,7 +1102,7 @@ translate spanish d5g_zahra_sex_988ca307:
 translate spanish d5g_zahra_sex_c2e04b53:
 
     # W "You may have all these guys in your little Raider home..."
-    W "Puede que tengas a todos estos tipos en tu pequeña casa de asaltantes..."
+    W "Puede que tengas a todos estos tipos en tu pequeño hogar de asaltantes..."
 
 # game/scripts/day5.rpy:569
 translate spanish d5g_zahra_sex_48d91b5e:
@@ -1144,7 +1144,7 @@ translate spanish d5g_zahra_sex_52c85752:
 translate spanish d5g_zahra_sex_996d6182:
 
     # W "...and passionately..."
-    W "...y pasión..."
+    W "... y pasión..."
 
 # game/scripts/day5.rpy:588
 translate spanish d5g_zahra_sex_925f8379:
@@ -1168,7 +1168,7 @@ translate spanish d5g_zahra_sex_c7d2c7d5:
 translate spanish d5g_zahra_sex_dde5e538:
 
     # "{i}You start taking her more aggressively..."
-    "{i}Empiezas a tomarla con más agresividad..."
+    "{i}Empiezas a tratarla de forma más agresiva..."
 
 # game/scripts/day5.rpy:596
 translate spanish d5g_zahra_sex_5bf3bf41:
@@ -2302,7 +2302,7 @@ translate spanish d5f_fairy_5ab3574d:
 translate spanish d5f_fairy_b57083c2:
 
     # Z "What the hell, [Ki]?!"
-    Z "¡¿Qué cojones haces, [Ki]?! "
+    Z "¡¿Qué cojones haces, [Ki]?!"
 
 # game/scripts/day5.rpy:1022
 translate spanish d5f_fairy_78c20636:

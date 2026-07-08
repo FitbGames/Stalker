@@ -2284,7 +2284,7 @@ translate spanish d6b1_fff1d41e:
 translate spanish d6b1_27fe6775:
 
     # C "Who is it!?"
-    C "¿Quién es?"
+    C "¡¿Quién es?!"
 
 # game/scripts/day6.rpy:940
 translate spanish d6b1_90fa3dc6:
