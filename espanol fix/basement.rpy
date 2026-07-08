@@ -10,7 +10,7 @@ translate spanish basement_entry_f3302ce1:
 translate spanish basement_ain_cfe06c6c:
 
     # A "Hey [persistent.dad], thank you for visiting me."
-    A "Oye, [persistent.dad], gracias por venir a verme."
+    A "Hola, [persistent.dad]. Gracias por venir a verme."
 
 # game/scripts/basement.rpy:38
 translate spanish basement_ain_526a56ff:
