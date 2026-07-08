@@ -970,7 +970,7 @@ translate spanish d18b_a11c1ec0:
 translate spanish d18b_9f61260b:
 
     # "From his businesslike manner, you can tell that the man is not really offended. He's merely preparing himself to haggle, like any merchant would."
-    "Por su actitud de negociante, puedes ver que en realidad no está ofendido. Solo se está preparando para regatear, como cualquier mercader."
+    "Por su actitud, propia de un comerciante, te das cuenta de que en realidad no está ofendido. Simplemente se está preparando para regatear, como haría cualquier mercader."
 
 # game/scripts/day18.rpy:420
 translate spanish d18b_bb31b5c9:
@@ -1666,7 +1666,7 @@ translate spanish d18b75_6840a238:
 translate spanish d18b75_4d4a08f5:
 
     # "Feeling horny, you decide to shake things up a bit."
-    "Sintiendo el deseo ardiendo en tu interior, decides cambiar un poco el ritmo."
+    "Al sentirte excitado, decides animar un poco la situación."
 
 # game/scripts/day18.rpy:680
 translate spanish d18b75_e9b7bf3b:
@@ -1810,13 +1810,13 @@ translate spanish d18b78_d8654138:
 translate spanish d18b78_574b1bc1:
 
     # A "[persistent.dad!tc], see those people over there? That slave is..."
-    A "[persistent.dad!c], ¿ves a esas personas de allí? Esa esclava está..."
+    A "[persistent.dad!tc], ¿ves a esas personas de allí? Esa esclava está..."
 
 # game/scripts/day18.rpy:743
 translate spanish d18b78_ab0c14f4:
 
     # "As you glimpse over, it looks like a customer is enjoying the service of a recently purchased slave..."
-    "Cuando miras, parece que un cliente está disfrutando de los servicios de una esclava recién comprada..."
+    "Al mirar hacia allí, parece que un cliente está disfrutando de los servicios de una esclava recién comprada..."
 
 # game/scripts/day18.rpy:751
 translate spanish re_d18b83_1bcd5c48:
