@@ -1126,7 +1126,7 @@ translate spanish d2d_26a803bc:
 translate spanish d2d_8ccfe09d:
 
     # Z "Hey, where did you go? What happene- {p=1.3} {nw}"
-    Z "Ey, ¿a dónde fuiste? ¿Qué pasó? {p=1.3} {nw}"
+    Z "Eh, ¿a dónde fuiste? ¿Qué pasó? {p=1.3} {nw}"
 
 # game/scripts/day2.rpy:533
 translate spanish d2d_82dcd0dc:

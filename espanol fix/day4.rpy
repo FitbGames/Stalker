@@ -28,7 +28,7 @@ translate spanish d4c_4325522f:
 translate spanish d4c_ce501811:
 
     # S "Hey... yes sir."
-    S "Ey... sí señor."
+    S "Oye... sí señor."
 
 # game/scripts/day4.rpy:17
 translate spanish d4c_034eeec9:
@@ -826,7 +826,7 @@ translate spanish d4a_b8922966:
 translate spanish d4a_8b08aaee:
 
     # W "Hey, husband... I am just about done."
-    W "Ey, marido... ya casi termino."
+    W "Eh, marido... ya casi termino."
 
 # game/scripts/day4.rpy:288
 translate spanish d4a_f185fd1b:
@@ -886,7 +886,7 @@ translate spanish d4a_5f2991c6:
 translate spanish d4a_00d7e158:
 
     # Z "Hey.. it's time to wake up."
-    Z "Ey... es hora de despertar."
+    Z "Eh... es hora de despertar."
 
 # game/scripts/day4.rpy:310
 translate spanish d4a_7ddcfef2:
@@ -898,7 +898,7 @@ translate spanish d4a_7ddcfef2:
 translate spanish d4a_00d7e158_1:
 
     # Z "Hey.. it's time to wake up."
-    Z "Ey... es hora de despertar."
+    Z "Eh... es hora de despertar."
 
 # game/scripts/day4.rpy:317
 translate spanish d4a_abeeb0ff:
@@ -910,7 +910,7 @@ translate spanish d4a_abeeb0ff:
 translate spanish d4a_aeaab7cd:
 
     # Z "Hey, wake up."
-    Z "Ey, despierta."
+    Z "Eh, despierta."
 
 # game/scripts/day4.rpy:321
 translate spanish d4a_bbbeec4c:
@@ -1192,7 +1192,7 @@ translate spanish re_d4a3_c596f561:
 translate spanish re_d4a3_aeaab7cd:
 
     # Z "Hey, wake up."
-    Z "Ey, despierta."
+    Z "Eh, despierta."
 
 # game/scripts/day4.rpy:440
 translate spanish re_d4a3_bbbeec4c:
