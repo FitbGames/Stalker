@@ -1042,7 +1042,7 @@ translate spanish d7a_772584d4:
 translate spanish d7a_17808bec:
 
     # Z "{i}*sighs*"
-    Z "{i}*suspiros*"
+    Z "{i}*suspiros*{/i}"
 
 # game/scripts/day7.rpy:349
 translate spanish d7a_b433aca2:
@@ -3232,7 +3232,7 @@ translate spanish d7a201x_3c9c0dab:
 translate spanish d7a201x_0936ac65:
 
     # Tg "{i}*sighs*"
-    Tg "{i}*suspiros*"
+    Tg "{i}*suspiros*{/i}"
 
 # game/scripts/day7.rpy:1253
 translate spanish d7a201x_f0ba899b:
@@ -3352,7 +3352,7 @@ translate spanish re_d7a217_a8ad3edb:
 translate spanish re_d7a217_6d21d78a:
 
     # Q "{i}*sighs*"
-    Q "{i}*suspiros*"
+    Q "{i}*suspiros*{/i}"
 
 # game/scripts/day7.rpy:1302
 translate spanish re_d7a217_a9cc3432:

@@ -742,7 +742,7 @@ translate spanish d9a0_2ea261af:
 translate spanish d9a0_4eafcdad:
 
     # Mi "{i}*exhales*"
-    Mi "{i}*exhalación*"
+    Mi "{i}*exhalando*{/i}"
 
 # game/scripts/day9.rpy:309
 translate spanish d9a0_da3fdbf1_2:
@@ -808,7 +808,7 @@ translate spanish d9a0_bdc61a01_2:
 translate spanish d9a0_6d21d78a:
 
     # Q "{i}*sighs*"
-    Q "{i}*suspiros*"
+    Q "{i}*suspiros*{/i}"
 
 # game/scripts/day9.rpy:340
 translate spanish d9a0_125a93d2:
@@ -832,7 +832,7 @@ translate spanish d9a0_b4a1cf04:
 translate spanish d9a0_81b4fd73:
 
     # Q "What are you doing here?!"
-    Q "¿Qué hacéis aquí?"
+    Q "¡¿Qué haces aquí?!"
 
 # game/scripts/day9.rpy:351
 translate spanish d9a0_0047b0f5:
@@ -1006,7 +1006,7 @@ translate spanish d9a0_3d94f88d:
 translate spanish d9a0_17808bec:
 
     # Z "{i}*sighs*"
-    Z "{i}*suspiros*"
+    Z "{i}*suspiros*{/i}"
 
 # game/scripts/day9.rpy:426
 translate spanish d9a0_125a93d2_1:

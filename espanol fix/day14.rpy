@@ -226,13 +226,13 @@ translate spanish d14a_part_1_0395d470:
 translate spanish d14a_part_1_5a8adac2:
 
     # W "I wanted to speak about our new house member, if you don't mind."
-    W "Quería hablar de nuestro nueva miembro de la casa, si no te importa."
+    W "Quería hablar de nuestro nuevo miembro de la casa, si no te importa."
 
 # game/scripts/day14.rpy:107
 translate spanish d14a_part_1_45a1820c:
 
     # Z "How is she liking her bath?"
-    Z "¿Le está gustando el baño?"
+    Z "¿Qué tal le está yendo el baño?"
 
 # game/scripts/day14.rpy:110
 translate spanish d14a_part_1_023bb872:
@@ -412,7 +412,7 @@ translate spanish d14a35_3c15519b:
 translate spanish d14a35_ac8d1c6d:
 
     # Ka "Thank you for bath. [F] is very kind, but she is bit handsy. {i}*giggles*{/i}"
-    Ka "Gracias por el baño. [F] es muy amable, pero es un poco manoseadora. {i}*risitas*{/i}"
+    Ka "Gracias por el baño. [F] es muy amable, pero es un poco tocona. {i}*risitas*{/i}"
 
 # game/scripts/day14.rpy:196
 translate spanish d14a35_ef1747d7:
@@ -1162,7 +1162,7 @@ translate spanish d14a104_02775d27:
 translate spanish d14a104_f72fae52:
 
     # "If you didn't know better, you would confuse this look for one of confidence. But it is not that."
-    "Si no supieras mejor, podrías confundir esta mirada con una de confianza. Pero no es eso."
+    "Si no la conocieras mejor, podrías confundir esta mirada con una de confianza. Pero no es eso."
 
 # game/scripts/day14.rpy:570
 translate spanish d14a104_a92b8822:

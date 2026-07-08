@@ -220,13 +220,13 @@ translate spanish d11a_2e9c3a57:
 translate spanish d11a_d7989208:
 
     # "The temperature is unexpectedly cool, the unusual blue lighting plays with the humidity creating a foggy film in the air."
-    "La temperatura es inesperadamente fresca, la inusual iluminación azul juega con la humedad del aire creando creando un velo de niebla."
+    "La temperatura es inesperadamente fresca, la inusual iluminación azul juega con la humedad del aire creando un velo de niebla."
 
 # game/scripts/day11.rpy:104
 translate spanish d11a_a2077d1b:
 
     # "If not for artificial lighting, you would be in utter darkness."
-    "La temperatura es inesperadamente fresca; la inusual iluminación azul juega con la humedad, creando un velo de niebla en el aire."
+    "Si no fuera por la iluminación artificial, estarías en completa oscuridad."
 
 # game/scripts/day11.rpy:107
 translate spanish d11a_3568ea9a:
@@ -862,7 +862,7 @@ translate spanish d11a70_cffee913:
 translate spanish d11a70_1d34fa37:
 
     # I "{i}*stretching*"
-    I "{i}*estirándose*"
+    I "{i}*estirándose*{/i}"
 
 # game/scripts/day11.rpy:381
 translate spanish d11a70_af60975b:
@@ -5728,7 +5728,7 @@ translate spanish re_d11c19_17bc58ad:
 translate spanish re_d11c19_a50370ad:
 
     # As "{i}*retching*"
-    As "{i}*estirándose*"
+    As "{i}*estirándose*{/i}"
 
 # game/scripts/day11.rpy:2382
 translate spanish re_d11c19_cb027445:

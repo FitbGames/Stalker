@@ -940,7 +940,7 @@ translate spanish d12a_questions_899acedb:
 translate spanish d12a_questions_4f7c25b4:
 
     # F "I will prove I am worthy. Thank you, Master."
-    F "Demostraré que soy digna. Gracias a tí, Amo."
+    F "Demostraré que soy digna. Gracias a ti, Amo."
 
 # game/scripts/day12.rpy:493
 translate spanish d12a_questions_36d00e03:

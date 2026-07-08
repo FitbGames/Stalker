@@ -3610,7 +3610,7 @@ translate spanish d8b_733f21a5:
 translate spanish d8b_17808bec:
 
     # Z "{i}*sighs*"
-    Z "{i}*suspiros*"
+    Z "{i}*suspiros*{/i}"
 
 # game/scripts/day8.rpy:1763
 translate spanish d8b_b695b6a9:
@@ -3928,7 +3928,7 @@ translate spanish d8b17_2e3987c0_1:
 translate spanish d8b17_179d67a5:
 
     # Pe "{i}*sighs*"
-    Pe "{i}*suspiros*"
+    Pe "{i}*suspiros*{/i}"
 
 # game/scripts/day8.rpy:1895
 translate spanish d8b17_eddaa2ce:
@@ -4096,7 +4096,7 @@ translate spanish d8b17_8d8a5254:
 translate spanish d8b17_910b2373:
 
     # Fa "{i}*sighs*"
-    Fa "{i}*suspiros*"
+    Fa "{i}*suspiros*{/i}"
 
 # game/scripts/day8.rpy:1949
 translate spanish d8b17_cb8cbf59_2:
@@ -5494,7 +5494,7 @@ translate spanish d8b76_5ddf044b:
 translate spanish d8b76_a082f4f6:
 
     # To "{i}*sighs*"
-    To "{i}*suspiros*"
+    To "{i}*suspiros*{/i}"
 
 # game/scripts/day8.rpy:2493
 translate spanish d8b76_8af0276a:
@@ -5812,7 +5812,7 @@ translate spanish d8b76_bb5c7144:
 translate spanish d8b76_910b2373:
 
     # Fa "{i}*sighs*"
-    Fa "{i}*suspiros*"
+    Fa "{i}*suspiros*{/i}"
 
 # game/scripts/day8.rpy:2622
 translate spanish d8b76_d1bc5f17:
@@ -6712,7 +6712,7 @@ translate spanish d8c26_b8f4463f:
 translate spanish d8c26_179d67a5:
 
     # Pe "{i}*sighs*"
-    Pe "{i}*suspiros*"
+    Pe "{i}*suspiros*{/i}"
 
 # game/scripts/day8.rpy:3057
 translate spanish d8c26_60758b2f:
@@ -7114,7 +7114,7 @@ translate spanish d8c26_e78f88d4:
 translate spanish d8c26_179d67a5_1:
 
     # Pe "{i}*sighs*"
-    Pe "{i}*suspiros*"
+    Pe "{i}*suspiros*{/i}"
 
 # game/scripts/day8.rpy:3205
 translate spanish d8c26_1f430133:

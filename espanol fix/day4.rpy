@@ -3376,7 +3376,7 @@ translate spanish d4b_5ab3574d:
 translate spanish d4b_bc4a1436:
 
     # Z "Hey [W]... {i}*sighs*"
-    Z "Ey [W]... {i}*suspiros*"
+    Z "Ey [W]... {i}*suspiros*{/i}"
 
 # game/scripts/day4.rpy:1405
 translate spanish d4b_df037978:

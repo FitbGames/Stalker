@@ -790,7 +790,7 @@ translate spanish d13a95_3ececb35:
 translate spanish d13a95_e6da501e:
 
     # "He throws his dagger aside, on the table..."
-    "Arroja la daga a un lado, sobre la mesa..."
+    "Arroja la daga a un lado de la mesa..."
 
 # game/scripts/day13.rpy:368
 translate spanish d13a95_c4859ac7:
@@ -1540,7 +1540,7 @@ translate spanish d13a_bad_end_3_cddae9ed:
 translate spanish d13a_bad_end_4_9ee76b50:
 
     # Myn "Fucking... bitch...{w=2.5}{nw}"
-    Myn "Joder... zorra... {w=2.5}{nw}"
+    Myn "Jodida... zorra... {w=2.5}{nw}"
 
 # game/scripts/day13.rpy:880
 translate spanish d13a_bad_end_4_89a0af9d:
@@ -1558,13 +1558,13 @@ translate spanish d13a_bad_end_4_f221859e:
 translate spanish d13a_bad_end_epilogue_3e08680e:
 
     # Myn "Fucking bitch... she's done."
-    Myn "Jodida zorra... ella está acabada."
+    Myn "Jodida zorra... está acabada."
 
 # game/scripts/day13.rpy:894
 translate spanish d13a_bad_end_epilogue_b7b33751:
 
     # Hak "We underestimated her... she put up a good fight."
-    Hak "La subestimamos... dio una buena batalla."
+    Hak "La subestimamos... nos dio mucha guerra."
 
 # game/scripts/day13.rpy:895
 translate spanish d13a_bad_end_epilogue_622f99b0:
