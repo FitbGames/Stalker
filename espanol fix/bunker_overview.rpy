@@ -478,7 +478,7 @@ translate spanish codex_spirits_c9644ee7:
 translate spanish codex_spirits_78a14bc0:
 
     # Nar "One part of me hopes to never encounter such a phenomenon, and for it to be just be an expression of the trauma suffered by Stalkers. Another part of me is curious."
-    Nar "Una parte de mí espera no toparse jamás con un fenómeno semejante y prefiere pensar que es solo reflejo del trauma que arrastran los Stalkers. Otra parte, sin embargo, siente curiosidad."
+    Nar "Una parte de mí espera no toparse jamás con un fenómeno semejante y prefiere pensar que es solo reflejo del trauma que arrastran los Acechadores. Otra parte, sin embargo, siente curiosidad."
 
 # game/scripts/bunker_overview.rpy:258
 translate spanish codex_spirits_99be0b37:
