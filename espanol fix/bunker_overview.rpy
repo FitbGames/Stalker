@@ -58,7 +58,7 @@ translate spanish explore_bunker_01a4cb51:
 translate spanish explore_bunker_a1205e88:
 
     # St "The frame is solid. It's truly been well cared for."
-    St "El cuerpo es sólido. Se nota que la han cuidado muy bien."
+    St "La estructura es sólida. Está claro que la han cuidado muy bien."
 
 # game/scripts/bunker_overview.rpy:63
 translate spanish explore_bunker_08c4c394:
@@ -216,7 +216,7 @@ translate spanish written_notes_bde7ac92:
 translate spanish written_notes_ddc434d3:
 
     # Nar "{i}It seems that my journey must come to a sudden end. I am wounded.{/i}"
-    Nar "{i}Parece que mi viaje debe llegar a un final repentino. Estoy herido.{/i}"
+    Nar "{i}Parece que mi viaje llega a un final repentino. Estoy herido.{/i}"
 
 # game/scripts/bunker_overview.rpy:187
 translate spanish written_notes_51653801:

@@ -964,7 +964,7 @@ translate spanish d1a_asha_cs_679f6963:
 translate spanish d1a_asha_cs_fead3ff6:
 
     # DS "Had enough?!"
-    DS "¿Ya has tenido suficiente?"
+    DS "¡¿Ya has tenido suficiente?!"
 
 # game/scripts/day1.rpy:534
 translate spanish d1a_asha_cs_24aecbac:
@@ -1012,7 +1012,7 @@ translate spanish d1a_asha_cs_b869c5fa_1:
 translate spanish d1a_asha_cs_436a187d_1:
 
     # As "You fucking coward! I knew it!!"
-    As "¡Jodida cobarde! ¡¡Lo sabía!!"
+    As "¡Eres una puta cobarde! ¡¡Lo sabía!!"
 
 # game/scripts/day1.rpy:564
 translate spanish d1a_asha_cs_0db20e34:
@@ -1888,7 +1888,7 @@ translate spanish d1a95_4af62822:
 translate spanish d1a95_7450b78a:
 
     # DS "Hey, asshole. She's not too bad at this, you know?"
-    DS "Ey, gilipollas. A ella no se le da tan mal esto, ¿lo sabes?"
+    DS "Eh, gilipollas. A ella no se le da tan mal esto, ¿lo sabes?"
 
 # game/scripts/day1.rpy:951
 translate spanish d1a95_df9f41fa:
