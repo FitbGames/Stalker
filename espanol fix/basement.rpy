@@ -472,7 +472,7 @@ translate spanish basement_ain_0577ac25:
 translate spanish basement_ain_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*sorber*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/basement.rpy:266
 translate spanish basement_ain_7493f66e:
@@ -1342,7 +1342,7 @@ translate spanish basement_fairy_2_54ef4eb3:
 translate spanish basement_fairy_2_9f1c2a3b:
 
     # Z "From what I gather, you were not always a slave, a sex toy to your masters, so I would like you to speak plainly and in full sentences."
-    Z "Por lo que deduzco, no siempre fuiste una esclava, un juguete sexual para tus amos, así que me gustaría que hablaras claro y con frases completas."
+    Z "Por lo que veo, no siempre fuiste una esclava, un juguete sexual para tus amos. Así que te agradecería que hablaras claro y con frases completas."
 
 # game/scripts/basement.rpy:672
 translate spanish basement_fairy_2_d32e1b15:
@@ -2074,7 +2074,7 @@ translate spanish fairy_broken_grab_head_e2a699a2:
 translate spanish fairy_broken_grab_head_242c391b:
 
     # F "{i}*slurp*{/i}"
-    F "{i}*sorber*{/i}"
+    F "{i}*chupada*{/i}"
 
 # game/scripts/basement.rpy:959
 translate spanish fairy_broken_grab_head_6a412037:
@@ -4078,7 +4078,7 @@ translate spanish fairy_bath_solo_f92315d2_1:
 translate spanish fairy_bath_solo_0627a6a6:
 
     # E "{i}*kissing*"
-    E "{i}*beso*{/i}"
+    E "{i}*besandose*{/i}"
 
 # game/scripts/basement.rpy:1883
 translate spanish fairy_bath_solo_4e1af654:
@@ -4102,7 +4102,7 @@ translate spanish fairy_bath_solo_03cf1668:
 translate spanish fairy_bath_solo_60365b64:
 
     # "{i}*kissing*"
-    "{i}*beso*{/i}"
+    "{i}*besandose*{/i}"
 
 # game/scripts/basement.rpy:1892
 translate spanish fairy_bath_solo_baed6e47:
@@ -4174,7 +4174,7 @@ translate spanish fairy_bath_solo_e7913b4a_8:
 translate spanish fairy_bath_solo_37c62a3e:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*sorber*{/i}"
+    E "{i}*chupada*{/i}"
 
 # game/scripts/basement.rpy:1919
 translate spanish fairy_bath_solo_ba51a031:
@@ -4216,7 +4216,7 @@ translate spanish fairy_bath_solo_e7913b4a_9:
 translate spanish fairy_bath_solo_37c62a3e_1:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*sorber*{/i}"
+    E "{i}*chupada*{/i}"
 
 # game/scripts/basement.rpy:1929
 translate spanish fairy_bath_solo_9991dc6c:
@@ -4300,7 +4300,7 @@ translate spanish fairy_bath_solo_d3cf527e:
 translate spanish fairy_bath_solo_a4de87f4:
 
     # E "{i}*gulp*{/i}"
-    E "{i}*tragar*{/i}"
+    E "{i}*traga*{/i}"
 
 # game/scripts/basement.rpy:1964
 translate spanish fairy_bath_solo_b4e078ad:
@@ -5788,7 +5788,7 @@ translate spanish fairy_food_floor_ce6dd15e:
 translate spanish fairy_food_floor_242c391b:
 
     # F "{i}*slurp*{/i}"
-    F "{i}*sorber*{/i}"
+    F "{i}*chupada*{/i}"
 
 # game/scripts/basement.rpy:2706
 translate spanish fairy_food_floor_d28721fe:

@@ -318,7 +318,7 @@ translate spanish written_notes_d9732a8b:
 translate spanish written_notes_9611e803:
 
     # Nar "{i}I am Farran, and this is my word.{/i}"
-    Nar "{i}Soy Farran, y esta es mi palabra.{/i}"
+    Nar "{i}Soy Farran, y ésta es mi palabra.{/i}"
 
 # game/scripts/bunker_overview.rpy:209
 translate spanish written_notes_537828f9:
