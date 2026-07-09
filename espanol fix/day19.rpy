@@ -2560,7 +2560,7 @@ translate spanish d19c_69dedc2b:
 translate spanish d19c_52243927:
 
     # S "I thought so. Unless my esteemed mentor wants to spend one last night with my [persistent.mom]?"
-    S "Eso pensaba. A menos que mi estimado mentor quiera pasar una última noche con mi ¿[persistent.mom]?"
+    S "Ya me lo imaginaba. ¿A menos que mi estimado mentor quiera pasar una última noche con mi [persistent.mom]?"
 
 # game/scripts/day19.rpy:1166
 translate spanish d19c_e23f43e0:
