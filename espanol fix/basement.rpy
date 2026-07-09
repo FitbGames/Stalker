@@ -178,13 +178,13 @@ translate spanish basement_ain_696cda38:
 translate spanish basement_ain_53a542e9:
 
     # Z "But you keep letting your mind wander too often. Mistakes happen. Think of this a preemptive measure."
-    Z "Pero dejas que tu mente divague demasiado a menudo. Los errores ocurren. Tómate esto como una medida preventiva."
+    Z "Pero te distraes con demasiada frecuencia. Y así es como se cometen errores. Tómate esto como una medida preventiva.""
 
 # game/scripts/basement.rpy:132
 translate spanish basement_ain_8fcee393:
 
     # Z "A measure that will continue until I am confident you will toe the line."
-    Z "Una medida que continuará hasta que esté convencido de que vas a mantenerte en la línea."
+    Z "Una medida que continuará hasta que esté convencido de que vas a seguir las normas."
 
 # game/scripts/basement.rpy:135
 translate spanish basement_ain_75ebe136:
@@ -244,7 +244,7 @@ translate spanish basement_ain_0f3ddf89:
 translate spanish basement_ain_88eb4390:
 
     # "She looks into your eyes, a faint smile tugging at the corners of her mouth."
-    "Ella te mira a los ojos, una leve sonrisa tirando de las comisuras de su boca."
+    "Te mira a los ojos con una leve sonrisa dibujándose en las comisuras de los labios."
 
 # game/scripts/basement.rpy:162
 translate spanish basement_ain_299762dc:
@@ -298,7 +298,7 @@ translate spanish basement_ain_54e63719:
 translate spanish basement_ain_28cb4d0a:
 
     # "You can feel the dull thud of a heartbeat in her wrists. It's speeding up."
-    "Sientes el latido sordo de su pulso en las muñecas. Se está acelerando."
+    "Notas el latido sordo de su corazón bajo tus dedos. Se está acelerando."
 
 # game/scripts/basement.rpy:189
 translate spanish basement_ain_1eae4b0c:
@@ -490,13 +490,13 @@ translate spanish basement_ain_9a52cb47:
 translate spanish basement_ain_d78af46e:
 
     # "She hums, as if she thanks you for the compliment..."
-    "Ronronea, como si te agradeciera el cumplido..."
+    "Murmura satisfecha, como si te diera las gracias por el cumplido..."
 
 # game/scripts/basement.rpy:302
 translate spanish basement_ain_39a2246c:
 
     # "[A] grabs hold of the cage bars, taking your dick deeper down her throat."
-    "[A] se agarra a los barrotes de la celda, metiéndose la polla más garganta abajo."
+    "[A] se agarra a los barrotes de la celda y se mete la polla aún más adentro de la garganta."
 
 # game/scripts/basement.rpy:303
 translate spanish basement_ain_935d57d6:
@@ -538,7 +538,7 @@ translate spanish basement_ain_1ae796a4:
 translate spanish basement_ain_c479e369:
 
     # Z "Good. Now hold on to the bars, and bend over for me."
-    Z "Bien. Ahora agárrate a los barrotes y ponte a cuatro patas para mí."
+    Z "Bien. Ahora agárrate a los barrotes e inclínate para mí."
 
 # game/scripts/basement.rpy:328
 translate spanish basement_ain_df54e2e5:
@@ -574,7 +574,7 @@ translate spanish basement_ain_fa9f7617:
 translate spanish basement_ain_167d7602:
 
     # "[A] holds onto the bars as instructed, and from outside the cage, you thrust yourself deeper inside her."
-    "[A] se agarra a los barrotes como le has ordenado, y desde fuera de la celda, empujas más adentro."
+    "[A] se agarra a los barrotes como le has ordenado y, desde fuera de la celda, hundes la polla más profundamente en ella."
 
 # game/scripts/basement.rpy:341
 translate spanish basement_ain_b84efa88:
@@ -682,7 +682,7 @@ translate spanish basement_ain_2e8c83d8:
 translate spanish basement_ain_04409e59:
 
     # A "So... much..."
-    A "Es... mucho..."
+    A "Muchísimo..."
 
 # game/scripts/basement.rpy:382
 translate spanish basement_ain_e89a1999:
@@ -790,7 +790,7 @@ translate spanish ba52_48f51c27:
 translate spanish ba52_04409e59:
 
     # A "So... much..."
-    A "Es... mucho..."
+    A "Muchísimo..."
 
 # game/scripts/basement.rpy:422
 translate spanish ba54_89d81d70:
@@ -916,7 +916,7 @@ translate spanish basement_fairy_2_579e8017_1:
 translate spanish basement_fairy_2_07958ec5:
 
     # "She gets up. it seems she was in a pretty deep slumber. Unusual for her..."
-    "Se levanta. Parece que estaba en un sueño bastante profundo. Inusual en ella..."
+    "Se levanta. Parece que estaba profundamente dormida. No es habitual en ella..."
 
 # game/scripts/basement.rpy:485
 translate spanish basement_fairy_2_e7913b4a_3:
@@ -934,7 +934,7 @@ translate spanish basement_fairy_2_8fe7c682:
 translate spanish basement_fairy_2_80f38435_1:
 
     # "She hurries over..."
-    "Ella se apresura..."
+    "Se acerca rápidamente..."
 
 # game/scripts/basement.rpy:497
 translate spanish basement_fairy_2_e7913b4a_4:
@@ -1810,13 +1810,13 @@ translate spanish fairy_broken_outcome_9ee7a251:
 translate spanish fairy_broken_outcome_91d9cfed:
 
     # W "I'm not sure at this point."
-    W "No estoy segura en este momento."
+    W "De momento no estoy segura."
 
-# game/scripts/basement.rpy:845
-translate spanish fairy_broken_outcome_2838aae5:
+# game/scripts/basement.rpy
+translate spanish ...:
 
     # W "Hey, don't pull on the chain!"
-    W "¡Ey, no tires de la cadena!"
+    W "¡Eh, no tires de la cadena!"
 
 # game/scripts/basement.rpy:846
 translate spanish fairy_broken_outcome_74822589:

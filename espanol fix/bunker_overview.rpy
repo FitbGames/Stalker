@@ -64,7 +64,7 @@ translate spanish explore_bunker_a1205e88:
 translate spanish explore_bunker_08c4c394:
 
     # St "I wonder where they found it, or if they had it custom made. If what I know about crossbows is true, this would be a powerful weapon in anyone's hands."
-    St "Me pregunto dónde la encontraron o si la mandaron hacer a medida. Si lo que sé sobre las ballestas es cierto, sería un arma tremenda en manos de cualquiera."
+    St "Me pregunto dónde la encontraron o si la mandaron hacer a medida. Si lo que sé sobre las ballestas es cierto, sería un arma muy poderosa en manos de cualquiera."
 
 # game/scripts/bunker_overview.rpy:66
 translate spanish explore_bunker_f0fc8c15:
@@ -124,7 +124,7 @@ translate spanish explore_bunker_a5dbfd3f:
 translate spanish explore_bunker_8efb8207:
 
     # St "Was this what the region originally looked like, or is this vegetation migrated from someplace else?"
-    St "¿Era este el aspecto original de la región o esta vegetación ha emigrado de algún otro lugar?"
+    St "¿Era este el aspecto original de la región o esta vegetación procede de algún otro lugar?"
 
 # game/scripts/bunker_overview.rpy:95
 translate spanish explore_bunker_0eb78976:
@@ -216,13 +216,13 @@ translate spanish written_notes_bde7ac92:
 translate spanish written_notes_ddc434d3:
 
     # Nar "{i}It seems that my journey must come to a sudden end. I am wounded.{/i}"
-    Nar "{i}Parece que mi viaje llega a un final repentino. Estoy herido.{/i}"
+    Nar "{i}Parece que mi viaje tendrá que terminar antes de lo previsto. Estoy herido.{/i}"
 
 # game/scripts/bunker_overview.rpy:187
 translate spanish written_notes_51653801:
 
     # Nar "{i}This morning I went to explore the big apartment complex next door. I heard some banging sound coming from inside, so I investigated it. It turns out there were two stray hounds stalking around the broken down entrance...{/i}"
-    Nar "{i}Esta mañana fui a explorar el gran complejo de apartamentos de al lado. Oí unos golpes que venían del interior, así que investigué. Resulta que había dos sabuesos callejeros acechando en la entrada derruida...{/i}"
+    Nar "{i}Esta mañana fui a explorar el gran complejo de apartamentos de al lado. Oí unos golpes procedentes del interior, así que fui a investigar. Resulta que había dos sabuesos callejeros merodeando por la entrada derruida...{/i}"
 
 # game/scripts/bunker_overview.rpy:188
 translate spanish written_notes_cbd3eb95:
@@ -234,7 +234,7 @@ translate spanish written_notes_cbd3eb95:
 translate spanish written_notes_a05b5536:
 
     # Nar "{i}I have no hope of getting out of the desert wounded like this, and breathing is becoming harder, I'm getting sleepy. Internal bleeding? I wish I knew what keeps this radio randomly turning on.{/i}"
-    Nar "{i}No tengo ninguna esperanza de salir del desierto herido de esta gravedad; cada vez me cuesta más respirar y me entra sueño. ¿Hemorragia interna? Ojalá supiera qué cojones hace que esta radio se encienda sola de vez en cuando.{/i}"
+    Nar "{i}No tengo ninguna esperanza de salir del desierto herido de esta gravedad; cada vez me cuesta más respirar y me entra sueño. ¿Hemorragia interna? Ojalá supiera qué hace que esta radio se encienda sola de vez en cuando.{/i}"
 
 # game/scripts/bunker_overview.rpy:190
 translate spanish written_notes_c43ca524:
@@ -318,13 +318,13 @@ translate spanish written_notes_d9732a8b:
 translate spanish written_notes_9611e803:
 
     # Nar "{i}I am Farran, and this is my word.{/i}"
-    Nar "{i}Soy Farran, y ésta es mi palabra.{/i}"
+    Nar "{i}Soy Farran y esta es mi palabra.{/i}"
 
 # game/scripts/bunker_overview.rpy:209
 translate spanish written_notes_537828f9:
 
     # St "This is just sad. Writing to a son who will never see this."
-    St "Esto es jodidamente triste. Escribirle a un hijo que jamás llegará a leerlo."
+    St "Esto es muy triste. Escribirle a un hijo que jamás llegará a leerlo."
 
 # game/scripts/bunker_overview.rpy:212
 translate spanish written_notes_5656c02a:
@@ -442,7 +442,7 @@ translate spanish codex_spirits_274e8977:
 translate spanish codex_spirits_40e138a6:
 
     # Nar "While I have not personally witnessed any similar event, I have been fortunate enough to see anomalies with my own eyes. How farfetched can a story about spirits be, I ask myself, when such portents are real and tangible?"
-    Nar "Aunque yo no he presenciado en persona un suceso de ese tipo, he tenido la suerte de ver anomalías con mis propios ojos. Me pregunto qué tan descabellada puede ser una historia de espíritus cuando semejantes prodigios son reales y tangibles."
+    Nar "Aunque yo no he presenciado en persona un suceso de ese tipo, he tenido la suerte de ver anomalías con mis propios ojos. Me pregunto hasta qué punto puede ser descabellada una historia de espíritus cuando semejantes prodigios son reales y tangibles."
 
 # game/scripts/bunker_overview.rpy:252
 translate spanish codex_spirits_78ac2dd4:

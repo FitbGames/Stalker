@@ -2086,7 +2086,7 @@ translate spanish d4a_kyra_question_menu_60b28cbe:
 translate spanish d4a_kyra_question_menu_1442731f:
 
     # Ky "I was going to keep that find for myself, but my life and freedom are worth more to me."
-    Ky "Soy una líder entre mi gente. Lo que [Ky] dice, se hace. Ellos saben que cumplo mi palabra, y tú también deberías."
+    Ky "Iba a quedarme ese hallazgo para mí, pero mi vida y libertad valen más para mí."
 
 # game/scripts/day4.rpy:829
 translate spanish d4a_kyra_question_menu_0d2ac45d:
