@@ -10,7 +10,7 @@ translate spanish start_111a900b:
 translate spanish start_faec5595:
 
     # C5 "First time?"
-    C5 "¿Es la primera vez (que juegas)?"
+    C5 "¿Es la primera vez?"
 
 # game/scripts/day1.rpy:49
 translate spanish start_111a900b_1:
@@ -418,7 +418,7 @@ translate spanish d1a_78fa23e4:
 translate spanish d1a_482aba14:
 
     # DS "{i}Great... Raider trash.{/i}"
-    DS "{i}Genial... La basura de los raiders.{/i}"
+    DS "{i}Genial... escoria de raiders.{/i}"
 
 # game/scripts/day1.rpy:238
 translate spanish d1a_aaafca5c:
@@ -436,7 +436,7 @@ translate spanish d1a_5105008f:
 translate spanish d1a_79375f89:
 
     # As "Or maybe you're bringing her something of value..."
-    As "O tal vez la estás llevando algo de valor..."
+    As "O tal vez le estás llevando algo de valor..."
 
 # game/scripts/day1.rpy:245
 translate spanish d1a_b9c7050c:
@@ -970,7 +970,7 @@ translate spanish d1a_asha_cs_fead3ff6:
 translate spanish d1a_asha_cs_24aecbac:
 
     # As "Hghr..."
-    As "Diossssss..."
+    As "Hghr..."
 
 # game/scripts/day1.rpy:537
 translate spanish d1a_asha_cs_72160503:
@@ -1180,7 +1180,7 @@ translate spanish d1a_asha_cs_bcb5b52c:
 translate spanish d1a_asha_cs_2a47e203:
 
     # Asaw "Asha is a freak in need of taming...in a way her limp dick boyfriend never could."
-    Asaw "Asha es un monstruo que necesita ser domado... de una forma que su novio de polla flácida nunca podría."
+    Asaw "Asha es una loca que necesita ser domada... de una forma que su novio de polla flácida nunca podría."
 
 # game/scripts/day1.rpy:627
 translate spanish d1a_asha_cs_0b7bea87:
@@ -1335,7 +1335,7 @@ translate spanish d1a105x_7046c782:
 # game/scripts/day1.rpy:729
 translate spanish d1a105x_b867cf05:
 
-    # DS "Now that reality has caught up with you, you don't look so fearsome. More like a drowned rat
+    # DS "Now that reality has caught up with you, you don't look so fearsome. More like a drowned rat; but I am going to let you live."
     DS "Ahora que la realidad te ha alcanzado, no pareces tan temible. Más bien pareces una rata ahogada; pero voy a dejarte vivir."
 
 # game/scripts/day1.rpy:730
@@ -1372,7 +1372,7 @@ translate spanish d1a105x_55ee28e0:
 translate spanish d1a105x_20dbbe95:
 
     # As "{i}*sighs* Of course.{/i}"
-    As "{i}*suspiro*{/i}"
+    As "{i}*suspiro* Por supuesto.{/i}"
 
 # game/scripts/day1.rpy:748
 translate spanish d1a105x_7e860a03:
@@ -1390,7 +1390,7 @@ translate spanish d1a105x_c547fd9b:
 translate spanish d1a105x_07c371b9:
 
     # DS "And remember: if your teeth as much as touch me..."
-    DS "Y recuerda: si sus dientes llegan a tocarme..."
+    DS "Y recuerda: si tus dientes llegan a tocarme..."
 
 # game/scripts/day1.rpy:753
 translate spanish d1a105x_679f6963:
@@ -1432,7 +1432,7 @@ translate spanish d1a105x_86b0ff35:
 translate spanish d1a105x_9c0cb84d:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupa*{/i}"
+    As "{i}*chupada*{/i}"
 
 # game/scripts/day1.rpy:768
 translate spanish d1a105x_133fc0ba:
@@ -1486,7 +1486,7 @@ translate spanish d1a105x_68fa0cca:
 translate spanish d1a105x_2f392432:
 
     # DS "Damn... she's not too bad at this, you know?"
-    DS "Maldita sea... ella no lo hace tan mal, ¿lo sabes?"
+    DS "Joder... no se le da nada mal, ¿sabes?"
 
 # game/scripts/day1.rpy:787
 translate spanish d1a105x_f3edcc8c:
@@ -1708,7 +1708,7 @@ translate spanish d1a105x_cf54d36e:
 translate spanish d1a105x_1d15d739:
 
     # Haz "Fuck... you... if you hurt her... I will...-"
-    Haz "Joder... tú... si le haces daño... voy a...-"
+    Haz "Que te jodan... si le haces daño... voy a...-"
 
 # game/scripts/day1.rpy:872
 translate spanish d1a105x_fe2c3d5e:
@@ -1738,7 +1738,7 @@ translate spanish d1a105x_0f11f990:
 translate spanish d1a105x_773fdbe2:
 
     # DS "Nah, you will be fine. You raiders must be used to a little blood."
-    DS "Nah, estarás bien. Las asaltantes debéis estar acostumbradas a un poco de sangre."
+    DS "Nah, estarás bien. Los asaltantes debéis estar acostumbrados a un poco de sangre."
 
 # game/scripts/day1.rpy:883
 translate spanish d1a105x_f1eac749:
@@ -1870,7 +1870,7 @@ translate spanish d1a95_065a46e5:
 translate spanish d1a95_aa1f64d3:
 
     # DS "I'm going enjoy skull-fucking you."
-    DS "Voy a disfrutar follándote la cabeza."
+    DS "Voy a disfrutar follándote la garganta."
 
 # game/scripts/day1.rpy:946
 translate spanish d1a95_eaeef057:
@@ -1882,7 +1882,7 @@ translate spanish d1a95_eaeef057:
 translate spanish d1a95_4af62822:
 
     # DS "Damn."
-    DS "Maldita sea."
+    DS "Joder."
 
 # game/scripts/day1.rpy:948
 translate spanish d1a95_7450b78a:
@@ -1990,7 +1990,7 @@ translate spanish d1a95_3d4e4f45_1:
 translate spanish d1a95_020d7bf9:
 
     # DS "Hey, asshole, you see that?"
-    DS "Ey, gilipollas, ¿has visto eso?"
+    DS "Eh, gilipollas, ¿has visto eso?"
 
 # game/scripts/day1.rpy:987
 translate spanish d1a95_ce691e86_1:
@@ -2116,7 +2116,7 @@ translate spanish d1a95_a8a0cf9f_1:
 translate spanish d1a95_020d7bf9_1:
 
     # DS "Hey, asshole, you see that?"
-    DS "Ey, gilipollas, ¿has visto eso?"
+    DS "Eh, gilipollas, ¿has visto eso?"
 
 # game/scripts/day1.rpy:1041
 translate spanish d1a95_ce691e86_2:
@@ -2337,7 +2337,7 @@ translate spanish d1b_01c0e69c:
 # game/scripts/day1.rpy:1140
 translate spanish d1b_62f186c7:
 
-    # DS "{i}And after all those years, somewhere along the path of history
+    # DS "{i}And after all those years, somewhere along the path of history; me.{/i}"
     DS "{i}Y después de todos esos años, en algún lugar a lo largo del camino de la historia; yo.{/i}"
 
 # game/scripts/day1.rpy:1144
@@ -2757,7 +2757,7 @@ translate spanish choice3_city_8ed826e9:
 # game/scripts/day1.rpy:1268
 translate spanish choice3_city_748e2cf6:
 
-    # Ko "Everyone here is hungry. Some get to eat
+    # Ko "Everyone here is hungry. Some get to eat; others, like her, get eaten."
     Ko "Todos aquí tienen hambre. Algunos comen; otros, como ella, son comida."
 
 # game/scripts/day1.rpy:1271
@@ -2961,14 +2961,14 @@ translate spanish ivychoicemenu_df906ee4:
 # game/scripts/day1.rpy:1341
 translate spanish ivychoicemenu_9ea46411:
 
-    # Ki "Yeah, what the fuck? This is [Ko]'s catch
+    # Ki "Yeah, what the fuck? This is [Ko]'s catch; it's his property!"
     Ki "Cierto, ¿qué coño? Esta es la captura de [Ko]; ¡es de su propiedad!"
 
 # game/scripts/day1.rpy:1342
 translate spanish ivychoicemenu_8fca5028:
 
     # Ko "It belongs to me, and if I want to make a snack of it, I fucking will!"
-    Ko "Me pertenece, y si quiero hacer un bocadillo con ello, ¡lo haré maldita sea!"
+    Ko "Me pertenece y, si quiero hacer un bocadillo con ello, ¡lo haré, joder!"
 
 # game/scripts/day1.rpy:1343
 translate spanish ivychoicemenu_c95a8478:
@@ -3034,7 +3034,7 @@ translate spanish cs9_a4b4fe16:
 translate spanish cs9_888a0726:
 
     # Z "Hey. Are you okay?"
-    Z "Ey... ¿estás bien?"
+    Z "Oye... ¿estás bien?"
 
 # game/scripts/day1.rpy:1387
 translate spanish cs9_108ab3cd:
@@ -3088,13 +3088,13 @@ translate spanish cs9_6e4a1255:
 translate spanish cs9_a5ee55fa:
 
     # Ki "Now that's a great reminder why the decayed like you [persistent.player_name]! Hrhrhr..."
-    Ki "¡Eso sí que es un gran recordatorio para quienes se decantan por ti [persistent.player_name]! Jejeje..."
+    Ki "¡Eso sí que es un buen recordatorio de por qué los Decaídos te quieren tanto, [persistent.player_name]! Jejeje..."
 
 # game/scripts/day1.rpy:1413
 translate spanish cs9_85812ae7:
 
     # Ko "Damn it, I was looking forward to a good meal..."
-    Ko "¡Maldita sea, estaba deseando una buena comida!"
+    Ko "¡Joder, estaba deseando una buena comida!"
 
 # game/scripts/day1.rpy:1415
 translate spanish cs9_6ad4cdbd:
@@ -4066,7 +4066,7 @@ translate spanish d1e13_26721cb2:
 translate spanish d1e13_dc559ee8:
 
     # Z "Hey.. [A]."
-    Z "Ey... [A]."
+    Z "Oye... [A]."
 
 # game/scripts/day1.rpy:1905
 translate spanish d1e13_eb478da2:
@@ -4132,7 +4132,7 @@ translate spanish d1e13_a8b39cbd:
 translate spanish d1e13_89bb2643:
 
     # W "{i}*slurp*"
-    W "{i}*chupa*{/i}"
+    W "{i}*chupada*{/i}"
 
 # game/scripts/day1.rpy:1920
 translate spanish d1e13_00c3d147:
@@ -4174,7 +4174,7 @@ translate spanish d1e23_d17ec1ef:
 translate spanish d1e23_5501d5a1:
 
     # Z "Damn... I won't ever get tired of that outfit..."
-    Z "Maldita sea... Nunca me cansaré de ese conjunto..."
+    Z "Joder... Nunca me cansaré de ese conjunto..."
 
 # game/scripts/day1.rpy:1942
 translate spanish d1e23_ec1b8b0d:
@@ -4414,7 +4414,7 @@ translate spanish d1e23_ab0434f3:
 translate spanish d1e23_778ca55f:
 
     # "{i}*slurp*"
-    "{i}*chupa*{/i}"
+    "{i}*chupada*{/i}"
 
 # game/scripts/day1.rpy:2044
 translate spanish d1e23_0a48c264:
@@ -4462,7 +4462,7 @@ translate spanish d1e23_07674eef:
 translate spanish d1e23_1f9d6400:
 
     # W "{i}*sucking*"
-    W "{i}*chupando*"
+    W "{i}*chupando*{/i}"
 
 # game/scripts/day1.rpy:2066
 translate spanish d1e23_bc8b2607:
@@ -4528,7 +4528,7 @@ translate spanish d1e23_c235181d:
 translate spanish d1e23_0d6bb0bc:
 
     # Ww "{i}*sucking*"
-    Ww "{i}*chupando*"
+    Ww "{i}*chupando*{/i}"
 
 # game/scripts/day1.rpy:2097
 translate spanish d1e23_65f3931a:
@@ -5012,7 +5012,7 @@ translate spanish strings:
     
     # game/scripts/day1.rpy:2114
     old "Hey "
-    new "Ey "
+    new "Oye "
     
     # game/scripts/day1.rpy:2114
     old "Shani"

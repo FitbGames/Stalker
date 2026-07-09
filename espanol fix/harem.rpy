@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/harem.rpy:39
 translate spanish ain_entry_d8d8bd56:
 
     # Z "Hey [A]."
-    Z "Ey [A]."
+    Z "Oye, [A]."
 
 # game/scripts/harem.rpy:42
 translate spanish ain_entry_bd6a1f00:
@@ -34,13 +34,13 @@ translate spanish shani_entry_43ca57be:
 translate spanish shani_entry_221f9e66:
 
     # S "Hey [persistent.dad]!"
-    S "¡Ey [persistent.dad]!"
+    S "¡Hola, [persistent.dad]!"
 
 # game/scripts/harem.rpy:75
 translate spanish shani_entry_a6c324ac:
 
     # Z "Hey, [persistent.da]."
-    Z "Ey, [persistent.da]."
+    Z "Oye, [persistent.da]."
 
 # game/scripts/harem.rpy:78
 translate spanish shani_entry_005d3265:
@@ -64,7 +64,7 @@ translate spanish zahra_entry_27d6a091:
 translate spanish zahra_entry_37744322:
 
     # "She undresses and lays down next to you..."
-    "Ella se desnuda y se tumba a tu lado..."
+    "Se desnuda y se tumba a tu lado..."
 
 # game/scripts/harem.rpy:108
 translate spanish zahra_entry_a94d94e4:
@@ -94,7 +94,7 @@ translate spanish emilia_entry_e7b9dfd6:
 translate spanish emilia_entry_a20c355c:
 
     # "She gets the hint, hesitantly coming over..."
-    "Ella capta la indirecta y se acerca vacilante..."
+    "Capta la indirecta y se acerca vacilante..."
 
 # game/scripts/harem.rpy:136
 translate spanish emilia_entry_63e774a0:
@@ -136,7 +136,7 @@ translate spanish emilia_entry_6fb632e1:
 translate spanish kateryna_entry_1d80436f:
 
     # Z "Hey, Kateryna."
-    Z "Ey, Kateryna."
+    Z "Oye, Kateryna."
 
 # game/scripts/harem.rpy:176
 translate spanish kateryna_entry_06526c6e:
@@ -154,7 +154,7 @@ translate spanish kateryna_entry_a4448b9a:
 translate spanish kateryna_entry_78fa176c:
 
     # "She kneels down in front of you, her silky robe elegantly trailing her..."
-    "Ella se arrodilla frente a ti, con su vestido de seda arrastrándose con elegancia..."
+    "Se arrodilla frente a ti, con su vestido de seda arrastrándose con elegancia..."
 
 # game/scripts/harem.rpy:185
 translate spanish kateryna_entry_42e24028:
@@ -184,7 +184,7 @@ translate spanish fairy_entry_bda60be6:
 translate spanish fairy_entry_99a66746:
 
     # "She approaches you elegantly, clearly proud of her attire..."
-    "Ella se acerca con elegancia, claramente orgullosa de su atuendo..."
+    "Se acerca con elegancia, claramente orgullosa de su atuendo..."
 
 # game/scripts/harem.rpy:218
 translate spanish fairy_entry_55280fc2:
@@ -214,7 +214,7 @@ translate spanish fairy_entry_d905b1ee:
 translate spanish fairy_entry_4e8d7ea1:
 
     # "She straddles over, and does what she was asked to do..."
-    "Ella se acerca contoneándose hasta ti y hace lo que se le pidió..."
+    "Se acerca contoneándose hasta ti y hace lo que le has pedido..."
 
 # game/scripts/harem.rpy:234
 translate spanish fairy_entry_508790d8:
@@ -268,7 +268,7 @@ translate spanish emilia_solo_7d22bb9f:
 translate spanish emilia_solo_37c62a3e:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupa*{/i}"
+    E "{i}*chupada*{/i}"
 
 # game/scripts/harem.rpy:256
 translate spanish emilia_solo_50727662:
@@ -310,13 +310,13 @@ translate spanish emilia_solo_ec2b22b6:
 translate spanish emilia_solo_37c62a3e_1:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupa*{/i}"
+    E "{i}*chupada*{/i}"
 
 # game/scripts/harem.rpy:270
 translate spanish emilia_solo_99dda3c0:
 
     # Z "Hngh... Take it deeper, slut. Don't make me force you."
-    Z "Hngh... Hazlo más profundo, zorra. No me hagas forzarte."
+    Z "Hngh... Métetela más adentro, zorra. No me obligues a forzarte."
 
 # game/scripts/harem.rpy:274
 translate spanish emilia_solo_1fc8019b:
@@ -340,7 +340,7 @@ translate spanish emilia_solo_e1a28c53:
 translate spanish emilia_solo_f382da6a:
 
     # E "Mh...I ... {i}*slurp*{/i} try my best to please you..."
-    E "Mh... Yo... {i}*chupa*{/i} lo hago lo mejor que puedo para complacerte..."
+    E "Mh... Yo... {i}*chupada*{/i} lo hago lo mejor que puedo para complacerte..."
 
 # game/scripts/harem.rpy:283
 translate spanish emilia_solo_3ee6eb9c:
@@ -352,7 +352,7 @@ translate spanish emilia_solo_3ee6eb9c:
 translate spanish emilia_solo_32a655f7:
 
     # E "{i}*muffled*{/i} Masher... very hard..."
-    E "{i}*amortiguado*{/i} Amo... está muy duro..."
+    E "{i}*ahogado*{/i} Amo... está muy duro..."
 
 # game/scripts/harem.rpy:285
 translate spanish emilia_solo_b8f75c22:
@@ -376,7 +376,7 @@ translate spanish emilia_solo_e319a74e:
 translate spanish emilia_solo_115b76b1:
 
     # Z "Well, she says she's happy to serve."
-    Z "Bueno, ella dice que está feliz de servir."
+    Z "Bueno, dice que está encantada de servir."
 
 # game/scripts/harem.rpy:293
 translate spanish emilia_solo_c521e221:
@@ -406,7 +406,7 @@ translate spanish emilia_solo_0f5805dc:
 translate spanish emilia_solo_5997b7d6:
 
     # "She lets go of your dick..."
-    "Ella te suelta la polla..."
+    "Te suelta la polla..."
 
 # game/scripts/harem.rpy:304
 translate spanish emilia_solo_26a14614:
@@ -436,7 +436,7 @@ translate spanish emilia_solo_7964498e:
 translate spanish emilia_solo_8cd7ffe4:
 
     # "...your chin almost resting on her full breasts, she speaks up shily."
-    "... con tu barbilla casi apoyada en sus pechos llenos, ella te habla con timidez."
+    "... con tu barbilla casi apoyada en sus grandes pechos, te habla con timidez."
 
 # game/scripts/harem.rpy:313
 translate spanish emilia_solo_8fa1b85d:
@@ -448,7 +448,7 @@ translate spanish emilia_solo_8fa1b85d:
 translate spanish emilia_solo_7681ac1a:
 
     # "Her pussy clenches your manhood as she slows down the pace, finding a steady rhythm."
-    "Su coño aprieta tu virilidad mientras ella ralentiza el paso, encontrando un ritmo constante."
+    "Su coño aprieta tu virilidad mientras reduce el ritmo hasta encontrar uno constante."
 
 # game/scripts/harem.rpy:318
 translate spanish emilia_solo_2ced9321:
@@ -568,7 +568,7 @@ translate spanish emilia_solo_97b6e35b:
 translate spanish emilia_solo_1d486651:
 
     # "She cums on your dick, spraying her juice all over it..."
-    "Ella se corre en tu polla, rociándola con sus fluidos..."
+    "Se corre sobre tu polla, empapándola con sus fluidos..."
 
 # game/scripts/harem.rpy:359
 translate spanish emilia_solo_6c67b10a:
@@ -580,7 +580,7 @@ translate spanish emilia_solo_6c67b10a:
 translate spanish emilia_solo_62cccfa9:
 
     # Z "Emilia... take it all in..."
-    Z "Emilia... tómalo todo..."
+    Z "Emilia... recíbelo todo..."
 
 # game/scripts/harem.rpy:363
 translate spanish emilia_solo_14095b4d:
@@ -610,7 +610,7 @@ translate spanish emilia_solo_a3d7d820:
 translate spanish emilia_solo_5a21dabf:
 
     # E "Master... breed me..."
-    E "Amo... engendrame..."
+    E "Amo... préñame..."
 
 # game/scripts/harem.rpy:371
 translate spanish emilia_solo_a8db3b1d:
@@ -622,7 +622,7 @@ translate spanish emilia_solo_a8db3b1d:
 translate spanish emilia_solo_3686ff60:
 
     # "She goes down again, making sure to take more of your cum in..."
-    "Ella baja de nuevo, asegurándose de absorber más cantidad de tu semen..."
+    "Vuelve a bajar, asegurándose de recoger más semen..."
 
 # game/scripts/harem.rpy:375
 translate spanish emilia_solo_7e714822:
@@ -646,7 +646,7 @@ translate spanish emilia_solo_18b909f9:
 translate spanish emilia_solo_940a7d82:
 
     # Z "You're a good slave. I should thank our queen for gifting you to us."
-    Z "Eres una buena esclava. Debo agradecérselo a nuestra reina por regalarte a nosotros."
+    Z "Eres una buena esclava. Debería darle las gracias a nuestra reina por regalárnosla."
 
 # game/scripts/harem.rpy:383
 translate spanish emilia_solo_fa2472c0:
@@ -670,7 +670,7 @@ translate spanish emilia_solo_3cd6681d:
 translate spanish emilia_solo_5c300cef:
 
     # "She changes position quickly..."
-    "Ella cambia de posición rápidamente..."
+    "Cambia de posición rápidamente..."
 
 # game/scripts/harem.rpy:396
 translate spanish emilia_solo_d3cf527e:
@@ -694,7 +694,7 @@ translate spanish emilia_solo_a6d13a73:
 translate spanish emilia_solo_628c1686:
 
     # "With a few spurts, you fill her mouth..."
-    "Con unos cuantos chorros, la llenas la boca..."
+    "Con unos cuantos chorros, le llenas la boca..."
 
 # game/scripts/harem.rpy:405
 translate spanish emilia_solo_7329681e:
@@ -730,13 +730,13 @@ translate spanish emilia_solo_8f334fbf:
 translate spanish emilia_solo_9703f5ea:
 
     # E "{i}*slurp*"
-    E "{i}*chupa*{/i}"
+    E "{i}*chupada*{/i}"
 
 # game/scripts/harem.rpy:417
 translate spanish emilia_solo_84e98e98:
 
     # "She expertly polishes every inch of you with her tongue..."
-    "Ella expertamente pule cada centímetro de ti con su lengua..."
+    "Recorre con la lengua cada centímetro de tu polla con gran destreza..."
 
 # game/scripts/harem.rpy:421
 translate spanish emilia_solo_04479839:
@@ -748,7 +748,7 @@ translate spanish emilia_solo_04479839:
 translate spanish emilia_solo_d4aa3e57:
 
     # E "{i}*cough*{/i} Yhes... Mhashter... {i}*slurp*"
-    E "{i}*tos*{/i} Shi... Ahmho... {i}*chupa*"
+    E "{i}*tose*{/i} Shi... Ahmho... {i}*chupada*{/i}"
 
 # game/scripts/harem.rpy:423
 translate spanish emilia_solo_519fc80e:
@@ -808,7 +808,7 @@ translate spanish emilia_ain_cde6ea09:
 translate spanish emilia_ain_e0f5c929:
 
     # Z "Come, get down you two. I want you to warm me up."
-    Z "Vamos, bajaros las dos. Quiero que me calentéis."
+    Z "Vamos, bajaos las dos. Quiero que me calentéis."
 
 # game/scripts/harem.rpy:449
 translate spanish emilia_ain_d7c3c8a6:
@@ -826,13 +826,13 @@ translate spanish emilia_ain_00ffd1ed:
 translate spanish emilia_ain_3b992898:
 
     # A "{i}*licking*{/i}"
-    A "{i}*Lamiendo*{/i}"
+    A "{i}*lamiendo*{/i}"
 
 # game/scripts/harem.rpy:456
 translate spanish emilia_ain_37c62a3e:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupa*{/i}"
+    E "{i}*chupada*{/i}"
 
 # game/scripts/harem.rpy:457
 translate spanish emilia_ain_748ff70e:
@@ -862,7 +862,7 @@ translate spanish emilia_ain_aba0aa3b:
 translate spanish emilia_ain_37c62a3e_1:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupa*{/i}"
+    E "{i}*chupada*{/i}"
 
 # game/scripts/harem.rpy:466
 translate spanish emilia_ain_3a9cde63:
@@ -892,7 +892,7 @@ translate spanish emilia_ain_4ca3b75c:
 translate spanish emilia_ain_99a8d4a0:
 
     # Z "stroke me a little tighter with your lips today."
-    Z "Acaríciame hoy un poco más con tus labios."
+    Z "Apriétame hoy un poco más con los labios."
 
 # game/scripts/harem.rpy:475
 translate spanish emilia_ain_ac5700e9:
@@ -1486,7 +1486,7 @@ translate spanish hea19x3_2e5158f7:
 translate spanish hea19x3_47480fac:
 
     # Z "Damn... not bad, girls."
-    Z "Maldita sea... no está mal, chicas."
+    Z "Joder... no está mal, chicas."
 
 # game/scripts/harem.rpy:675
 translate spanish hea19x3_d182dbd7:
@@ -1762,7 +1762,7 @@ translate spanish emilia_zahra_89112bc1:
 translate spanish emilia_zahra_7157b534:
 
     # "{i}*sucking*"
-    "{i}*chupando*"
+    "{i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:775
 translate spanish emilia_zahra_2c20bed4:
@@ -1876,7 +1876,7 @@ translate spanish emilia_zahra_7d1c54b6:
 translate spanish emilia_zahra_e0080710:
 
     # Z "{i}*sucking*"
-    Z "{i}*chupando*"
+    Z "{i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:813
 translate spanish emilia_zahra_b40102fc:
@@ -1924,7 +1924,7 @@ translate spanish emilia_zahra_030eb1fa:
 translate spanish emilia_zahra_2c4dca3e:
 
     # E "{i}*sucking*"
-    E "{i}*chupando*"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:837
 translate spanish emilia_zahra_972a9e86:
@@ -1990,7 +1990,7 @@ translate spanish emilia_zahra_8ffb9eb3:
 translate spanish hez30_e0080710:
 
     # Z "{i}*sucking*"
-    Z "{i}*chupando*"
+    Z "{i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:864
 translate spanish hez30_5a1bf634:
@@ -2044,7 +2044,7 @@ translate spanish hez30_971a98df:
 translate spanish hez30_8dcbfb55:
 
     # S "Hey sis, take a look."
-    S "Ey, hermana, echa un vistazo."
+    S "Oye, hermana, echa un vistazo."
 
 # game/scripts/harem.rpy:886
 translate spanish hez30_8057ff67:
@@ -2206,7 +2206,7 @@ translate spanish hez30_f7111108:
 translate spanish hez30_7157b534:
 
     # "{i}*sucking*"
-    "{i}*chupando*"
+    "{i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:943
 translate spanish hez30_c9d71728:
@@ -2278,7 +2278,7 @@ translate spanish hez30_25fc419b:
 translate spanish hez30_e3aedcc7:
 
     # Z "Damn..."
-    Z "Maldita sea..."
+    Z "Joder..."
 
 # game/scripts/harem.rpy:970
 translate spanish hez30_1eaadbbe:
@@ -2296,7 +2296,7 @@ translate spanish hez30_b43ccbbc:
 translate spanish hez30_1f9d6400:
 
     # W "{i}*sucking*"
-    W "{i}*chupando*"
+    W "{i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:977
 translate spanish hez30_62a78a8a:
@@ -2314,7 +2314,7 @@ translate spanish hez30_588a34b6:
 translate spanish hez30_89bb2643:
 
     # W "{i}*slurp*"
-    W "{i}*chupa*{/i}"
+    W "{i}*chupada*{/i}"
 
 # game/scripts/harem.rpy:984
 translate spanish hez30_050bc630:
@@ -2350,7 +2350,7 @@ translate spanish hez30_01b62498:
 translate spanish emilia_fairy_62acef41:
 
     # Z "Hey, [F]. Join us."
-    Z "Ey, [F]. Únete a nosotros."
+    Z "Oye, [F]. Únete a nosotros."
 
 # game/scripts/harem.rpy:1006
 translate spanish emilia_fairy_3af08117:
@@ -2638,7 +2638,7 @@ translate spanish hef13_e69d5f41:
 translate spanish hef13_242c391b:
 
     # F "{i}*slurp*{/i}"
-    F "{i}*chupa*{/i}"
+    F "{i}*chupada*{/i}"
 
 # game/scripts/harem.rpy:1152
 translate spanish hef13_d77af54d_1:
@@ -2830,7 +2830,7 @@ translate spanish hef13_d3cf527e_3:
 translate spanish hef13_37c62a3e:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupa*{/i}"
+    E "{i}*chupada*{/i}"
 
 # game/scripts/harem.rpy:1213
 translate spanish hef13_b1aeb283:
@@ -3538,13 +3538,13 @@ translate spanish ain_shani_d8654138_1:
 translate spanish ain_shani_2c249f1c:
 
     # Zt "Damn it. She can be such a little tease."
-    Zt "Maldita sea. Ella es un poco provocadora."
+    Zt "Joder. Es un poco provocadora."
 
 # game/scripts/harem.rpy:1502
 translate spanish ain_shani_1d778dff:
 
     # S "Hey [persistent.dad]."
-    S "Ey [persistent.dad]."
+    S "Oye, [persistent.dad]."
 
 # game/scripts/harem.rpy:1505
 translate spanish ain_shani_939eb2f3:
@@ -3820,7 +3820,7 @@ translate spanish ain_shani2_e686fc3c:
 translate spanish ain_shani2_60a1e780:
 
     # S "*{i}giggles*"
-    S "{i}*giggles*{/i}"
+    S "{i}*risitas*{/i}"
 
 # game/scripts/harem.rpy:1601
 translate spanish ain_shani2_b623eeb6:
@@ -3964,7 +3964,7 @@ translate spanish ain_zahra_29e478a8:
 translate spanish ain_zahra_2ec1882d:
 
     # Z "Hey, [W]."
-    Z "Ey, [W]."
+    Z "Oye, [W]."
 
 # game/scripts/harem.rpy:1664
 translate spanish ain_zahra_579e5d2c:
@@ -3994,7 +3994,7 @@ translate spanish ain_zahra_1119de44:
 translate spanish ain_zahra_e0080710:
 
     # Z "{i}*sucking*"
-    Z "{i}*chupando*"
+    Z "{i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:1675
 translate spanish ain_zahra_53fae503:
@@ -4414,7 +4414,7 @@ translate spanish ain_zahra_d9fe418e:
 translate spanish ain_zahra_f1761e44:
 
     # A "{i}*slurp*"
-    A "{i}*chupa*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/harem.rpy:1831
 translate spanish ain_zahra_d826dd75:
@@ -4474,7 +4474,7 @@ translate spanish ain_zahra_52336389:
 translate spanish ain_zahra_463a5e8c:
 
     # Z "Damn-"
-    Z "Maldita sea-"
+    Z "Joder..."
 
 # game/scripts/harem.rpy:1853
 translate spanish ain_zahra_16c34221:
@@ -4504,7 +4504,7 @@ translate spanish ain_zahra_e156dcdd:
 translate spanish ain_zahra_73bc68bf:
 
     # A "{i}*muffled moaning*"
-    A "{i}*gemidos amortiguados*{/i}"
+    A "{i}*gemidos ahogados*{/i}"
 
 # game/scripts/harem.rpy:1865
 translate spanish ain_zahra_60365b64:
@@ -4570,7 +4570,7 @@ translate spanish ain_zahra_52336389_1:
 translate spanish ain_zahra_463a5e8c_1:
 
     # Z "Damn-"
-    Z "Maldita sea-"
+    Z "Joder..."
 
 # game/scripts/harem.rpy:1892
 translate spanish ain_zahra_6f9fca4b:
@@ -4672,7 +4672,7 @@ translate spanish shani_kateryna_a46e6b65:
 translate spanish shani_kateryna_1d80436f:
 
     # Z "Hey, Kateryna."
-    Z "Ey, Kateryna."
+    Z "Oye, Kateryna."
 
 # game/scripts/harem.rpy:1943
 translate spanish shani_kateryna_06526c6e:
@@ -4708,7 +4708,7 @@ translate spanish shani_kateryna_cdab613a:
 translate spanish shani_kateryna_aacc047b:
 
     # S "Hey, Kat."
-    S "Ey, Kat."
+    S "Oye, Kat."
 
 # game/scripts/harem.rpy:1967
 translate spanish shani_kateryna_3e057bab:
@@ -4996,7 +4996,7 @@ translate spanish shani_kateryna_045dfaa4:
 translate spanish shani_kateryna_6ad9eee5:
 
     # Z "Hey [S], are you looking at something interesting?"
-    Z "Ey [S], ¿estás mirando algo interesante?"
+    Z "Oye, [S], ¿estás mirando algo interesante?"
 
 # game/scripts/harem.rpy:2079
 translate spanish shani_kateryna_43ca57be:
@@ -5308,7 +5308,7 @@ translate spanish shani_kateryna_57421bfb:
 translate spanish shani_kateryna_e9d4c308:
 
     # S "{i}*muffled*{/i} You have a sweet taste..."
-    S "{i}*amortiguado*{/i} Tienes un sabor dulce..."
+    S "{i}*ahogado*{/i} Tienes un sabor dulce..."
 
 # game/scripts/harem.rpy:2189
 translate spanish shani_kateryna_95c8e82e:
@@ -5500,7 +5500,7 @@ translate spanish zahra_solo_d80a1d62:
 translate spanish zahra_solo_89bb2643:
 
     # W "{i}*slurp*"
-    W "{i}*chupa*{/i}"
+    W "{i}*chupada*{/i}"
 
 # game/scripts/harem.rpy:2269
 translate spanish zahra_solo_35fc155d:
@@ -5686,7 +5686,7 @@ translate spanish zahra_solo_df9a9344:
 translate spanish zahra_solo_89bb2643_1:
 
     # W "{i}*slurp*"
-    W "{i}*chupa*{/i}"
+    W "{i}*chupada*{/i}"
 
 # game/scripts/harem.rpy:2342
 translate spanish zahra_solo_540ab221:
@@ -5728,7 +5728,7 @@ translate spanish zahra_solo_c2c9cc07_1:
 translate spanish zahra_solo_237efbe3:
 
     # W "{i}*gulp* {w=1} {nw}"
-    W "{i}*glup* {w=1} {nw}"
+    W "{i}*traga*{/i} {w=1} {nw}"
 
 # game/scripts/harem.rpy:2362
 translate spanish zahra_solo_2f9df0da:
@@ -6112,7 +6112,7 @@ translate spanish kateryna_solo_1f8e6665:
 translate spanish kateryna_solo_daeeb099:
 
     # Z "{i}*slurp*{/i}"
-    Z "{i}*chupa*{/i}"
+    Z "{i}*chupada*{/i}"
 
 # game/scripts/harem.rpy:2500
 translate spanish kateryna_solo_15457ccd:
@@ -6388,7 +6388,7 @@ translate spanish kateryna_solo_93a6f8c0_1:
 translate spanish kateryna_solo_6b39b6a9:
 
     # Z "Hey, are you about to doze off? {i}*chuckles*{/i}"
-    Z "¿Ey, te vas a quedar dormida? {i}*risilla*{/i}"
+    Z "Oye, ¿te vas a quedar dormida? {i}*risilla*{/i}"
 
 # game/scripts/harem.rpy:2597
 translate spanish kateryna_solo_a7ac164c:
@@ -6478,7 +6478,7 @@ translate spanish kateryna_solo_a8db3b1d_2:
 translate spanish kateryna_solo_715f2584:
 
     # Z "You seductive little minx..."
-    Z "Pequeña descarada seductora..."
+    Z "Qué descarada tan seductora eres..."
 
 # game/scripts/harem.rpy:2635
 translate spanish kateryna_solo_6efd29ab:
@@ -6496,7 +6496,7 @@ translate spanish kateryna_solo_a0098e44:
 translate spanish kateryna_solo_dbe38834:
 
     # Z "You wanted that cum inside you, didn't you?"
-    Z "Querías esa corrida dentro de ti, ¿verdad?"
+    Z "Querías que me corriera dentro de ti, ¿verdad?"
 
 # game/scripts/harem.rpy:2640
 translate spanish kateryna_solo_2fab546c:
@@ -6910,7 +6910,7 @@ translate spanish fairy_solo_3ffc36f9_1:
 translate spanish fairy_solo_242c391b:
 
     # F "{i}*slurp*{/i}"
-    F "{i}*chupa*{/i}"
+    F "{i}*chupada*{/i}"
 
 # game/scripts/harem.rpy:2779
 translate spanish fairy_solo_b3e29c6a:
@@ -6940,7 +6940,7 @@ translate spanish fairy_solo_4f5f018f:
 translate spanish fairy_solo_719da9e4:
 
     # F "{i}*gulp*{/i}"
-    F "{i}*glup*{/i}"
+    F "{i}*traga*{/i}"
 
 # game/scripts/harem.rpy:2790
 translate spanish fairy_solo_3b6713ad:
@@ -7114,7 +7114,7 @@ translate spanish fairy_solo_49dc5611:
 translate spanish fairy_solo_5a1d9c4c:
 
     # F "Nghh... {i}*cough*{/i}"
-    F "Nghh... {i}*tos*{/i}"
+    F "Nghh... {i}*tose*{/i}"
 
 # game/scripts/harem.rpy:2858
 translate spanish fairy_solo_8c9b546e:
@@ -7132,7 +7132,7 @@ translate spanish fairy_solo_004fc403:
 translate spanish fairy_solo_242c391b_1:
 
     # F "{i}*slurp*{/i}"
-    F "{i}*chupa*{/i}"
+    F "{i}*chupada*{/i}"
 
 # game/scripts/harem.rpy:2863
 translate spanish fairy_solo_68cee3cb:
@@ -7174,7 +7174,7 @@ translate spanish fairy_solo_26c3969a:
 translate spanish fairy_solo_9b9ace9c:
 
     # F "{i}*cough*{/i}"
-    F "{i}*tos*{/i}"
+    F "{i}*tose*{/i}"
 
 # game/scripts/harem.rpy:2873
 translate spanish fairy_solo_61005676:
@@ -7204,7 +7204,7 @@ translate spanish fairy_solo_7f0536ad:
 translate spanish fairy_solo_242c391b_2:
 
     # F "{i}*slurp*{/i}"
-    F "{i}*chupa*{/i}"
+    F "{i}*chupada*{/i}"
 
 # game/scripts/harem.rpy:2882
 translate spanish fairy_solo_04d381c2:
@@ -7246,7 +7246,7 @@ translate spanish fairy_solo_2b72007d:
 translate spanish fairy_solo_f370c521:
 
     # F "Yhes... {i}*gulp*{/i}... Mhster..."
-    F "Shsí... {i}*glup*{/i}... Ahmo..."
+    F "Shsí... {i}*traga*{/i}... Ahmo..."
 
 # game/scripts/harem.rpy:2893
 translate spanish fairy_solo_14183f5a:
@@ -7270,7 +7270,7 @@ translate spanish fairy_solo_e22226c7:
 translate spanish fairy_solo_9b9ace9c_1:
 
     # F "{i}*cough*{/i}"
-    F "{i}*tos*{/i}"
+    F "{i}*tose*{/i}"
 
 # game/scripts/harem.rpy:2902
 translate spanish fairy_solo_164ca04a:
@@ -7294,7 +7294,7 @@ translate spanish fairy_solo_d04901d7:
 translate spanish fairy_solo_242c391b_3:
 
     # F "{i}*slurp*{/i}"
-    F "{i}*chupa*{/i}"
+    F "{i}*chupada*{/i}"
 
 # game/scripts/harem.rpy:2913
 translate spanish fairy_solo_21ed71d0:
@@ -7348,7 +7348,7 @@ translate spanish fairy_solo_d4edf312_1:
 translate spanish fairy_solo_719da9e4_2:
 
     # F "{i}*gulp*{/i}"
-    F "{i}*glup*{/i}"
+    F "{i}*traga*{/i}"
 
 # game/scripts/harem.rpy:2932
 translate spanish fairy_solo_1a487770:
@@ -7488,7 +7488,7 @@ translate spanish strings:
 
     # game/scripts/harem.rpy:2335
     old "Let her get you off"
-    new "Deja que te haga llegar" 
+    new "Deja que te haga correrte"
 
     # game/scripts/harem.rpy:2629
     old "Slide back into her pussy"

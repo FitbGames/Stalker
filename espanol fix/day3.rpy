@@ -262,7 +262,7 @@ translate spanish d3d_emilia_menu_7c9892f5:
 translate spanish d3d_emilia_menu_5e441aa1:
 
     # E "I am always available, Master."
-    E "Siempre estoy disponible, amo."
+    E "Siempre estoy disponible, Amo."
 
 # game/scripts/day3.rpy:103
 translate spanish d3d_emilia_menu_81e67c68:
@@ -556,7 +556,7 @@ translate spanish d3d_emilia_menu_b9fc6365:
 translate spanish d3d_emilia_menu_95559f12:
 
     # Z "Should our household expand any further, I want us to be ready for it."
-    Z "Si nuestra casa se expande más, quiero que estemos preparados para ello."
+    Z "Si nuestra casa se expande aún más, quiero que estemos preparados para ello."
 
 # game/scripts/day3.rpy:213
 translate spanish d3d_emilia_menu_2cde2ff4:
@@ -736,7 +736,7 @@ translate spanish re_d3d22_4695b930:
 translate spanish re_d3d22_3d8e91e8:
 
     # Z "Thank you [W], but if you would excuse us."
-    Z "Gracias [W], pero si nos disculpa."
+    Z "Gracias [W], pero si nos disculpas."
 
 # game/scripts/day3.rpy:271
 translate spanish re_d3d22_120b6a05:
@@ -826,7 +826,7 @@ translate spanish re_d3d22_5b2e0977_1:
 translate spanish re_d3d22_37c62a3e:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupa*{/i}"
+    E "{i}*chupada*{/i}"
 
 # game/scripts/day3.rpy:305
 translate spanish re_d3d22_52ddc47f:
@@ -874,7 +874,7 @@ translate spanish re_d3d22_3959286d:
 translate spanish re_d3d22_598b5905:
 
     # W "Ready to claim your prize, husband?"
-    W "¿Lista para reclamar tu premio, marido?"
+    W "¿Listo para reclamar tu premio, marido?"
 
 # game/scripts/day3.rpy:329
 translate spanish re_d3d22_a61c3aac:
@@ -1324,7 +1324,7 @@ translate spanish d3b_5d9e723e:
 translate spanish d3b_2664fde8:
 
     # Ci "Aberrations like you should not even have made it past the gates."
-    Ci "Abominaciones como tú ni siquiera deberían haber pasado las puertas."
+    Ci "Aberraciones como tú ni siquiera deberían haber pasado las puertas."
 
 # game/scripts/day3.rpy:567
 translate spanish d3b_68ecfe6c:
@@ -1354,7 +1354,7 @@ translate spanish d3b_06bf7391:
 translate spanish d3b_b30b2d80:
 
     # Ci "AAAHHH.. FUCK....!!"
-    Ci "¡¡¡AAAHHH.. JODER....!!!"
+    Ci "¡¡AAAHHH.. JODER....!!"
 
 # game/scripts/day3.rpy:582
 translate spanish d3b_473093eb:
@@ -1372,7 +1372,7 @@ translate spanish d3b_210ac853:
 translate spanish d3b_899c9d43:
 
     # Ci "STALKER!!... CATCH THAT MONSTER!!"
-    Ci "¡¡STALKER!! ¡ATRAPA A ESE MONSTRUO!"
+    Ci "¡¡ACECHADOR!! ¡ATRAPA A ESE MONSTRUO!"
 
 # game/scripts/day3.rpy:591
 translate spanish d3b_4d7e05fb:
@@ -1564,7 +1564,7 @@ translate spanish d3b_choice_98394ef3:
 translate spanish d3b_choice_bdee522c:
 
     # "She swiftly runs away; lithe steps fading in the darkness..."
-    "Corre rápidamente; pasos ágiles que se desvanecen en la oscuridad..."
+    "Corre rápidamente; sus pasos ágiles se desvanecen en la oscuridad..."
 
 # game/scripts/day3.rpy:689
 translate spanish d3b_choice_aeb1c6b3:
@@ -1642,7 +1642,7 @@ translate spanish d3b_choice_e156dcdd:
 translate spanish d3b_choice_dfc86979:
 
     # Ci "Damn you!!"
-    Ci "¡¡Maldita seas!!"
+    Ci "¡Maldito seas!"
 
 # game/scripts/day3.rpy:725
 translate spanish d3b_choice_44e18b32:
@@ -1654,19 +1654,19 @@ translate spanish d3b_choice_44e18b32:
 translate spanish d3b_choice_9381de47:
 
     # Ci "{i}*gasp*{/i}"
-    Ci "{i}*gasp*{/i}"
+    Ci "{i}*jadeo*{/i}"
 
 # game/scripts/day3.rpy:732
 translate spanish d3b_choice_52b25bb3:
 
     # Ci "AAaaahhhhh!!!"
-    Ci "¡¡AAaaahhhhh!!"
+    Ci "¡¡¡AAaaahhhhh!!!"
 
 # game/scripts/day3.rpy:735
 translate spanish d3b_choice_743b66a7:
 
     # Ci "{i}*squirming*{/i} nghhaaa!!!"
-    Ci "{i}*Retorciéndose*{/i} ¡¡¡Nghhaaa!!!"
+    Ci "{i}*Retorciéndose*{/i} ¡¡¡nghhaaa!!!"
 
 # game/scripts/day3.rpy:739
 translate spanish d3b_choice_b8dec8c2:
@@ -1678,13 +1678,13 @@ translate spanish d3b_choice_b8dec8c2:
 translate spanish d3b_choice_1492102e:
 
     # Ci "You fucking..., you chopped my leg off!!"
-    Ci "¡¡Joder..., me has cortado la pierna!!"
+    Ci "¡¡¡Joder..., me has cortado la pierna!!!"
 
 # game/scripts/day3.rpy:743
 translate spanish d3b_choice_dac88428:
 
     # Ci "Hnnnrghh... I f-forfeit. You win... You win!!"
-    Ci "Hnnnrghh... Me rindo. Tú ganas... ¡¡Tú ganas!"
+    Ci "Hnnnrghh... Me r-rindo. Tú ganas... ¡¡Tú ganas!"
 
 # game/scripts/day3.rpy:746
 translate spanish d3b_choice_23616a48:
@@ -1888,7 +1888,7 @@ translate spanish d3c_4b6b42e2:
 translate spanish d3c_f6c49c09:
 
     # S "{i}*gag*{/i}"
-    S "{i}*gag*{/i}"
+    S "{i}*arcadas*{/i}"
 
 # game/scripts/day3.rpy:867
 translate spanish d3c_b8b2723d:
@@ -2596,7 +2596,7 @@ translate spanish d3a_8bb240a0:
 translate spanish d3a_a6d46fda:
 
     # W "{i}*slurp*{/i}"
-    W "{i}*chupa*{/i}"
+    W "{i}*chupada*{/i}"
 
 # game/scripts/day3.rpy:1195
 translate spanish d3a_290b2fcc:
@@ -2674,7 +2674,7 @@ translate spanish d3a_a2a5b9f8:
 translate spanish d3a_e75ace64:
 
     # W "{i}*suck*{/i}"
-    W "{i}*suck*{/i}"
+    W "{i}*chupa*{/i}"
 
 # game/scripts/day3.rpy:1225
 translate spanish d3a_ac43877e:
@@ -2722,7 +2722,7 @@ translate spanish d3a_6c6fe361:
 translate spanish d3a_a6d46fda_1:
 
     # W "{i}*slurp*{/i}"
-    W "{i}*chupa*{/i}"
+    W "{i}*chupada*{/i}"
 
 # game/scripts/day3.rpy:1239
 translate spanish d3a_d4edf312:
@@ -2794,7 +2794,7 @@ translate spanish d3a_844607b8:
 translate spanish d3a_cfc30c2e:
 
     # W "{i}*gulp*{/i}"
-    W "{i}*gulp*{/i}"
+    W "{i}*traga*{/i}"
 
 # game/scripts/day3.rpy:1265
 translate spanish d3a_0455f1d5:
@@ -2884,7 +2884,7 @@ translate spanish d3a_d6a0e35f:
 translate spanish d3a_731e804c:
 
     # Z "{i}*grunt*{/i}"
-    Z "{i}*grunt*{/i}"
+    Z "{i}*gruñido*{/i}"
 
 # game/scripts/day3.rpy:1294
 translate spanish d3a_c4be6762:
@@ -2896,7 +2896,7 @@ translate spanish d3a_c4be6762:
 translate spanish d3a_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupa*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/day3.rpy:1298
 translate spanish d3a_93fdb112:
@@ -2914,7 +2914,7 @@ translate spanish d3a_e2b10286:
 translate spanish d3a_71a6c2ec:
 
     # A "Mmh... {i}*suck*{/i}"
-    A "Mmh... {i}*suck*{/i}"
+    A "Mmh... {i}*chupa*{/i}"
 
 # game/scripts/day3.rpy:1303
 translate spanish d3a_2ad034eb:
@@ -2926,7 +2926,7 @@ translate spanish d3a_2ad034eb:
 translate spanish d3a_044376fa:
 
     # Z "I do love my girls..."
-    Z "Sí que amo a mis chicas..."
+    Z "Me encantan mis chicas..."
 
 # game/scripts/day3.rpy:1309
 translate spanish d3a_a0f7bb0f:

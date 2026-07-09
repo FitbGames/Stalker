@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/day9.rpy:7
 translate spanish d9a_a4d4e8f0:
@@ -208,7 +208,7 @@ translate spanish d9a0_d75072bb:
 translate spanish d9a0_6184d5e2:
 
     # Q "If I hadn't promoted you through the ranks myself, I would almost think you to be one of my personal jesters!"
-    Q "Si no te hubiera promovido yo misma a través de los rangos, ¡casi pensaría que eres uno de mis bufones personales!"
+    Q "Si no te hubiera ascendido yo misma, ¡casi pensaría que eres uno de mis bufones personales!"
 
 # game/scripts/day9.rpy:95
 translate spanish d9a0_4f2cee89:
@@ -220,7 +220,7 @@ translate spanish d9a0_4f2cee89:
 translate spanish d9a0_db3fd5f1:
 
     # Q "Not that your shame makes up for the rest of your following misdeeds."
-    Q "No es que tu vergüenza compense el resto de tus siguientes fechorías."
+    Q "Aunque tu vergüenza no compensa el resto de tus fechorías."
 
 # game/scripts/day9.rpy:101
 translate spanish d9a0_fbaf1619:
@@ -262,7 +262,7 @@ translate spanish d9a0_5a9d13da:
 translate spanish d9a0_84b959fb:
 
     # Q "We have been through so much together, and you have always been there whenever I needed a voice of reason..."
-    Q "Hemos pasado por muchas cosas juntas, y siempre has estado ahí cuando he necesitado una voz de la razón..."
+    Q "Hemos pasado por muchas cosas juntas, y siempre has estado ahí cuando he necesitado una voz sensata..."
 
 # game/scripts/day9.rpy:114
 translate spanish d9a0_fae31dd8:
@@ -340,7 +340,7 @@ translate spanish d9a0_0664164e:
 translate spanish d9a0_52707177:
 
     # Sh "While I wanted to confront him on his treacherous act, I was also curious where he was going."
-    Sh "Aunque quería enfrentarme a él por su acto traicionero, también tenía curiosidad por saber a donde iba."
+    Sh "Aunque quería enfrentarme a él por su acto traicionero, también tenía curiosidad por saber adónde iba."
 
 # game/scripts/day9.rpy:145
 translate spanish d9a0_1df88e71:
@@ -556,7 +556,7 @@ translate spanish d9a0_45bc1cfe:
 translate spanish d9a0_5d0285e6:
 
     # Q "In addition to that, I implicitly believe the words of Sharifa over yours."
-    Q "Además, creo implícitamente en las palabras de Sharifa por encima de las tuyas."
+    Q "Además, confío plenamente en la palabra de Sharifa antes que en la tuya."
 
 # game/scripts/day9.rpy:232
 translate spanish d9a0_a1e7317b:
@@ -682,7 +682,7 @@ translate spanish d9a0_54bb0e4d:
 translate spanish d9a0_9d767d08:
 
     # Mi "It... hngh... it hurts, my Queen..."
-    Mi "Es... hngh... duele, mi Reina..."
+    Mi "Me... hngh... duele, mi Reina..."
 
 # game/scripts/day9.rpy:289
 translate spanish d9a0_582e9d73:
@@ -694,7 +694,7 @@ translate spanish d9a0_582e9d73:
 translate spanish d9a0_147fc609:
 
     # Qw "I know you are, I can see the resilience in your eyes, and feel the tension in you..."
-    Qw "Sé que lo eres, puedo ver la resistencia en tus ojos, y sentir la tensión en ti..."
+    Qw "Sé que lo eres, puedo ver la entereza en tus ojos y sentir la tensión en ti..."
 
 # game/scripts/day9.rpy:295
 translate spanish d9a0_d0e0ef7b:
@@ -1204,7 +1204,7 @@ translate spanish d9a76_c955d931:
 translate spanish d9a76_740a260c:
 
     # Z "You're not sending your soldiers because they could be killed, but raiders are unpredictable. What if things go south and I don't report back?"
-    Z "You're not sending your soldiers because they could be killed, but raiders are unpredictable. What if things go south and I don't report back?"
+    Z "No envías a tus soldados porque podrían morir, pero los asaltantes son impredecibles. ¿Qué pasa si las cosas van mal y no regreso a informar?"
 
 # game/scripts/day9.rpy:515
 translate spanish d9a76_f36df0bb:
@@ -3646,7 +3646,7 @@ translate spanish d9c31_a1b94168:
 translate spanish d9c31_3774639b:
 
     # Tg "{i}*gluck*"
-    Tg "{i}*gluck*"
+    Tg "{i}*atragantándose*{/i}"
 
 # game/scripts/day9.rpy:1675
 translate spanish d9c31_117f64b5:
@@ -3664,7 +3664,7 @@ translate spanish d9c31_7450a7f6:
 translate spanish d9c31_a69c6fdd:
 
     # Tg "{i}*slurp*"
-    Tg "{i}*chupa*{/i}"
+    Tg "{i}*chupada*{/i}"
 
 # game/scripts/day9.rpy:1681
 translate spanish d9c31_3faef3d0:
@@ -3682,7 +3682,7 @@ translate spanish d9c31_09614a27:
 translate spanish d9c31_3774639b_1:
 
     # Tg "{i}*gluck*"
-    Tg "{i}*gluck*"
+    Tg "{i}*atragantándose*{/i}"
 
 # game/scripts/day9.rpy:1687
 translate spanish d9c31_d04ad623:
@@ -3796,7 +3796,7 @@ translate spanish d9c36anim_36b0afc7:
 translate spanish d9c36anim_09803858:
 
     # Tg "{i}*gulp*"
-    Tg "{i}*tragando*"
+    Tg "{i}*traga*{/i}"
 
 # game/scripts/day9.rpy:1729
 translate spanish d9c36anim_9ae83089:
@@ -4138,7 +4138,7 @@ translate spanish d9c_judgement_f80a1ecd:
 translate spanish d9c_mercs_eaab766c:
 
     # C "Hey, Stalker."
-    C "Eh, Acechador."
+    C "Oye, Acechador."
 
 # game/scripts/day9.rpy:1919
 translate spanish d9c_mercs_cfdf6495:
@@ -4258,7 +4258,7 @@ translate spanish d9c56_9f674dc8:
 translate spanish d9c56_436bf290:
 
     # Merc2 "Whatever, still looks better than those in Old Cairo."
-    Merc2 "Da igual, sigue siendo mejor que las del el Viejo Cairo."
+    Merc2 "Da igual, sigue siendo mejor que las del Viejo Cairo."
 
 # game/scripts/day9.rpy:1976
 translate spanish d9c56_f10c162c:
@@ -4318,7 +4318,7 @@ translate spanish d9c56_94937fef:
 translate spanish d9c56_b90b1cf2:
 
     # Merc2 "Damn, she's all filled up."
-    Merc2 "Maldita sea, está llena."
+    Merc2 "Joder, está llena."
 
 # game/scripts/day9.rpy:1993
 translate spanish d9c56_07167eed:

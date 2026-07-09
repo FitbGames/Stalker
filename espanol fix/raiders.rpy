@@ -1,16 +1,16 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/raiders.rpy:14
 translate spanish raiders_mission_table_b3a5b37a:
 
     # Z "Hey, Kyra."
-    Z "Ey, Kyra."
+    Z "Oye, Kyra."
 
 # game/scripts/raiders.rpy:17
 translate spanish raiders_mission_table_005afd26:
 
     # Ky "Sup, [persistent.player_name]."
-    Ky "Qué pasa, [persistent.player_name]."
+    Ky "¿Qué pasa, [persistent.player_name]?"
 
 # game/scripts/raiders.rpy:24
 translate spanish raiders_mission_table_4524ed96:
@@ -40,13 +40,13 @@ translate spanish raiders_mission_table_908ce1e6:
 translate spanish raiders_mission_table_30b2bba4:
 
     # Z "Your men have been out there again, haven't they?"
-    Z "Tus hombres han estado allá afuera otra vez, ¿verdad?"
+    Z "Tus hombres han vuelto a salir ahí fuera, ¿verdad?"
 
 # game/scripts/raiders.rpy:40
 translate spanish raiders_mission_table_b94cd787:
 
     # Ky "They have, and they made some good catches."
-    Ky "Sí, y han hecho buenas capturas."
+    Ky "Sí, y han conseguido un buen botín."
 
 # game/scripts/raiders.rpy:43
 translate spanish raiders_mission_table_be217f81:
@@ -70,31 +70,31 @@ translate spanish raiders_mission_table_9669528e:
 translate spanish raiders_mission_table_5ff361fc:
 
     # Z "Nothing, nevermind."
-    Z "Nada, no importa."
+    Z "Nada, déjalo."
 
 # game/scripts/raiders.rpy:63
 translate spanish raiders_command_center_f2242cdd:
 
     # "{color=#eaf50e}You are in this faction's planning room."
-    "{color=#eaf50e}Esta será la sala de planificación de los Raiders.{/color}"
+    "{color=#eaf50e}Estás en la sala de planificación de esta facción.{/color}"
 
 # game/scripts/raiders.rpy:64
 translate spanish raiders_command_center_4b458c56:
 
     # "{color=#eaf50e}From here, you can choose the order of your missions and interact with faction members and places."
-    "{color=#eaf50e}Desde aquí, puedes elegir el orden de tus misiones e interactuar con los miembros de la facción y los lugares."
+    "{color=#eaf50e}Desde aquí puedes elegir el orden de tus misiones e interactuar con los miembros y lugares de la facción."
 
 # game/scripts/raiders.rpy:65
 translate spanish raiders_command_center_c49a7697:
 
     # "{color=#eaf50e}Some interactions may progress throughout the faction story."
-    "{color=#eaf50e}Algunas interacciones pueden progresar a lo largo de la historia de la facción."
+    "{color=#eaf50e}Algunas interacciones pueden avanzar a medida que progresa la historia de la facción."
 
 # game/scripts/raiders.rpy:66
 translate spanish raiders_command_center_44c74011:
 
     # "{color=#eaf50e}You can leave and enter this room through the world map at any time.{/color}"
-    "{color=#eaf50e}Puedes salir y entrar de esta sala a través del mapa del mundo en cualquier momento.{/color}"
+    "{color=#eaf50e}Puedes entrar y salir de esta sala desde el mapa del mundo en cualquier momento.{/color}"
 
 # game/scripts/raiders.rpy:114
 translate spanish raiders_throne_menu_8227a0b4:
@@ -106,7 +106,7 @@ translate spanish raiders_throne_menu_8227a0b4:
 translate spanish raiders_throne_menu_1aedd9e0:
 
     # As "{i}*slurp*{/i} yhes bosh..."
-    As "{i}*chupa*{/i} Shí jhefhe..."
+    As "{i}*chupada*{/i} Shí jhefhe..."
 
 # game/scripts/raiders.rpy:122
 translate spanish raiders_throne_menu_4ee3aa52:
@@ -124,7 +124,7 @@ translate spanish raiders_throne_menu_ca871801:
 translate spanish raiders_throne_menu_92eb6512:
 
     # "She kneels before you..."
-    "Ella se arrodilla ante ti..."
+    "Se arrodilla ante ti..."
 
 # game/scripts/raiders.rpy:133
 translate spanish raiders_throne_menu_f5e08c72:
@@ -148,7 +148,7 @@ translate spanish raiders_throne_menu_8f786271:
 translate spanish raiders_throne_menu_46f647b0:
 
     # Z "Keep going."
-    Z "Sigue adelante."
+    Z "Sigue."
 
 # game/scripts/raiders.rpy:139
 translate spanish raiders_throne_menu_a944719d:
@@ -178,7 +178,7 @@ translate spanish raiders_throne_menu_819bd7fb:
 translate spanish raiders_throne_menu_4e9acafa:
 
     # As "Do I really have to..."
-    As "¿Realmente tengo que..."
+    As "¿De verdad tengo que...?"
 
 # game/scripts/raiders.rpy:162
 translate spanish raiders_throne_menu_cb441358:
@@ -214,7 +214,7 @@ translate spanish raiders_throne_menu_6cc0572c:
 translate spanish raiders_throne_menu_7cd3cda1:
 
     # Z "Remember how I set you straight, back in the desert?"
-    Z "¿Recuerdas quién te enderezó, allá en el desierto?"
+    Z "¿Recuerdas cómo te puse en tu sitio allá en el desierto?"
 
 # game/scripts/raiders.rpy:176
 translate spanish raiders_throne_menu_75b5c230:
@@ -232,7 +232,7 @@ translate spanish raiders_throne_menu_7216e19a:
 translate spanish raiders_throne_menu_90c12a67:
 
     # Z "We both know you're enjoying it."
-    Z "Ambos sabemos que lo estás disfrutando."
+    Z "Los dos sabemos que lo estás disfrutando."
 
 # game/scripts/raiders.rpy:182
 translate spanish raiders_throne_menu_55abe3a1:
@@ -256,13 +256,13 @@ translate spanish raiders_throne_menu_df0d63e4:
 translate spanish raiders_throne_menu_f62ea2c8:
 
     # Z "Now, be a good girl and suck me off."
-    Z "Ahora, sé una buena chica y chúpamela."
+    Z "Ahora haz lo que te dije."
 
 # game/scripts/raiders.rpy:199
 translate spanish raiders_throne_menu_5d118e7f:
 
     # Z "A smile, perfect. Now, go back down like a good pet."
-    Z "Una sonrisa, perfecto. Ahora, vuelve a bajar como una buena mascota."
+    Z "Una sonrisa, perfecto. Ahora vuelve a bajar como una buena mascota."
 
 # game/scripts/raiders.rpy:201
 translate spanish raiders_throne_menu_ffdc9f3c:
@@ -280,19 +280,19 @@ translate spanish raiders_throne_menu_efa2fecb:
 translate spanish raiders_throne_menu_a49fefbe:
 
     # Z "Are you acting up again?"
-    Z "¿Estás actuando mal de nuevo?"
+    Z "¿Otra vez te estás portando mal?"
 
 # game/scripts/raiders.rpy:213
 translate spanish raiders_throne_menu_d806f55d:
 
     # Z "Such attitude for such a pretty face."
-    Z "Tanta actitud para una cara tan bonita."
+    Z "Menudo carácter para una cara tan bonita."
 
 # game/scripts/raiders.rpy:216
 translate spanish raiders_throne_menu_c2836c50:
 
     # Z "Guess you need reminding."
-    Z "Supongo que necesitas que te lo recuerden."
+    Z "Supongo que necesitas que te lo recuerde."
 
 # game/scripts/raiders.rpy:220
 translate spanish raiders_throne_menu_13437386:
@@ -340,7 +340,7 @@ translate spanish rt26_a944719d:
 translate spanish rt26_248ef64c:
 
     # Z "Know your place, kid."
-    Z "Entiende tu posición, chica."
+    Z "Conoce tu lugar, chica."
 
 # game/scripts/raiders.rpy:270
 translate spanish rt26_a944719d_1:
@@ -358,7 +358,7 @@ translate spanish rt26_3d4e4f45:
 translate spanish rt26_bf0822f3:
 
     # Zt "There it is; she's starting to enjoy it..."
-    Zt "Ahí está; ella está empezando a disfrutarlo..."
+    Zt "Ahí está... está empezando a disfrutarlo..."
 
 # game/scripts/raiders.rpy:284
 translate spanish rt26_959e7cd4:
@@ -370,7 +370,7 @@ translate spanish rt26_959e7cd4:
 translate spanish rt26_1518b946:
 
     # Z "I think you have enough, don't you."
-    Z "Creo que ya tienes suficiente, ¿no?"
+    Z "Creo que ya has tenido suficiente, ¿no?"
 
 # game/scripts/raiders.rpy:300
 translate spanish rt26_e613c778:
@@ -382,7 +382,7 @@ translate spanish rt26_e613c778:
 translate spanish rt26_17a5bf13:
 
     # Z "Now, take it like I told you to."
-    Z "Ahora, sé una buena chica y chúpamela."
+    Z "Ahora haz lo que te dije."
 
 # game/scripts/raiders.rpy:304
 translate spanish rt26_b2f42d90_1:
@@ -418,19 +418,19 @@ translate spanish rt26_ed784205:
 translate spanish rt26_2880d5f9:
 
     # Z "Take it all."
-    Z "Cógelo todo."
+    Z "Trágatelo todo."
 
 # game/scripts/raiders.rpy:316
 translate spanish rt26_9c0cb84d:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupa*{/i}"
+    As "{i}*chupada*{/i}"
 
 # game/scripts/raiders.rpy:319
 translate spanish rt26_df8dbff5:
 
-    # As "{i}*gulp*{/i}"
-    As "{i}*gulp*{/i}"
+    # As "{i}*traga*{/i}"
+    As "{i}*traga*{/i}"
 
 # game/scripts/raiders.rpy:320
 translate spanish rt26_29e03569:
@@ -442,7 +442,7 @@ translate spanish rt26_29e03569:
 translate spanish rt1_cum_9c0cb84d:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupa*{/i}"
+    As "{i}*chupada*{/i}"
 
 # game/scripts/raiders.rpy:328
 translate spanish rt1_cum_0ada526f:
@@ -484,13 +484,13 @@ translate spanish rt1x_a944719d:
 translate spanish rt1x_9c0cb84d:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupa*{/i}"
+    As "{i}*chupada*{/i}"
 
 # game/scripts/raiders.rpy:348
 translate spanish rt1x_df8dbff5:
 
-    # As "{i}*gulp*{/i}"
-    As "{i}*gulp*{/i}"
+    # As "{i}*traga*{/i}"
+    As "{i}*traga*{/i}"
 
 # game/scripts/raiders.rpy:351
 translate spanish rt1x_b2f42d90:
@@ -502,7 +502,7 @@ translate spanish rt1x_b2f42d90:
 translate spanish rt1x_c7e3c064:
 
     # "Cum flows out of her throat, onto your shaft..."
-    "El esperma fluye de su garganta hacia tu miembro..."
+    "El semen le sale de la garganta y cae sobre tu polla..."
 
 # game/scripts/raiders.rpy:354
 translate spanish rt1x_e8b46ded:
@@ -514,19 +514,19 @@ translate spanish rt1x_e8b46ded:
 translate spanish rt1x_9c0cb84d_1:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupa*{/i}"
+    As "{i}*chupada*{/i}"
 
 # game/scripts/raiders.rpy:361
 translate spanish rt1x_9c0cb84d_2:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupa*{/i}"
+    As "{i}*chupada*{/i}"
 
 # game/scripts/raiders.rpy:362
 translate spanish rt1x_8b048435:
 
     # "She goes deeper down your dick and swallows what flew out..."
-    "Ella profundiza en tu polla y se traga lo que ha salido disparado..."
+    "Se mete la polla más adentro y se traga lo que se había escapado..."
 
 # game/scripts/raiders.rpy:363
 translate spanish rt1x_1425fc36:
@@ -538,13 +538,13 @@ translate spanish rt1x_1425fc36:
 translate spanish rt1x_645db7f1:
 
     # "She continues to suck you off, cleaning your dick entirely."
-    "Ella continúa chupándotela, limpiándote la polla por completo."
+    "Sigue chupándotela hasta dejarte la polla completamente limpia."
 
 # game/scripts/raiders.rpy:368
 translate spanish rt1x_731f0a1f:
 
     # Zt "That was nice. Time to go back to work."
-    Zt "Eso estuvo bien. Hora de volver al trabajo."
+    Zt "Ha estado bien. Hora de volver al trabajo."
 
 # game/scripts/raiders.rpy:369
 translate spanish rt1x_8227a0b4:
@@ -556,13 +556,13 @@ translate spanish rt1x_8227a0b4:
 translate spanish rt1x_1aedd9e0:
 
     # As "{i}*slurp*{/i} yhes bosh..."
-    As "{i}*chupa*{/i} Shí jhefhe..."
+    As "{i}*chupada*{/i} Shí jhefhe..."
 
 # game/scripts/raiders.rpy:373
 translate spanish rt1x_f9f8bf25:
 
     # Zt "I guess I don't mind her going on for now..."
-    Zt "Supongo que no me importa que siga hablando por ahora..."
+    Zt "Supongo que no me importa que siga por ahora..."
 
 # game/scripts/raiders.rpy:377
 translate spanish rt1x_e0aebdc1:
@@ -574,19 +574,19 @@ translate spanish rt1x_e0aebdc1:
 translate spanish rt1x_2554e95a:
 
     # Z "Keep going, girl."
-    Z "Continúa, chica."
+    Z "Sigue, chica."
 
 # game/scripts/raiders.rpy:381
 translate spanish rt1x_5a56a6f7:
 
     # "She eagerly pushes her head down your cock, giving you a pleasant deepthroat..."
-    "Ella empuja ansiosamente su cabeza hacia tu polla, haciéndote una placentera garganta profunda..."
+    "Empuja la cabeza con ansia hasta tragarse tu polla profundamente..."
 
 # game/scripts/raiders.rpy:385
 translate spanish rt1x_17c49f9b:
 
     # Zt "I should give her more credit. A girl like her is hard to come by."
-    Zt "Debería darla más crédito. Una chica como ella es difícil de encontrar."
+    Zt "Debería reconocerle más mérito. No es fácil encontrar una chica como ella."
 
 # game/scripts/raiders.rpy:386
 translate spanish rt1x_6389a511:
@@ -604,13 +604,13 @@ translate spanish rt1x_d4daa323:
 translate spanish rt1x_286c6065:
 
     # As "Mh... {i}*slurp*{/i}"
-    As "Mh... {i}*chupa*{/i}"
+    As "Mh... {i}*chupada*{/i}"
 
 # game/scripts/raiders.rpy:390
 translate spanish rt1x_99c28b0b:
 
     # Zt "She liked to hear that..."
-    Zt "A ella le gustaba oír eso..."
+    Zt "Le ha gustado oír eso..."
 
 # game/scripts/raiders.rpy:392
 translate spanish rt1x_e0aebdc1_1:
@@ -622,19 +622,19 @@ translate spanish rt1x_e0aebdc1_1:
 translate spanish rt1x_d5619719:
 
     # Zt "I love this slut."
-    Zt "Amo a esta zorra."
+    Zt "Me encanta esta zorra."
 
 # game/scripts/raiders.rpy:397
 translate spanish rt1x_4fa37fe2:
 
     # Zt "If she was my [persistent.da], she'd be the most bratty one."
-    Zt "Si ella fuera mi [persistent.da], sería la más mimada de todas."
+    Zt "Si fuera mi [persistent.da], sería la más rebelde de todas."
 
 # game/scripts/raiders.rpy:398
 translate spanish rt1x_ecd2efa6:
 
     # Zt "But at least she knows when to be quiet."
-    Zt "Pero al menos ella sabe cuándo quedarse callada."
+    Zt "Pero al menos sabe cuándo quedarse callada."
 
 # game/scripts/raiders.rpy:400
 translate spanish rt1x_571938ec:
@@ -646,7 +646,7 @@ translate spanish rt1x_571938ec:
 translate spanish rt1x_48bc783c:
 
     # Zt "I can't imagine [S] tolerating her attitude, though."
-    Zt "No puedo imaginar que [S] tolere su actitud, sin embargo."
+    Zt "Aunque no me imagino a [S] soportando su actitud."
 
 # game/scripts/raiders.rpy:403
 translate spanish rt1x_e0aebdc1_2:
@@ -736,7 +736,7 @@ translate spanish rt1x_5e990086_1:
 translate spanish rt1x_fef04edc:
 
     # "She obediently starts licking off your cum..."
-    "Ella empieza a lamer obedientemente tu corrida..."
+    "Empieza a lamer obedientemente tu semen..."
 
 # game/scripts/raiders.rpy:442
 translate spanish rt1x_aaedc0b5:
@@ -748,7 +748,7 @@ translate spanish rt1x_aaedc0b5:
 translate spanish rt1x_57a67bd3:
 
     # Z "Hey, [Kit]."
-    Z "Ey, [Kit]."
+    Z "Oye, [Kit]."
 
 # game/scripts/raiders.rpy:461
 translate spanish rt1x_5b60bcac:
@@ -778,7 +778,7 @@ translate spanish rt1x_2d2fd980:
 translate spanish rt1x_ab0434f3:
 
     # "She does as you say..."
-    "Ella hace lo que la dices..."
+    "Hace lo que le dices..."
 
 # game/scripts/raiders.rpy:476
 translate spanish rt1x_9917dfc7:
@@ -814,7 +814,7 @@ translate spanish kitty_menu_e87a1f11:
 translate spanish kitty_menu_5a129d15:
 
     # Z "Were you called [Kit] your whole life, or did the General give you this petname?"
-    Z "¿Te has llamado [Kit] toda tu vida, o el General te puso ese apodo?"
+    Z "¿Te has llamado [Kit] toda la vida o fue el General quien te puso ese apodo?"
 
 # game/scripts/raiders.rpy:497
 translate spanish kitty_menu_dc83d91c:
@@ -856,7 +856,7 @@ translate spanish kitty_not_renamed_347197f3:
 translate spanish kitty_not_renamed_0111e324:
 
     # Zt "Is it really a mutation, or did the General possess something to dye her hair?"
-    Zt "¿Realmente es una mutación o el General tenía algo para teñirla el pelo?"
+    Zt "¿De verdad es una mutación o el General tenía algo para teñirle el pelo?"
 
 # game/scripts/raiders.rpy:530
 translate spanish kitty_not_renamed_ffc250d9:
@@ -892,13 +892,13 @@ translate spanish kitty_not_renamed_5e990086_1:
 translate spanish kitty_not_renamed_84c1f257:
 
     # "Her facial expression changes minimally. You wonder if it has any meaning..."
-    "Su expresión facial cambia mínimamente. Te preguntas si tiene algún significado..."
+    "Su expresión apenas cambia. Te preguntas si significará algo..."
 
 # game/scripts/raiders.rpy:547
 translate spanish kitty_not_renamed_314dd3d8:
 
     # Zt "I don't know how to interpret this, or if I should."
-    Zt "No sé cómo interpretar esto, o si debería hacerlo."
+    Zt "No sé cómo interpretar esto ni si debería intentarlo."
 
 # game/scripts/raiders.rpy:548
 translate spanish kitty_not_renamed_173cfc9a:
@@ -928,13 +928,13 @@ translate spanish kitty_not_renamed_efa2fecb:
 translate spanish kitty_not_renamed_4c094232:
 
     # Z "So pretty, but so mysterious."
-    Z "Tan bonita, pero tan misteriosa."
+    Z "Tan bonita y tan misteriosa."
 
 # game/scripts/raiders.rpy:564
 translate spanish kitty_not_renamed_9de661e0:
 
     # Z "I wonder what's really going on behind those pretty eyes."
-    Z "Me pregunto qué está pasando realmente detrás de esos hermosos ojos."
+    Z "Me pregunto qué se oculta realmente tras esos preciosos ojos."
 
 # game/scripts/raiders.rpy:565
 translate spanish kitty_not_renamed_5e990086_3:
@@ -988,7 +988,7 @@ translate spanish kitty_not_renamed_dd78d5a5:
 translate spanish rt_send_kitty_back_eb9337d1:
 
     # Zt "I simply can't read her at all. She is responsive to commands, but only that."
-    Zt "Simplemente no puedo leerla en absoluto. Responde a órdenes, pero solo a eso."
+    Zt "No consigo descifrarla en absoluto. Responde a las órdenes, pero nada más."
 
 # game/scripts/raiders.rpy:599
 translate spanish rt_send_kitty_back_74781485:
@@ -1024,7 +1024,7 @@ translate spanish rt_send_kitty_back_22bfe304:
 translate spanish rt_send_kitty_back_6fb79fde:
 
     # "She gets up back to her place. You notice Asha glaring at her for a moment..."
-    "Ella se levanta y regresa a su lugar. Notas que Asha la mira con enojo por un momento..."
+    "Se levanta y regresa a su sitio. Notas que Asha la mira con enojo por un momento..."
 
 # game/scripts/raiders.rpy:620
 translate spanish rt_send_kitty_back_575e8cc2:
@@ -1444,7 +1444,7 @@ translate spanish rsf_1_488aaecd:
 translate spanish rsf_1_9d3b4d0b:
 
     # SW "{i}*muffled*{/i} [Kit]..."
-    SW "{i}*amortiguado*{/i} [Kit]..."
+    SW "{i}*ahogado*{/i} [Kit]..."
 
 # game/scripts/raiders.rpy:794
 translate spanish rsf_1_5e990086:
@@ -2266,7 +2266,7 @@ translate spanish re_rst1a_7cea8b07:
 translate spanish rst25_06a98a45:
 
     # Rue "{i}*slurp*{/i}"
-    Rue "{i}*chupa*{/i}"
+    Rue "{i}*chupada*{/i}"
 
 # game/scripts/raiders.rpy:1170
 translate spanish rst25_82fde825:
@@ -2361,8 +2361,8 @@ translate spanish rst25_ad47e912:
 # game/scripts/raiders.rpy:1195
 translate spanish rst25_89458e0d:
 
-    # Rue "{i}*gulp*{/i}"
-    Rue "{i}*gulp*{/i}"
+    # Rue "{i}*traga*{/i}"
+    Rue "{i}*traga*{/i}"
 
 # game/scripts/raiders.rpy:1198
 translate spanish rst25_5f1b7087:
@@ -2392,7 +2392,7 @@ translate spanish rst25_065f4351:
 translate spanish rst25_06a98a45_1:
 
     # Rue "{i}*slurp*{/i}"
-    Rue "{i}*chupa*{/i}"
+    Rue "{i}*chupada*{/i}"
 
 # game/scripts/raiders.rpy:1209
 translate spanish rst25_43467e9f:
@@ -3088,7 +3088,7 @@ translate spanish rst56_aab21329:
 translate spanish rst56_eec8e7de:
 
     # Rue "{i}*gluck*{/i}"
-    Rue "{i}*glug*{/i}"
+    Rue "{i}*atragantándose*{/i}"
 
 # game/scripts/raiders.rpy:1493
 translate spanish rst56_2da842b9:
@@ -3112,7 +3112,7 @@ translate spanish rst56_815df122_1:
 translate spanish rst56_06a98a45:
 
     # Rue "{i}*slurp*{/i}"
-    Rue "{i}*chupa*{/i}"
+    Rue "{i}*chupada*{/i}"
 
 # game/scripts/raiders.rpy:1501
 translate spanish rst56_dacd0671:
@@ -3129,8 +3129,8 @@ translate spanish rst56_0b92ae95:
 # game/scripts/raiders.rpy:1505
 translate spanish rst56_89458e0d:
 
-    # Rue "{i}*gulp*{/i}"
-    Rue "{i}*gulp*{/i}"
+    # Rue "{i}*traga*{/i}"
+    Rue "{i}*traga*{/i}"
 
 # game/scripts/raiders.rpy:1506
 translate spanish rst56_0efe93eb:
@@ -3508,7 +3508,7 @@ translate spanish rst56_21a7c9c0_1:
 translate spanish rst56_06a98a45_1:
 
     # Rue "{i}*slurp*{/i}"
-    Rue "{i}*chupa*{/i}"
+    Rue "{i}*chupada*{/i}"
 
 # game/scripts/raiders.rpy:1652
 translate spanish rst56_75acc21f:
@@ -3832,7 +3832,7 @@ translate spanish raiders_raid_b2ee60c9:
 translate spanish raiders_raid_9c0cb84d:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupa*{/i}"
+    As "{i}*chupada*{/i}"
 
 # game/scripts/raiders.rpy:1832
 translate spanish raiders_raid_dc01234b:
@@ -4132,7 +4132,7 @@ translate spanish raiders_raid_e6fe0338:
 translate spanish raiders_raid_9c0cb84d_1:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupa*{/i}"
+    As "{i}*chupada*{/i}"
 
 # game/scripts/raiders.rpy:1980
 translate spanish raiders_raid_5dab7709:
@@ -4185,8 +4185,8 @@ translate spanish raiders_raid_955723fc:
 # game/scripts/raiders.rpy:1993
 translate spanish raiders_raid_14baed79:
 
-    # As "Mhhgh... {i}*gulp*{/i}"
-    As "Mhhgh... {i}*gulp*{/i}"
+    # As "Mhhgh... {i}*traga*{/i}"
+    As "Mhhgh... {i}*traga*{/i}"
 
 # game/scripts/raiders.rpy:1994
 translate spanish raiders_raid_f2dc08af:
@@ -4216,7 +4216,7 @@ translate spanish raiders_raid_7beb6ceb:
 translate spanish raiders_raid_44fb3740:
 
     # As "Mhh... {i}*slurp*{/i}"
-    As "Mhh... {i}*chupa*{/i}"
+    As "Mhh... {i}*chupada*{/i}"
 
 # game/scripts/raiders.rpy:2005
 translate spanish raiders_raid_0e6157fd:
@@ -4348,7 +4348,7 @@ translate spanish raiders_raid_87aadbb5:
 translate spanish raiders_raid_9c0cb84d_2:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupa*{/i}"
+    As "{i}*chupada*{/i}"
 
 # game/scripts/raiders.rpy:2046
 translate spanish raiders_raid_395e36a9:
@@ -4372,7 +4372,7 @@ translate spanish raiders_raid_0ce2e9bc:
 translate spanish raiders_raid_9c0cb84d_3:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupa*{/i}"
+    As "{i}*chupada*{/i}"
 
 # game/scripts/raiders.rpy:2061
 translate spanish raiders_raid_b66e4f9e:
@@ -4432,7 +4432,7 @@ translate spanish raiders_raid_26a6d72a:
 translate spanish raiders_raid_9c0cb84d_4:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupa*{/i}"
+    As "{i}*chupada*{/i}"
 
 # game/scripts/raiders.rpy:2085
 translate spanish raiders_raid_141e3732:

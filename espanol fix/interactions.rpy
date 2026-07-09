@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/interactions.rpy:10
 translate spanish vai_1_aab325ed:
@@ -10,7 +10,7 @@ translate spanish vai_1_aab325ed:
 translate spanish vai_1_be85ec99:
 
     # Z "{i}*chuckles*{/i} Hey short one."
-    Z "{i}*risilla*{/i} Ey pequeña."
+    Z "{i}*risilla*{/i} Oye, pequeña."
 
 # game/scripts/interactions.rpy:14
 translate spanish vai_1_722b1b81:
@@ -28,7 +28,7 @@ translate spanish vai_1_bb946a88:
 translate spanish vai_2_7bd15845:
 
     # A "I know it's difficult... we don't really speak the language the same way it's written, too."
-    A "Sé que es difícil... nosotros tampoco hablamos el idioma de la misma manera que se escribe."
+    A "Sé que es difícil... nosotros tampoco hablamos igual que escribimos."
 
 # game/scripts/interactions.rpy:26
 translate spanish vai_2_767eb08a:
@@ -82,7 +82,7 @@ translate spanish vai_3_91ef1eca:
 translate spanish vai_3_471079e4:
 
     # A "Look, of course I knew. I mean... I didn't. But!"
-    A "Mira, por supuesto que lo sabía. Quiero decir... no lo sabía. ¡Pero!"
+    A "Mira, claro que lo sabía. Quiero decir... no lo sabía. ¡Pero...!"
 
 # game/scripts/interactions.rpy:48
 translate spanish vai_3_018259f8:
@@ -94,7 +94,7 @@ translate spanish vai_3_018259f8:
 translate spanish vai_3_8cdf3054:
 
     # S "[A], I appreciate it. Just stay away from... sharp things, okay?"
-    S "[A], lo aprecio. Solo mantente alejada de... cosas afiladas, ¿de acuerdo?"
+    S "[A], te lo agradezco. Solo mantente alejada de... cosas afiladas, ¿de acuerdo?"
 
 # game/scripts/interactions.rpy:50
 translate spanish vai_3_4fa744aa:
@@ -124,7 +124,7 @@ translate spanish vai_4_13409749:
 translate spanish vai_4_4b30c007:
 
     # Z "Hey girls, don't worry, take your time. I'll come back in a few."
-    Z "Ey, chicas, no os preocupéis, tomad vuestro tiempo. Volveré en un rato."
+    Z "Oye, chicas, no os preocupéis, tomaos vuestro tiempo. Volveré en un rato."
 
 # game/scripts/interactions.rpy:71
 translate spanish vai_5_1f926a0e:
@@ -136,13 +136,13 @@ translate spanish vai_5_1f926a0e:
 translate spanish vai_5_f0786c15:
 
     # S "I was always a bit jealous of my little sister's hair... but me, and pigtails just wouldn't work."
-    S "Siempre estuve un poco celosa del pelo de mi hermanita... pero yo, con coletas, simplemente no funcionaría."
+    S "Siempre he tenido un poco de envidia del pelo de mi hermanita... pero a mí las coletas no me quedarían bien."
 
 # game/scripts/interactions.rpy:78
 translate spanish vai_5_08ec795b:
 
     # Z "Hey girls... [A], got a few minutes? You can finish up first, I'll be back."
-    Z "Ey chicas... [A], ¿tienes unos minutos? Termina primero, yo vuelvo enseguida."
+    Z "Oye, chicas... [A], ¿tienes unos minutos? Termina primero, yo vuelvo enseguida."
 
 # game/scripts/interactions.rpy:83
 translate spanish vai_6_f24443b5:
@@ -154,13 +154,13 @@ translate spanish vai_6_f24443b5:
 translate spanish vai_6_da3dc4c8:
 
     # A "I don't know, [persistent.mom]... it kind of makes me look old."
-    A "No lo sé, [persistent.mom]... como que me hace ver mayor."
+    A "No lo sé, [persistent.mom]... hace que parezca mayor."
 
 # game/scripts/interactions.rpy:89
 translate spanish vai_6_714ee34e:
 
     # W "Not at all... with a body like that underneath, you will have men drooling in anticipation."
-    W "En absoluto... con un cuerpo así debajo, tendrás a los hombres babeando de anticipación."
+    W "En absoluto... con un cuerpo así debajo, tendrás a los hombres babeando de ganas."
 
 # game/scripts/interactions.rpy:95
 translate spanish vai_7_8875a815:
@@ -196,7 +196,7 @@ translate spanish vsi_1_4fd7cc69:
 translate spanish vsi_1_a8c8b7f2:
 
     # A "I think the look I gave him scared him off, though."
-    A "Creo que la mirada que le lancé lo asustó, sin embargo."
+    A "Aunque creo que la mirada que le lancé lo asustó."
 
 # game/scripts/interactions.rpy:121
 translate spanish vsi_1_20f7dd48:
@@ -208,7 +208,7 @@ translate spanish vsi_1_20f7dd48:
 translate spanish vsi_1_2babe7cb:
 
     # S "Anyways, want to hang outside later? After dinner, I mean."
-    S "En fin, ¿quieres salir después? Después de la cena, quiero decir."
+    S "En fin, ¿quieres que salgamos luego? Después de cenar, quiero decir."
 
 # game/scripts/interactions.rpy:127
 translate spanish vsi_1_7bd4c06e:
@@ -232,7 +232,7 @@ translate spanish vsi_2_43f8e775:
 translate spanish vsi_2_95382227:
 
     # Z "Hey, my favourite warrior."
-    Z "Ey, mi guerrera favorita."
+    Z "Hola, mi guerrera favorita."
 
 # game/scripts/interactions.rpy:141
 translate spanish vsi_2_f1bca22a:
@@ -244,7 +244,7 @@ translate spanish vsi_2_f1bca22a:
 translate spanish vsi_2_a360bf2c:
 
     # S "Oh, hey [persistent.dad]. I think I dozed off, give me a minute."
-    S "¡Oh, ey [persistent.dad]! Creo que me quedé dormida, dame un minuto."
+    S "¡Oh, hola, [persistent.dad]! Creo que me quedé dormida, dame un minuto."
 
 # game/scripts/interactions.rpy:150
 translate spanish vsi_3_679b1974:
@@ -298,7 +298,7 @@ translate spanish vsi_5_9b801cc7:
 translate spanish vsi_5_3a3f13fa:
 
     # Ew "Silly chair. I should tell lady [W] that this room is a mess...!"
-    Ew "Tonta silla. Debería decirle a la señora [W] que esta habitación es un desastre...!"
+    Ew "Silla estúpida. Debería decirle a la señora [W] que esta habitación es un desastre...!"
 
 # game/scripts/interactions.rpy:195
 translate spanish vzi_1_71db05b0:
@@ -310,13 +310,13 @@ translate spanish vzi_1_71db05b0:
 translate spanish vzi_1_79b8d159:
 
     # Ww "Such a chore... it better be worth it..."
-    Ww "Qué tarea... más vale que merezca la pena..."
+    Ww "Qué lata... más vale que merezca la pena..."
 
 # game/scripts/interactions.rpy:201
 translate spanish vzi_1_0b9b93a6:
 
     # W "Oh, hello, husband? Have you been spying on me?"
-    W "Oh, hola, esposo. ¿Me estabas espiando?"
+    W "Oh, hola, marido. ¿Me estabas espiando?"
 
 # game/scripts/interactions.rpy:202
 translate spanish vzi_1_b6c0fac3:
@@ -352,13 +352,13 @@ translate spanish vzi_2_eb015267:
 translate spanish vzi_3_52db397f:
 
     # Z "More lingerie? I could see you wearing this in the city."
-    Z "¿Más lencería? Puedo verte usando esto en la ciudad."
+    Z "¿Más lencería? Me imagino perfectamente que lleves esto por la ciudad."
 
 # game/scripts/interactions.rpy:230
 translate spanish vzi_3_a47ef953:
 
     # W "Of course you can. But can you also protect me from ill-minded strangers...?"
-    W "Por supuesto que puedes. Pero, ¿también podrías protegerme de extraños malintencionados...?"
+    W "Por supuesto que sí. Pero ¿también podrías protegerme de desconocidos con malas intenciones...?"
 
 # game/scripts/interactions.rpy:232
 translate spanish vzi_3_a578c81e:
@@ -370,7 +370,7 @@ translate spanish vzi_3_a578c81e:
 translate spanish vzi_3_fdb03972:
 
     # Z "Of course. Why would I let those legs wander anywhere else?"
-    Z "Por supuesto. ¿Por qué dejaría que esas piernas vagaran a otro lugar?"
+    Z "Por supuesto. ¿Por qué iba a dejar que esas piernas se fueran a otra parte?"
 
 # game/scripts/interactions.rpy:242
 translate spanish vzi_4_2f2f3726:
@@ -388,7 +388,7 @@ translate spanish vzi_4_e49ce34e:
 translate spanish vzi_4_70276562:
 
     # W "Hello, husband. I was just thinking of you. Stay outside for a moment, please?"
-    W "Hola, esposo. Estaba pensando en ti. ¿Puedes esperar afuera un momento, por favor?"
+    W "Hola, marido. Estaba pensando en ti. ¿Puedes esperar fuera un momento, por favor?"
 
 # game/scripts/interactions.rpy:252
 translate spanish vzi_4_eccb0c7f:

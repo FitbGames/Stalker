@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/day13.rpy:4
 translate spanish d13a_9669528e:
@@ -310,7 +310,7 @@ translate spanish d13a_d3abd950:
 translate spanish d13a_2838150d:
 
     # Hak "Let's go get the rides. Stay here brother."
-    Hak "Vamos dar un paseo. Quédate aquí, hermano."
+    Hak "Vamos a por los vehículos. Quédate aquí, hermano."
 
 # game/scripts/day13.rpy:112
 translate spanish d13a_d74f4e9e:
@@ -370,7 +370,7 @@ translate spanish d13a_eb2c4b52:
 translate spanish d13a_94c7f812:
 
     # St "Damn... how long have I been awake, anyway?"
-    St "Maldita sea... ¿cuánto tiempo llevo despierta?"
+    St "Joder... ¿cuánto tiempo llevo despierta?"
 
 # game/scripts/day13.rpy:140
 translate spanish d13a_de10ca9b:
@@ -520,13 +520,13 @@ translate spanish d13a_ddfcd81e:
 translate spanish d13a_0905fdb8:
 
     # St "Damn it... what do I do now..."
-    St "Maldita sea... qué hago ahora..."
+    St "Joder... qué hago ahora..."
 
 # game/scripts/day13.rpy:206
 translate spanish d13a_1c0d85b6:
 
     # "The man moves in closer, his breathing muffled by his scarf, as he stares [S] up and down, probably looking for more weapons."
-    "El hombre se acerca, con la respiración amortiguada por la bufanda, mientras mira a [S] de arriba abajo, probablemente en busca de más armas."
+    "El hombre se acerca, con la respiración ahogada por la bufanda, mientras mira a [S] de arriba abajo, probablemente en busca de más armas."
 
 # game/scripts/day13.rpy:209
 translate spanish d13a_b2eb37bc_1:
@@ -658,7 +658,7 @@ translate spanish d13a95_39fc8393:
 translate spanish d13a95_68c196fe:
 
     # Narg "{i}*cough*{/i}"
-    Narg "{i}*tos*{/i}"
+    Narg "{i}*tose*{/i}"
 
 # game/scripts/day13.rpy:304
 translate spanish d13a95_c7d96566:
@@ -670,7 +670,7 @@ translate spanish d13a95_c7d96566:
 translate spanish d13a95_ea00355c:
 
     # Narg "You... they... {i}cough{/i}"
-    Narg "Tú... ellos... {i}*tos*{/i}"
+    Narg "Tú... ellos... {i}*tose*{/i}"
 
 # game/scripts/day13.rpy:314
 translate spanish d13a95_1ccf48c6:
@@ -946,7 +946,7 @@ translate spanish d13a95_971a98df_2:
 translate spanish d13a95_68c196fe_1:
 
     # Narg "{i}*cough*{/i}"
-    Narg "{i}*tos*{/i}"
+    Narg "{i}*tose*{/i}"
 
 # game/scripts/day13.rpy:465
 translate spanish d13a95_95040b20:
@@ -1120,7 +1120,7 @@ translate spanish d13a116_11cc1509:
 translate spanish d13a116_585fe97f:
 
     # C3 "Hey... you!"
-    C3 "Ey... ¡Tú!"
+    C3 "Eh... ¡tú!"
 
 # game/scripts/day13.rpy:568
 translate spanish d13a116_647c7f76:
@@ -1150,7 +1150,7 @@ translate spanish d13a116_50492d54:
 translate spanish d13a116_65b325bb:
 
     # Rey "Hey... you! No need to be worried. We just have a couple questions!"
-    Rey "Ey... ¡tú! No tienes por qué preocuparte. ¡Sólo tenemos un par de preguntas!"
+    Rey "Oye... ¡tú! No tienes por qué preocuparte. ¡Solo tenemos un par de preguntas!"
 
 # game/scripts/day13.rpy:577
 translate spanish d13a116_971a98df_1:
@@ -1378,13 +1378,13 @@ translate spanish d13a116_e0f45008:
 translate spanish d13a116_46fced38:
 
     # Rey "SO TELL ME WHAT YOU KNO-{w=.85}{nw}"
-    Rey "¡Así que dime lo que sabes!"
+    Rey "¡ASÍ QUE DIME LO QUE SAB-{w=.85}{nw}"
 
 # game/scripts/day13.rpy:681
 translate spanish d13a116_cddae9ed:
 
     # S "...{w=2}{nw}"
-    S "...{w=2}{nw}"
+    S "... {w=2}{nw}"
 
 # game/scripts/day13.rpy:682
 translate spanish d13a116_e56adabf:
@@ -1396,13 +1396,13 @@ translate spanish d13a116_e56adabf:
 translate spanish d13a116_b56115f8:
 
     # Rey "You... bitch! What...{w=3}{nw}"
-    Rey "¡Tú... zorra! Qué... {w=3}{nw}"
+    Rey "¡Tú... zorra! ¡Qué... {w=3}{nw}"
 
 # game/scripts/day13.rpy:691
 translate spanish d13a116_622c50f6:
 
     # Myn "...!{w=2}{nw}"
-    Myn "¡...!{w=2}{nw}"
+    Myn "...!{w=2}{nw}"
 
 # game/scripts/day13.rpy:692
 translate spanish d13a116_ce648780:
@@ -1528,7 +1528,7 @@ translate spanish d13a_bad_end_1_936ca0c8:
 translate spanish d13a_bad_end_2_b8fd439a:
 
     # S "...!{w=.8}{nw}"
-    S "... ¡!{w=.8}{nw}"
+    S "¡...!{w=.8}{nw}"
 
 # game/scripts/day13.rpy:867
 translate spanish d13a_bad_end_3_cddae9ed:
@@ -1558,7 +1558,7 @@ translate spanish d13a_bad_end_4_f221859e:
 translate spanish d13a_bad_end_epilogue_3e08680e:
 
     # Myn "Fucking bitch... she's done."
-    Myn "Jodida zorra... está acabada."
+    Myn "Jodida zorra... está muerta."
 
 # game/scripts/day13.rpy:894
 translate spanish d13a_bad_end_epilogue_b7b33751:
@@ -1570,7 +1570,7 @@ translate spanish d13a_bad_end_epilogue_b7b33751:
 translate spanish d13a_bad_end_epilogue_622f99b0:
 
     # Hak "Now go treat [Rey]... I'm not done with her yet."
-    Hak "Ahora ve a tratar a [Rey]... Aún no he terminado con ella."
+    Hak "Ahora ve a ocuparte de [Rey]... Aún no he terminado con ella."
 
 # game/scripts/day13.rpy:896
 translate spanish d13a_bad_end_epilogue_9b427929:
@@ -2248,7 +2248,7 @@ translate spanish d13c_324214b4:
 translate spanish d13c_6c5b7343:
 
     # Z "I guess..."
-    S "Supongo..."
+    Z "Supongo..."
 
 # game/scripts/day13.rpy:1280
 translate spanish d13c_5e65dce6:
@@ -2800,7 +2800,7 @@ translate spanish d13d_menu_ff20aadf:
 translate spanish d13d_menu_bd915253:
 
     # S "I guess the only reason why I wasn't hit is that I was hiding behind a wall, out of sight."
-    S "Supongo que la única razón por la que no me alcanzaron es que estaba escondida detrás de una pared, fuera de la vista.."
+    S "Supongo que la única razón por la que no me alcanzaron es que estaba escondida detrás de una pared, fuera de la vista."
 
 # game/scripts/day13.rpy:1465
 translate spanish d13d_menu_0a559bfb:
@@ -4114,7 +4114,7 @@ translate spanish d13e2_632155ee:
 translate spanish d13e2_145adfdf:
 
     # Z "So when I approach her, I treat her with the necessary respect, without being a pushover."
-    Z "Así que cuando me acerco a ella, la trato con el respeto necesario, sin ser un pusilánime."
+    Z "Así que cuando me acerco a ella, la trato con el respeto necesario, sin dejarme dominar."
 
 # game/scripts/day13.rpy:1967
 translate spanish d13e2_46453f60:
@@ -4656,7 +4656,7 @@ translate spanish d13e3_405a1c8a:
 translate spanish d13e3_b737869c:
 
     # Z "Master Zosar was a patriot, he stood for the city."
-    Z "El maestro Zosak era un patriota, defendía la ciudad."
+    Z "El maestro Zosar era un patriota, defendía la ciudad."
 
 # game/scripts/day13.rpy:2191
 translate spanish d13e3_f8875680:
@@ -5622,7 +5622,7 @@ translate spanish d13f_2f598e2b:
 translate spanish d13f_3449bc84:
 
     # S "She was very pretty... blonde and light skinned, like Emilia, but younger..."
-    S "Era muy guapa... bubia y de piel clara, como Emilia, pero más joven..."
+    S "Era muy guapa... rubia y de piel clara, como Emilia, pero más joven..."
 
 # game/scripts/day13.rpy:2584
 translate spanish d13f_a3de7f48:
@@ -5790,7 +5790,7 @@ translate spanish d13g_3fe46b9e:
 translate spanish d13g_767392bd:
 
     # W "Hey there, [persistent.da]."
-    W "Ey, [persistent.da]."
+    W "Oye, [persistent.da]."
 
 # game/scripts/day13.rpy:2647
 translate spanish d13g_971a98df_1:
@@ -5928,7 +5928,7 @@ translate spanish re_d13g13_9a87fc0d:
 translate spanish re_d13g13_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupa*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/day13.rpy:2694
 translate spanish re_d13g13_47592ba2:
@@ -5958,7 +5958,7 @@ translate spanish re_d13g13_3b992898:
 translate spanish re_d13g13_7f4d4c96:
 
     # "[A]'s bubbly ass clenches and her legs playfully sway around as she eats her [persistent.mom] out."
-    "El culo burbujeante de [A] se aprieta y sus piernas se balancean juguetonamente mientras se come a su [persistent.mom]."
+    "El culo redondo de [A] se aprieta y sus piernas se balancean juguetonamente mientras se come a su [persistent.mom]."
 
 # game/scripts/day13.rpy:2703
 translate spanish re_d13g13_f6f4e39d:
@@ -5976,7 +5976,7 @@ translate spanish re_d13g13_95fa8c98:
 translate spanish re_d13g13_712d4ae2_1:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupa*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/day13.rpy:2708
 translate spanish re_d13g13_b12e826c:
@@ -6036,7 +6036,7 @@ translate spanish re_d13g13_a9444ae9:
 translate spanish re_d13g13_712d4ae2_2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupa*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/day13.rpy:2728
 translate spanish re_d13g13_ccb5b4c5:
@@ -6360,7 +6360,7 @@ translate spanish d13g24x2_71d0400a:
 translate spanish d13g24x2_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupa*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/day13.rpy:2844
 translate spanish d13g24x2_de376a9f:
@@ -6930,7 +6930,7 @@ translate spanish d13h_9abd7c6a:
 translate spanish d13h_bcc6020e:
 
     # Z "Uh, hey girls. What's up...?"
-    Z "Uh, ey chicas. ¿Qué tal...?"
+    Z "Eh... hola, chicas. ¿Qué tal...?"
 
 # game/scripts/day13.rpy:3043
 translate spanish d13h_0e125771:
@@ -7434,7 +7434,7 @@ translate spanish d13h_cum_60247c42:
 translate spanish d13h_cum_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupa*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/day13.rpy:3240
 translate spanish d13h_cum_1bd710f6:
@@ -7500,7 +7500,7 @@ translate spanish d13h_cum_b39071fc:
 translate spanish d13h_cum_e3aedcc7:
 
     # Z "Damn..."
-    Z "Maldita sea..."
+    Z "Joder..."
 
 # game/scripts/day13.rpy:3265
 translate spanish d13h_cum_1a56a166:
@@ -7542,7 +7542,7 @@ translate spanish d13h_cum_91062aa9:
 translate spanish d13h_cum_712d4ae2_1:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupa*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/day13.rpy:3279
 translate spanish d13h_cum_979f526f:
@@ -7578,7 +7578,7 @@ translate spanish d13h_cum_9fe2aac0:
 translate spanish d13h_cum_676abcdb:
 
     # A "{i}*gulp*{/i}"
-    A "{i}*gulp*{/i}"
+    A "{i}*traga*{/i}"
 
 # game/scripts/day13.rpy:3290
 translate spanish d13h_cum_70fe0297:
@@ -7644,7 +7644,7 @@ translate spanish d13h_cum_665e3da6:
 translate spanish d13h_cum_1799fd44:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupa*{/i}"
+    S "{i}*chupada*{/i}"
 
 # game/scripts/day13.rpy:3312
 translate spanish d13h_cum_f1332b21:
@@ -7788,7 +7788,7 @@ translate spanish d13h_cum_68ad88ab:
 translate spanish d13h_cum_1799fd44_1:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupa*{/i}"
+    S "{i}*chupada*{/i}"
 
 # game/scripts/day13.rpy:3353
 translate spanish d13h_cum_9b4cb6d9:
@@ -7848,7 +7848,7 @@ translate spanish d13h_cum_1dd341cb:
 translate spanish d13h_cum_712d4ae2_2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupa*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/day13.rpy:3372
 translate spanish d13h_cum_f1332b21_1:
@@ -7992,7 +7992,7 @@ translate spanish d13i_61b06ca9:
 translate spanish d13i_ccaa59f6:
 
     # Q "Damnit... Do what you must, Sharifa. I trust you to fix it."
-    Q "Maldita sea... Haz lo que debas, Sharifa. Confío en que lo arregles."
+    Q "Joder... Haz lo que debas, Sharifa. Confío en que lo arregles."
 
 # game/scripts/day13.rpy:3436
 translate spanish d13i_e35043e6:
@@ -8298,7 +8298,7 @@ translate spanish d13i_discussions_090df21f:
 translate spanish d13i_discussions_4d175b0e:
 
     # Z "Despite my attempts at negotiation, he was unwilling to trade with, or get help from, your soldiers."
-    Z "Despite my attempts at negotiation, he was unwilling to trade with, or get help from, your soldiers."
+    Z "A pesar de mis intentos de negociación, se negaba a comerciar con tus soldados o a recibir ayuda de ellos."
 
 # game/scripts/day13.rpy:3564
 translate spanish d13i_discussions_4ca6a824:
@@ -9216,7 +9216,7 @@ translate spanish d13j_kitchen_radio_624cfb9b:
 translate spanish d13j_kitchen_radio_13d80159:
 
     # "{i}\"God damn me... the pain and the starvation are tearing at me. I've even considered for a second to feed... I can't even write it.\"{/i}"
-    "{i}\"Maldita sea... el dolor y la inanición me están desgarrando. Incluso he considerado por un segundo alimentarme... Ni siquiera puedo escribirlo\".{/i}"
+    "{i}\"Joder... el dolor y la inanición me están desgarrando. Incluso he considerado por un segundo alimentarme... Ni siquiera puedo escribirlo\".{/i}"
 
 # game/scripts/day13.rpy:4012
 translate spanish d13j_kitchen_radio_f0fb85b2:
@@ -9324,7 +9324,7 @@ translate spanish d13j_living_room_fa19fdcd:
 translate spanish d13j_living_room_0ea29282:
 
     # S "Hey... can you hear me?"
-    S "Ey, ¿puedes oírme?"
+    S "Oye, ¿puedes oírme?"
 
 # game/scripts/day13.rpy:4081
 translate spanish d13j_living_room_63e62a54:
@@ -9576,7 +9576,7 @@ translate spanish d13j_ending_99d1a520:
 translate spanish d13j_ending_29c47b10:
 
     # St "Damn, [S], you idiot!"
-    St "¡Maldita sea, [S], idiota!"
+    St "¡Joder, [S], idiota!"
 
 # game/scripts/day13.rpy:4408
 translate spanish d13j_ending_4cb6132c:
@@ -9960,7 +9960,7 @@ translate spanish re_d13k13_c59458ce:
 translate spanish re_d13k13_36160084:
 
     # S "{i}*gulp*{/i}"
-    S "{i}*gulp*{/i}"
+    S "{i}*traga*{/i}"
 
 # game/scripts/day13.rpy:4567
 translate spanish re_d13k13_7755f425:
@@ -10002,7 +10002,7 @@ translate spanish re_d13k13_18ae2a05:
 translate spanish re_d13k13_99f13ccd:
 
     # Z "You've done well. Treating yourself to something nice can soothe a clouded mind; And that's an eyecatcher, if I've ever seen one."
-    Z "Has hecho bien. Regalarte algo agradable puede calmar una mente nublada; y eso es un reclamo, si es que alguna vez he visto uno."
+    Z "Has hecho bien. Regalarte algo agradable puede calmar una mente nublada; y es un verdadero llamativo, si es que he visto alguno."
 
 # game/scripts/day13.rpy:4586
 translate spanish d13k12x_a8de6352:
@@ -10632,7 +10632,7 @@ translate spanish d13l17x_971a98df:
 translate spanish d13l17x_c881ff2d:
 
     # S "Hey, [persistent.dad]?"
-    S "Ey, [persistent.dad]."
+    S "Oye, [persistent.dad]."
 
 # game/scripts/day13.rpy:4854
 translate spanish d13l17x_38fe3d7f:
@@ -11130,7 +11130,7 @@ translate spanish d13l18_654a5bcb:
 translate spanish d13l18_96cd080d:
 
     # S "Hey guys. So, what are we doing?"
-    S "Ey, chicos. Entonces, ¿qué estamos haciendo?"
+    S "Oye, chicos. Entonces, ¿qué estamos haciendo?"
 
 # game/scripts/day13.rpy:5082
 translate spanish d13l18_9a948479:
@@ -11874,7 +11874,7 @@ translate spanish d13l62_67e3c24e:
 translate spanish d13l62_7a10395b:
 
     # Q "{i}*gulp*{/i}"
-    Q "{i}*gulp*{/i}"
+    Q "{i}*traga*{/i}"
 
 # game/scripts/day13.rpy:5385
 translate spanish d13l62_be6d2fcc:
@@ -11946,7 +11946,7 @@ translate spanish d13l62_7c57e392:
 translate spanish d13l62_29db27f6:
 
     # S "Did a cat get your tongue, my Queen?"
-    S "¿Te ha comido la lengua un gato, mi Reina?"
+    S "¿Te ha comido la lengua el gato, mi Reina?"
 
 # game/scripts/day13.rpy:5412
 translate spanish d13l62_44c60b89:
@@ -12762,7 +12762,7 @@ translate spanish d13l62_d727dd19:
 translate spanish d13l62_cd6ad1b3:
 
     # Q "Hey... [S]..."
-    Q "Ey... [S]..."
+    Q "Oye... [S]..."
 
 # game/scripts/day13.rpy:5677
 translate spanish d13l62_c4b9560d:
@@ -13230,7 +13230,7 @@ translate spanish d13l231_b53225bd:
 translate spanish d13l231_1799fd44:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupa*{/i}"
+    S "{i}*chupada*{/i}"
 
 # game/scripts/day13.rpy:5847
 translate spanish d13l231_13b19d6f:
@@ -13284,7 +13284,7 @@ translate spanish d13l231_72731e6c:
 translate spanish d13l231_1799fd44_1:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupa*{/i}"
+    S "{i}*chupada*{/i}"
 
 # game/scripts/day13.rpy:5864
 translate spanish d13l231_6636c329:
@@ -13452,7 +13452,7 @@ translate spanish d13l231_bdc61a01:
 translate spanish d13l231_a9bf183d:
 
     # Zt "...damn."
-    Zt "... maldita sea."
+    Zt "... joder."
 
 # game/scripts/day13.rpy:5920
 translate spanish d13l231_984f7ffe:
@@ -13590,7 +13590,7 @@ translate spanish d13l231_255751ef:
 translate spanish d13l231_a826f8f3:
 
     # "{i}*slurp*{/i}"
-    "{i}*chupa*{/i}"
+    "{i}*chupada*{/i}"
 
 # game/scripts/day13.rpy:5963
 translate spanish d13l231_d930dc7e:
@@ -13680,7 +13680,7 @@ translate spanish d13l231_7a86e149:
 translate spanish d13l231_4542a4bf:
 
     # S "Thaht whas so mhuch, [persistent.dad]..."
-    S "Esto fue mucho, [persistent.dad]..."
+    S "Ehto fue mhuho, [persistent.dad]..."
 
 # game/scripts/day13.rpy:5994
 translate spanish d13l231_15d34047:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/day17.rpy:3
 translate spanish d17a_part_1_0e92e9c4:
@@ -112,7 +112,7 @@ translate spanish d17a_part_1_d6df2ce5:
 translate spanish d17a_part_1_f325b2bd:
 
     # Z "Hey you, have you any idea where I can find Fangs?"
-    Z "Ey tú, ¿sabes dónde puedo encontrar a Fangs?"
+    Z "Oye, tú, ¿sabes dónde puedo encontrar a Fangs?"
 
 # game/scripts/day17.rpy:87
 translate spanish d17a_part_1_d3c264bc_2:
@@ -136,7 +136,7 @@ translate spanish d17a_part_1_1e0b25e1:
 translate spanish d17a_part_1_c58e0196:
 
     # Fa "Oh, hey [persistent.player_name]. What do you need?"
-    Fa "¡Oh, ey, [persistent.player_name]! ¿Qué necesitas?"
+    Fa "¡Oh, hola, [persistent.player_name]! ¿Qué necesitas?"
 
 # game/scripts/day17.rpy:103
 translate spanish d17a_part_1_f1ebb837:
@@ -358,7 +358,7 @@ translate spanish d17a_part_1_5ab3574d_1:
 translate spanish d17a_part_1_f6b541a2:
 
     # Z "Hey..."
-    Z "Ey..."
+    Z "Oye..."
 
 # game/scripts/day17.rpy:213
 translate spanish d17a_part_1_40527276:
@@ -418,13 +418,13 @@ translate spanish d17a_part_1_67b7b824:
 translate spanish d17a_part_1_316b58dd:
 
     # Pe "The coat is being washed, [persistent.player_name]."
-    Pe "La bata está siendo lavada, [persistent.player_name]."
+    Pe "Están lavando la bata, [persistent.player_name]."
 
 # game/scripts/day17.rpy:242
 translate spanish d17a_part_1_37787138:
 
     # Pe "And since I am just inspecting the machines today, I am just dressed for comfort. My comfort."
-    Pe "Y como hoy solo estoy inspeccionando las máquinas, estoy vestida para estar cómoda. Mi comodidad."
+    Pe "Y como hoy solo estoy inspeccionando las máquinas, me he vestido para estar cómoda. Para mi comodidad."
 
 # game/scripts/day17.rpy:245
 translate spanish d17a_part_1_b7fbe7df:
@@ -514,7 +514,7 @@ translate spanish d17a_pepper_questions_3d9f8e91:
 translate spanish d17a_pepper_questions_5bb47675:
 
     # Pe "Just as you are more educated than many of your people in Zeta, some tribes are less ignorant than others."
-    Pe "Así como tú estás más educado que muchos de tu gente en Zeta, algunas tribus son menos ignorantes que otras."
+    Pe "Al igual que tú tienes más educación que muchos de los tuyos en Zeta, algunas tribus son menos ignorantes que otras."
 
 # game/scripts/day17.rpy:295
 translate spanish d17a_pepper_questions_985d9a81:
@@ -700,7 +700,7 @@ translate spanish d17a_pepper_questions_end_efa2fecb:
 translate spanish d17a_pepper_questions_end_08b6f201:
 
     # Z "HEY! I'M BEHIND YOU!"
-    Z "¡Ey! ¡ESTOY DETRÁS DE TI!"
+    Z "¡EH! ¡ESTOY DETRÁS DE TI!"
 
 # game/scripts/day17.rpy:391
 translate spanish d17a_pepper_questions_end_4250ce34:
@@ -730,7 +730,7 @@ translate spanish d17a_pepper_questions_end_a29c4e8a:
 translate spanish d17a_pepper_questions_end_7ae04369:
 
     # C "Totally! What's the point if you can ignore it?!"
-    C "¡Totalmente! ¡¿Cuál es el punto si puedes ignorarlo?!"
+    C "¡Totalmente! ¡¿Qué sentido tiene si puedes ignorarlo?!"
 
 # game/scripts/day17.rpy:408
 translate spanish d17a_pepper_questions_end_7d1fdeee:
@@ -832,7 +832,7 @@ translate spanish d17a72_7f543d75:
 translate spanish d17a72_08392ef7:
 
     # Chi "And since we are approaching at night, I was thinking this could be {i}*the*{/i} opportunity to try these out!"
-    Chi "Y dado que estamos llegando de noche, estaba pensando que esta podría ser *la* oportunidad para probar esto."
+    Chi "Y como vamos a llegar de noche, estaba pensando que esta podría ser {i}*la*{/i} oportunidad para probarlos."
 
 # game/scripts/day17.rpy:458
 translate spanish d17a72_494970dc:
@@ -856,7 +856,7 @@ translate spanish d17a72_a2905ae0:
 translate spanish d17a72_57071150:
 
     # Chi "Unfortunately the powder inside the ammunition for this thing has gone quite weak, but I was able to replace it and then some!"
-    Chi "Desafortunadamente, la pólvora dentro de la munición para esta cosa se ha debilitado mucho, pero pude reemplazarla y algo más."
+    Chi "Por desgracia, la pólvora de la munición se ha debilitado mucho, pero pude reemplazarla y añadir un poco más."
 
 # game/scripts/day17.rpy:466
 translate spanish d17a72_bdf1116e:
@@ -2470,7 +2470,7 @@ translate spanish d17a_preparation_overview_5018f220:
 translate spanish d17a_preparation_overview_f6b541a2:
 
     # Z "Hey..."
-    Z "Ey..."
+    Z "Oye..."
 
 # game/scripts/day17.rpy:1188
 translate spanish d17a_preparation_overview_7fc321bc:
@@ -4294,7 +4294,7 @@ translate spanish d17a236_fb9634eb:
 translate spanish d17a236_f83aeb2b:
 
     # Tr "Ha!! Sniffed you out! {w=.9} {nw}"
-    Tr "¡¡Ja!! ¡Te olfateé! {w=.9}"
+    Tr "¡¡Ja!! ¡Te he olido! {w=.9} {nw}"
 
 # game/scripts/day17.rpy:2090
 translate spanish d17a236_1664fd71:
@@ -7300,19 +7300,19 @@ translate spanish d17a_ending_cutscenes_1b78a30f:
 translate spanish d17a_ending_cutscenes_d8801b3f:
 
     # Chi "Hmm... where do I start? {w=2.7} {nw}"
-    Chi "Hmm... ¿por dónde empiezo? {w=2.7}"
+    Chi "Hmm... ¿por dónde empiezo? {w=2.7} {nw}"
 
 # game/scripts/day17.rpy:3599
 translate spanish d17a_ending_cutscenes_5a3a242f:
 
     # Chi "First, I will make sure to get you running again. {w=2.3} {nw}"
-    Chi "Primero, me aseguraré de que vuelvas a funcionar. {w=2.3}"
+    Chi "Primero, me aseguraré de que vuelvas a funcionar. {w=2.3} {nw}"
 
 # game/scripts/day17.rpy:3600
 translate spanish d17a_ending_cutscenes_7b3bdc42:
 
     # Chi "I would say it's about time! {w=2} {nw}"
-    Chi "Diría que ya era hora. {w=2} {nw}"
+    Chi "¡Yo diría que ya era hora! {w=2} {nw}"
 
 # game/scripts/day17.rpy:3611
 translate spanish d17b_c98c889f:
@@ -7330,13 +7330,13 @@ translate spanish d17b_ac943dc1:
 translate spanish d17b_8b75023c:
 
     # Fa "Sorry for interrupting your sleep. There is someone who wanted to see you."
-    Fa "Perdón por interrumpir tu sueño. Alguien quería verte."
+    Fa "Siento haberte despertado. Hay alguien que quería verte."
 
 # game/scripts/day17.rpy:3620
 translate spanish d17b_033c5023:
 
     # Z "Someone... okay, who is it."
-    Z "Alguien... de acuerdo, ¿quién es?"
+    Z "Alguien... vale, ¿quién es?"
 
 # game/scripts/day17.rpy:3623
 translate spanish d17b_dcbc7c5c:
@@ -7348,7 +7348,7 @@ translate spanish d17b_dcbc7c5c:
 translate spanish d17b_6a69ace7:
 
     # C "Do you...remember me?"
-    C "¿Tú... me recuerdas?"
+    C "¿Me... me recuerdas?"
 
 # game/scripts/day17.rpy:3629
 translate spanish d17b_2b58f029:
@@ -7372,7 +7372,7 @@ translate spanish d17b_0cc833a9:
 translate spanish d17b_ece38162:
 
     # "She gets closer, in a few short steps."
-    "Se acerca, en unos pocos pasos cortos."
+    "Se acerca, en unos pocos pasos."
 
 # game/scripts/day17.rpy:3639
 translate spanish d17b_19d1f2a9:
@@ -7390,7 +7390,7 @@ translate spanish d17b_2d0215b6:
 translate spanish d17b_0749055d:
 
     # Z "Ah... I remember that. I didn't get a good look at you then."
-    Z "Ah... Recuerdo eso. No te vi bien en ese entonces."
+    Z "Ah... Me acuerdo de eso. Entonces no te vi bien."
 
 # game/scripts/day17.rpy:3646
 translate spanish d17b_1c17006a:

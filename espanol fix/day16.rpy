@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/day16.rpy:6
 translate spanish d16a_90de5468:
@@ -1630,7 +1630,7 @@ translate spanish d16a101x_d6b40929:
 translate spanish d16a102_e525d7ca:
 
     # Z "Hey, Lirah."
-    Z "Ey, Lirah."
+    Z "Oye, Lirah."
 
 # game/scripts/day16.rpy:773
 translate spanish d16a102_032c3dba:
@@ -3124,7 +3124,7 @@ translate spanish d16a142_04fccbe0:
 translate spanish d16a142_4a6fdc5a:
 
     # Z "Hey, is everything alright?"
-    Z "Ey, ¿todo está bien?"
+    Z "Oye, ¿todo está bien?"
 
 # game/scripts/day16.rpy:1406
 translate spanish d16a142_1f44b406:
@@ -3514,7 +3514,7 @@ translate spanish d16a246_17e627b0:
 translate spanish d16a246_39e94fd5:
 
     # Z "Hey Lirah. What are you doing here?"
-    Z "Ey Lirah. ¿Qué haces por aquí?"
+    Z "Oye, Lirah. ¿Qué haces por aquí?"
 
 # game/scripts/day16.rpy:1550
 translate spanish d16a246_032c3dba:
@@ -3694,7 +3694,7 @@ translate spanish d16a246_c4905b18:
 translate spanish d16a246_78ed9199:
 
     # Ta "Hey, handsome. What brings you here today?"
-    Ta "Ey, guapo. ¿Qué te trae por aquí hoy?"
+    Ta "Hola, guapo. ¿Qué te trae por aquí hoy?"
 
 # game/scripts/day16.rpy:1617
 translate spanish d16a246_dff917e5:
@@ -4246,7 +4246,7 @@ translate spanish d16a274_21bd9eb2:
 translate spanish d16a274_8148f198:
 
     # Li "Hey, uhm..."
-    Li "Ey, uhm..."
+    Li "Oye, eh..."
 
 # game/scripts/day16.rpy:1852
 translate spanish d16a274_1f04fc9a:
@@ -4588,7 +4588,7 @@ translate spanish re_d16a315_45151512:
 translate spanish re_d16a315_a19b2c20:
 
     # Z "Hey, look at me..."
-    Z "Ey, mírame..."
+    Z "Oye, mírame..."
 
 # game/scripts/day16.rpy:1999
 translate spanish re_d16a315_0ed6c3e2:
@@ -5632,7 +5632,7 @@ translate spanish d16a389_7f665f51:
 translate spanish d16a389_eb1356ee:
 
     # Li "Mh... {i}*slurp*{/i}"
-    Li "Mh... {i}*chupa*{/i}"
+    Li "Mh... {i}*chupada*{/i}"
 
 # game/scripts/day16.rpy:2399
 translate spanish d16a389_60a0447c:
@@ -6172,7 +6172,7 @@ translate spanish d16a438_b1aeb283:
 translate spanish d16a438_ac35f248:
 
     # Li "Hey, good morning."
-    Li "Ey, buenos días."
+    Li "Hola, buenos días."
 
 # game/scripts/day16.rpy:2609
 translate spanish d16a438_132bb368:
@@ -6202,7 +6202,7 @@ translate spanish d16a438_65b0e284:
 translate spanish d16a438_aa80d0c3:
 
     # Li "Hey um... thank you for everything you've done for me."
-    Li "Ey, um... gracias por todo lo que has hecho por mí."
+    Li "Oye, eh... gracias por todo lo que has hecho por mí."
 
 # game/scripts/day16.rpy:2618
 translate spanish d16a438_af9ee25e:
@@ -6280,7 +6280,7 @@ translate spanish d16a438_032c3dba_1:
 translate spanish d16a438_68b794db:
 
     # Li "Hey... [persistent.player_name]?"
-    Li "Ey... ¿[persistent.player_name]?"
+    Li "Oye... ¿[persistent.player_name]?"
 
 # game/scripts/day16.rpy:2651
 translate spanish d16a438_4b5a9d52:
@@ -7726,7 +7726,7 @@ translate spanish d16a196_7f124c9e:
 translate spanish d16a196_d6d96840:
 
     # Sl "Mh... {i}*gulp*{/i}"
-    Sl "Mh... {i}*tragando*{/i}"
+    Sl "Mh... {i}*traga*{/i}"
 
 # game/scripts/day16.rpy:3265
 translate spanish d16a196_ad4a722e:
@@ -8074,7 +8074,7 @@ translate spanish d16a_aftermath_0f2c5275:
 translate spanish d16a_aftermath_49ac77da:
 
     # Ta "{i}*gluck*{/i}"
-    Ta "{i}*gluck*{/i}"
+    Ta "{i}*atragantándose*{/i}"
 
 # game/scripts/day16.rpy:3414
 translate spanish d16a_aftermath_b4ad5141:
@@ -8110,13 +8110,13 @@ translate spanish d16a_aftermath_62275ca0:
 translate spanish d16a_aftermath_9610dd22:
 
     # Ta "Mh... {i}*gulp*{/i}"
-    Ta "Mh... {i}*tragando*{/i}"
+    Ta "Mh... {i}*traga*{/i}"
 
 # game/scripts/day16.rpy:3429
 translate spanish d16a_aftermath_c60548a8:
 
     # Ta "Hey... at least you still have me. I might not be as young, though."
-    Ta "Ey... al menos aún me tienes a mí. Aunque ya no sea tan joven."
+    Ta "Oye... al menos aún me tienes a mí. Aunque ya no sea tan joven."
 
 # game/scripts/day16.rpy:3432
 translate spanish d16a_aftermath_4a5832b8:
@@ -8392,7 +8392,7 @@ translate spanish re_d16a9_ae6a2f64:
 translate spanish re_d16a9_2b59e1d3:
 
     # Ta "{i}*gulp*{/i}"
-    Ta "{i}*gulp*{/i}"
+    Ta "{i}*traga*{/i}"
 
 # game/scripts/day16.rpy:3578
 translate spanish re_d16a9_08edd50e:
@@ -8698,7 +8698,7 @@ translate spanish d16a467_07bcdbe0:
 translate spanish d16a467_a2e823ff:
 
     # Z "Damn... I didn't really think this could happen."
-    Z "Maldita sea... realmente no pensé que esto pudiera pasar."
+    Z "Joder... realmente no pensé que esto pudiera pasar."
 
 # game/scripts/day16.rpy:3709
 translate spanish d16a467_75db3bb7:
@@ -8710,7 +8710,7 @@ translate spanish d16a467_75db3bb7:
 translate spanish d16a467_0d9c99bf:
 
     # Ta "Mh.. {i}*slurp*{/i}"
-    Ta "Mh... {i}*chupa*{/i}"
+    Ta "Mh... {i}*chupada*{/i}"
 
 # game/scripts/day16.rpy:3713
 translate spanish d16a467_da735fe7:
@@ -8812,7 +8812,7 @@ translate spanish d16a467_f409822d:
 translate spanish d16a467_81520a10:
 
     # Li "{i}*gulp*{/i}"
-    Li "{i}*gulp*{/i}"
+    Li "{i}*traga*{/i}"
 
 # game/scripts/day16.rpy:3750
 translate spanish d16a467_a099cdf1:
@@ -8842,7 +8842,7 @@ translate spanish d16a467_84bd4b62:
 translate spanish d16a467_5ad18c1e:
 
     # Ta "Ih... {i}*slurp*{/i} shee thath..."
-    Ta "Eh... {i}*chupa*{/i} ella es eso..."
+    Ta "Eh... {i}*chupada*{/i} ella es eso..."
 
 # game/scripts/day16.rpy:3767
 translate spanish d16a467_538d8ea7:
@@ -8968,7 +8968,7 @@ translate spanish d16b_4e52bd2e:
 translate spanish d16b_edcf6121:
 
     # C "Hey, is that your man, [W]?"
-    C "Ey, ¿ese es tu hombre, [W]?"
+    C "Oye, ¿ese es tu hombre, [W]?"
 
 # game/scripts/day16.rpy:3825
 translate spanish d16b_9df61d79:
@@ -9016,7 +9016,7 @@ translate spanish d16b_035ecc65:
 translate spanish d16b_a0b7616b:
 
     # Sav "Hey Kat, I'm so happy to see you again. Have you adjusted to your new home yet?"
-    Sav "Ey Kat, me alegra verte de nuevo. ¿Ya te has acostumbrado a tu nueva casa?"
+    Sav "Hola, Kat. Me alegra verte de nuevo. ¿Ya te has acostumbrado a tu nueva casa?"
 
 # game/scripts/day16.rpy:3847
 translate spanish d16b_790f4138:
@@ -9544,7 +9544,7 @@ translate spanish d16b37_ce24573d:
 translate spanish d16b37_5595e2aa:
 
     # Z "Oh, damn. Hey brother..."
-    Z "Oh, demonios. Ey hermano..."
+    Z "Oh, demonios. Oye, hermano..."
 
 # game/scripts/day16.rpy:4079
 translate spanish d16b37_75576408:
@@ -9724,7 +9724,7 @@ translate spanish d16b37_b20a83a8:
 translate spanish d16b37_c604df9c:
 
     # Ka "Mh... {i}*muffled moans*{/i}"
-    Ka "Mh... {i}*gemidos amortiguados*{/i}"
+    Ka "Mh... {i}*gemidos ahogados*{/i}"
 
 # game/scripts/day16.rpy:4141
 translate spanish d16b37_2fa5b081:
@@ -10288,7 +10288,7 @@ translate spanish d16b37_028f480e:
 translate spanish d16b37_1f6c8c01:
 
     # Ig "Mh... {i}*muffled*{/i} I'm so sorry, girl."
-    Ig "Mh... {i}*amortiguado*{/i} Lo siento mucho, muchacha."
+    Ig "Mh... {i}*ahogado*{/i} Lo siento mucho, muchacha."
 
 # game/scripts/day16.rpy:4379
 translate spanish d16b37_2ce3cc87:
@@ -10360,7 +10360,7 @@ translate spanish d16b37_06fa2425:
 translate spanish d16b37_310cbb98:
 
     # Ig "{i}*muffled*{/i} ...at least once..."
-    Ig "{i}*amortiguado*{/i} ... al menos una vez..."
+    Ig "{i}*ahogado*{/i} ... al menos una vez..."
 
 # game/scripts/day16.rpy:4407
 translate spanish d16b37_43698491:
@@ -10468,7 +10468,7 @@ translate spanish d16b37_59a6dc4f:
 translate spanish d16b37_38e94874:
 
     # Ka "{i}*slurp*{/i}"
-    Ka "{i}*chupa*{/i}"
+    Ka "{i}*chupada*{/i}"
 
 # game/scripts/day16.rpy:4447
 translate spanish d16b37_bf8527e0:
@@ -10546,7 +10546,7 @@ translate spanish d16b37_7c9b084d:
 translate spanish d16b37_520b56a6:
 
     # Ka "Mhh... {i}*muffled*{/i}"
-    Ka "Mhh... {i}*amortiguado*{/i}"
+    Ka "Mhh... {i}*ahogado*{/i}"
 
 # game/scripts/day16.rpy:4471
 translate spanish d16b37_fa1afc3f:
@@ -10948,7 +10948,7 @@ translate spanish d16b172_72dd6668:
 translate spanish d16b172_7efcf078:
 
     # Z "Hey, sweetie."
-    Z "Ey, cariño."
+    Z "Hola, cariño."
 
 # game/scripts/day16.rpy:4617
 translate spanish d16b172_a07055bd:
@@ -10978,7 +10978,7 @@ translate spanish d16b172_145496ba:
 translate spanish d16b172_38e94874:
 
     # Ka "{i}*slurp*{/i}"
-    Ka "{i}*chupa*{/i}"
+    Ka "{i}*chupada*{/i}"
 
 # game/scripts/day16.rpy:4628
 translate spanish d16b172_d954ec0b:
@@ -11062,7 +11062,7 @@ translate spanish d16b172_8f8c8b8a:
 translate spanish d16b172_38e94874_1:
 
     # Ka "{i}*slurp*{/i}"
-    Ka "{i}*chupa*{/i}"
+    Ka "{i}*chupada*{/i}"
 
 # game/scripts/day16.rpy:4654
 translate spanish d16b172_9ba7b8d4:
@@ -11122,7 +11122,7 @@ translate spanish d16b172_dcd6ed2c:
 translate spanish d16b172_38e94874_2:
 
     # Ka "{i}*slurp*{/i}"
-    Ka "{i}*chupa*{/i}"
+    Ka "{i}*chupada*{/i}"
 
 # game/scripts/day16.rpy:4672
 translate spanish d16b172_ec40bcf2:
@@ -11164,7 +11164,7 @@ translate spanish d16b186_abf85563:
 translate spanish d16b186_27f67228:
 
     # Z "Hey, what about our women?"
-    Z "Ey, ¿qué pasa con nuestras mujeres?"
+    Z "Oye, ¿qué pasa con nuestras mujeres?"
 
 # game/scripts/day16.rpy:4696
 translate spanish d16b186_3856f529:
@@ -11440,7 +11440,7 @@ translate spanish d16b186_b83fe4f5:
 translate spanish d16b186_13b307a8:
 
     # Sav "Hey... we didn't come here to bother you, I hope you know that."
-    Sav "Ey... no vinimos aquí para molestarte, espero que lo sepas."
+    Sav "Oye... no vinimos aquí para molestarte, espero que lo sepas."
 
 # game/scripts/day16.rpy:4810
 translate spanish d16b186_c51ce745:
@@ -11542,7 +11542,7 @@ translate spanish d16b186_ce4f5a5b:
 translate spanish d16b186_e40cb255:
 
     # Z "Hey, Igor. There's no need to feel guilty, really."
-    Z "Ey, Igor. No hay necesidad de sentirte culpable, de verdad."
+    Z "Oye, Igor. No hay necesidad de sentirte culpable, de verdad."
 
 # game/scripts/day16.rpy:4860
 translate spanish d16b186_d48534a4:
@@ -12046,7 +12046,7 @@ translate spanish d16c_445f0932:
 translate spanish d16c_37c62a3e:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupa*{/i}"
+    E "{i}*chupada*{/i}"
 
 # game/scripts/day16.rpy:5082
 translate spanish d16c_445f0932_1:
@@ -12058,7 +12058,7 @@ translate spanish d16c_445f0932_1:
 translate spanish d16c_37c62a3e_1:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupa*{/i}"
+    E "{i}*chupada*{/i}"
 
 # game/scripts/day16.rpy:5090
 translate spanish d16c_900f0148:
@@ -12226,7 +12226,7 @@ translate spanish d16c17_7a9766da:
 translate spanish d16c17_efd0bab3:
 
     # Z "Hey, sexy. I want to take you out tonight. Are you free?"
-    Z "Ey, sexy. Quiero salir contigo esta noche. ¿Estás libre?"
+    Z "Oye, sexy. Quiero salir contigo esta noche. ¿Estás libre?"
 
 # game/scripts/day16.rpy:5171
 translate spanish d16c17_404b8b25:
@@ -12609,7 +12609,7 @@ translate spanish d16c17_6c8cc175:
 # game/scripts/day16.rpy:5320
 translate spanish d16c17_8e29cd15:
 
-    # Ma "Hello [W], things are going well, thank you
+    # Ma "Hello [W], things are going well, thank you."
     Ma "Hola [W], todo va bien, gracias."
 
 # game/scripts/day16.rpy:5323
@@ -13288,7 +13288,7 @@ translate spanish d16c83_a41f5b4c_1:
 translate spanish d16c83_493b42c2:
 
     # W "Mh... {i}*gulp*{/i}"
-    W "Mh... {i}*tragando*{/i}"
+    W "Mh... {i}*traga*{/i}"
 
 # game/scripts/day16.rpy:5609
 translate spanish d16c83_eb44b574:
@@ -14128,7 +14128,7 @@ translate spanish re_d16c137_a41f5b4c_1:
 translate spanish re_d16c137_a4e1d4e2:
 
     # Merc2 "Merneith be damned. She's leaking, man."
-    Merc2 "Maldita sea Merneith. Está goteando, tío."
+    Merc2 "Joder, Merneith. Está goteando, tío."
 
 # game/scripts/day16.rpy:5972
 translate spanish re_d16c137_befefd82:

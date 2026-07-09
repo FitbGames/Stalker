@@ -58,7 +58,7 @@ translate spanish d18a_44955e4c:
 translate spanish d18a_23efbae2:
 
     # Z "You would not be the first Stalker who instead of being cowed into obedience by the Temple's teachings is stirred into curiosity..."
-    Z "No serías la primera Acechadora que, en vez de ser amedrentado por las enseñanzas del Templo, se mueve por la curiosidad..."
+    Z "No serías la primera Acechadora que, en vez de dejarse amedrentar por las enseñanzas del Templo, siente curiosidad..."
 
 # game/scripts/day18.rpy:27
 translate spanish d18a_a7b7f837:
@@ -160,7 +160,7 @@ translate spanish d18a_946ac6a1:
 translate spanish d18a_9381cd7e:
 
     # E "Oh... Master... I don't follow...?"
-    E "Oh... Amo... ¿No te sigo...?"
+    E "Oh... Amo... No te entiendo..."
 
 # game/scripts/day18.rpy:69
 translate spanish d18a_281c7577:
@@ -178,7 +178,7 @@ translate spanish d18a_b017e082:
 translate spanish d18a_edf01c8b:
 
     # "She hesitantly sits down..."
-    "Ella se sienta con duda..."
+    "Se sienta con cierta vacilación..."
 
 # game/scripts/day18.rpy:78
 translate spanish d18a_7919fcd3:
@@ -424,7 +424,7 @@ translate spanish d18a_0343aa89:
 translate spanish d18a_9275617e:
 
     # "Your maid starts kneading [S]'s shoulders with practiced skill."
-    "Tu sirvienta empieza a amasar los hombros de [S] con habilidad entrenada."
+    "Tu sirvienta empieza a masajear los hombros de [S] con destreza."
 
 # game/scripts/day18.rpy:200
 translate spanish d18a_2425f46e:
@@ -496,7 +496,7 @@ translate spanish d18a_c2c63887:
 translate spanish d18a_d859649a:
 
     # "Is it a product of your mind, based on your previous experiences with both Emilia and [S]? Did you catch a mutual glance between them?"
-    "¿Será producto de tu imaginación, basada en tus experiencias anteriores con Emilia y Shani? ¿Captaste alguna mirada cómplice entre ellas?"
+    "¿Será producto de tu imaginación, basada en tus experiencias anteriores con Emilia y [S]? ¿Captaste alguna mirada cómplice entre ellas?"
 
 # game/scripts/day18.rpy:226
 translate spanish d18a_ec18b94d:
@@ -532,7 +532,7 @@ translate spanish d18a_94c02e50:
 translate spanish d18a_7f4d2d74:
 
     # "Whatever it was, you have a feeling that [S] too was sensing something in the air, and decided to cut it short."
-    "Sea lo que fuera, tienes la sensación de que Shani también notó algo en el ambiente, y decidió cortarlo de raíz."
+    "Sea lo que fuera, tienes la sensación de que [S] también notó algo en el ambiente, y decidió cortarlo de raíz."
 
 # game/scripts/day18.rpy:244
 translate spanish d18a_17f454a4:
@@ -574,7 +574,7 @@ translate spanish d18b_aba6d1c4:
 translate spanish d18b_0dd3aeda:
 
     # "You have no intention of buying a slave, and are here primarily to escort [A], who is tasked by [W] with buying some spices for the kitchen."
-    "No tienes intención de comprar una esclava; estás aquí principalmente para acompañar a Ain, a quien [W] encargó comprar algunas especias para la cocina."
+    "No tienes intención de comprar una esclava; estás aquí principalmente para acompañar a [A], a quien [W] encargó comprar algunas especias para la cocina."
 
 # game/scripts/day18.rpy:269
 translate spanish d18b_075e09f3:
@@ -610,7 +610,7 @@ translate spanish d18b_dba24d7f:
 translate spanish d18b_5307a6cf:
 
     # A "If you let me, I would like to look for a new dressmaker. I have an idea for [S]."
-    A "Si me dejas, me gustaría buscar un nuevo sastre. Tengo una idea para [S]."
+    A "Si me dejas, me gustaría buscar una nueva modista. Tengo una idea para [S]."
 
 # game/scripts/day18.rpy:283
 translate spanish d18b_eae46a27:
@@ -970,7 +970,7 @@ translate spanish d18b_a11c1ec0:
 translate spanish d18b_9f61260b:
 
     # "From his businesslike manner, you can tell that the man is not really offended. He's merely preparing himself to haggle, like any merchant would."
-    "Por su actitud, propia de un comerciante, te das cuenta de que en realidad no está ofendido. Simplemente se está preparando para regatear, como haría cualquier mercader."
+    "Por su actitud de negociante, puedes ver que en realidad no está ofendido. Solo se está preparando para regatear, como cualquier mercader."
 
 # game/scripts/day18.rpy:420
 translate spanish d18b_bb31b5c9:
@@ -1462,7 +1462,7 @@ translate spanish re_d18b56_7a00addc:
 translate spanish re_d18b56_936e1dba:
 
     # Sl "{i}*slurp*{/i}"
-    Sl "{i}*chupa*{/i}"
+    Sl "{i}*chupada*{/i}"
 
 # game/scripts/day18.rpy:609
 translate spanish re_d18b56_6632c0fe:
@@ -1522,7 +1522,7 @@ translate spanish re_d18b56_a3e29f96:
 translate spanish re_d18b56_936e1dba_1:
 
     # Sl "{i}*slurp*{/i}"
-    Sl "{i}*chupa*{/i}"
+    Sl "{i}*chupada*{/i}"
 
 # game/scripts/day18.rpy:627
 translate spanish re_d18b56_2e4e1f6a:
@@ -1582,7 +1582,7 @@ translate spanish re_d18b56_7fbb134b:
 translate spanish re_d18b56_7c580aec:
 
     # "Knowing Legate Khalil, he is not asking for [A] to turn around to compliment her pretty face..."
-    "Conociendo al Legado Khalil, sabes que no lo pide para halagar su rostro precisamente..."
+    "Conociendo al legado Khalil, no le está pidiendo a [A] que se dé la vuelta para admirar su bonita cara..."
 
 # game/scripts/day18.rpy:648
 translate spanish re_d18b56_37b9f5c7:
@@ -1666,7 +1666,7 @@ translate spanish d18b75_6840a238:
 translate spanish d18b75_4d4a08f5:
 
     # "Feeling horny, you decide to shake things up a bit."
-    "Al sentirte excitado, decides animar un poco la situación."
+    "Sintiendo el deseo ardiendo en tu interior, decides cambiar un poco el ritmo."
 
 # game/scripts/day18.rpy:680
 translate spanish d18b75_e9b7bf3b:
@@ -1810,13 +1810,13 @@ translate spanish d18b78_d8654138:
 translate spanish d18b78_574b1bc1:
 
     # A "[persistent.dad!tc], see those people over there? That slave is..."
-    A "[persistent.dad!tc], ¿ves a esas personas de allí? Esa esclava está..."
+    A "[persistent.dad!c], ¿ves a esas personas de allí? Esa esclava está..."
 
 # game/scripts/day18.rpy:743
 translate spanish d18b78_ab0c14f4:
 
     # "As you glimpse over, it looks like a customer is enjoying the service of a recently purchased slave..."
-    "Al mirar hacia allí, parece que un cliente está disfrutando de los servicios de una esclava recién comprada..."
+    "Cuando miras, parece que un cliente está disfrutando de los servicios de una esclava recién comprada..."
 
 # game/scripts/day18.rpy:751
 translate spanish re_d18b83_1bcd5c48:
@@ -1864,7 +1864,7 @@ translate spanish re_d18b83_047e3b9a:
 translate spanish re_d18b83_936e1dba:
 
     # Sl "{i}*slurp*{/i}"
-    Sl "{i}*chupa*{/i}"
+    Sl "{i}*chupada*{/i}"
 
 # game/scripts/day18.rpy:767
 translate spanish re_d18b83_a90314a5:
@@ -2122,7 +2122,7 @@ translate spanish d18b93_55345e50:
 translate spanish d18b93_3ea0547c:
 
     # "[A] looks aside, waiting for your reaction..."
-    "Ain aparta la mirada, esperando tu reacción..."
+    "[A] aparta la mirada, esperando tu reacción..."
 
 # game/scripts/day18.rpy:874
 translate spanish d18b93_97e1b240:
@@ -3820,7 +3820,7 @@ translate spanish re_d18b180_7f124c9e_1:
 translate spanish re_d18b180_52599e62:
 
     # Ci "Why so quiet? Don't want to admit it actually feels good? {i}*chuckles*{/i}"
-    Ci "¿Por qué tan callada? ¿No quieres admitir que en realidad se siente bien? {i}*risilla*{/i}"
+    Ci "¿Por qué estás tan callada? ¿No quieres admitir que en realidad se siente bien? {i}*risilla*{/i}"
 
 # game/scripts/day18.rpy:1585
 translate spanish re_d18b180_310a641e:
@@ -4954,7 +4954,7 @@ translate spanish d18b217_e81d7c0e:
 translate spanish d18b217_f1699ae4:
 
     # Ka "[A]? You seem a bit... different...?"
-    Ka "¿A? Pareces un poco... diferente...?"
+    Ka "¿[A]? Pareces un poco... diferente...?"
 
 # game/scripts/day18.rpy:2084
 translate spanish d18b217_efb38308:
@@ -5638,7 +5638,7 @@ translate spanish re_d18b228_958182f1_2:
 translate spanish re_d18b228_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupa*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/day18.rpy:2477
 translate spanish re_d18b228_f31bf9cb:
@@ -5974,7 +5974,7 @@ translate spanish re_d18b228_93a6f8c0:
 translate spanish re_d18b228_ac5e19af:
 
     # Z "Damn... good girl."
-    Z "Maldita sea... buena chica."
+    Z "Joder... buena chica."
 
 # game/scripts/day18.rpy:2617
 translate spanish re_d18b228_75a9cd81:
@@ -6106,7 +6106,7 @@ translate spanish d18b308_17c2ba7b:
 translate spanish d18b308_a1bba127:
 
     # "You press your [persistent.da] further into the pillar, her legs squishing her tits..."
-    "La presionas aún más contra el pilar, sus piernas aplastándole los pechos..."
+    "Presionas a tu [persistent.da] contra el pilar, sus piernas aplastando sus tetas..."
 
 # game/scripts/day18.rpy:2684
 translate spanish d18b308_9bc0c518:
@@ -7396,7 +7396,7 @@ translate spanish d18b342_0252c385:
 translate spanish d18b342_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupa*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/day18.rpy:3190
 translate spanish d18b342_aa166606:
@@ -7426,7 +7426,7 @@ translate spanish d18b342_3033000d:
 translate spanish d18b342_8868ec95:
 
     # A "{i}*gluck*{/i}"
-    A "{i}gluck{/i}"
+    A "{i}*atragantándose*{/i}"
 
 # game/scripts/day18.rpy:3199
 translate spanish d18b342_9cc40fb4:
@@ -7450,7 +7450,7 @@ translate spanish d18b342_89af8377:
 translate spanish d18b342_712d4ae2_1:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupa*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/day18.rpy:3203
 translate spanish d18b342_583c708f:
@@ -7540,7 +7540,7 @@ translate spanish d18b_ain_slave_options_45ae7bc4:
 translate spanish d18b_ain_slave_options_c607704d:
 
     # A "{i}*gag*{/i}"
-    A "{i}*gag*{/i}"
+    A "{i}*arcadas*{/i}"
 
 # game/scripts/day18.rpy:3236
 translate spanish d18b_ain_slave_options_a116f4a5:
@@ -7648,7 +7648,7 @@ translate spanish d18b_ain_slave_options_3d8aef07:
 translate spanish d18b_ain_slave_options_c607704d_2:
 
     # A "{i}*gag*{/i}"
-    A "{i}*gag*{/i}"
+    A "{i}*arcadas*{/i}"
 
 # game/scripts/day18.rpy:3269
 translate spanish d18b_ain_slave_options_c654d4fd:
@@ -7744,7 +7744,7 @@ translate spanish d18b354_61dde91e:
 translate spanish d18b354_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupa*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/day18.rpy:3303
 translate spanish d18b354_31e7bb51:
@@ -7768,7 +7768,7 @@ translate spanish d18b354_d4edf312:
 translate spanish d18b354_712d4ae2_1:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupa*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/day18.rpy:3310
 translate spanish d18b354_66a2083c:
@@ -7810,7 +7810,7 @@ translate spanish d18b354_78bb4f10:
 translate spanish d18b354_712d4ae2_2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupa*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/day18.rpy:3322
 translate spanish d18b354_6b3aefe9:
@@ -7834,7 +7834,7 @@ translate spanish d18b354_f865bb71:
 translate spanish d18b354_712d4ae2_3:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupa*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/day18.rpy:3326
 translate spanish d18b354_681d59e1:
@@ -8710,7 +8710,7 @@ translate spanish d18c_64916290:
 translate spanish d18c_be0b9db4:
 
     # Q "{i}*sigh*{/i}... how far you have fallen, Sharifa."
-    Q "{i}*suspiro*{/i}... qué tan lejos has caído, Sharifa."
+    Q "{i}*suspiro*{/i}... hasta dónde has caído, Sharifa."
 
 # game/scripts/day18.rpy:3728
 translate spanish d18c_ede4875a:
@@ -9520,7 +9520,7 @@ translate spanish d18d_take_massage_e9df09d4:
 translate spanish d18d_take_massage_7106280e:
 
     # E "{i}*slurp*{/i}... nh..."
-    E "{i}*chupa*{/i}... nh..."
+    E "{i}*chupada*{/i}... nh..."
 
 # game/scripts/day18.rpy:4081
 translate spanish d18d_take_massage_8f4bf1fe:
@@ -9928,7 +9928,7 @@ translate spanish d18d_take_massage_f5417408:
 translate spanish d18d_take_massage_37c62a3e:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupa*{/i}"
+    E "{i}*chupada*{/i}"
 
 # game/scripts/day18.rpy:4229
 translate spanish d18d_take_massage_85950209:
@@ -9964,7 +9964,7 @@ translate spanish d18d_take_massage_bd68f374:
 translate spanish d18d_take_massage_37c62a3e_1:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupa*{/i}"
+    E "{i}*chupada*{/i}"
 
 # game/scripts/day18.rpy:4243
 translate spanish d18d_take_massage_d3cf527e_5:
@@ -10906,7 +10906,7 @@ translate spanish d18e_c2c9cc07:
 translate spanish d18e_732ae3b8:
 
     # G "Oh... Lady [W], is it?"
-    G "Oh... ¿es usted la Dama [W]?"
+    G "Oh... ¿La señora [W], verdad?"
 
 # game/scripts/day18.rpy:4632
 translate spanish d18e_2acddc43:
@@ -10918,7 +10918,7 @@ translate spanish d18e_2acddc43:
 translate spanish d18e_271d2250:
 
     # W "It is indeed. To what does the House of [persistent.player_name] owe a visit of the Palace guards?"
-    W "Qué curioso. ¿Por qué razón merece mi marido una visita de dos jóvenes de la Guardia de la Reina?"
+    W "Así es. ¿A qué debe la Casa de [persistent.player_name] la visita de los guardias del Palacio?"
 
 # game/scripts/day18.rpy:4638
 translate spanish d18e_b26f8d80:
@@ -10930,7 +10930,7 @@ translate spanish d18e_b26f8d80:
 translate spanish d18e_fd0ed7d6:
 
     # "They couldn't do a worse job at hiding their eyes wandering over her figure..."
-    "No podrían hacer un peor trabajo disimulando cómo la miran..."
+    "No podían haberlo hecho peor a la hora de disimular que sus miradas se perdían en su figura..."
 
 # game/scripts/day18.rpy:4640
 translate spanish d18e_47661f51:
@@ -10942,13 +10942,13 @@ translate spanish d18e_47661f51:
 translate spanish d18e_4d4f4ed8:
 
     # W "Well? What is it?"
-    W "¿Os habéis quedado mudos, chicos?"
+    W "¿Y bien? ¿Qué pasa?"
 
 # game/scripts/day18.rpy:4646
 translate spanish d18e_8f16be0d:
 
     # G "Lady [W], we... uh... we're here on a special occasion, and it would be of your interest to..."
-    G "Dama [W], nosotros... eh... estamos aquí por una ocasión especial, y sería de su interés..."
+    G "Señora [W], nosotros... eh... estamos aquí por una ocasión especial, y quizá le interese..."
 
 # game/scripts/day18.rpy:4647
 translate spanish d18e_fba88bbf:
@@ -10960,7 +10960,7 @@ translate spanish d18e_fba88bbf:
 translate spanish d18e_04bf1d25:
 
     # G "...to call your husband, ma'am!"
-    G "... para que llame a su marido, señora!"
+    G "... que llame a su marido, señora!"
 
 # game/scripts/day18.rpy:4653
 translate spanish d18e_49c5a0a9:
@@ -10990,7 +10990,7 @@ translate spanish d18e_3a242be0:
 translate spanish d18e_637893fd:
 
     # G "You misunderstand the situation, woman."
-    G "Estás malinterpretando la situación, mujer."
+    G "No entiendes la situación, mujer."
 
 # game/scripts/day18.rpy:4662
 translate spanish d18e_b9292827:
@@ -11002,7 +11002,7 @@ translate spanish d18e_b9292827:
 translate spanish d18e_6e3d279c:
 
     # G "Stand back and give reverence to the Goddess incarnate, Daughter of Ra..."
-    G "¡Apartaos y rendid reverencia a la Diosa encarnada, Hija de Ra..."
+    G "¡Retiraos y rendid homenaje a la Diosa encarnada, Hija de Ra...!"
 
 # game/scripts/day18.rpy:4666
 translate spanish d18e_f9c2b934:
@@ -11302,7 +11302,7 @@ translate spanish d18e_084c8540:
 translate spanish d18e_e17af359:
 
     # Q "As if I would ever..!"
-    Q "¡Como si yo alguna vez...! ¿Qué estás diciendo siquiera?!"
+    Q "¡Como si yo fuera a hacer algo así...!"
 
 # game/scripts/day18.rpy:4796
 translate spanish d18e_25156a97:
@@ -15136,7 +15136,7 @@ translate spanish d18f204_2101e06b:
 translate spanish d18f204_8f16d838:
 
     # Q "{i}*slurp*{/i}"
-    Q "{i}*chupa*{/i}"
+    Q "{i}*chupada*{/i}"
 
 # game/scripts/day18.rpy:6423
 translate spanish d18f204_b1aeb283:
@@ -15664,7 +15664,7 @@ translate spanish d18f234_455c257b:
 translate spanish d18f234_965273d8:
 
     # Zw "Hey,..."
-    Zw "Ey,..."
+    Zw "Oye..."
 
 # game/scripts/day18.rpy:6726
 translate spanish d18f234_38806aab:
@@ -16108,7 +16108,7 @@ translate spanish re_d18g1_ace0196e:
 translate spanish re_d18g1_a9cb96fa:
 
     # Sc "Hey boss... you fucking slut. Stop moaning so loudly!"
-    Sc "Ey jefa... puta de mierda. ¡Deja de gemir tan fuerte!"
+    Sc "Oye, jefa... puta de mierda. ¡Deja de gemir tan fuerte!"
 
 # game/scripts/day18.rpy:6915
 translate spanish re_d18g1_f53945c9:
@@ -16510,7 +16510,7 @@ translate spanish re_d18g1_1d9b8eb2:
 translate spanish re_d18g1_3ef4cfc7:
 
     # Zt "Damn..."
-    Zt "Maldita sea..."
+    Zt "Joder..."
 
 # game/scripts/day18.rpy:7068
 translate spanish re_d18g1_412be1c0:
@@ -16606,7 +16606,7 @@ translate spanish re_d18g1_52ced780:
 translate spanish re_d18g1_638b9bfa:
 
     # Zw "Damn..."
-    Zw "Maldita sea..."
+    Zw "Joder..."
 
 # game/scripts/day18.rpy:7105
 translate spanish re_d18g1_a5d746bf:

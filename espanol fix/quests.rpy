@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 translate spanish strings:
 
@@ -12,7 +12,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:100
     old "The Queen gave me the task of stopping decayed raids on Zeta's caravans. [S] and I should head to Old Cairo and get the job done."
-    new "La Reina me ha encomendado la tarea de detener las incursiones de los decaídos en las caravanas de Zeta. [S] y yo deberíamos dirigirnos al Viejo Cairo y hacer el trabajo."
+    new "La Reina me ha encomendado la tarea de detener las incursiones de los Decaídos en las caravanas de Zeta. [S] y yo deberíamos dirigirnos al Viejo Cairo y ocuparnos del asunto."
 
     # game/scripts/quests.rpy:101
     old "Report to the Queen"
@@ -36,11 +36,11 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:102
     old "After my report, the Queen still doesn't take me seriously. I have spoken my mind; let's hope she understands that respect goes both ways."
-    new "Después de mi informe, la Reina todavía no me toma en serio. He dicho lo que pienso; esperemos que comprenda que el respeto va en ambos sentidos."
+    new "Después de mi informe, la Reina sigue sin tomarme en serio. He dicho lo que pienso; esperemos que comprenda que el respeto debe ser mutuo."
 
     # game/scripts/quests.rpy:103
     old "I reported to the Queen. After she disrespected me again, I gave her a piece of my mind. She better measure her words in the future."
-    new "Informé a la Reina. Después de que me faltó el respeto de nuevo, le dije lo que pensaba. Será mejor que mida sus palabras en el futuro."
+    new "Informé a la Reina. Después de que volviera a faltarme al respeto, le dije lo que pensaba. Será mejor que mida sus palabras en el futuro."
 
     # game/scripts/quests.rpy:104
     old "Accompany [S] to the Zone"
@@ -84,7 +84,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:108
     old "It turns out the Scout was a traitor in disguise who was in possession of an ancient document, written by one of the founding elders of Zeta. Not only that, but he was also accompanied by members of his tribe, which almost got [S] killed. I should head to the palace with her to report these findings to the Queen."
-    new "Resulta que el explorador era un traidor disfrazado que estaba en posesión de un documento antiguo, escrito por uno de los ancianos fundadores de Zeta. No solo eso, también estaba acompañado por miembros de su tribu, lo que casi hace que [S] muera. Debería ir al palacio con ella para informar a la Reina de estos hallazgos."
+    new "Resulta que el explorador era un traidor encubierto que poseía un antiguo documento escrito por uno de los Ancianos fundadores de Zeta. Además, iba acompañado por miembros de su tribu, lo que casi le cuesta la vida a [S]. Debería ir al palacio con ella para informar a la Reina de estos hallazgos."
 
     # game/scripts/quests.rpy:109
     old "Talk with [S]"
@@ -120,7 +120,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:115
     old "Queen Merneith reportedly completed her research on Elder Paris, one of the founding fathers of Zeta. She told me to bring [S] along on my next quest."
-    new "Se informa que la Reina Merneith completó su investigación sobre el Anciano Paris, uno de los padres fundadores de Zeta. Me dijo que llevara a [S] conmigo en mi próxima misión."
+    new "Al parecer, la Reina Merneith ha completado su investigación sobre el Anciano Paris, uno de los fundadores de Zeta. Me dijo que llevara a [S] conmigo en mi próxima misión."
 
     # game/scripts/quests.rpy:116
     old "Talk to [S] again"
@@ -136,7 +136,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:117
     old "The Queen has presented us with some documents describing the last known locations of that long dead Elder\nNow it is on us to find his secret hideout and uncover whatever secrets he was hiding for all these centuries."
-    new "La Reina nos ha presentado unos documentos que describen las últimas ubicaciones conocidas de ese Anciano ya fallecido\nAhora nos toca a nosotros encontrar su escondite secreto y descubrir los secretos que ha estado ocultando durante todos estos siglos."
+    new "La Reina nos ha mostrado unos documentos que describen las últimas ubicaciones conocidas de ese Anciano, muerto hace mucho tiempo.\nAhora nos toca encontrar su escondite secreto y descubrir qué ha permanecido oculto allí durante todos estos siglos."
 
     # game/scripts/quests.rpy:120
     old "Till death do us part"
@@ -172,7 +172,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:126
     old "The time has come to visit my old Master Zosar again, and hope I finally get some answers."
-    new "Ha llegado el momento de visitar a mi viejo maestro Zosar de nuevo, y espero finalmente obtener algunas respuestas."
+    new "Ha llegado el momento de volver a visitar a mi antiguo maestro Zosar y confiar en obtener por fin algunas respuestas."
 
     # game/scripts/quests.rpy:129
     old "Friends in low places"
@@ -204,7 +204,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:132
     old "Kyra has given me directions to find someone that can lead me to a new car. I marked the place down on the map."
-    new "Kyra me ha dado instrucciones para encontrar a alguien que pueda llevarme a un coche nuevo. Marqué el lugar en el mapa."
+    new "Kyra me ha dado indicaciones para encontrar a alguien que pueda conseguirme un coche nuevo. He marcado el lugar en el mapa."
 
     # game/scripts/quests.rpy:133
     old "Progress \"Her Majesty\" quest"
@@ -212,7 +212,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:133
     old "I found a new car. More than that actually.. And what a car it is!"
-    new "Encontré un coche nuevo. Más que eso en realidad... ¡Y qué coche!"
+    new "He encontrado un coche nuevo. En realidad, mucho más que eso... ¡Y qué coche!"
 
     # game/scripts/quests.rpy:134
     old "Travel to the settlement."
@@ -228,7 +228,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:137
     old "I convinced Kyra to wait before attacking. Now I need to find a way to preserve the settlement even after the attack.\nThis way the trade route will stay up and running, as the Queen requested."
-    new "Convencí a Kyra de esperar antes de atacar. Ahora tengo que encontrar una manera de preservar el asentamiento, incluso después del ataque. De esta manera la ruta comercial se mantendrá en funcionamiento, como la Reina pidió."
+    new "Convencí a Kyra para que esperara antes de atacar. Ahora tengo que encontrar una forma de preservar el asentamiento incluso después del ataque. Así la ruta comercial seguirá funcionando, tal como pidió la Reina."
 
     # game/scripts/quests.rpy:138
     old "Return to the settlement"
@@ -248,7 +248,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:140
     old "Something happened at the gates. I should talk to Kyra about it."
-    new "Algo pasó en las puertas. Debería hablar con Kyra al respecto."
+    new "Ha pasado algo en las puertas. Debería hablar con Kyra al respecto."
 
     # game/scripts/quests.rpy:141
     old "Visit Kyra again"
@@ -264,7 +264,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:144
     old "I just went through a lot of effort for this girl. Let's hope she's worth it."
-    new "Simplemente hice un gran esfuerzo por esta chica. Esperemos que merezca la pena."
+    new "Me he esforzado mucho por esta chica. Esperemos que merezca la pena."
 
     # game/scripts/quests.rpy:145
     old "Go see the Queen. The elf can wait."
@@ -272,7 +272,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:145
     old "The elf left the basement. At least she seemed to enjoy the food."
-    new "La elfa dejó el sótano. Al menos pareció disfrutar la comida."
+    new "La elfa se marchó del sótano. Al menos pareció disfrutar de la comida."
 
     # game/scripts/quests.rpy:146
     old "Visit the market"
@@ -292,15 +292,15 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:147
     old "The elf was nowhere to be found, and all I encountered was a desperate girl evading her consequences. I might aswell leave it be, and spend time with my wife on the terrace."
-    new "La elfa no estaba en ningún lado, y todo lo que encontré fue a una chica desesperada evadiendo sus consecuencias. Quizás debería dejarlo así y pasar tiempo con mi mujer en la terraza."
+    new "No había ni rastro de la elfa; solo encontré a una chica desesperada intentando eludir las consecuencias de sus actos. Quizá debería dejarlo estar y pasar un rato con mi mujer en la terraza."
 
     # game/scripts/quests.rpy:148
     old "Revisit the bunker"
-    new "Revisa el búnker"
+    new "Vuelve al búnker"
 
     # game/scripts/quests.rpy:148
     old "Last time I visited, Fangs mentioned that she might need my help. I should head over there for a status update."
-    new "La última vez que la visité, Fangs mencionó que podría necesitar mi ayuda. Debería ir allí para una actualización de estado."
+    new "La última vez que fui, Fangs mencionó que podría necesitar mi ayuda. Debería acercarme para ver cómo van las cosas."
 
     # game/scripts/quests.rpy:150
     old "Extension of politics"
@@ -312,7 +312,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:151
     old "Fangs and I discussed that the mutants need to grow their influence in the region. I can help them on their missions to find more allies for them. However, I should carefully consider who should join their ranks."
-    new "Fangs y yo discutimos que los mutantes necesitan aumentar su influencia en la región. Puedo ayudarlos en sus misiones para encontrar más aliados para ellos. Sin embargo, debería considerar cuidadosamente quién debería unirse a sus filas."
+    new "Fangs y yo hablamos de que los mutantes necesitan aumentar su influencia en la región. Puedo ayudarlos en sus misiones para conseguir más aliados. Sin embargo, debería pensar bien quién debe unirse a sus filas."
 
     # game/scripts/quests.rpy:155
     old "The Nordling"
@@ -340,7 +340,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:158
     old "I wonder if I can find out more about Emilia as a person. I may talk to her in her new room."
-    new "Me pregunto si puedo descubrir más sobre Emilia como persona. Tal vez hable con ella en su nueva habitación."
+    new "Me pregunto si podría conocer mejor a Emilia como persona. Tal vez debería hablar con ella en su nueva habitación."
 
     # game/scripts/quests.rpy:159
     old "Check on Emilia"
@@ -348,7 +348,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:159
     old "I am curious about how she's adapting to the everyday life of the house. I should check up on her.\n(Events [emilia_counter]/3)"
-    new "Tengo curiosidad por saber cómo se está adaptando a la vida diaria de la casa. Debería comprobar cómo está.\n(Eventos [emilia_counter]/3)"
+    new "Tengo curiosidad por saber cómo se está adaptando a la vida diaria de la casa. Debería ir a verla.\n(Eventos [emilia_counter]/3)"
 
     # game/scripts/quests.rpy:162
     old "Broken"
@@ -364,7 +364,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:164
     old "Kinzi and Kosey squared our dealings by giving me a slave. I should get to know her better."
-    new "Kinzi y Kosey cuadraron nuestros tratos dándome una esclava. Debería llegar a conocerla mejor."
+    new "Kinzi y Kosey saldaron sus cuentas conmigo entregándome una esclava. Debería conocerla mejor."
 
     # game/scripts/quests.rpy:165
     old "Keep interacting with her"
@@ -388,7 +388,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:167
     old "Fairy has been finding her past self slowly. I should wait for [W] while she takes care of her."
-    new "Fairy ha estado recuperando su antiguo yo poco a poco. Debería esperar a [W] mientras la cuida."
+    new "Fairy está recuperando poco a poco su antigua personalidad. Debería esperar mientras [W] se ocupa de ella."
 
     # game/scripts/quests.rpy:168
     old "Visit the living room"
@@ -396,7 +396,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:168
     old "[W] told me that Fairy is ready. I should go meet them in the living room."
-    new "[W] me dijo que Fairy está lista. Debería ir a encontrarlas en la sala de estar."
+    new "[W] me dijo que Fairy está lista. Debería reunirme con ellas en la sala de estar."
 
     # game/scripts/quests.rpy:171
     old "Old souls"
@@ -404,7 +404,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:172
     old "Ivy told me that she is concerned about her friend. I should speak to her in the mutant bunker to find out more about it."
-    new "Ivy me ha dicho que está preocupada por su amiga. Debería hablar con ella en el búnker de los mutantes para saber más sobre ella."
+    new "Ivy me ha dicho que está preocupada por su amiga. Debería hablar con ella en el búnker de los mutantes para saber más."
 
     # game/scripts/quests.rpy:173
     old "Visit [I] again"
@@ -424,7 +424,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:176
     old "The Queen invited me to assist her in her duties. Strategic sessions, bureaucracy and court hearings. And during all of this, I get to spend more time with Queen Merneith. I should use the opportunity and see where it leads to."
-    new "La Reina me invitó a ayudarla en sus deberes. Sesiones estratégicas, burocracia y audiencias en la corte. Y durante todo esto, tengo la oportunidad de pasar más tiempo con la Reina Merneith. Debería aprovechar la oportunidad y ver a dónde nos lleva."
+    new "La Reina me invitó a ayudarla con sus deberes. Sesiones estratégicas, burocracia y audiencias en la corte. Y, durante todo eso, podré pasar más tiempo con la Reina Merneith. Debería aprovechar la oportunidad y ver adónde nos lleva."
 
     # game/scripts/quests.rpy:177
     old "Visit the palace again"
@@ -432,15 +432,15 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:177
     old "Helping the Queen has made her warm up to me a bit, I should keep attending the palace and see if she has anything else for me.\nI also haven't seen Talia in some time. I wonder if she will be on guard duty today..."
-    new "Ayudar a la Reina ha hecho que se calme un poco conmigo, debería seguir asistiendo al palacio y ver si tiene algo más para mí.\nMe pregunto si hoy estará de guardia..."
+    new "Ayudar a la Reina ha hecho que se muestre algo más cercana conmigo. Debería seguir visitando el palacio y ver si tiene algo más para mí.\nHace tiempo que tampoco veo a Talia. Me pregunto si hoy estará de guardia..."
 
     # game/scripts/quests.rpy:178
     old "The Queen invited me to her bedroom to talk about Sharifa... at least, that is what she wanted me to believe.\n\nIt is clear at this point that she needs not just my advice, but also my hand... and so I gave her exactly that. My next visit will reveal her thoughts on my actions, I guess."
-    new "La Reina me invitó a su dormitorio para hablar sobre Sharifa... al menos, eso es lo que quería que creyera.\n\nEstá claro en este punto que no solo necesita mi consejo, sino también mi mano... y así le di exactamente eso. Supongo que mi próxima visita revelará sus pensamientos sobre mis acciones."
+    new "La Reina me invitó a su dormitorio para hablar sobre Sharifa... al menos, eso es lo que quería que creyera.\n\nA estas alturas está claro que no solo necesita mi consejo, sino también mi mano... y eso fue exactamente lo que le di. Supongo que en mi próxima visita descubriré qué piensa de lo ocurrido."
 
     # game/scripts/quests.rpy:179
     old "I did not see that coming. The Queen did not seem to take the little bedroom incident well, and her frustration with me was obvious. Hopefully this will blow over."
-    new "No vi eso venir. La Reina no parecía tomar bien el pequeño incidente en el dormitorio, y su frustración conmigo era obvia. Ojalá esto pase pronto."
+    new "Eso no me lo esperaba. La Reina no pareció tomarse bien el pequeño incidente del dormitorio y su frustración conmigo era evidente. Ojalá se le pase pronto."
 
     # game/scripts/quests.rpy:182
     old "Freedom or duty"
@@ -452,7 +452,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:183
     old "Lirah's outburst was unexpected. I should go and talk to her about it."
-    new "La explosión de Lirah fue inesperada. Debería ir a hablar con ella al respecto."
+    new "El arrebato de Lirah fue inesperado. Debería ir a hablar con ella al respecto."
 
     # game/scripts/quests.rpy:184
     old "Give Lirah some time"
@@ -460,7 +460,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:184
     old "She told me she needs some time to think. I wonder if she will be there when I told her."
-    new "Me ha dicho que necesita tiempo para pensar. Me pregunto si estará allí cuando se lo diga."
+    new "Me ha dicho que necesita tiempo para pensar. Me pregunto si acudirá al lugar que le indiqué."
 
     # game/scripts/quests.rpy:185
     old "Meet Lirah at the city gates"
@@ -476,7 +476,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:187
     old "Check up on her"
-    new "Revisa cómo está"
+    new "Ve a ver cómo está"
 
     # game/scripts/quests.rpy:187
     old "I can now drive to the Oasis, where Lirah works as a scavenger."
@@ -484,7 +484,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:188
     old "Lirah is not in the best shape, but she wants to keep going. Giving her my blade for self defense is all I can do at this point."
-    new "Lirah no está en la mejor forma, pero quiere seguir adelante. Darle mi espada para defensa personal es todo lo que puedo hacer en este momento."
+    new "Lirah no está en las mejores condiciones, pero quiere seguir adelante. Darle mi espada para que pueda defenderse es todo lo que puedo hacer por ahora."
 
     # game/scripts/quests.rpy:189
     old "There is always something to buy in the market. Time to head to the city gates."
@@ -492,7 +492,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:190
     old "Lirah had a rough week out there in the wastes, and she was attacked by one of her fellow scavengers. I recommended Talia to help her out, and she told me to wait a few days before seeing them again."
-    new "Lirah tuvo una semana difícil en los desechos y fue atacada por uno de sus compañeros carroñeros. Recomendé a Talia que la ayudara, y me dijo que esperara unos días antes de volver a verlas."
+    new "Lirah ha pasado una semana difícil en el páramo y fue atacada por uno de sus compañeros carroñeros. Le pedí a Talia que la ayudara y me dijo que esperara unos días antes de volver a verlas."
 
     # game/scripts/quests.rpy:191
     old "Meet Talia at the market"
@@ -524,11 +524,11 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:194
     old "The Queen has told me she plans to properly punish Lirah for her disobedience. I may head to the palace to find out more."
-    new "La Reina me ha dicho que planea castigar adecuadamente a Lirah por su desobediencia. Podría ir al palacio para averiguar más."
+    new "La Reina me ha dicho que piensa castigar debidamente a Lirah por su desobediencia. Podría ir al palacio para saber más."
 
     # game/scripts/quests.rpy:195
     old "The Queen's has found a way to get through to Lirah, setting her straight. It will be interesting to see Talia and Lirah together, tomorrow."
-    new "La Reina ha encontrado una manera de llegar a Lirah y enderezarla. Será interesante ver a Talia y Lirah juntas mañana."
+    new "La Reina ha encontrado la forma de hacer entrar en razón a Lirah y ponerla en su sitio. Será interesante ver mañana a Talia y Lirah juntas."
 
     # game/scripts/quests.rpy:196
     old "Talk to Talia"
@@ -548,7 +548,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:199
     old "Meeting Rabiah and her family at the market after so much time was a pleasant surprise. I can pay them a visit to see how they settled in."
-    new "Reunirse con Rabiah y su familia en el mercado después de tanto tiempo fue una agradable sorpresa. Puedo visitarles para ver cómo se han instalado."
+    new "Encontrarme con Rabiah y su familia en el mercado después de tanto tiempo fue una agradable sorpresa. Puedo hacerles una visita para ver cómo se han instalado."
 
     # game/scripts/quests.rpy:200
     old "Spend some time with them"
@@ -572,7 +572,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:202
     old "It has been some days, and I wonder whatever happened after Rabiah's little conflict with Omar at the dinner table.\nEither way, I have nothing planned for today, so maybe I can hang out with [A] a little."
-    new "Han pasado algunos días, y me pregunto qué pasó después del pequeño conflicto de Rabiah con Omar en la mesa del comedor.\nDe cualquier manera, no tengo nada planeado para hoy, así que quizás pueda pasar un rato con [A]."
+    new "Han pasado unos días y me pregunto qué ocurrió después del pequeño conflicto entre Rabiah y Omar durante la cena.\nEn cualquier caso, no tengo nada planeado para hoy, así que quizá pueda pasar un rato con [A]."
 
     # game/scripts/quests.rpy:205
     old "Will curiosity kill the Kat?"
@@ -600,7 +600,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:208
     old "Have a meal in the dining room."
-    new "Come una comida en el comedor."
+    new "Come en el comedor."
 
     # game/scripts/quests.rpy:208
     old "Kateryna is an interesting girl. Let's see when she decides to contact me again.\n Optional: See what your wife has to say about her."
@@ -612,7 +612,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:209
     old "I'm sure Kateryna has already planned our next get-together.\nI should talk to [W] in the kitchen, maybe they arranged something."
-    new "Estoy seguro de que Kateryna ya planeó nuestra próxima reunión.\nDebería hablar con [W] en la cocina, quizás hayan organizado algo."
+    new "Estoy seguro de que Kateryna ya ha planeado nuestro próximo encuentro.\nDebería hablar con [W] en la cocina; quizá hayan organizado algo."
 
     # game/scripts/quests.rpy:210
     old "Wait for Kateryna to visit you."
@@ -624,7 +624,7 @@ translate spanish strings:
 
     # game/scripts/quests.rpy:211
     old "Kateryna's introduction has been quite lovely and she is excited to become a part of my household. She is probably taking her time getting familiarized with the house. [W] asked me to see her in the living room for more."
-    new "La introducción de Kateryna ha sido bastante encantadora y está emocionada de convertirse en parte de mi hogar. Probablemente se esté tomando su tiempo para familiarizarse con la casa. [W] me pidió que la viera en la sala de estar para más detalles."
+    new "La presentación de Kateryna ha sido encantadora y está entusiasmada por formar parte de mi hogar. Probablemente se esté tomando su tiempo para familiarizarse con la casa. [W] me pidió que fuera a verla a la sala de estar para hablar de ello."
 
     # game/scripts/quests.rpy:212
     old "Talk to [W]"

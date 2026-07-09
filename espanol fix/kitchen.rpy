@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/kitchen.rpy:11
 translate spanish kitchen_menu_526df02f:
@@ -46,7 +46,7 @@ translate spanish kitchen_menu_f1403f62:
 translate spanish kitchen_menu_16f853c3:
 
     # E "As you wish. I will let them know."
-    E "Como quieras. Yo se lo haré saber."
+    E "Como quieras. Se lo diré."
 
 # game/scripts/kitchen.rpy:44
 translate spanish kitchen_menu_eaab46e0:
@@ -76,7 +76,7 @@ translate spanish kitchen_menu_24c91ce7:
 translate spanish kitchen_menu_da2b1fcd:
 
     # E "I shall not bother you then, Master."
-    E "Entonces no le molestaré, Amo."
+    E "Entonces no te molestaré, Amo."
 
 # game/scripts/kitchen.rpy:72
 translate spanish kitchen_menu_1c06b53e:
@@ -124,7 +124,7 @@ translate spanish kitchen_menu_28daf3c9:
 translate spanish kitchen_menu_eb702970:
 
     # W "That can be arranged. I will let them know."
-    W "Eso se puede arreglar. Se lo haré saber."
+    W "Eso se puede arreglar. Se lo diré."
 
 # game/scripts/kitchen.rpy:105
 translate spanish kitchen_menu_eaab46e0_1:
@@ -154,13 +154,13 @@ translate spanish kitchen_menu_4cc6c4f4:
 translate spanish k1_29a2de66:
 
     # "She leaves..."
-    "Ella se va..."
+    "Se va..."
 
 # game/scripts/kitchen.rpy:126
 translate spanish k1_469d0353:
 
     # Z "{i}*yawns*"
-    Z "{i}*bostezos*"
+    Z "{i}*bostezo*"
 
 # game/scripts/kitchen.rpy:129
 translate spanish k1_8e394ea4:
@@ -196,7 +196,7 @@ translate spanish k1_3906cb8a:
 translate spanish k1_a91c4d3a:
 
     # E "Enjoy your meal, Master."
-    E "Disfrute de su comida, Amo."
+    E "Disfruta de tu comida, Amo."
 
 # game/scripts/kitchen.rpy:150
 translate spanish k1_84307ddd:
@@ -208,7 +208,7 @@ translate spanish k1_84307ddd:
 translate spanish k1_469e6168:
 
     # "She attends to you, as you eat..."
-    "Ella te atiende, mientras comes..."
+    "Te atiende mientras comes..."
 
 # game/scripts/kitchen.rpy:157
 translate spanish k1_7329681e:
@@ -226,7 +226,7 @@ translate spanish k1_1187d017:
 translate spanish k1_11058294:
 
     # "When you are done, [E] cleans up after you..."
-    "Cuando has terminado, [E] limpia después de ti..."
+    "Cuando terminas, [E] recoge lo que has ensuciado..."
 
 # game/scripts/kitchen.rpy:168
 translate spanish k1_04b8681f:
@@ -244,7 +244,7 @@ translate spanish k1_b736e0b5:
 translate spanish k1_11058294_1:
 
     # "When you are done, [E] cleans up after you..."
-    "Cuando has terminado, [E] limpia después de ti..."
+    "Cuando terminas, [E] recoge lo que has ensuciado..."
 
 # game/scripts/kitchen.rpy:178
 translate spanish k1_64d7c1a6:
@@ -256,13 +256,13 @@ translate spanish k1_64d7c1a6:
 translate spanish k1_d5b4009b:
 
     # E "As you wish, Master."
-    E "Como quiera, Amo."
+    E "Como quieras, Amo."
 
 # game/scripts/kitchen.rpy:184
 translate spanish k1_11058294_2:
 
     # "When you are done, [E] cleans up after you..."
-    "Cuando has terminado, [E] limpia después de ti..."
+    "Cuando terminas, [E] recoge lo que has ensuciado..."
 
 # game/scripts/kitchen.rpy:191
 translate spanish k1_52413201:
@@ -292,7 +292,7 @@ translate spanish kitchen_discussions_19e3d039:
 translate spanish kitchen_discussions_a1968cd5:
 
     # A "Just the three of us, eating together."
-    A "Sólo los tres, comiendo juntos."
+    A "Solo los tres, comiendo juntos."
 
 # game/scripts/kitchen.rpy:205
 translate spanish kitchen_discussions_8354c059:
@@ -310,7 +310,7 @@ translate spanish kitchen_discussions_93810a97:
 translate spanish kitchen_discussions_9eabf193:
 
     # W "We do too, [A]... Much like when [persistent.player_name] is missing, I worry."
-    W "Nosotros también, [A]... Al igual que cuando falta [persistent.player_name], me preocupo."
+    W "Nosotros también, [A]... Igual que cuando [persistent.player_name] no está, me preocupo."
 
 # game/scripts/kitchen.rpy:214
 translate spanish kitchen_discussions_636fca31:
@@ -328,7 +328,7 @@ translate spanish kitchen_discussions_693eb229:
 translate spanish kitchen_discussions_6d0d13b4:
 
     # A "She always eats a lot. I don't know where she puts it."
-    A "Ella siempre come mucho. No sé dónde lo mete."
+    A "Siempre come mucho. No sé dónde lo mete."
 
 # game/scripts/kitchen.rpy:221
 translate spanish kitchen_discussions_f0c53e78:
@@ -364,7 +364,7 @@ translate spanish kitchen_discussions_756bb163:
 translate spanish kitchen_discussions_2daaac05:
 
     # Z "Honestly, I worry as much as you do. Even if I don't show it. A Zone is and remains an unknowable challenge..."
-    Z "Sinceramente, me preocupo tanto como tú. Aunque no lo demuestre. La Zona es y sigue siendo un reto desconocido..."
+    Z "Sinceramente, me preocupo tanto como tú. Aunque no lo demuestre. La Zona sigue siendo un desafío impredecible..."
 
 # game/scripts/kitchen.rpy:235
 translate spanish kitchen_discussions_4b5245b6:
@@ -382,13 +382,13 @@ translate spanish kitchen_discussions_a3782cec:
 translate spanish kitchen_discussions_b3ce6765:
 
     # Z "Don't worry, she is strong, fast and knows what lies ahead of her. I know that you care about [S], we also do. But no need to be afraid."
-    Z "No te preocupes, ella es fuerte, rápida y sabe lo que le espera. Sé que te preocupas por [S], nosotros también. Pero no hay que tener miedo."
+    Z "No te preocupes, es fuerte, rápida y sabe lo que le espera. Sé que te preocupas por [S]; nosotros también. Pero no hay que tener miedo."
 
 # game/scripts/kitchen.rpy:244
 translate spanish kitchen_discussions_6550ee93:
 
     # Z "She will be fine. I know it."
-    Z "Ella estará bien. Lo sé."
+    Z "Estará bien. Lo sé."
 
 # game/scripts/kitchen.rpy:247
 translate spanish kitchen_discussions_b54708a5:
@@ -406,7 +406,7 @@ translate spanish kitchen_discussions_2b4edd35:
 translate spanish kitchen_discussions_c38e7dfe:
 
     # Z "The place is quite big, and she only has a map that guides her."
-    Z "El lugar es bastante grande, y ella sólo tiene un mapa que la guía."
+    Z "El lugar es bastante grande y solo tiene un mapa para orientarse."
 
 # game/scripts/kitchen.rpy:254
 translate spanish kitchen_discussions_a05b7e95:
@@ -448,7 +448,7 @@ translate spanish kitchen_discussions_d8654138_1:
 translate spanish kitchen_discussions_32aea464:
 
     # W "Let's eat now, [A]. I need you to help me with something, after dinner."
-    W "Ahora vamos a comer, [A]. Necesito que me ayudes con algo, después de la cena."
+    W "Vamos a comer, [A]. Necesito que me ayudes con algo después de cenar."
 
 # game/scripts/kitchen.rpy:269
 translate spanish kitchen_discussions_0cc1e576:
@@ -490,13 +490,13 @@ translate spanish kitchen_emilia_785e740f:
 translate spanish kitchen_emilia_37c62a3e:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupa*{/i}"
+    E "{i}*chupada*{/i}"
 
 # game/scripts/kitchen.rpy:288
 translate spanish kitchen_emilia_37637cf4:
 
     # Zt "What an obedient servant. She deserves only the best."
-    Zt "Qué sierva tan obediente. Sólo se merece lo mejor."
+    Zt "Qué sierva tan obediente. Solo se merece lo mejor."
 
 # game/scripts/kitchen.rpy:290
 translate spanish kitchen_emilia_a1632e75:
@@ -526,7 +526,7 @@ translate spanish kitchen_emilia_1b84ed20:
 translate spanish kitchen_emilia_db67e0ee:
 
     # A "[persistent.dad!c]... your food is getting cold!"
-    A "[persistent.dad!c]... ¡tu comida se enfría!"
+    A "[persistent.dad!c]... ¡se te está enfriando la comida!"
 
 # game/scripts/kitchen.rpy:301
 translate spanish kitchen_emilia_83c020fa:
@@ -550,13 +550,13 @@ translate spanish kitchen_emilia_7e2dfd98:
 translate spanish kitchen_emilia_e35e3e66:
 
     # S "Mh... it is as tasty as it looks."
-    S "Mh... es tan sabroso como parece."
+    S "Mh... está tan rico como parece."
 
 # game/scripts/kitchen.rpy:309
 translate spanish kitchen_emilia_b4f60eb2:
 
     # A "It is!"
-    A "¡Lo está!"
+    A "¡Sí que lo está!"
 
 # game/scripts/kitchen.rpy:312
 translate spanish kitchen_emilia_544328e2:
@@ -568,7 +568,7 @@ translate spanish kitchen_emilia_544328e2:
 translate spanish kitchen_emilia_a905b083:
 
     # E "{i}*muffled*{/i} Yesh..."
-    E "{i}*amortiguado*{/i} Shi..."
+    E "{i}*ahogado*{/i} Shi..."
 
 # game/scripts/kitchen.rpy:316
 translate spanish kitchen_emilia_d3cf527e_1:
@@ -586,7 +586,7 @@ translate spanish kitchen_emilia_34414acb:
 translate spanish kitchen_emilia_a4de87f4:
 
     # E "{i}*gulp*{/i}"
-    E "{i}*gulp*{/i}"
+    E "{i}*traga*{/i}"
 
 # game/scripts/kitchen.rpy:324
 translate spanish kitchen_emilia_867c2b05:
@@ -682,7 +682,7 @@ translate spanish kitchen_kateryna_intro_ed007560:
 translate spanish kitchen_kateryna_intro_f739eca9:
 
     # Zt "Watch it be yet another one of those guards..."
-    Zt "Mira que sea otro de esos guardias..."
+    Zt "A que es otro de esos guardias..."
 
 # game/scripts/kitchen.rpy:372
 translate spanish kitchen_kateryna_intro_5ab3574d:
@@ -694,7 +694,7 @@ translate spanish kitchen_kateryna_intro_5ab3574d:
 translate spanish kitchen_kateryna_intro_d2b647cf:
 
     # "You hear muffled voices..."
-    "Se oyen voces amoriguadas..."
+    "Se oyen voces ahogadas..."
 
 # game/scripts/kitchen.rpy:374
 translate spanish kitchen_kateryna_intro_0dd330aa:
@@ -736,13 +736,13 @@ translate spanish kitchen_kateryna_intro_4a00f951:
 translate spanish kitchen_kateryna_intro_f3fc2a6c:
 
     # "A few moments later, you hear muffled voices..."
-    "Unos instantes después, oyes voces amoriguadas..."
+    "Unos instantes después, oyes voces ahogadas..."
 
 # game/scripts/kitchen.rpy:391
 translate spanish kitchen_kateryna_intro_f739eca9_1:
 
     # Zt "Watch it be yet another one of those guards..."
-    Zt "Mira que sea otro de esos guardias..."
+    Zt "A que es otro de esos guardias..."
 
 # game/scripts/kitchen.rpy:395
 translate spanish kitchen_kateryna_intro_7797f277_1:
@@ -772,7 +772,7 @@ translate spanish kitchen_kateryna_intro_97480827:
 translate spanish kitchen_kateryna_intro_d63fdb55:
 
     # Z "Hello there,Kateryna... Had I known you were visiting, I'd have put a shirt on."
-    Z "Hola, Kateryna... Si hubiera sabido que venias de visita, me habría puesto una camisa."
+    Z "Hola, Kateryna... Si hubiera sabido que venías de visita, me habría puesto una camisa."
 
 # game/scripts/kitchen.rpy:409
 translate spanish kitchen_kateryna_intro_8cf9c040:
@@ -802,7 +802,7 @@ translate spanish kitchen_kateryna_intro_9e44c416:
 translate spanish kitchen_kateryna_intro_424d7b9e:
 
     # Ka "Is okay if I greet [W], yes?"
-    Ka "¿Está bien si saludo a [W], sí?"
+    Ka "¿Puedo saludar a [W], sí?"
 
 # game/scripts/kitchen.rpy:420
 translate spanish kitchen_kateryna_intro_c9291d68:
@@ -850,7 +850,7 @@ translate spanish kitchen_kateryna_intro_3152b651:
 translate spanish kitchen_kateryna_intro_077b469a:
 
     # "The knives hitting a chopping board is the only sound that greets you as you walk in on the preparations of your meal..."
-    "Los cuchillos golpeando una tabla de cortar es el único sonido que te saluda mientras entras en los preparativos de tu comida..."
+    "El golpeteo de los cuchillos contra una tabla de cortar es el único sonido que te recibe al entrar mientras preparan la comida..."
 
 # game/scripts/kitchen.rpy:445
 translate spanish kitchen_kateryna_intro_c2c9cc07:
@@ -880,7 +880,7 @@ translate spanish kitchen_kateryna_intro_ec3c28e8:
 translate spanish kitchen_kateryna_intro_47e4d778:
 
     # Ka "Is not, it takes longer. Now I add bread to thicken broth and add... body, is right word?"
-    Ka "Si no, tarda más. Ahora añado pan para espesar el caldo y añado... cuerpo, ¿es la palabra correcta?"
+    Ka "No lo es, tarda más. Ahora añado pan para espesar el caldo y darle... cuerpo, ¿es la palabra correcta?"
 
 # game/scripts/kitchen.rpy:458
 translate spanish kitchen_kateryna_intro_c2c9cc07_1:
@@ -916,7 +916,7 @@ translate spanish kitchen_kateryna_intro_a650fb76:
 translate spanish kitchen_kateryna_intro_da7cbbcc:
 
     # Z "What are you preparing today, hm?"
-    Z "¿Qué estás preparando hoy, um?"
+    Z "¿Qué estás preparando hoy, hm?"
 
 # game/scripts/kitchen.rpy:472
 translate spanish kitchen_kateryna_intro_85c6ce4e:
@@ -934,13 +934,13 @@ translate spanish kitchen_kateryna_intro_84005fb0:
 translate spanish kitchen_kateryna_intro_8df28122:
 
     # W "At first she suggested to mix up the recipe a little. I have let her take the initiative and now look at her, basically doing her own thing."
-    W "Al principio sugirió mezclar un poco la receta. Le he dejado tomar la iniciativa y ahora mírala, haciendo básicamente lo suyo."
+    W "Al principio sugirió cambiar un poco la receta. Le he dejado tomar la iniciativa y ahora mírala, prácticamente va por libre."
 
 # game/scripts/kitchen.rpy:477
 translate spanish kitchen_kateryna_intro_35ce3692:
 
     # W "She really seems to know what she's doing though. You will have to let me know what you think of it. "
-    W "Sin embargo, parece que sabe muy bien lo que hace. Tendrás que hacerme saber lo que piensas de ella."
+    W "Sin embargo, parece que sabe muy bien lo que hace. Tendrás que decirme qué te parece."
 
 # game/scripts/kitchen.rpy:481
 translate spanish kitchen_kateryna_intro_51af1716:
@@ -1984,7 +1984,7 @@ translate spanish kk_end_c377f34f:
 translate spanish kk_end_29a2de66:
 
     # "She leaves..."
-    "Ella se va..."
+    "Se va..."
 
 # game/scripts/kitchen.rpy:900
 translate spanish kk_end_87efdd2b:
@@ -1996,7 +1996,7 @@ translate spanish kk_end_87efdd2b:
 translate spanish kk_end_29a2de66_1:
 
     # "She leaves..."
-    "Ella se va..."
+    "Se va..."
 
 translate spanish strings:
 

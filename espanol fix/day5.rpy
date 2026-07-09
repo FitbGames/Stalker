@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/day5.rpy:6
 translate spanish d5h_de85e2e3:
@@ -328,7 +328,7 @@ translate spanish d5g_20048b17_1:
 translate spanish d5g_11bc97c0:
 
     # W "You know why you're being punished, don't you?"
-    W "Sabes por qué estás siendo castigado, ¿verdad?"
+    W "Sabes por qué estás siendo castigada, ¿verdad?"
 
 # game/scripts/day5.rpy:149
 translate spanish d5g_b32fb09e:
@@ -442,7 +442,7 @@ translate spanish d5g_d8654138:
 translate spanish d5g_b0896de9:
 
     # W "Taking it well like, always..."
-    W "Aceptándolo bien como, siempre..."
+    W "Aguantándolo bien, como siempre..."
 
 # game/scripts/day5.rpy:208
 translate spanish d5g_819841fd:
@@ -490,7 +490,7 @@ translate spanish d5g_291fa2c1:
 translate spanish d5g_1f9d6400:
 
     # W "{i}*sucking*"
-    W "{i}*chupando*"
+    W "{i}*chupando*{/i}"
 
 # game/scripts/day5.rpy:229
 translate spanish d5g_9c44772e:
@@ -664,7 +664,7 @@ translate spanish d5g_ain_sex_5ab3574d:
 translate spanish d5g_ain_sex_cfa0c0cd:
 
     # "{i}*quiet rustling*"
-    "{i}*un susurro silencioso*"
+    "{i}**crujido silencioso*{/i}*"
 
 # game/scripts/day5.rpy:343
 translate spanish d5g_ain_sex_3f307e9a:
@@ -832,7 +832,7 @@ translate spanish d5g_ain_sex_f7a7d125:
 translate spanish d5g_ain_sex_3934603e:
 
     # A "Do I have t-"
-    A "¿Tedré que...?"
+    A "¿Tendré que...?"
 
 # game/scripts/day5.rpy:482
 translate spanish d5g_ain_sex_41eb206b:
@@ -934,7 +934,7 @@ translate spanish d5g_ain_sex_f7a7d125_1:
 translate spanish d5g_ain_sex_3934603e_1:
 
     # A "Do I have t-"
-    A "¿Tedré que...?"
+    A "¿Tendré que...?"
 
 # game/scripts/day5.rpy:515
 translate spanish d5g_ain_sex_41eb206b_1:
@@ -1468,7 +1468,7 @@ translate spanish d5f_d8654138:
 translate spanish d5f_62dbd604:
 
     # A "Hey, uhm..."
-    A "Ey, uhm..."
+    A "Oye, eh..."
 
 # game/scripts/day5.rpy:753
 translate spanish d5f_3f7335de:
@@ -2380,7 +2380,7 @@ translate spanish d5f_fairy_85bad171:
 translate spanish d5f_fairy_ee5608d9:
 
     # Z "Hey... are you alright?"
-    Z "Ey... ¿estás bien?"
+    Z "Oye... ¿estás bien?"
 
 # game/scripts/day5.rpy:1047
 translate spanish d5f_fairy_106e36d5:
@@ -2536,7 +2536,7 @@ translate spanish d5f_fairy_menu_977999bf:
 translate spanish d5f_fairy_menu_2a29f14f:
 
     # "{i}*rustling*"
-    "{i}*un susurro silencioso*"
+    "{i}*crujido*{/i}"
 
 # game/scripts/day5.rpy:1111
 translate spanish d5f_fairy_menu_49bf7348:
@@ -2590,7 +2590,7 @@ translate spanish d5f_fairy_menu_b4461726:
 translate spanish d5f_fairy_menu_084786b8:
 
     # C3 "{i}*slurp*"
-    C3 "{i}*chupa*{/i}"
+    C3 "{i}*chupada*{/i}"
 
 # game/scripts/day5.rpy:1131
 translate spanish d5f_fairy_menu_a4c40b52:
@@ -2680,7 +2680,7 @@ translate spanish d5f_fairy_menu_de00a6a7:
 translate spanish d5f_fairy_menu_2a29f14f_1:
 
     # "{i}*rustling*"
-    "{i}*un susurro silencioso*"
+    "{i}*crujido*{/i}"
 
 # game/scripts/day5.rpy:1186
 translate spanish d5f_fairy_menu_8ca43551:
@@ -2716,7 +2716,7 @@ translate spanish d5f_fairy_menu_fcaa1ca9:
 translate spanish d5f_fairy_menu_0b8b27b2:
 
     # C3 "{i}*gulp*"
-    C3 "{i}*tragando*"
+    C3 "{i}*traga*{/i}"
 
 # game/scripts/day5.rpy:1198
 translate spanish d5f_fairy_menu_78c20636_1:
@@ -2728,7 +2728,7 @@ translate spanish d5f_fairy_menu_78c20636_1:
 translate spanish d5f_fairy_menu_0b8b27b2_1:
 
     # C3 "{i}*gulp*"
-    C3 "{i}*tragando*"
+    C3 "{i}*traga*{/i}"
 
 # game/scripts/day5.rpy:1202
 translate spanish d5f_fairy_menu_f3f12579:
@@ -2746,7 +2746,7 @@ translate spanish d5f_fairy_menu_9a506a0b:
 translate spanish d5f_fairy_menu_084786b8_1:
 
     # C3 "{i}*slurp*"
-    C3 "{i}*chupa*{/i}"
+    C3 "{i}*chupada*{/i}"
 
 # game/scripts/day5.rpy:1207
 translate spanish d5f_fairy_menu_9fa2dd5b:
@@ -2902,7 +2902,7 @@ translate spanish d5f_fairy_end_63024ff8:
 translate spanish d5f_fairy_end_c575a6ed:
 
     # Ki "She gets loud too, when she's unhappy."
-    Ko "Un día sin polla y se vuelve a volver loca..."
+    Ki "Un día sin polla y se vuelve a volver loca..."
 
 # game/scripts/day5.rpy:1287
 translate spanish d5f_fairy_end_5870d972:
@@ -3604,7 +3604,7 @@ translate spanish d5f_abrax_9e9f6b3a_1:
 translate spanish d5f_abrax_f4946871:
 
     # LA "We need more soldiers, soon..."
-    LA "We need more soldiers, soon..."
+    LA "Necesitamos más soldados, y pronto..."
 
 # game/scripts/day5.rpy:1591
 translate spanish d5f_abrax_d4f327fc:
@@ -3658,7 +3658,7 @@ translate spanish d5f_abrax_f6f1a30b_2:
 translate spanish d5f_abrax_c8db7105:
 
     # Dec "Hey, you!"
-    Dec "¡Ey, tú!"
+    Dec "¡Eh, tú!"
 
 # game/scripts/day5.rpy:1612
 translate spanish d5f_abrax_8042383e:
@@ -4318,7 +4318,7 @@ translate spanish d5f_abrax_questions_a07538c1:
 translate spanish d5f_abrax_questions_e503496c:
 
     # LA "When they were on a raid, my soldiers found a map..."
-    LA "When they were on a raid, my soldiers found a map..."
+    LA "Durante una redada, mis soldados encontraron un mapa..."
 
 # game/scripts/day5.rpy:1897
 translate spanish d5f_abrax_questions_fe71dc40:
@@ -4480,7 +4480,7 @@ translate spanish d5f_abrax_shani_46d8280f:
 translate spanish d5f_abrax_shani_50f7bf0e:
 
     # LA "My soldiers found the place."
-    LA "My soldiers found the place."
+    LA "Mis soldados encontraron el lugar."
 
 # game/scripts/day5.rpy:1958
 translate spanish d5f_abrax_shani_1722aaf3:
@@ -4492,7 +4492,7 @@ translate spanish d5f_abrax_shani_1722aaf3:
 translate spanish d5f_abrax_shani_d638bf89:
 
     # LA "...the zone is not a place for mere soldiers."
-    LA "...the zone is not a place for mere soldiers."
+    LA "... esa zona no es un lugar para simples soldados."
 
 # game/scripts/day5.rpy:1960
 translate spanish d5f_abrax_shani_6d93cecd:
@@ -5944,7 +5944,7 @@ translate spanish d5c11_d96b28f8:
 translate spanish d5c11_cb95387c:
 
     # Ky "Damn right I am, Anya!"
-    Ky "¡Maldita sea, Anya!"
+    Ky "¡Joder, Anya!"
 
 # game/scripts/day5.rpy:2579
 translate spanish d5c11_e5b0d387:
@@ -6190,7 +6190,7 @@ translate spanish d5c11_d97ba697:
 translate spanish d5c11_a0c0bad5:
 
     # Ky "Hey, Anya, you hear me? Now watch me coming!"
-    Ky "Ey, Anya, ¿me oyes? ¡Ahora mira cómo voy!"
+    Ky "Oye, Anya, ¿me oyes? ¡Ahora mira cómo voy!"
 
 # game/scripts/day5.rpy:2659
 translate spanish d5c11_22d53a6d:
@@ -8080,7 +8080,7 @@ translate spanish d5c127_5ab3574d:
 translate spanish d5c127_2a29f14f:
 
     # "{i}*rustling*"
-    "{i}*un susurro silencioso*"
+    "{i}*crujido*{/i}"
 
 # game/scripts/day5.rpy:3506
 translate spanish d5c127_305828d8:
@@ -8212,7 +8212,7 @@ translate spanish d5c140_dab730f0:
 translate spanish d5c140_9c0cb84d:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupa*{/i}"
+    As "{i}*chupada*{/i}"
 
 # game/scripts/day5.rpy:3577
 translate spanish d5c140_4968cdcc:
@@ -8602,7 +8602,7 @@ translate spanish d5c140_5e502ecb:
 translate spanish d5c140_8d1ff2f6:
 
     # As "{i}*slurp*"
-    As "{i}*chupa*{/i}"
+    As "{i}*chupada*{/i}"
 
 # game/scripts/day5.rpy:3717
 translate spanish d5c140_93cbdd65:
@@ -8698,13 +8698,13 @@ translate spanish d5c156_068ebea2:
 translate spanish d5c156_8d1ff2f6:
 
     # As "{i}*slurp*"
-    As "{i}*chupa*{/i}"
+    As "{i}*chupada*{/i}"
 
 # game/scripts/day5.rpy:3748
 translate spanish d5c156_c5f97985:
 
     # Db "God damn, man..."
-    Db "Maldita sea, tío..."
+    Db "Joder, tío..."
 
 # game/scripts/day5.rpy:3751
 translate spanish d5c156_a0cd9d2a:
@@ -9280,7 +9280,7 @@ translate spanish re_d5c180_fde6de0e:
 translate spanish re_d5c180_2b98067e:
 
     # Ky "Mh... they're used to... me bringing new toys home..."
-    Z "Vaya perra en celo. Seguro que a tus tíos les mola el espectáculo."
+    Ky "Mh... ellos están acostumbrados a... que traiga juguetes nuevos a casa..."
 
 # game/scripts/day5.rpy:4037
 translate spanish re_d5c180_b83651ee:
@@ -9292,7 +9292,7 @@ translate spanish re_d5c180_b83651ee:
 translate spanish re_d5c180_c103e2ec:
 
     # Z "I love your pale, fat tits. much bigger than your sister's."
-    Z "Me encantan tus gordas tetas pálidas. Mucho más grandes que las de tus hermanas."
+    Z "Me encantan tus tetas pálidas y gordas. Son mucho más grandes que las de tu hermana."
 
 # game/scripts/day5.rpy:4041
 translate spanish re_d5c180_d75c624e:
@@ -9310,7 +9310,7 @@ translate spanish re_d5c180_007387be:
 translate spanish re_d5c180_4b4eb065:
 
     # Ky "Mh... such a big boy."
-    Ky "Mh... qué gran chico."
+    Ky "Mh... qué chico tan mayor."
 
 # game/scripts/day5.rpy:4050
 translate spanish re_d5c180_6c77cb28:
@@ -9322,7 +9322,7 @@ translate spanish re_d5c180_6c77cb28:
 translate spanish re_d5c180_4b7f01c5:
 
     # Z "Turn around, slut. Your hands on the railings..."
-    Z "Dale la vuelta, zorra. Tus manos en las barandillas..."
+    Z "Date la vuelta, zorra. Tus manos en las barandillas..."
 
 # game/scripts/day5.rpy:4058
 translate spanish re_d5c180_831d394b:
@@ -9346,7 +9346,7 @@ translate spanish re_d5c180_26a803bc:
 translate spanish re_d5c180_42c92a20:
 
     # C "Damn... she's really doing it."
-    C "Joder... ella realmente lo está haciendo."
+    C "Joder... de verdad que lo está haciendo."
 
 # game/scripts/day5.rpy:4065
 translate spanish re_d5c180_54f9d7c3:
@@ -9370,7 +9370,7 @@ translate spanish re_d5c180_1d5942e7:
 translate spanish re_d5c180_d17ada7f:
 
     # C "Just look at those tits swinging."
-    C "Mira esas tetas balanceándose."
+    C "Fíjate en cómo se balancean esas tetas."
 
 # game/scripts/day5.rpy:4073
 translate spanish re_d5c180_c115cd36:
@@ -9388,7 +9388,7 @@ translate spanish re_d5c180_4c6b0141:
 translate spanish re_d5c180_2ac1467e:
 
     # C2 "Let's go back to our place... it hasn't been my turn forever."
-    C2 "Volvamos a nuestra casa... no me ha tocado en mucho tiempo."
+    C2 "Vámonos a casa... hace una eternidad que no me toca."
 
 # game/scripts/day5.rpy:4080
 translate spanish re_d5c180_53297589:
@@ -9400,7 +9400,7 @@ translate spanish re_d5c180_53297589:
 translate spanish re_d5c180_2cca813b:
 
     # C "I am your big sister... get your own slut, I can't always be there for you."
-    C "Soy tu hermana mayor... busca tu propia zorra, no puedo estar siempre para ti."
+    C "Soy tu hermana mayor... búscate tu propia zorra, no siempre puedo estar ahí para ti."
 
 # game/scripts/day5.rpy:4084
 translate spanish re_d5c180_4c3486ae:
@@ -9412,7 +9412,7 @@ translate spanish re_d5c180_4c3486ae:
 translate spanish re_d5c180_345af241:
 
     # Rim "Come on, Misk... I haven't been inside those wide hips for almost a week, man...!"
-    Rim "Vamos, Misk... ¡No he estado dentro de esas caderas anchas en casi una semana, hombre!"
+    Rim "Venga, Misk... Hace casi una semana que no me meto entre esas caderas tan anchas, tío...!"
 
 # game/scripts/day5.rpy:4088
 translate spanish re_d5c180_094410a4:
@@ -9448,7 +9448,7 @@ translate spanish re_d5c180_d8babd93:
 translate spanish re_d5c180_4f8628ee:
 
     # Z "You're a good fuck. Even better when you're awake."
-    Z "Eres un buen polvo. Incluso mejor cuando estás despierta."
+    Z "Eres un buen polvo. Y aún mejor cuando estás despierta."
 
 # game/scripts/day5.rpy:4103
 translate spanish re_d5c180_92cdfbfe:
@@ -9814,7 +9814,7 @@ translate spanish re_d5c180_2785a014:
 translate spanish re_d5c180_df8dbff5:
 
     # As "{i}*gulp*{/i}"
-    As "{i}*gulp*{/i}"
+    As "{i}*traga*{/i}"
 
 # game/scripts/day5.rpy:4242
 translate spanish re_d5c180_c67a8079:
@@ -10132,7 +10132,7 @@ translate spanish re_d5c180_3b34fd56:
 translate spanish re_d5c180_b965ed81:
 
     # Mis "Hah... {i}*slurp*{/i}"
-    Mis "Hah... {i}*chupa*{/i}"
+    Mis "Hah... {i}*chupada*{/i}"
 
 # game/scripts/day5.rpy:4361
 translate spanish re_d5c180_8cbd5048:
@@ -10228,7 +10228,7 @@ translate spanish re_d5c180_045a3454:
 translate spanish re_d5c180_89d2cca1:
 
     # Mis "Nha... {i}*slurp*{/i}"
-    Mis "Nha... {i}*chupa*{/i}"
+    Mis "Nha... {i}*chupada*{/i}"
 
 # game/scripts/day5.rpy:4390
 translate spanish re_d5c180_4e4e5784:
@@ -10246,7 +10246,7 @@ translate spanish re_d5c180_061eb954:
 translate spanish re_d5c180_89d2cca1_1:
 
     # Mis "Nha... {i}*slurp*{/i}"
-    Mis "Nha... {i}*chupa*{/i}"
+    Mis "Nha... {i}*chupada*{/i}"
 
 # game/scripts/day5.rpy:4396
 translate spanish re_d5c180_4e4e5784_1:
@@ -10396,13 +10396,13 @@ translate spanish re_d5c180_42a5b875:
 translate spanish re_d5c180_23f153d3:
 
     # Mis "{i}*slurp*{/i}"
-    Mis "{i}*chupa*{/i}"
+    Mis "{i}*chupada*{/i}"
 
 # game/scripts/day5.rpy:4445
 translate spanish re_d5c180_1983214e:
 
     # Z "Hey... what was your name. Misk..."
-    Z "Ey... ¿cuál era tu nombre? Misk..."
+    Z "Oye... ¿cuál era tu nombre? Misk..."
 
 # game/scripts/day5.rpy:4448
 translate spanish re_d5c180_e7883efb:
@@ -10504,7 +10504,7 @@ translate spanish re_d5c180_a5d746bf:
 translate spanish re_d5c180_e3aedcc7:
 
     # Z "Damn..."
-    Z "Maldita sea..."
+    Z "Joder..."
 
 # game/scripts/day5.rpy:4483
 translate spanish re_d5c180_2e3e1b75:
@@ -10546,7 +10546,7 @@ translate spanish re_d5c180_01de1456:
 translate spanish re_d5c180_c7a493da:
 
     # Mis "Mh... {i}*slurp*{/i}"
-    Mis "Mh... {i}*chupa*{/i}"
+    Mis "Mh... {i}*chupada*{/i}"
 
 # game/scripts/day5.rpy:4499
 translate spanish re_d5c180_95500b63_3:
@@ -10726,7 +10726,7 @@ translate spanish d5e_1d42dba4:
 translate spanish d5e_781079f1:
 
     # W "Why so eager to let her go?"
-    W "¿Por qué tan ansioso por dejarla ir?"
+    W "¿Por qué tienes tantas ganas de dejarla ir?"
 
 # game/scripts/day5.rpy:4579
 translate spanish d5e_442d6fde:
@@ -11026,13 +11026,13 @@ translate spanish re_d5e12_841a4370:
 translate spanish re_d5e12_66060a6a:
 
     # "*rustling*"
-    "{i}*un susurro silencioso*"
+    "{i}*crujido*{/i}"
 
 # game/scripts/day5.rpy:4700
 translate spanish re_d5e12_a1018712:
 
     # A "*sucking*"
-    A "{i}*chupando*"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day5.rpy:4701
 translate spanish re_d5e12_1425fc36:
@@ -11152,7 +11152,7 @@ translate spanish re_d5e12_3a55aa04:
 translate spanish re_d5e12_66060a6a_1:
 
     # "*rustling*"
-    "{i}*un susurro silencioso*"
+    "{i}*crujido*{/i}"
 
 # game/scripts/day5.rpy:4756
 translate spanish re_d5e12_b02b229b:
@@ -11188,7 +11188,7 @@ translate spanish re_d5e12_bda6c442:
 translate spanish re_d5e12_8868ec95:
 
     # A "{i}*gluck*{/i}"
-    A "{i}*glug*{/i}"
+    A "{i}*atragantándose*{/i}"
 
 # game/scripts/day5.rpy:4766
 translate spanish re_d5e12_d073f596:
@@ -11344,13 +11344,13 @@ translate spanish d5e_emilia_igor_d478ddac_1:
 translate spanish d5e_emilia_igor_66060a6a:
 
     # "*rustling*"
-    "{i}*un susurro silencioso*"
+    "{i}*crujido*{/i}"
 
 # game/scripts/day5.rpy:4867
 translate spanish d5e_emilia_igor_1c9133b8:
 
     # E "*sucking*"
-    E "{i}*chupando*"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/day5.rpy:4868
 translate spanish d5e_emilia_igor_9bbb9395:
@@ -11590,7 +11590,7 @@ translate spanish d5e_emilia_igor_7a906478:
 translate spanish d5e_emilia_igor_1c9133b8_1:
 
     # E "*sucking*"
-    E "{i}*chupando*"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/day5.rpy:4953
 translate spanish d5e_emilia_igor_19b373b1:
@@ -11728,7 +11728,7 @@ translate spanish d5e_emilia_igor_87ca80bb:
 translate spanish d5e_emilia_igor_66060a6a_1:
 
     # "*rustling*"
-    "{i}*un susurro silencioso*"
+    "{i}*crujido*{/i}"
 
 # game/scripts/day5.rpy:5015
 translate spanish d5e_emilia_igor_62a65863:
@@ -11836,7 +11836,7 @@ translate spanish d5e_emilia_igor_cf3902ef:
 translate spanish d5e_emilia_igor_a1018712:
 
     # A "*sucking*"
-    A "{i}*chupando*"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day5.rpy:5054
 translate spanish d5e_emilia_igor_83b7a7eb_1:
@@ -11932,7 +11932,7 @@ translate spanish d5e_emilia_igor_de0a1bd9:
 translate spanish d5e_emilia_igor_1c9133b8_2:
 
     # E "*sucking*"
-    E "{i}*chupando*"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/day5.rpy:5080
 translate spanish d5e_emilia_igor_2f9ef750:
@@ -11968,7 +11968,7 @@ translate spanish d5e_emilia_igor_47eb6613:
 translate spanish d5e_emilia_igor_a4de87f4:
 
     # E "{i}*gulp*{/i}"
-    E "{i}*gulp*{/i}"
+    E "{i}*traga*{/i}"
 
 # game/scripts/day5.rpy:5090
 translate spanish d5e_emilia_igor_41c27d69:
@@ -11998,7 +11998,7 @@ translate spanish d5e_emilia_igor_ae7e6f90:
 translate spanish d5e_emilia_igor_9703f5ea:
 
     # E "{i}*slurp*"
-    E "{i}*chupa*{/i}"
+    E "{i}*chupada*{/i}"
 
 # game/scripts/day5.rpy:5099
 translate spanish d5e_emilia_igor_d1ca392d:
@@ -13618,7 +13618,7 @@ translate spanish d5b_shani_30423fa0:
 translate spanish d5b_shani_3d18a86f:
 
     # Z "Hey, [Ta]."
-    Z "Ey, [Ta]."
+    Z "Oye, [Ta]."
 
 # game/scripts/day5.rpy:5862
 translate spanish d5b_shani_c75ea254:
@@ -13792,7 +13792,7 @@ translate spanish d5b_ivy_0b8d2ad2:
 translate spanish d5b_ivy_b5fd9c20:
 
     # Z "Hey! Come back here!"
-    Z "¡Ey! ¡Vuelve aquí!"
+    Z "¡Eh! ¡Vuelve aquí!"
 
 # game/scripts/day5.rpy:5948
 translate spanish d5b_ivy_ab594de0:
@@ -13906,7 +13906,7 @@ translate spanish d5b_ivy_f800f372:
 translate spanish d5b_ivy_28e6fa8c:
 
     # Z "Hey! Where are we going?"
-    Z "¡Ey! ¿A dónde vamos?"
+    Z "¡Eh! ¿Adónde vamos?"
 
 # game/scripts/day5.rpy:5988
 translate spanish d5b_ivy_b6f857d7:
@@ -14350,7 +14350,7 @@ translate spanish ivyzbunker1_c93ace46:
 translate spanish ivyzbunker1_5b0ba8ff:
 
     # Fa "I know I'm late, but [I] brought someone new, as you can see."
-    Fa "Llegué tarde, pero traje a alguien nuevo, como puedes ver."
+    Fa "Sé que llego tarde, pero [I] ha traído a alguien nuevo, como puedes ver."
 
 # game/scripts/day5.rpy:6214
 translate spanish ivyzbunker1_af646e49:
@@ -14608,7 +14608,7 @@ translate spanish d5b53_8ed045f0:
 translate spanish d5b53_2f0b250a:
 
     # Fa "What if he does something to her?! I told you to stand guard for fuck's sake!"
-    Fa "¿Y si le hace algo?! ¡Te dije que vigilaras, maldita sea!"
+    Fa "¿Y si le hace algo? ¡Te dije que vigilaras, joder!"
 
 # game/scripts/day5.rpy:6362
 translate spanish d5b53_5ab3574d_3:
@@ -14638,7 +14638,7 @@ translate spanish d5b53_8ed045f0_1:
 translate spanish d5b53_2f0b250a_1:
 
     # Fa "What if he does something to her?! I told you to stand guard for fuck's sake!"
-    Fa "¿Y si le hace algo?! ¡Te dije que vigilaras, maldita sea!"
+    Fa "¿Y si le hace algo? ¡Te dije que vigilaras, joder!"
 
 # game/scripts/day5.rpy:6380
 translate spanish d5b53_cf071040:
@@ -14950,7 +14950,7 @@ translate spanish fangstoplaid_25095c35:
 translate spanish fangstoplaid_2a29f14f:
 
     # "{i}*rustling*"
-    "{i}*un susurro silencioso*"
+    "{i}*crujido*{/i}"
 
 # game/scripts/day5.rpy:6573
 translate spanish fangstoplaid_c5c11ad0:
@@ -15088,7 +15088,7 @@ translate spanish fangstoplaid_71fe265d:
 translate spanish fangstoplaid_2a29f14f_1:
 
     # "{i}*rustling*"
-    "{i}*un susurro silencioso*"
+    "{i}*crujido*{/i}"
 
 # game/scripts/day5.rpy:6647
 translate spanish fangstoplaid_409299ca:
@@ -15934,7 +15934,7 @@ translate spanish fangsivyquestions_e6a43e7a:
 translate spanish fangsivyquestions_10fb5d5a:
 
     # Fa "But that's life. Soldiers don't always agree with what you tell them."
-    Fa "But that's life. Soldiers don't always agree with what you tell them."
+    Fa "Pero así es la vida. Los soldados no siempre están de acuerdo con lo que les dices."
 
 # game/scripts/day5.rpy:7075
 translate spanish fangsivyquestions_8bf2eb25:

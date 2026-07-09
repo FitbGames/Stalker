@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/day19.rpy:10
 translate spanish d19a_f3d2bc65:
@@ -64,7 +64,7 @@ translate spanish d19a_05716ac7:
 translate spanish d19a_305ce6f6:
 
     # ER "A test that announces itself to be far greater than anything faced by your predecessor."
-    ER "Una prueba que se anuncia mucho mayor que cualquier cosa a la que se enfrentara su predecesor."
+    ER "Una prueba que se perfila mucho mayor que cualquiera a la que se enfrentara su predecesor."
 
 # game/scripts/day19.rpy:38
 translate spanish d19a_94a1b8a5:
@@ -322,7 +322,7 @@ translate spanish d19a_f13ab4f0:
 translate spanish d19a_b308d5eb:
 
     # "He walks out..."
-    "Él se retira..."
+    "Se retira..."
 
 # game/scripts/day19.rpy:147
 translate spanish d19a_43183a48:
@@ -334,7 +334,7 @@ translate spanish d19a_43183a48:
 translate spanish d19a_02ee72d1:
 
     # "She stretches with studied emphasis..."
-    "Ella se estira con énfasis calculado..."
+    "Se estira con énfasis calculado..."
 
 # game/scripts/day19.rpy:151
 translate spanish d19a_ee79506b:
@@ -358,7 +358,7 @@ translate spanish d19a_9217753b:
 translate spanish d19a_03a5aa9f:
 
     # Q "And you, slaves, prepare the thermae. You will both attend to me."
-    Q "Y vosotras, esclavas, preparen las termas. Ambas me atenderán."
+    Q "Y vosotras, esclavas, preparad las termas. Ambas me atenderéis."
 
 # game/scripts/day19.rpy:163
 translate spanish d19a_1b40c554:
@@ -394,7 +394,7 @@ translate spanish d19a_89f63253:
 translate spanish d19a_9f3dd409:
 
     # "She looks into your eyes for a moment..."
-    "Ella te mira a los ojos por un momento..."
+    "Te mira a los ojos por un momento..."
 
 # game/scripts/day19.rpy:179
 translate spanish d19a_b0550bca:
@@ -430,7 +430,7 @@ translate spanish d19a_99b12e16:
 translate spanish d19a_f318ba69:
 
     # Q "I did however make progress with the Elder's location."
-    Q "Sin embargo, avancé con la ubicación del Anciano."
+    Q "Sin embargo, he avanzado en la búsqueda de la ubicación del Anciano."
 
 # game/scripts/day19.rpy:198
 translate spanish d19a_33ee3805:
@@ -454,7 +454,7 @@ translate spanish d19a_5f431a52:
 translate spanish d19a_8de05760:
 
     # Z "I will let her know."
-    Z "Se lo haré saber."
+    Z "Se lo diré."
 
 # game/scripts/day19.rpy:208
 translate spanish d19a_5a8cedd0:
@@ -490,7 +490,7 @@ translate spanish d19a_0f1944c8:
 translate spanish d19a_4b7bf586:
 
     # "She leaps forward and gives you a quick, but aggressive kiss..."
-    "Ella salta hacia ti y te da un beso rápido, pero agresivo..."
+    "Salta hacia ti y te da un beso rápido, pero agresivo..."
 
 # game/scripts/day19.rpy:224
 translate spanish d19a_da00ce85:
@@ -514,7 +514,7 @@ translate spanish d19a_1e573402:
 translate spanish d19a_6ce23221:
 
     # "She keeps kissing your lips..."
-    "Ella sigue besando tus labios..."
+    "Sigue besándote..."
 
 # game/scripts/day19.rpy:232
 translate spanish d19a_37e1a390:
@@ -544,7 +544,7 @@ translate spanish d19a_a50c13d5:
 translate spanish d19a_8f44e35f:
 
     # "You let go of each others lips..."
-    "Se separan de los labios del otro..."
+    "Separáis los labios..."
 
 # game/scripts/day19.rpy:245
 translate spanish d19a_8c5170d2:
@@ -568,7 +568,7 @@ translate spanish d19a_87367b5c:
 translate spanish d19a_d3bcc9d3:
 
     # "She lets go, and moves towards her throne..."
-    "Ella se suelta y se dirige hacia su trono..."
+    "Se aparta y se dirige hacia su trono..."
 
 # game/scripts/day19.rpy:257
 translate spanish d19a_c129ce23:
@@ -592,7 +592,7 @@ translate spanish d19a_291af2b6:
 translate spanish d19a_f1c7e3a8:
 
     # Q "Tell her that I have made progress with the Elder's location, and that I might have a new task for her."
-    Q "Dile que he avanzado con la ubicación del Anciano y que podría tener una nueva tarea para ella."
+    Q "Dile que he avanzado en la búsqueda de la ubicación del Anciano y que podría tener una nueva tarea para ella."
 
 # game/scripts/day19.rpy:267
 translate spanish d19a_40c05e9e:
@@ -604,7 +604,7 @@ translate spanish d19a_40c05e9e:
 translate spanish d19a_91302a74:
 
     # Z "That's good news. I will let her know."
-    Z "Esa es una buena noticia. Se lo haré saber."
+    Z "Es una buena noticia. Se lo diré."
 
 # game/scripts/day19.rpy:273
 translate spanish d19a_5f34bc41:
@@ -640,7 +640,7 @@ translate spanish d19b_910fccff:
 translate spanish d19b_f07dc974:
 
     # S "Wait, what?"
-    S "¿Espera, qué?"
+    S "Espera, ¿qué?"
 
 # game/scripts/day19.rpy:294
 translate spanish d19b_97f86c5a:
@@ -724,7 +724,7 @@ translate spanish d19b_98f4cc2e:
 translate spanish d19b_c19ac202:
 
     # "She smiles..."
-    "Ella sonríe..."
+    "Sonríe..."
 
 # game/scripts/day19.rpy:334
 translate spanish d19b_14924e89:
@@ -1143,7 +1143,7 @@ translate spanish d19b_mandisa_talk_d39cb602:
 # game/scripts/day19.rpy:518
 translate spanish d19b_mandisa_talk_91016151:
 
-    # St "He... seems suitably cowed by Mandisa
+    # St "He... seems suitably cowed by Mandisa."
     St "Él... parece debidamente intimidado por Mandisa."
 
 # game/scripts/day19.rpy:519
@@ -2631,8 +2631,8 @@ translate spanish d19d_e13c6e75:
 # game/scripts/day19.rpy:1202
 translate spanish d19d_f145bf38:
 
-    # S "Yeah, I do. I am less concerned in a way, now that I have you with me
-    S "Sí, lo siento así. De alguna forma estoy menos preocupada, ahora que te tengo conmigo"
+    # S "Yeah, I do. I am less concerned in a way, now that I have you with me"
+    S "Sí, lo siento así. De alguna forma estoy menos preocupada, ahora que te tengo conmigo."
 
 # game/scripts/day19.rpy:1205
 translate spanish d19d_51373078:
@@ -3154,7 +3154,7 @@ translate spanish d19d_f11263c6:
 translate spanish d19d_1758cacf:
 
     # Ne "Like many settlements and bazaars in the belt region, he gets to do whatever he wants, as long as he pays his tax and lets my soldiers pass."
-    Ne "Like many settlements and bazaars in the belt region, he gets to do whatever he wants, as long as he pays his tax and lets my soldiers pass."
+    Ne "Al igual que en muchos asentamientos y zocos de la región del cinturón, puede hacer lo que quiera, siempre y cuando pague sus impuestos y deje pasar a mis soldados."
 
 # game/scripts/day19.rpy:1460
 translate spanish d19d_a5e9e45b:
@@ -4450,7 +4450,7 @@ translate spanish d19d_ruins_chosen_f623e65b:
 translate spanish d19d_ruins_chosen_c19ac202:
 
     # "She smiles..."
-    "Ella sonríe..."
+    "Sonríe..."
 
 # game/scripts/day19.rpy:2120
 translate spanish d19d_ruins_chosen_b1ba906a:
@@ -5920,13 +5920,13 @@ translate spanish d19e89_a9a33d1d:
 translate spanish d19e89_5bf1c269:
 
     # S "Perfect. Come, you can sit with me."
-    Domi "Perfecto. Ven, puedes sentarte conmigo."
+    S "Perfecto. Ven, puedes sentarte conmigo."
 
 # game/scripts/day19.rpy:2829
 translate spanish d19e89_0cca8624:
 
     # "Moments later..."
-    "Momentos después..."
+    "Unos instantes después..."
 
 # game/scripts/day19.rpy:2832
 translate spanish d19e89_2ddf2746:
@@ -7857,7 +7857,7 @@ translate spanish d19e_ruins_95ba8f53:
 # game/scripts/day19.rpy:3763
 translate spanish d19e_ruins_549de752:
 
-    # Ne "In a manner of speaking. One of the Elders' tasks is to educate the next queen. There are many tutors
+    # Ne "In a manner of speaking. One of the Elders' tasks is to educate the next queen. There are many tutors..."
     Ne "En cierto modo. Una de las tareas de los Ancianos es educar a la próxima Reina. Hay muchos tutores..."
 
 # game/scripts/day19.rpy:3764
@@ -8577,7 +8577,7 @@ translate spanish d19e178x12_ad1cc896:
 # game/scripts/day19.rpy:4075
 translate spanish d19e178x12_aaf79836:
 
-    # Z "The winds are too strong. But it's your call
+    # Z "The winds are too strong. But it's your call."
     Z "Los vientos son demasiado fuertes. Pero tú decides."
 
 # game/scripts/day19.rpy:4078
@@ -9862,13 +9862,13 @@ translate spanish re_d19f34_1a16f10d:
 translate spanish re_d19f34_de1f365f:
 
     # St "She is so gentle, yet..."
-    Sw "Es tan suave, y sin embargo..."
+    St "Es tan suave, y sin embargo..."
 
 # game/scripts/day19.rpy:4654
 translate spanish re_d19f34_ff389d5f:
 
     # Sw "...this is much better than what happened before, with this..."
-    Sw "...esto es mucho mejor que lo que pasó antes, con esto..."
+    Sw "... esto es mucho mejor que lo que pasó antes, con esto..."
 
 # game/scripts/day19.rpy:4657
 translate spanish re_d19f34_fda88036:
@@ -9952,7 +9952,7 @@ translate spanish re_d19f34_bd971eb5:
 translate spanish re_d19f34_671a8710:
 
     # New "{i}*slurp*{/i}"
-    New "{i}*chupa*{/i}"
+    New "{i}*chupada*{/i}"
 
 # game/scripts/day19.rpy:4687
 translate spanish re_d19f34_401aad4d:
@@ -10000,7 +10000,7 @@ translate spanish re_d19f34_e57a721e:
 translate spanish re_d19f34_df6c03ca:
 
     # Ne "{i}*slurp*{/i}"
-    Ne "{i}*chupa*{/i}"
+    Ne "{i}*chupada*{/i}"
 
 # game/scripts/day19.rpy:4705
 translate spanish re_d19f34_807e057d:
@@ -10042,7 +10042,7 @@ translate spanish re_d19f34_2905a197:
 translate spanish re_d19f34_df6c03ca_1:
 
     # Ne "{i}*slurp*{/i}"
-    Ne "{i}*chupa*{/i}"
+    Ne "{i}*chupada*{/i}"
 
 # game/scripts/day19.rpy:4720
 translate spanish re_d19f34_da033e9e:
@@ -10066,13 +10066,13 @@ translate spanish re_d19f34_ebf47cf1:
 translate spanish re_d19f34_de91fb76:
 
     # New "Did you enjoy that?"
-    Sw "¿Lo disfrutaste?"
+    New "¿Lo disfrutaste?"
 
 # game/scripts/day19.rpy:4732
 translate spanish re_d19f34_dc5b2848:
 
     # "She gets back up..."
-    "Ella se reincorpora..."
+    "Se vuelve a levantar..."
 
 # game/scripts/day19.rpy:4735
 translate spanish re_d19f34_d8f56d69:
@@ -10696,7 +10696,7 @@ translate spanish d19f96_776f061f:
 translate spanish d19f96_1799fd44:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupa*{/i}"
+    S "{i}*chupada*{/i}"
 
 # game/scripts/day19.rpy:5008
 translate spanish d19f96_2f551c7e:
@@ -11110,7 +11110,7 @@ translate spanish d19f_sex_menu_48e971a9:
 translate spanish d19f_sex_menu_1799fd44:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupa*{/i}"
+    S "{i}*chupada*{/i}"
 
 # game/scripts/day19.rpy:5167
 translate spanish d19f_sex_menu_78e81d82:
@@ -11194,7 +11194,7 @@ translate spanish d19f_sex_menu_76128976:
 translate spanish d19f_sex_menu_5e278d7e:
 
     # S "MMgh... {i}*slurp*{/i}"
-    S "MMgh... {i}*chupa*{/i}"
+    S "MMgh... {i}*chupada*{/i}"
 
 # game/scripts/day19.rpy:5192
 translate spanish d19f_sex_menu_093348bf:
@@ -11326,7 +11326,7 @@ translate spanish d19f_sex_menu_d921886d:
 translate spanish d19f_sex_menu_1799fd44_1:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupa*{/i}"
+    S "{i}*chupada*{/i}"
 
 # game/scripts/day19.rpy:5232
 translate spanish d19f_sex_menu_c9013019:
@@ -11584,7 +11584,7 @@ translate spanish d19f176_328715ae:
 translate spanish d19f176_df6c03ca:
 
     # Ne "{i}*slurp*{/i}"
-    Ne "{i}*chupa*{/i}"
+    Ne "{i}*chupada*{/i}"
 
 # game/scripts/day19.rpy:5328
 translate spanish d19f176_b039f360:
@@ -11596,7 +11596,7 @@ translate spanish d19f176_b039f360:
 translate spanish d19f176_df6c03ca_1:
 
     # Ne "{i}*slurp*{/i}"
-    Ne "{i}*chupa*{/i}"
+    Ne "{i}*chupada*{/i}"
 
 # game/scripts/day19.rpy:5333
 translate spanish d19f176_b0e97670:
@@ -11740,7 +11740,7 @@ translate spanish d19f176_e156dcdd:
 translate spanish d19f176_bd1a4ee3:
 
     # Ne "Mgh... {i}*gulp*{/i}"
-    Ne "Mgh... {i}*gulp*{/i}"
+    Ne "Mgh... {i}*traga*{/i}"
 
 # game/scripts/day19.rpy:5376
 translate spanish d19f176_9b278443:
@@ -11758,7 +11758,7 @@ translate spanish d19f176_c62affce:
 translate spanish d19f176_5451f8aa:
 
     # Ne "{i}*gulp*{/i}"
-    Ne "{i}*gulp*{/i}"
+    Ne "{i}*traga*{/i}"
 
 # game/scripts/day19.rpy:5382
 translate spanish d19f176_06bdefd4:
@@ -11788,7 +11788,7 @@ translate spanish d19f176_25a004d9_1:
 translate spanish d19f176_5451f8aa_1:
 
     # Ne "{i}*gulp*{/i}"
-    Ne "{i}*gulp*{/i}"
+    Ne "{i}*traga*{/i}"
 
 # game/scripts/day19.rpy:5391
 translate spanish d19f176_a57b00fd:
@@ -12532,13 +12532,13 @@ translate spanish d19f140_9c288b85:
 translate spanish d19f140_90feb807:
 
     # Z "You're exactly where I want you."
-    Ne "Estás justo donde te quiero."
+    Z "Estás justo donde te quiero."
 
 # game/scripts/day19.rpy:5691
 translate spanish d19f140_5b31d1d5:
 
     # "You feast your eyes upon her flawless skin. Her hand is covering one of her breasts."
-    "Deleitas tu vista con su piel perfecta. Su mano cubre uno de sus pechos."
+    "Te deleitas contemplando su piel impecable. Su mano le cubre uno de los pechos."
 
 # game/scripts/day19.rpy:5692
 translate spanish d19f140_dabc2457:
@@ -13252,7 +13252,7 @@ translate spanish d19f272_fdd3002c:
 translate spanish d19f272_38032c92:
 
     # Ne "Nh...{i}*slurp*{/i}"
-    Ne "Nh...{i}*chupa*{/i}"
+    Ne "Nh...{i}*chupada*{/i}"
 
 # game/scripts/day19.rpy:5971
 translate spanish d19f272_74aeeb2c:
@@ -14524,7 +14524,7 @@ translate spanish d19f285x12_af309cd6:
 translate spanish d19f285x12_df6c03ca:
 
     # Ne "{i}*slurp*{/i}"
-    Ne "{i}*chupa*{/i}"
+    Ne "{i}*chupada*{/i}"
 
 # game/scripts/day19.rpy:6470
 translate spanish d19f285x12_f9351d88:
@@ -15358,7 +15358,7 @@ translate spanish d19g_29a9f082:
 translate spanish d19g_9c0cb84d:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupa*{/i}"
+    As "{i}*chupada*{/i}"
 
 # game/scripts/day19.rpy:6908
 translate spanish d19g_49d68172:
@@ -15675,7 +15675,7 @@ translate spanish d19g_kyra_talk_b22dba90:
 # game/scripts/day19.rpy:7041
 translate spanish d19g_kyra_talk_8a503c9b:
 
-    # Ky "I just want to see Asha get something nice for once, and see what happens when she does
+    # Ky "I just want to see Asha get something nice for once, and see what happens when she does."
     Ky "Solo quiero ver que Asha reciba algo bonito por una vez, y ver qué pasa cuando lo haga."
 
 # game/scripts/day19.rpy:7048
@@ -16468,7 +16468,7 @@ translate spanish re_d19g18_7e24b07f:
 translate spanish re_d19g18_24db4d5a:
 
     # Z "{i}*grunts*{/i}"
-    Z "{i}*gruñe*{/i}"
+    Z "{i}*gruñidos*{/i}"
 
 # game/scripts/day19.rpy:7351
 translate spanish re_d19g18_daf34499:

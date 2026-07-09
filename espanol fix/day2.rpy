@@ -52,7 +52,7 @@ translate spanish d2a_home_efb871cc:
 translate spanish d2a_home_16be445d:
 
     # Zt "Damn it... I was ready to find out more about her."
-    Zt "Maldita sea... estaba listo para averiguar más sobre ella."
+    Zt "Joder... estaba listo para averiguar más sobre ella."
 
 # game/scripts/day2.rpy:44
 translate spanish d2a_home_3e9d3de3:
@@ -916,7 +916,7 @@ translate spanish d2c6_3e79a8b1:
 translate spanish d2c6_7bb9b3ec:
 
     # Z "Why so polite..."
-    Z "¿Por qué tan cortes...?"
+    Z "¿Por qué tan cortés...?"
 
 # game/scripts/day2.rpy:432
 translate spanish d2c6_6621f641:
@@ -1270,7 +1270,7 @@ translate spanish d2e_283c8755:
 translate spanish d2e_cf1c9d02:
 
     # Z "Damn it [S], you are getting good at this; almost gave me a scare."
-    Z "Maldita sea, [S], te estás volviendo buena en esto; casi me das un susto."
+    Z "Joder, [S], te estás volviendo buena en esto; casi me das un susto."
 
 # game/scripts/day2.rpy:598
 translate spanish d2e_29fc18cd:
@@ -2158,7 +2158,7 @@ translate spanish d2e_tomb_search_2c5baa1a:
 translate spanish d2e_tomb_search_a7164cc3:
 
     # S "Hey assholes!!"
-    S "¡¡Ey, gilipollas!!"
+    S "¡Eh, gilipollas!"
 
 # game/scripts/day2.rpy:951
 translate spanish d2e_tomb_search_755bfcb8:
@@ -3022,7 +3022,7 @@ translate spanish d2e68_07747372:
 translate spanish d2e68_78fff6fb:
 
     # Z "Hey, come on, I knew you wer-"
-    Z "Ey, vamos, sabía que ibas a..."
+    Z "Oye, vamos, sabía que ibas a..."
 
 # game/scripts/day2.rpy:1333
 translate spanish d2e68_94ce0241:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/day6.rpy:9
 translate spanish d6a_dec509b8:
@@ -58,7 +58,7 @@ translate spanish d6a_3cb35568:
 translate spanish d6a_ec888e26:
 
     # Z "I will let Emilia know you're here."
-    Z "Haré saber a Emilia que estás aquí."
+    Z "Avisaré a Emilia de que estás aquí."
 
 # game/scripts/day6.rpy:32
 translate spanish d6a_e3358cc8:
@@ -70,7 +70,7 @@ translate spanish d6a_e3358cc8:
 translate spanish d6a_0f0526fb:
 
     # Z "I will let [W] know you're here."
-    Z "Haré saber a [W] que estás aquí."
+    Z "Avisaré a [W] de que estás aquí."
 
 # game/scripts/day6.rpy:36
 translate spanish d6a_ed61f695:
@@ -184,7 +184,7 @@ translate spanish d6a5_cb2e5616:
 translate spanish d6a5_c89fe8aa:
 
     # Ka "Is so open here. Such a big place."
-    Ka "Es tan abierto aquí. Un lugar tan grande."
+    Ka "Hay tanto espacio aquí. Es un lugar enorme."
 
 # game/scripts/day6.rpy:75
 translate spanish d6a5_66d28a63:
@@ -346,7 +346,7 @@ translate spanish re_d6a13_af76f48a:
 translate spanish re_d6a13_ee4bb5df:
 
     # Z "I have not served in too long a time for that to be the case."
-    Z "No he servido en demasiado tiempo para que sea así."
+    Z "Hace demasiado tiempo que no sirvo como para que sea mío."
 
 # game/scripts/day6.rpy:141
 translate spanish d6a7_c935c4f0:
@@ -478,7 +478,7 @@ translate spanish d6a7_507518fd:
 translate spanish d6a7_53add446:
 
     # Rm "Many families in Zeta could use the blessing of a strong baby."
-    Rm "Muchas familias de Zeta podrían utilizar la bendición de un bebé fuerte."
+    Rm "A muchas familias de Zeta les vendría bien la bendición de un bebé fuerte."
 
 # game/scripts/day6.rpy:174
 translate spanish d6a7_7dabda99:
@@ -496,7 +496,7 @@ translate spanish d6a22_0c42dd24:
 translate spanish d6a22_bf3b777e:
 
     # Z "Let's see how this one is doing, first..."
-    Z "Veamos primero cómo le va a éste..."
+    Z "Veamos primero cómo le va a este..."
 
 # game/scripts/day6.rpy:189
 translate spanish d6a22_bd345eb5:
@@ -514,7 +514,7 @@ translate spanish d6a22_f2920fc3:
 translate spanish d6a22_0ed8e3d7:
 
     # "You grab her top..."
-    "Le tomas la parte superior..."
+    "Le agarras la parte de arriba..."
 
 # game/scripts/day6.rpy:195
 translate spanish d6a22_04d4a3c2:
@@ -562,7 +562,7 @@ translate spanish d6a22_41b49433:
 translate spanish d6a22_95819314:
 
     # Rm "They were busy feeding many people. However, I did not have to use them today yet."
-    Rm "Estaban ocupados alimentando a mucha gente. Sin embargo, no tuve que usarlos hoy aún."
+    Rm "Han estado ocupados alimentando a mucha gente. Sin embargo, hoy todavía no he tenido que usarlos."
 
 # game/scripts/day6.rpy:216
 translate spanish d6a22_900f0148:
@@ -622,7 +622,7 @@ translate spanish d6a22_489a1072:
 translate spanish d6a22_4973d647:
 
     # Rm "All your man is doing is checking that the baby and I are healthy."
-    Rm "Todo lo que hace tu hombre es asegurarse de que el bebé y yo estemos saludables."
+    Rm "Todo lo que hace tu hombre es asegurarse de que el bebé y yo estemos sanos."
 
 # game/scripts/day6.rpy:237
 translate spanish d6a22_35e83585:
@@ -634,7 +634,7 @@ translate spanish d6a22_35e83585:
 translate spanish d6a22_313852b7:
 
     # Rm "This will be a Child of Zeta. We vessels serve the city, not one man."
-    Rm "Esto será un Niño de Zeta. Las recipientes sirven a la ciudad, no a un solo hombre."
+    Rm "Esto será un Niño de Zeta. Las Vasijas servimos a la ciudad, no a un solo hombre."
 
 # game/scripts/day6.rpy:242
 translate spanish d6a22_80b15e49:
@@ -790,7 +790,7 @@ translate spanish d6a22_41b49433_1:
 translate spanish d6a22_bf017998:
 
     # Z "Thank you, [Rm], but I want to show Kateryna around, not think about children, today."
-    Z "Gracias, [Rm], pero hoy quiero enseñarle la casa a Kateryna, no pensar en los niños."
+    Z "Gracias, [Rm], pero hoy quiero enseñarle la ciudad a Kateryna, no pensar en niños."
 
 # game/scripts/day6.rpy:321
 translate spanish d6a22_f04a18e9:
@@ -916,7 +916,7 @@ translate spanish d6a36_267eb20e:
 translate spanish d6a36_297567b2:
 
     # Ka "{i}*sucking*"
-    Ka "{i}*chupando*"
+    Ka "{i}*chupando*{/i}"
 
 # game/scripts/day6.rpy:379
 translate spanish d6a36_403b4020:
@@ -952,7 +952,7 @@ translate spanish d6a36_92f6895c:
 translate spanish d6a36_6b92a6ac:
 
     # Rm "We choose our food carefully, to encourage more and better milk."
-    Rm "Elegimos la comida con cuidado, para fomentar más y mejor la leche."
+    Rm "Elegimos la comida con cuidado para producir más leche y de mejor calidad."
 
 # game/scripts/day6.rpy:393
 translate spanish d6a36_17f2a35f:
@@ -1348,7 +1348,7 @@ translate spanish d6a42_05dcbcd0:
 translate spanish d6a42_bcf67db5:
 
     # Z "Hey! Let's drink to that!"
-    Z "¡Ey! ¡Brindemos por eso!"
+    Z "¡Eh! ¡Brindemos por eso!"
 
 # game/scripts/day6.rpy:556
 translate spanish d6a42_e160fc7d:
@@ -1378,7 +1378,7 @@ translate spanish d6a42_8b0828b5:
 translate spanish d6a42_335efd1d:
 
     # Ig "{i}*slurp*{/i}"
-    Ig "{i}*chupa*{/i}"
+    Ig "{i}*chupada*{/i}"
 
 # game/scripts/day6.rpy:567
 translate spanish d6a42_62915b43:
@@ -1744,7 +1744,7 @@ translate spanish d6a64_b1d62cf8:
 translate spanish d6a64_2e40f74c:
 
     # Z "Hey... Is everything okay?"
-    Z "Ey... ¿todo bien?"
+    Z "Oye... ¿todo bien?"
 
 # game/scripts/day6.rpy:693
 translate spanish d6a64_7d8aea14:

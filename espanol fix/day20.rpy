@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/day20.rpy:6
 translate spanish d20a_4a7318da:
 
     # Q "W-where are you taking us..?!"
-    Q "¿A-A dónde nos lleváis...?"
+    Q "¿A-Adónde nos lleváis...?"
 
 # game/scripts/day20.rpy:36
 translate spanish d20a_shani_phase_1_daa0a824:
@@ -40,7 +40,7 @@ translate spanish d20a_shani_phase_1_335ff3c1:
 translate spanish d20a_shani_phase_1_6bc61964:
 
     # St "This is going to be difficult..."
-    St "esto va a ser complicado..."
+    St "Esto va a ser complicado..."
 
 # game/scripts/day20.rpy:53
 translate spanish d20a_shani_phase_1_f495d28b:
@@ -88,7 +88,7 @@ translate spanish d20a_shani_phase_1_9457a2a3:
 translate spanish d20a_shani_phase_1_08e56eba:
 
     # "He clicks with his tongue..."
-    "El chasquea la lengua..."
+    "Él chasquea la lengua..."
 
 # game/scripts/day20.rpy:71
 translate spanish d20a_shani_phase_1_9218a3e1:
@@ -124,7 +124,7 @@ translate spanish d20a_shani_phase_1_26eb2006:
 translate spanish d20a_shani_phase_1_986887d7:
 
     # "He grunts frustrated..."
-    "El gruñe frustrado..."
+    "Él gruñe frustrado..."
 
 # game/scripts/day20.rpy:86
 translate spanish d20a_shani_phase_1_971a98df_1:
@@ -184,7 +184,7 @@ translate spanish d20a_shani_phase_1_294111b2:
 translate spanish d20a_shani_phase_1_b6572ccd:
 
     # C2 "Is she awake..."
-    C2 "¿Ella está despierta...?"
+    C2 "¿Está despierta...?"
 
 # game/scripts/day20.rpy:121
 translate spanish d20a_shani_phase_1_77eb8bfd:
@@ -196,7 +196,7 @@ translate spanish d20a_shani_phase_1_77eb8bfd:
 translate spanish d20a_shani_phase_1_de4a456b:
 
     # "He approaches..."
-    "Él se acerca..."
+    "Se acerca..."
 
 # game/scripts/day20.rpy:128
 translate spanish d20a_shani_phase_1_b117699f:
@@ -268,7 +268,7 @@ translate spanish d20a_shani_phase_1_8668eb1e:
 translate spanish d20a_shani_phase_1_871a9bff:
 
     # Ban2 "I was getting to it, Father. She just woke up."
-    Ban2 "Iba a llegar a eso, Padre. Ella acaba de despertarse."
+    Ban2 "Iba a llegar a eso, Padre. Acaba de despertarse."
 
 # game/scripts/day20.rpy:153
 translate spanish d20a_shani_phase_1_6c06c26c:
@@ -322,7 +322,7 @@ translate spanish d20a_shani_phase_1_7410c376:
 translate spanish d20a_shani_phase_1_cc65a4fb:
 
     # St "Where are you, guys?"
-    St "¿Dónde están, chicos?"
+    St "¿Dónde estáis, chicos?"
 
 # game/scripts/day20.rpy:172
 translate spanish d20a_shani_phase_1_e94cdd34:
@@ -346,7 +346,7 @@ translate spanish d20a_shani_phase_1_fdddd59e:
 translate spanish d20a_shani_phase_1_9d652af4:
 
     # S "W-what do you mean by that..."
-    S "Q-Qué quieres decir con eso..."
+    S "¿Q-Qué quieres decir con eso...?"
 
 # game/scripts/day20.rpy:176
 translate spanish d20a_shani_phase_1_e0b303bf:
@@ -424,7 +424,7 @@ translate spanish d20a_shani_phase_1_7365f2fb:
 translate spanish d20a_shani_phase_1_db7d4434:
 
     # Bfa "My weak son was right. You seem defiant; I can see the wheels turning. You are thinking about your destiny."
-    Bfa "Mi hijo débil tenía razón. Pareces desafiante; puedo ver cómo rueda el engranaje. Estás pensando en tu destino."
+    Bfa "Mi hijo débil tenía razón. Pareces desafiante; veo que estás dándole vueltas. Estás pensando en tu destino."
 
 # game/scripts/day20.rpy:195
 translate spanish d20a_shani_phase_1_749b8c5a:
@@ -436,7 +436,7 @@ translate spanish d20a_shani_phase_1_749b8c5a:
 translate spanish d20a_shani_phase_1_3301e672:
 
     # St "What is he... the only thing I am contemplating is how to get out of here."
-    St "De qué está hablando... lo único que estoy contemplando es cómo salir de aquí."
+    St "¿De qué está hablando...? Lo único en lo que pienso es en cómo salir de aquí."
 
 # game/scripts/day20.rpy:197
 translate spanish d20a_shani_phase_1_4bc7efbe:
@@ -640,7 +640,7 @@ translate spanish d20a58_01acd2c8:
 translate spanish d20a58_d57d7bed:
 
     # Bfa "That's enough."
-    Bfa "Es suficiente."
+    Bfa "Ya basta."
 
 # game/scripts/day20.rpy:307
 translate spanish d20a58_8319c048:
@@ -652,7 +652,7 @@ translate spanish d20a58_8319c048:
 translate spanish d20a58_7d830faf:
 
     # Bfa "Don't take your eyes off me, now."
-    Bfa "No apartes los ojos de mí, ahora."
+    Bfa "Ahora no apartes los ojos de mí."
 
 # game/scripts/day20.rpy:311
 translate spanish d20a58_20c4e504:
@@ -670,7 +670,7 @@ translate spanish d20a58_a41d55b4:
 translate spanish d20a58_430557b3:
 
     # Bfa "No, want to see the shame in your eyes."
-    Bfa "No, quiero ver la vergüenza en tus ojos."
+    Bfa "No. Quiero ver la vergüenza en tus ojos."
 
 # game/scripts/day20.rpy:321
 translate spanish d20a58_0ca8ef86:
@@ -2134,7 +2134,7 @@ translate spanish d20a113_37af9846:
 translate spanish d20a113_1799fd44:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupa*{/i}"
+    S "{i}*chupada*{/i}"
 
 # game/scripts/day20.rpy:964
 translate spanish d20a113_83e45873:
@@ -2182,7 +2182,7 @@ translate spanish d20a113_2712d5eb:
 translate spanish d20a113_1799fd44_1:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupa*{/i}"
+    S "{i}*chupada*{/i}"
 
 # game/scripts/day20.rpy:981
 translate spanish d20a113_0c45c8cb:
@@ -2284,7 +2284,7 @@ translate spanish d20a113_12a3739c:
 translate spanish d20a113_1799fd44_2:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupa*{/i}"
+    S "{i}*chupada*{/i}"
 
 # game/scripts/day20.rpy:1010
 translate spanish d20a113_4a14107e:
@@ -2326,7 +2326,7 @@ translate spanish d20a113_bf0c8fc5:
 translate spanish d20a113_c25a523c:
 
     # St "He's really going to fuck me, isn't he..."
-    St "El realmente me va a follar, ¿verdad...?"
+    St "Él realmente me va a follar, ¿verdad...?"
 
 # game/scripts/day20.rpy:1023
 translate spanish d20a113_d3e64bf0:
@@ -2740,7 +2740,7 @@ translate spanish d20a268_5bc715d4:
 translate spanish d20a268_33327c07:
 
     # Zt "Damn... it's been a long time since I took such a beating."
-    Zt "Maldita sea... hace mucho que no me daban una paliza así."
+    Zt "Joder... hace mucho que no me daban una paliza así."
 
 # game/scripts/day20.rpy:1243
 translate spanish d20a268_0cc30ce2:
@@ -2848,7 +2848,7 @@ translate spanish d20a268_5caf7972:
 translate spanish d20a268_6e4d38a1:
 
     # "She gets up and hurries out..."
-    "Ella se levanta y sale apresuradamente..."
+    "Se levanta y sale apresuradamente..."
 
 # game/scripts/day20.rpy:1296
 translate spanish d20a268_4374332c:
@@ -3382,7 +3382,7 @@ translate spanish d20a_shani_executed_64676443:
 translate spanish d20a_shani_executed_b6e2b3c9:
 
     # Ban2 "{i}*slurp*{/i}"
-    Ban2 "{i}*chupa*{/i}"
+    Ban2 "{i}*chupada*{/i}"
 
 # game/scripts/day20.rpy:1608
 translate spanish d20a_shani_executed_8565964f:
@@ -3958,7 +3958,7 @@ translate spanish re_d20a156_d12392e8:
 translate spanish re_d20a156_c765b67f:
 
     # "He rips her undergarment off..."
-    "Él le arranca la ropa interior..."
+    "Le arranca la ropa interior..."
 
 # game/scripts/day20.rpy:1900
 translate spanish re_d20a156_c9c7b865:
@@ -4702,7 +4702,7 @@ translate spanish re_d20a156_4b6b42e2:
 translate spanish re_d20a156_b6e2b3c9:
 
     # Ban2 "{i}*slurp*{/i}"
-    Ban2 "{i}*chupa*{/i}"
+    Ban2 "{i}*chupada*{/i}"
 
 # game/scripts/day20.rpy:2162
 translate spanish re_d20a156_6fc63af7:
@@ -4996,7 +4996,7 @@ translate spanish re_d20a156_6b6a1be3:
 translate spanish re_d20a156_1799fd44:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupa*{/i}"
+    S "{i}*chupada*{/i}"
 
 # game/scripts/day20.rpy:2253
 translate spanish re_d20a156_f3c8734c:
@@ -5032,7 +5032,7 @@ translate spanish re_d20a156_57421bfb_2:
 translate spanish re_d20a156_36160084:
 
     # S "{i}*gulp*{/i}"
-    S "{i}*gulp*{/i}"
+    S "{i}*traga*{/i}"
 
 # game/scripts/day20.rpy:2266
 translate spanish re_d20a156_1a56a166_6:
@@ -5086,7 +5086,7 @@ translate spanish re_d20a156_f00b1fcb:
 translate spanish re_d20a156_1799fd44_1:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupa*{/i}"
+    S "{i}*chupada*{/i}"
 
 # game/scripts/day20.rpy:2283
 translate spanish re_d20a156_ce44d954_1:
@@ -5320,7 +5320,7 @@ translate spanish re_d20a156_b8997e99:
 translate spanish re_d20a156_1799fd44_2:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupa*{/i}"
+    S "{i}*chupada*{/i}"
 
 # game/scripts/day20.rpy:2372
 translate spanish re_d20a156_b8a818db:
@@ -5374,7 +5374,7 @@ translate spanish re_d20a156_539359a3:
 translate spanish re_d20a156_1799fd44_3:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupa*{/i}"
+    S "{i}*chupada*{/i}"
 
 # game/scripts/day20.rpy:2386
 translate spanish re_d20a156_9ac156ed:
@@ -5698,7 +5698,7 @@ translate spanish re_d20a156_be769167:
 translate spanish re_d20a156_1799fd44_4:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupa*{/i}"
+    S "{i}*chupada*{/i}"
 
 # game/scripts/day20.rpy:2484
 translate spanish re_d20a156_b8a818db_1:
@@ -5740,7 +5740,7 @@ translate spanish re_d20a156_7e05fad2:
 translate spanish re_d20a156_1799fd44_5:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupa*{/i}"
+    S "{i}*chupada*{/i}"
 
 # game/scripts/day20.rpy:2497
 translate spanish re_d20a156_bce230c6_1:
@@ -6538,7 +6538,7 @@ translate spanish d20a_second_push_fc74aa50:
 translate spanish d20a_second_push_54968693:
 
     # Z "Damn it! Then we should open this door first. The tunnel is easier to defend, maybe we can fight through there."
-    Z "¡Maldita sea! Entonces deberíamos abrir esta puerta primero. El túnel es más fácil de defender, quizás podamos abrirnos paso luchando por ahí."
+    Z "¡Joder! Entonces deberíamos abrir esta puerta primero. El túnel es más fácil de defender, quizás podamos abrirnos paso luchando por ahí."
 
 # game/scripts/day20.rpy:2885
 translate spanish d20a_second_push_e3db39fb:
@@ -6796,7 +6796,7 @@ translate spanish d20b_81e9eb7d:
 translate spanish d20b_c19ac202:
 
     # "She smiles..."
-    "Ella sonríe..."
+    "Sonríe..."
 
 # game/scripts/day20.rpy:3023
 translate spanish d20b_b6d4a7cd:
@@ -9082,7 +9082,7 @@ translate spanish d20b_c214ac1f:
 translate spanish d20b_29a2de66:
 
     # "She leaves..."
-    "Ella se marcha..."
+    "Se marcha..."
 
 # game/scripts/day20.rpy:3994
 translate spanish d20b_8f65f127:
@@ -9112,7 +9112,7 @@ translate spanish d20b_71795571:
 translate spanish d20b_70dac837:
 
     # Z "Hey, love..."
-    Z "Ey, amor..."
+    Z "Hola, amor..."
 
 # game/scripts/day20.rpy:4007
 translate spanish d20b_834df94e:
@@ -9208,7 +9208,7 @@ translate spanish d20b_467f52a6:
 translate spanish d20b_c19ac202_1:
 
     # "She smiles..."
-    "Ella sonríe..."
+    "Sonríe..."
 
 # game/scripts/day20.rpy:4062
 translate spanish d20b_3f93eb65:
@@ -9406,7 +9406,7 @@ translate spanish d20b_7479d256:
 translate spanish d20b_c19ac202_2:
 
     # "She smiles..."
-    "Ella sonríe..."
+    "Sonríe..."
 
 # game/scripts/day20.rpy:4155
 translate spanish d20b_937d4fa6:
@@ -9688,7 +9688,7 @@ translate spanish d20b_f00dd0a1:
 translate spanish d20b_cd827270:
 
     # Z "Mh...? Hey, Kateryna..."
-    Z "¿Mmm...? Ey, Kateryna..."
+    Z "¿Mmm...? Oye, Kateryna..."
 
 # game/scripts/day20.rpy:4293
 translate spanish d20b_09f0e294:
@@ -9718,7 +9718,7 @@ translate spanish d20b_ad46672d:
 translate spanish d20b_cf7d423a:
 
     # "She looks at you, nervously..."
-    "Ella te mira, nerviosa..."
+    "Te mira, nerviosa..."
 
 # game/scripts/day20.rpy:4304
 translate spanish d20b_baa9c817:
@@ -9742,7 +9742,7 @@ translate spanish d20b_59ec2a7a:
 translate spanish d20b_e0daea13:
 
     # Ka "When you are healed, can I..."
-    Ka "Cuando te hayas curado, ¿podremos...?
+    Ka "Cuando te hayas curado, ¿podremos...?"
 
 # game/scripts/day20.rpy:4314
 translate spanish d20b_f6e338b1:
@@ -9928,7 +9928,7 @@ translate spanish d20c_c95241a6:
 translate spanish d20c_351bd169:
 
     # "She moves closer..."
-    "Ella se acerca más..."
+    "Se acerca más..."
 
 # game/scripts/day20.rpy:4411
 translate spanish d20c_afebe38e:
@@ -10138,13 +10138,13 @@ translate spanish d20c_c1df6ebf:
 translate spanish d20c_f7ab54b9:
 
     # St "She's... touching me..."
-    St "Creo que tienes la misma reacción que [persistent.mom]..."
+    St "Me está... tocando..."
 
 # game/scripts/day20.rpy:4499
 translate spanish d20c_5a8d13d0:
 
     # S "Mh... you minx..."
-    S "Mh... pequeña traviesa..."
+    S "Mh... pequeña descarada..."
 
 # game/scripts/day20.rpy:4500
 translate spanish d20c_25ff254c_1:
@@ -10306,7 +10306,7 @@ translate spanish d20c_c61f13fe:
 translate spanish d20c_acad4c24:
 
     # "She presses her chest against [S]..."
-    "Ella presiona su pecho contra [S]..."
+    "Presiona su pecho contra [S]..."
 
 # game/scripts/day20.rpy:4556
 translate spanish d20c_eecce063:
@@ -10456,7 +10456,7 @@ translate spanish d20c51_c3a0a922:
 translate spanish d20c51_67daa7f2:
 
     # A "Hey [persistent.dad]! Sorry, we were so noisy and didn't hear you..."
-    A "¡Ey, [persistent.dad]! Perdona, estábamos haciendo tanto ruido que no te oímos..."
+    A "¡Hola, [persistent.dad]! Perdona, estábamos haciendo tanto ruido que no te oímos..."
 
 # game/scripts/day20.rpy:4632
 translate spanish d20c51_1bc51b0e:
@@ -11518,7 +11518,7 @@ translate spanish d20c51_0cca8624_1:
 translate spanish d20c51_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupa*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/day20.rpy:5043
 translate spanish d20c51_47c2bd7c:
@@ -11596,7 +11596,7 @@ translate spanish d20c51_04177bb9:
 translate spanish d20c51_712d4ae2_1:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupa*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/day20.rpy:5070
 translate spanish d20c51_fb8b3c97:
@@ -11686,7 +11686,7 @@ translate spanish d20c51_f8ad4cdf:
 translate spanish d20c51_712d4ae2_2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupa*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/day20.rpy:5106
 translate spanish d20c51_adde3fad:
@@ -11746,7 +11746,7 @@ translate spanish d20c51_618ec349:
 translate spanish d20c51_712d4ae2_3:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupa*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/day20.rpy:5131
 translate spanish d20c51_d649bbbd:
@@ -11866,13 +11866,13 @@ translate spanish d20c51_5c04dae2:
 translate spanish d20c51_9bce7ab1:
 
     # Zt "I am leaning over my girls, making out with them both... I can't be luckier."
-    Zt "Me inclino sobre mis chicas, besándome con ambas... no podría tener más suerte."
+    Zt "Estoy inclinado sobre mis chicas, besándolas a las dos... No podría ser más afortunado."
 
 # game/scripts/day20.rpy:5179
 translate spanish d20c51_1c6881d5:
 
     # Z "mh..."
-    Z "Mh..."
+    Z "mh..."
 
 # game/scripts/day20.rpy:5180
 translate spanish d20c51_0a5d5e71_2:
@@ -11884,13 +11884,13 @@ translate spanish d20c51_0a5d5e71_2:
 translate spanish d20c51_f8970211:
 
     # "You make out for several minutes while taking turns on fucking them, undisturbed by anything, or anyone."
-    "Os besáis durante varios minutos mientras os turnáis para follarlas, sin que nada ni nadie os moleste."
+    "Os besáis apasionadamente durante varios minutos mientras os turnáis para follar, sin que nada ni nadie os moleste."
 
 # game/scripts/day20.rpy:5184
 translate spanish d20c51_d424c21b:
 
     # "It is a moment of sexual bonding. Something ingrained so deeply into your culture, that it should have happened before."
-    "Es un momento de conexión sexual. Algo tan arraigado en vuestra cultura, que debería haber ocurrido antes."
+    "Es un momento de unión sexual. Algo tan profundamente arraigado en vuestra cultura que debería haber ocurrido antes."
 
 # game/scripts/day20.rpy:5187
 translate spanish d20c51_66975bbd:
@@ -11950,7 +11950,7 @@ translate spanish d20c51_833cc0bf_1:
 translate spanish d20c51_be6d5182:
 
     # "The sight of [S] laying on her back next to her sister leaves you no chance to continue for much longer..."
-    "Ver a [S] tumbada boca arriba junto a su hermana no te deja opción de continuar mucho más..."
+    "La imagen de [S] tumbada de espaldas junto a su hermana no te deja otra opción que dejar de seguir adelante..."
 
 # game/scripts/day20.rpy:5210
 translate spanish d20c51_b92f51ed:
@@ -12634,13 +12634,13 @@ translate spanish d20c51_72ae7015:
 translate spanish d20c51_8aeb302c:
 
     # A "Hey, [persistent.mom]..."
-    A "Ey, [persistent.mom]..."
+    A "Oye, [persistent.mom]..."
 
 # game/scripts/day20.rpy:5487
 translate spanish d20c51_17cd6eaf:
 
     # A "Hey..."
-    A "Ey..."
+    A "Oye..."
 
 # game/scripts/day20.rpy:5490
 translate spanish d20c51_b0e220a0:
@@ -12994,19 +12994,19 @@ translate spanish d20c51_1b399edc:
 translate spanish d20c51_3b24536c:
 
     # W "Hey there, you two..."
-    W "Ey, vosotras dos..."
+    W "Oye, vosotras dos..."
 
 # game/scripts/day20.rpy:5642
 translate spanish d20c51_8aeb302c_1:
 
     # A "Hey, [persistent.mom]..."
-    A "Ey, [persistent.mom]..."
+    A "Oye, [persistent.mom]..."
 
 # game/scripts/day20.rpy:5644
 translate spanish d20c51_17cd6eaf_1:
 
     # A "Hey..."
-    A "Ey..."
+    A "Oye..."
 
 # game/scripts/day20.rpy:5647
 translate spanish d20c51_b99273b9:
@@ -13492,7 +13492,7 @@ translate spanish re_d20d25_318e043a_1:
 translate spanish re_d20d25_e4962976:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupa*{/i}"
+    Pe "{i}*chupada*{/i}"
 
 # game/scripts/day20.rpy:5867
 translate spanish re_d20d25_6fb6e9b0:
@@ -13540,7 +13540,7 @@ translate spanish re_d20d25_aa75a29e:
 translate spanish re_d20d25_e4962976_1:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupa*{/i}"
+    Pe "{i}*chupada*{/i}"
 
 # game/scripts/day20.rpy:5879
 translate spanish re_d20d25_354246fc:
@@ -13702,7 +13702,7 @@ translate spanish re_d20d25_f497fd71:
 translate spanish re_d20d25_e4962976_2:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupa*{/i}"
+    Pe "{i}*chupada*{/i}"
 
 # game/scripts/day20.rpy:5930
 translate spanish re_d20d25_318e043a_2:
@@ -13762,7 +13762,7 @@ translate spanish re_d20d25_9dc2e1a6:
 translate spanish re_d20d25_e4962976_3:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupa*{/i}"
+    Pe "{i}*chupada*{/i}"
 
 # game/scripts/day20.rpy:5952
 translate spanish re_d20d25_b274ff7c:
@@ -13810,7 +13810,7 @@ translate spanish re_d20d25_00742c77:
 translate spanish re_d20d25_e4962976_4:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupa*{/i}"
+    Pe "{i}*chupada*{/i}"
 
 # game/scripts/day20.rpy:5968
 translate spanish re_d20d25_68d85c34:
@@ -13984,7 +13984,7 @@ translate spanish re_d20d25_318e043a_3:
 translate spanish re_d20d25_daeeb099:
 
     # Z "{i}*slurp*{/i}"
-    Z "{i}*chupa*{/i}"
+    Z "{i}*chupada*{/i}"
 
 # game/scripts/day20.rpy:6034
 translate spanish re_d20d25_ba19a60a:
@@ -14422,7 +14422,7 @@ translate spanish re_d20d25_fc827b63:
 translate spanish re_d20d25_29a2de66:
 
     # "She leaves..."
-    "Ella se marcha..."
+    "Se marcha..."
 
 # game/scripts/day20.rpy:6210
 translate spanish re_d20d25_212a71c2:

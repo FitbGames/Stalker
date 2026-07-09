@@ -1,16 +1,16 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/mutants.rpy:23
 translate spanish mutants_command_center_f2242cdd:
 
     # "{color=#eaf50e}You are in this faction's planning room."
-    "{color=#eaf50e}Esta será la sala de planificación de los Raiders.{/color}"
+    "{color=#eaf50e}Estás en la sala de planificación de esta facción.{/color}"
 
 # game/scripts/mutants.rpy:24
 translate spanish mutants_command_center_24d9b99b:
 
     # "{color=#eaf50e}From here, you can choose the order of your missions and visit faction members to interact with."
-    "{color=#eaf50e}Desde aquí, puedes elegir el orden de tus misiones y visitar a los miembros de la facción con los que interactuar."
+    "{color=#eaf50e}Desde aquí puedes elegir el orden de tus misiones y visitar a los miembros de la facción para interactuar con ellos."
 
 # game/scripts/mutants.rpy:25
 translate spanish mutants_command_center_c49a7697:
@@ -52,7 +52,7 @@ translate spanish mutants_mission_table_c49cea7b:
 translate spanish mutants_mission_table_0621c547:
 
     # Fa "Good to know. Things are getting ready on my end, too."
-    Fa "Es bueno saberlo. Por mi parte, las cosas también se están preparando."
+    Fa "Me alegra saberlo. Por mi parte, también está todo casi listo."
 
 # game/scripts/mutants.rpy:50
 translate spanish mutants_mission_table_ef81e408:
@@ -94,7 +94,7 @@ translate spanish lab_repeat_ae3bbcbd:
 translate spanish pepper_undress_menu_87a8f716:
 
     # Z "Not today, I was just checking up on you."
-    Z "Hoy no, solo estaba revisando cómo estabas."
+    Z "Hoy no, solo venía a ver cómo estabas."
 
 # game/scripts/mutants.rpy:138
 translate spanish pepper_undress_menu_538ac619:
@@ -106,7 +106,7 @@ translate spanish pepper_undress_menu_538ac619:
 translate spanish pepper_repeatable_handjob_2c938735:
 
     # Z "I prefer your hand game, today."
-    Z "Hoy prefiero tu juego de manos."
+    Z "Hoy prefiero que uses las manos."
 
 # game/scripts/mutants.rpy:148
 translate spanish pepper_repeatable_handjob_a8944b87:
@@ -124,7 +124,7 @@ translate spanish pepper_repeatable_handjob_39650572:
 translate spanish pepper_repeatable_handjob_6f4bfd79:
 
     # Pe "Is this stimulating enough?"
-    Pe "¿Es esto lo suficientemente estimulante?"
+    Pe "¿Esto es lo bastante estimulante?"
 
 # game/scripts/mutants.rpy:155
 translate spanish pepper_repeatable_handjob_c13bad4e:
@@ -136,19 +136,19 @@ translate spanish pepper_repeatable_handjob_c13bad4e:
 translate spanish pepper_repeatable_handjob_9c6a7f07:
 
     # Pe "I know. I was just asking."
-    Pe "Lo sé. Solo lo estaba preguntando."
+    Pe "Lo sé. Solo preguntaba."
 
 # game/scripts/mutants.rpy:159
 translate spanish pepper_repeatable_handjob_aa608de5:
 
     # "She diligently focuses on her task. You believe you see a hint of fascination in her eyes..."
-    "Ella se concentra diligentemente en su tarea. Crees ver una pizca de fascinación en sus ojos..."
+    "Se concentra en su tarea con esmero. Crees ver una pizca de fascinación en sus ojos..."
 
 # game/scripts/mutants.rpy:160
 translate spanish pepper_repeatable_handjob_311d7db0:
 
     # Z "You're as good as always..."
-    Z "Eres tan buena como siempre..."
+    Z "Se te da tan bien como siempre..."
 
 # game/scripts/mutants.rpy:161
 translate spanish pepper_repeatable_handjob_b9862f46:
@@ -196,7 +196,7 @@ translate spanish pepper_repeatable_handjob_94237e1d:
 translate spanish pepper_repeatable_handjob_d57833db:
 
     # Z "Almost there... keep doing what you're doing..."
-    Z "Casi llegamos... sigue haciendo lo que estás haciendo..."
+    Z "Ya casi estoy... sigue así..."
 
 # game/scripts/mutants.rpy:186
 translate spanish pepper_repeatable_handjob_2e3987c0:
@@ -244,7 +244,7 @@ translate spanish pepper_repeatable_handjob_a0e8cbb3:
 translate spanish pepper_repeatable_handjob_121b5a3e:
 
     # Pe "See you next time, [persistent.player_name]."
-    Pe "Nos vemos la próxima, [persistent.player_name]."
+    Pe "Hasta la próxima, [persistent.player_name]."
 
 # game/scripts/mutants.rpy:206
 translate spanish pepper_repeatable_handjob_36147da2:
@@ -304,7 +304,7 @@ translate spanish pepper_repeatable_bj_0c8120e5:
 translate spanish pepper_repeatable_bj_cf472a28:
 
     # Zt "Damn... her lips feel nice, but I could request more..."
-    Zt "Joder... sus labios se sienten bien, pero podría pedir algo más..."
+    Zt "Joder... qué bien se sienten sus labios, pero podría pedirle algo más..."
 
 # game/scripts/mutants.rpy:236
 translate spanish pepper_cum_from_bj_d9a1b51f:
@@ -334,43 +334,43 @@ translate spanish pepper_cum_from_bj_aab0d267:
 translate spanish pepper_cum_from_bj_830a8e25:
 
     # "She polishes your tip methodically, occasionally looking into your eyes..."
-    "Pulsa tu punta metódicamente, ocasionalmente mirándote a los ojos..."
+    "Recorre metódicamente la punta de tu polla con la lengua, mirándote de vez en cuando a los ojos..."
 
 # game/scripts/mutants.rpy:245
 translate spanish pepper_cum_from_bj_3d9f3f3e:
 
     # Z "You really are... doing your best..."
-    Z "Realmente estás... haciendo tu mejor esfuerzo..."
+    Z "De verdad estás... esforzándote al máximo..."
 
 # game/scripts/mutants.rpy:246
 translate spanish pepper_cum_from_bj_e8c74ecd:
 
     # Pe "{i}*sucking*{/i} Jhust... get it over whith..."
-    Pe "{i}*Chupando*{/i} Solo... termina con esto..."
+    Pe "{i}*chupando*{/i} Solo... acaba de una vez..."
 
 # game/scripts/mutants.rpy:247
 translate spanish pepper_cum_from_bj_8ff0612c:
 
     # Z "I will... as soon as possible..."
-    Z "Lo haré... tan pronto como sea posible..."
+    Z "Lo haré... lo antes posible..."
 
 # game/scripts/mutants.rpy:250
 translate spanish pepper_cum_from_bj_e96b5914:
 
     # Z "You look so good doing this. Ngh..."
-    Z "Te ves tan bien haciendo esto. Ngh..."
+    Z "Estás tan buena haciendo esto. Ngh..."
 
 # game/scripts/mutants.rpy:251
 translate spanish pepper_cum_from_bj_e4962976:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupa*{/i}"
+    Pe "{i}*chupada*{/i}"
 
 # game/scripts/mutants.rpy:252
 translate spanish pepper_cum_from_bj_2a711295:
 
     # Zt "Such a gentle tongue, when she's not lashing out at people..."
-    Zt "Qué lengua tan gentil, cuando ella no está atacando a la gente..."
+    Zt "Qué lengua tan suave cuando no la usa para atacar a la gente..."
 
 # game/scripts/mutants.rpy:255
 translate spanish pepper_cum_from_bj_b1aeb283:
@@ -400,13 +400,13 @@ translate spanish pepper_cum_from_bj_66ec2b49:
 translate spanish pepper_cum_from_bj_470190b4:
 
     # "You pinch her hard reddish nipples. She does not object..."
-    "Le pellizcas los duros pezones rojizos. Ella no objeta..."
+    "Le pellizcas con fuerza los pezones rojizos. No protesta..."
 
 # game/scripts/mutants.rpy:265
 translate spanish pepper_cum_from_bj_58fff623:
 
     # Z "I'm... cumming, Pepper."
-    Z "Estoy... viniéndome, Pepper."
+    Z "Me... corro, Pepper."
 
 # game/scripts/mutants.rpy:268
 translate spanish pepper_cum_from_bj_318e043a:
@@ -442,7 +442,7 @@ translate spanish pepper_cum_from_bj_662f7b96:
 translate spanish pepper_cum_from_bj_5a9a1edf:
 
     # "You cum deep, long strokes..."
-    "Eyaculas profundamente, con movimientos largos..."
+    "Te corres con largas y profundas sacudidas..."
 
 # game/scripts/mutants.rpy:288
 translate spanish pepper_cum_from_bj_2e3987c0_1:
@@ -454,13 +454,13 @@ translate spanish pepper_cum_from_bj_2e3987c0_1:
 translate spanish pepper_cum_from_bj_1ea62af0:
 
     # "With puffy cheeks, she holds it all in her mouth..."
-    "Con las mejillas hinchadas, lo mantiene todo en su boca..."
+    "Con las mejillas hinchadas, se lo guarda todo en la boca..."
 
 # game/scripts/mutants.rpy:292
 translate spanish pepper_cum_from_bj_db028ed4:
 
     # "...and gets up."
-    "... ¡y se levanta!"
+    "... y se levanta."
 
 # game/scripts/mutants.rpy:295
 translate spanish pepper_cum_from_bj_2e3987c0_2:
@@ -478,7 +478,7 @@ translate spanish pepper_cum_from_bj_250f642a:
 translate spanish pepper_cum_from_bj_b9dd86cf:
 
     # "Your cum flows out of her mouth, directly into a small glass..."
-    "Tu semen fluye fuera de su boca, directamente a un pequeño vaso..."
+    "Tu semen sale de su boca y cae directamente en un pequeño vaso..."
 
 # game/scripts/mutants.rpy:302
 translate spanish pepper_cum_from_bj_1074adec:
@@ -496,7 +496,7 @@ translate spanish pepper_cum_from_bj_fe23cea4:
 translate spanish pepper_cum_from_bj_f59414ff:
 
     # Pe "Your contribution is received for today. Thank you, [persistent.player_name]."
-    Pe "Tu contribución ha sido recibida por hoy. Gracias, [persistent.player_name]."
+    Pe "Ya he recibido tu contribución de hoy. Gracias, [persistent.player_name]."
 
 # game/scripts/mutants.rpy:307
 translate spanish pepper_cum_from_bj_022e1de1:
@@ -532,7 +532,7 @@ translate spanish pepper_undress_478c6e8d:
 translate spanish pepper_undress_13c57d3c:
 
     # Z "Your hands are stimulating me, and your appearance is attractive."
-    Z "Tus manos me están estimulando, y tu apariencia es atractiva."
+    Z "Tus manos me están estimulando y me resulta atractivo tu aspecto."
 
 # game/scripts/mutants.rpy:324
 translate spanish pepper_undress_b91f886c:
@@ -562,13 +562,13 @@ translate spanish pepper_undress_2b012dbf:
 translate spanish pepper_undress_dde15b46:
 
     # Z "Right... I may have been too direct. But why make a big deal out of showing your body?"
-    Z "Cierto... Puede que haya sido demasiado directo. Pero, ¿por qué hacer tanto drama por mostrar tu cuerpo?"
+    Z "Cierto... Puede que haya sido demasiado directo. Pero ¿por qué darle tanta importancia a mostrar tu cuerpo?"
 
 # game/scripts/mutants.rpy:337
 translate spanish pepper_undress_95201cc5:
 
     # Z "It's just your body. We are mature people. Let's do away with pointless embarrassment."
-    Z "Es solo tu cuerpo. Somos personas maduras. Dejemos de lado la vergüenza sin sentido."
+    Z "Es solo tu cuerpo. Somos adultos. Dejemos a un lado los pudores absurdos."
 
 # game/scripts/mutants.rpy:340
 translate spanish pepper_undress_636fd71a:
@@ -604,19 +604,19 @@ translate spanish pepper_undress_7320ecbe:
 translate spanish pepper_undress_c3c68311:
 
     # Pe "It's a delicate balance, finding the line between stripping slowly enough to cause arousal but not so slow that a simple handjob would be a quicker option."
-    Pe "Es un equilibrio delicado, encontrar la línea entre desnudarse lo suficientemente lento para causar excitación pero no tan lento que una simple paja sería una opción más rápida."
+    Pe "Es un equilibrio delicado: desnudarse lo bastante despacio para provocar excitación, pero no tanto como para que una simple paja resulte más rápida."
 
 # game/scripts/mutants.rpy:357
 translate spanish pepper_undress_57d1db92:
 
     # "Her distant and impersonal way of addressing you underscore her point as your mind is full of the sight unfolding before your eyes."
-    "Su manera distante e impersonal de dirigirse a ti subraya su punto mientras tu mente está llena con la visión que se desarrolla frente a tus ojos."
+    "Su forma distante e impersonal de dirigirse a ti refuerza sus palabras mientras tu mente se pierde en la escena que se desarrolla ante tus ojos."
 
 # game/scripts/mutants.rpy:358
 translate spanish pepper_undress_3a905ac8:
 
     # "Instead of having to imagine her silhouette, her slim, exotic body is finally revealing itself to you in all its candour."
-    "En lugar de tener que imaginar su silueta, su cuerpo delgado y exótico finalmente se revela ante ti en toda su sinceridad."
+    "Ya no tienes que imaginar su silueta: su esbelto y exótico cuerpo se revela por fin ante ti en todo su esplendor."
 
 # game/scripts/mutants.rpy:359
 translate spanish pepper_undress_17388e35:
@@ -676,7 +676,7 @@ translate spanish pepper_undress_255751ef:
 translate spanish pepper_undress_808909de:
 
     # "You stare at her tight ass, your blood entirely leaving your brain..."
-    "Miras su culo apretado, toda tu sangre deja tu cerebro..."
+    "Miras su culo prieto y toda la sangre abandona tu cerebro..."
 
 # game/scripts/mutants.rpy:383
 translate spanish pepper_undress_50d907af:
@@ -706,7 +706,7 @@ translate spanish pepper_undress_f2891c9b:
 translate spanish pepper_undress_aa6c527b:
 
     # Z "Turn around, for me..."
-    Z "Dale la vuelta, para mí..."
+    Z "Date la vuelta para mí..."
 
 # game/scripts/mutants.rpy:395
 translate spanish pepper_undress_61ce6da9:
@@ -736,13 +736,13 @@ translate spanish pepper_undress_b3f57ac5:
 translate spanish pepper_undress_85b00d5b:
 
     # "There she stands. The focused, stoic scientist is standing in front of you with her back towards you..."
-    "Ahí está ella. La científica concentrada y estoica está frente a ti, dándote la espalda..."
+    "Ahí está. La científica seria y estoica permanece frente a ti, dándote la espalda..."
 
 # game/scripts/mutants.rpy:404
 translate spanish pepper_undress_20f02311:
 
     # "Her naked body in heels, those long legs, the tall frame and tight ass... Her body, rare and exotic, you fill your eyes with her, in those ten seconds."
-    "Su cuerpo desnudo en tacones, esas largas piernas, la figura alta y el culo apretado... Su cuerpo, raro y exótico, llenas tus ojos con ella en esos diez segundos."
+    "Su cuerpo desnudo sobre tacones, esas largas piernas, su figura alta y ese culo prieto... Durante esos diez segundos te recreas en su cuerpo, extraño y exótico."
 
 # game/scripts/mutants.rpy:407
 translate spanish pepper_undress_c315da58:
@@ -766,7 +766,7 @@ translate spanish pepper_undress_5ab3574d:
 translate spanish pepper_undress_c12235a8:
 
     # Pe "Earth to [persistent.player_name]. Get over it, please."
-    Pe "Tierra llamando a [persistent.player_name]. Supéralo, por favor."
+    Pe "Tierra llamando a [persistent.player_name]. Reacciona, por favor."
 
 # game/scripts/mutants.rpy:415
 translate spanish pepper_undress_255751ef_1:
@@ -820,7 +820,7 @@ translate spanish pepper_undress_1ca1e251:
 translate spanish pepper_undress_1f68e09b:
 
     # Pe "Time to resume where we left off, or this will have been an exercise in futility and nothing more."
-    Pe "Es hora de retomar donde lo dejamos, o esto habrá sido un ejercicio de futilidad y nada más."
+    Pe "Es hora de retomar lo que dejamos a medias o todo esto habrá sido inútil."
 
 # game/scripts/mutants.rpy:432
 translate spanish pepper_undress_6c3dc07b:
@@ -832,7 +832,7 @@ translate spanish pepper_undress_6c3dc07b:
 translate spanish pepper_undress_07898c42:
 
     # Pe "Well... At least my disrobement bears fruit."
-    Pe "Bueno... al menos mi desnudez da sus frutos."
+    Pe "Bueno... al menos desnudarme da sus frutos."
 
 # game/scripts/mutants.rpy:438
 translate spanish pepper_undress_2f3ee7c2:
@@ -844,7 +844,7 @@ translate spanish pepper_undress_2f3ee7c2:
 translate spanish pepper_undress_6fda9d21:
 
     # "She grabs your dick, lost in momentary contemplation."
-    "Ella agarra tu polla, perdida en una momentánea contemplación."
+    "Agarra tu polla, absorta por un instante."
 
 # game/scripts/mutants.rpy:444
 translate spanish pepper_undress_1d825153:
@@ -868,7 +868,7 @@ translate spanish pepper_undress_36fc9470:
 translate spanish pepper_undress_b11c6d33:
 
     # Z "My excitement has increased significantly, but massaging it with your hands would likely take some time."
-    Z "Mi emoción ha aumentado significativamente, pero masajearlo con tus manos probablemente llevaría tiempo."
+    Z "Mi excitación ha aumentado considerablemente, pero estimularla con las manos probablemente llevaría tiempo."
 
 # game/scripts/mutants.rpy:452
 translate spanish pepper_undress_aff1a6db:
@@ -880,7 +880,7 @@ translate spanish pepper_undress_aff1a6db:
 translate spanish pepper_undress_4e9c0b40:
 
     # Z "You could grab my dick with your hands, stroke it a bit as usual, and put your mouth on if for a moment."
-    Z "Podrías coger mi polla con las manos, acariciarla un poco como siempre, y poner tu boca en ella por un momento."
+    Z "Podrías cogerme la polla con las manos, acariciarla un poco como siempre y metértela en la boca un momento."
 
 # game/scripts/mutants.rpy:456
 translate spanish pepper_undress_7c8c09ab:
@@ -892,7 +892,7 @@ translate spanish pepper_undress_7c8c09ab:
 translate spanish pepper_undress_499ec791:
 
     # Pe "And how will this exactly make a difference? I am not here to degrade myself for your pleasure."
-    Pe "¿Y cómo exactamente hará esto una diferencia? No estoy aquí para degradarme por tu placer."
+    Pe "¿Y qué diferencia supondría exactamente? No estoy aquí para degradarme por tu placer."
 
 # game/scripts/mutants.rpy:462
 translate spanish pepper_undress_bafb7516:
@@ -1048,7 +1048,7 @@ translate spanish pepper_undress_e8c74ecd:
 translate spanish pepper_undress_8ff0612c:
 
     # Z "I will... as soon as possible..."
-    Z "Lo haré... tan pronto como sea posible..."
+    Z "Lo haré... lo antes posible..."
 
 # game/scripts/mutants.rpy:512
 translate spanish pepper_undress_de360945:
@@ -1084,7 +1084,7 @@ translate spanish pepper_undress_3418b355:
 translate spanish pepper_undress_e4962976:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupa*{/i}"
+    Pe "{i}*chupada*{/i}"
 
 # game/scripts/mutants.rpy:524
 translate spanish pepper_undress_301b3fd9:
@@ -1102,7 +1102,7 @@ translate spanish pepper_undress_1cb2460f:
 translate spanish pepper_undress_e4962976_1:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupa*{/i}"
+    Pe "{i}*chupada*{/i}"
 
 # game/scripts/mutants.rpy:529
 translate spanish pepper_undress_d021c047:
@@ -1198,7 +1198,7 @@ translate spanish pepper_undress_662f7b96:
 translate spanish pepper_undress_5a9a1edf:
 
     # "You cum deep, long strokes..."
-    "Eyaculas profundamente, con movimientos largos..."
+    "Te corres con largas y profundas sacudidas..."
 
 # game/scripts/mutants.rpy:568
 translate spanish pepper_undress_2e3987c0_3:
@@ -1324,7 +1324,7 @@ translate spanish pepper_undress_repeat_0c8120e5:
 translate spanish pepper_undress_repeat_cf472a28:
 
     # Zt "Damn... her lips feel nice, but I could request more..."
-    Zt "Joder... sus labios se sienten bien, pero podría pedir algo más..."
+    Zt "Joder... qué bien se sienten sus labios, pero podría pedirle algo más..."
 
 # game/scripts/mutants.rpy:619
 translate spanish pepper_deepthroat_c37e81c5:
@@ -1480,13 +1480,13 @@ translate spanish pepper_deepthroat_9c441ab4:
 translate spanish pepper_deepthroat_7a00da4e:
 
     # Pe "{i}*slurp{/i}"
-    Pe "{i}*Slurp*{/i}"
+    Pe "{i}*Chupada*{/i}"
 
 # game/scripts/mutants.rpy:672
 translate spanish pepper_deepthroat_39023ab2:
 
     # Z "Ah... Very good. You are naturally relaxed and disciplined."
-    Z "Ah... Muy bien. Estás naturalmente relajada y disciplinada."
+    Z "Ah... Muy bien. Se te nota que eres una persona tranquila y disciplinada por naturaleza."
 
 # game/scripts/mutants.rpy:673
 translate spanish pepper_deepthroat_2144d2e8:
@@ -1498,13 +1498,13 @@ translate spanish pepper_deepthroat_2144d2e8:
 translate spanish pepper_deepthroat_e3aedcc7:
 
     # Z "Damn..."
-    Z "Maldita sea..."
+    Z "Joder..."
 
 # game/scripts/mutants.rpy:677
 translate spanish pepper_deepthroat_3ec918f2:
 
     # Z "If I'm being honest, I knew you were focused on efficiency, but this..."
-    Z "Si soy sincero, sabía que estabas enfocada en la eficiencia, pero esto..."
+    Z "Si te soy sincero, sabía que te centrabas en la eficiencia, pero esto..."
 
 # game/scripts/mutants.rpy:678
 translate spanish pepper_deepthroat_059d0e3a:
@@ -1564,7 +1564,7 @@ translate spanish pepper_deepthroat_c387b67f:
 translate spanish pepper_deepthroat_e4962976:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupa*{/i}"
+    Pe "{i}*chupada*{/i}"
 
 # game/scripts/mutants.rpy:692
 translate spanish pepper_deepthroat_de2df6f1:
@@ -1666,7 +1666,7 @@ translate spanish pepper_deepthroat_20b01a39:
 translate spanish pepper_deepthroat_e4962976_1:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupa*{/i}"
+    Pe "{i}*chupada*{/i}"
 
 # game/scripts/mutants.rpy:720
 translate spanish pepper_deepthroat_94cdc4c2:
@@ -1720,7 +1720,7 @@ translate spanish pepper_deepthroat_1094ec3b:
 translate spanish pepper_deepthroat_9dc5e3ab:
 
     # Pe "{i}Ngh... {i}*slurp*{/i}"
-    Pe "{i}Ngh... {i}*chupa*{/i}"
+    Pe "{i}Ngh... {i}*chupada*{/i}"
 
 # game/scripts/mutants.rpy:733
 translate spanish pepper_deepthroat_f2156cf8:
@@ -1965,8 +1965,8 @@ translate spanish pepper_deepthroat_d6e28f27_4:
 # game/scripts/mutants.rpy:819
 translate spanish pepper_deepthroat_a403ae6e:
 
-    # Pe "{i}*gulp*{/i}"
-    Pe "{i}*gulp*{/i}"
+    # Pe "{i}*traga*{/i}"
+    Pe "{i}*traga*{/i}"
 
 # game/scripts/mutants.rpy:820
 translate spanish pepper_deepthroat_de365375:
@@ -1995,8 +1995,8 @@ translate spanish pepper_deepthroat_d002efe7:
 # game/scripts/mutants.rpy:827
 translate spanish pepper_deepthroat_a403ae6e_1:
 
-    # Pe "{i}*gulp*{/i}"
-    Pe "{i}*gulp*{/i}"
+    # Pe "{i}*traga*{/i}"
+    Pe "{i}*traga*{/i}"
 
 # game/scripts/mutants.rpy:828
 translate spanish pepper_deepthroat_ad6cabdb:
@@ -2007,8 +2007,8 @@ translate spanish pepper_deepthroat_ad6cabdb:
 # game/scripts/mutants.rpy:830
 translate spanish pepper_deepthroat_a403ae6e_2:
 
-    # Pe "{i}*gulp*{/i}"
-    Pe "{i}*gulp*{/i}"
+    # Pe "{i}*traga*{/i}"
+    Pe "{i}*traga*{/i}"
 
 # game/scripts/mutants.rpy:833
 translate spanish pepper_deepthroat_d257e838:
@@ -2140,7 +2140,7 @@ translate spanish pepper_deepthroat_repeat_f4a1b094:
 translate spanish pepper_deepthroat_repeat_e4962976:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupa*{/i}"
+    Pe "{i}*chupada*{/i}"
 
 # game/scripts/mutants.rpy:886
 translate spanish pepper_deepthroat_repeat_c8f4ac5a:
@@ -2236,7 +2236,7 @@ translate spanish pepper_deepthroat_repeat_d5a8383a:
 translate spanish pepper_deepthroat_repeat_9dc5e3ab:
 
     # Pe "{i}Ngh... {i}*slurp*{/i}"
-    Pe "{i}¡Ngh... {i}*chupa*{/i}"
+    Pe "{i}¡Ngh... {i}*chupada*{/i}"
 
 # game/scripts/mutants.rpy:910
 translate spanish pepper_deepthroat_repeat_512dbb51:
@@ -2248,7 +2248,7 @@ translate spanish pepper_deepthroat_repeat_512dbb51:
 translate spanish pepper_deepthroat_repeat_e4962976_1:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupa*{/i}"
+    Pe "{i}*chupada*{/i}"
 
 # game/scripts/mutants.rpy:914
 translate spanish pepper_deepthroat_repeat_865e8d87:
@@ -2463,8 +2463,8 @@ translate spanish pepper_deepthroat_repeat_choice_d6e28f27:
 # game/scripts/mutants.rpy:988
 translate spanish pepper_deepthroat_repeat_choice_a403ae6e:
 
-    # Pe "{i}*gulp*{/i}"
-    Pe "{i}*gulp*{/i}"
+    # Pe "{i}*traga*{/i}"
+    Pe "{i}*traga*{/i}"
 
 # game/scripts/mutants.rpy:989
 translate spanish pepper_deepthroat_repeat_choice_de365375:
@@ -2488,7 +2488,7 @@ translate spanish pepper_deepthroat_repeat_choice_0c8120e5:
 translate spanish pepper_deepthroat_repeat_choice_e4962976:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupa*{/i}"
+    Pe "{i}*chupada*{/i}"
 
 # game/scripts/mutants.rpy:998
 translate spanish pepper_deepthroat_repeat_choice_defc2064:
@@ -2601,8 +2601,8 @@ translate spanish pepper_deepthroat_repeat_choice_cd076803:
 # game/scripts/mutants.rpy:1042
 translate spanish pepper_deepthroat_repeat_choice_a403ae6e_1:
 
-    # Pe "{i}*gulp*{/i}"
-    Pe "{i}*gulp*{/i}"
+    # Pe "{i}*traga*{/i}"
+    Pe "{i}*traga*{/i}"
 
 # game/scripts/mutants.rpy:1045
 translate spanish pepper_deepthroat_repeat_choice_71206c29:
@@ -2691,8 +2691,8 @@ translate spanish pepper_deepthroat_repeat_choice_558fa292_1:
 # game/scripts/mutants.rpy:1080
 translate spanish pepper_deepthroat_repeat_choice_a403ae6e_2:
 
-    # Pe "{i}*gulp*{/i}"
-    Pe "{i}*gulp*{/i}"
+    # Pe "{i}*traga*{/i}"
+    Pe "{i}*traga*{/i}"
 
 # game/scripts/mutants.rpy:1083
 translate spanish pepper_deepthroat_repeat_choice_71206c29_1:
@@ -5848,7 +5848,7 @@ translate spanish hive_repeatable_909e9fbe:
 translate spanish hive_repeatable_a32268f1:
 
     # "You follow her gaze firmly pointed at your crotch."
-    "Sigues su mirada firmemente dirigida a tu entrepierna."
+    "Sigues su mirada, firmemente fija en tu entrepierna."
 
 # game/scripts/mutants.rpy:2501
 translate spanish hive_repeatable_6c82d5f6:

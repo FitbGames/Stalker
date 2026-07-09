@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/day11.rpy:5
 translate spanish d11a_26988442:
@@ -22,7 +22,7 @@ translate spanish d11a_ee062801:
 translate spanish d11a_cd6f70d3:
 
     # Z "Hey, Ivy. Do you have a moment?"
-    Z "Ey, Ivy. ¿Tienes un momento?"
+    Z "Oye, Ivy. ¿Tienes un momento?"
 
 # game/scripts/day11.rpy:15
 translate spanish d11a_0cf06034:
@@ -820,7 +820,7 @@ translate spanish d11a70_2a8e6c9f:
 translate spanish d11a70_4ded9d77:
 
     # Zt "Yep... damn. She is."
-    Zt "Sí... maldita sea. Ella lo hace."
+    Zt "Sí... joder. Ella lo hace."
 
 # game/scripts/day11.rpy:355
 translate spanish d11a70_a5d746bf:
@@ -1174,7 +1174,7 @@ translate spanish d11a58_f83cada7:
 translate spanish d11a58_61262c7a:
 
     # I "Hey, [persistent.player_name]!"
-    I "¡Ey, [persistent.player_name]!"
+    I "¡Eh, [persistent.player_name]!"
 
 # game/scripts/day11.rpy:523
 translate spanish d11a58_a5d746bf:
@@ -2386,7 +2386,7 @@ translate spanish d11b27_e1fab52e:
 translate spanish d11b27_1ff3dbbd:
 
     # Ju "Oh, hey [S]. You didn't. Not really. Come, sit down. I was preparing breakfast for you."
-    Ju "Oh, ey [S]. No lo has hecho. La verdad es que no. Ven, siéntate. Estaba preparando el desayuno para ti."
+    Ju "Oh, oye, [S]. No lo has hecho. La verdad es que no. Ven, siéntate. Estaba preparando el desayuno para ti."
 
 # game/scripts/day11.rpy:1056
 translate spanish d11b27_76004e49:
@@ -2806,13 +2806,13 @@ translate spanish d11b_stay_1_34398d52:
 translate spanish d11b_stay_1_a0d4fc4a:
 
     # "{i}\"May everything come true. May they believe. And may they laugh at their passions. For what they call passion is not really the energy of the soul, but merely friction between the soul and the outside world.\"{/i}"
-    "{i}\"
+    "{i}\"Que todo se haga realidad. Que crean. Y que se rían de sus pasiones. Porque lo que llaman pasión no es realmente la energía del alma, sino meramente la fricción entre el alma y el mundo exterior.\"{/i}"
 
 # game/scripts/day11.rpy:1215
 translate spanish d11b_stay_1_6b58a574:
 
     # "{i}\"But, above all, may they believe in themselves and become as helpless as children, because weakness is a great thing, and strength is nothing.\"{/i}"
-    "{i}\"
+    "{i}\"Pero, sobre todo, que crean en sí mismos y se vuelvan tan indefensos como niños, porque la debilidad es una gran cosa, y la fuerza no es nada.\"{/i}"
 
 # game/scripts/day11.rpy:1216
 translate spanish d11b_stay_1_0df6506b:
@@ -2878,7 +2878,7 @@ translate spanish d11b_stay_1_0680c15a:
 translate spanish d11b_stay_1_c361f2a7:
 
     # Ju "Hey, look... I know you've stayed here for more than I can ask of you."
-    Ju "Ey, mira... Sé que te has quedado aquí más de lo que puedo pedirte."
+    Ju "Oye, mira... Sé que te has quedado aquí más de lo que puedo pedirte."
 
 # game/scripts/day11.rpy:1253
 translate spanish d11b_stay_1_9eec8e15:
@@ -2956,7 +2956,7 @@ translate spanish d11b_stay_2_9669528e:
 translate spanish d11b_stay_2_eee406f5:
 
     # Ju "Hey, [S], come here, you can lean against the grass, see?"
-    Ju "Ey, [S], ven aquí, puedes apoyarte en la hierba, ¿lo ves?"
+    Ju "Oye, [S], ven aquí, puedes apoyarte en la hierba, ¿lo ves?"
 
 # game/scripts/day11.rpy:1293
 translate spanish d11b_stay_2_cca9b1c7:
@@ -4066,7 +4066,7 @@ translate spanish d11b130_9d8caa80:
 translate spanish d11b130_818924a0:
 
     # St "Hey, friend... please stop staring at me like that."
-    St "Ey, amigo... Por favor, deja de mirarme así."
+    St "Oye, amigo... Por favor, deja de mirarme así."
 
 # game/scripts/day11.rpy:1777
 translate spanish d11b130_407f10ed:
@@ -4450,7 +4450,7 @@ translate spanish d11c_d5cd4015:
 translate spanish d11c_ef91af82:
 
     # Z "Hey kid. Stop, look at me."
-    Z "Ey, chica. Para, mírame."
+    Z "Oye, chica. Para, mírame."
 
 # game/scripts/day11.rpy:1923
 translate spanish d11c_f61c5220:
@@ -4600,7 +4600,7 @@ translate spanish d11c_5e990086:
 translate spanish d11c_2a16f033:
 
     # As "Hey, bitch. Are you deaf?!"
-    As "Ey, zorra. ¿Estás sorda?"
+    As "Oye, zorra. ¿Estás sorda?"
 
 # game/scripts/day11.rpy:1983
 translate spanish d11c_8c2d49e9:
@@ -4648,7 +4648,7 @@ translate spanish d11c_12d3085a:
 translate spanish d11c_018e5b63:
 
     # Z "Hey, 'General'. Are you sure she's your sister? She's a delicate and pretty thing and you... well, you're you."
-    Z "Ey, 'General'. ¿Estás seguro de que es tu hermana? Es una cosa delicada y bonita y tú... Bueno, tú eres tú."
+    Z "Oye, 'General'. ¿Estás seguro de que es tu hermana? Es una cosa delicada y bonita y tú... Bueno, tú eres tú."
 
 # game/scripts/day11.rpy:1999
 translate spanish d11c_387fb54b:
@@ -4762,7 +4762,7 @@ translate spanish d11c_43573d2b:
 translate spanish d11c_51d0e646:
 
     # As "Hey! I heard that!"
-    As "¡Ey! ¡He oído eso!"
+    As "¡Eh! ¡He oído eso!"
 
 # game/scripts/day11.rpy:2036
 translate spanish d11c_03aa9978:
@@ -5104,7 +5104,7 @@ translate spanish re_d11c19_679f6963:
 translate spanish re_d11c19_2202868b:
 
     # Gen "HEY! What are you-"
-    Gen "¡Ey! ¿Qué estás...?"
+    Gen "¡Eh! ¿Qué estás...?"
 
 # game/scripts/day11.rpy:2159
 translate spanish re_d11c19_70cde3f7:
@@ -5332,7 +5332,7 @@ translate spanish re_d11c19_16aef9b2:
 translate spanish re_d11c19_5c5be9bb:
 
     # Zi "Damn..."
-    Zi "Maldita sea..."
+    Zi "Joder..."
 
 # game/scripts/day11.rpy:2233
 translate spanish re_d11c19_679f6963_2:
@@ -5536,7 +5536,7 @@ translate spanish re_d11c19_3a677cc2:
 translate spanish re_d11c19_8593a93f:
 
     # Z "{i}*grunts*"
-    Z "{i}*gruñidos*"
+    Z "{i}*gruñidos*{/i}"
 
 # game/scripts/day11.rpy:2315
 translate spanish re_d11c19_68ee9584:
@@ -5758,7 +5758,7 @@ translate spanish re_d11c19_09f193b6:
 translate spanish re_d11c19_8d1ff2f6:
 
     # As "{i}*slurp*"
-    As "{i}*chupa*{/i}"
+    As "{i}*chupada*{/i}"
 
 # game/scripts/day11.rpy:2391
 translate spanish re_d11c19_8bb33811:
@@ -6010,7 +6010,7 @@ translate spanish d11c48_14a42858:
 translate spanish d11c48_32fad94c:
 
     # Gen "{i}*muffled whimping*"
-    "Una vez terminados los espectáculos, los Asaltantes volvieron a sus tareas cotidianas."
+    Gen "{i}*lloriqueo apagado*{/i}"
 
 # game/scripts/day11.rpy:2506
 translate spanish d11c48_683c0152:
@@ -6070,13 +6070,13 @@ translate spanish d11d_d64c032c:
 translate spanish d11d_d0dbf8a8:
 
     # Z "Hey, wife."
-    Z "Ey, esposa."
+    Z "Hola, esposa."
 
 # game/scripts/day11.rpy:2547
 translate spanish d11d_48608a40:
 
     # W "Hey, husband."
-    W "Ey, marido."
+    W "Hola, marido."
 
 # game/scripts/day11.rpy:2550
 translate spanish d11d_4851f596:
@@ -7402,7 +7402,7 @@ translate spanish d11b42_421790ee:
 translate spanish d11b42_1d80436f:
 
     # Z "Hey, Kateryna."
-    Z "Ey, Kateryna."
+    Z "Oye, Kateryna."
 
 # game/scripts/day11.rpy:3126
 translate spanish d11b42_e5c23f1a:
@@ -7444,7 +7444,7 @@ translate spanish d11b42_ca00a25b:
 translate spanish d11b42_2d31e740:
 
     # W "Hey! What are you doing..."
-    W "¡Ey! ¿Qué estás haciendo..."
+    W "¡Eh! ¿Qué estás haciendo...?"
 
 # game/scripts/day11.rpy:3144
 translate spanish d11b42_e548255f:
@@ -7498,7 +7498,7 @@ translate spanish d11b42_770e33b5:
 translate spanish d11b42_783c3a0d:
 
     # A "Hey, I'm talking to you. What are you looking at?"
-    A "Ey, estoy hablando contigo. ¿Qué estás mirando?"
+    A "Oye, estoy hablando contigo. ¿Qué estás mirando?"
 
 # game/scripts/day11.rpy:3163
 translate spanish d11b42_1fb81b64:
@@ -7534,7 +7534,7 @@ translate spanish d11b42_83b7a7eb_2:
 translate spanish d11b42_c509c110:
 
     # Z "Hey, Kat."
-    Z "Ey, Kat."
+    Z "Oye, Kat."
 
 # game/scripts/day11.rpy:3177
 translate spanish d11b42_f3acbea5:
@@ -8752,7 +8752,7 @@ translate spanish d11e_cum_kateryna_ad056c44:
 translate spanish d11e_cum_kateryna_5192f5e7:
 
     # Z "{i}*grunt*"
-    Z "{i}*gruñidos*"
+    Z "{i}*gruñido*{/i}"
 
 # game/scripts/day11.rpy:3757
 translate spanish d11e_cum_kateryna_2a876757:
@@ -9046,7 +9046,7 @@ translate spanish d11e_sex_kateryna_ain_75a154d5:
 translate spanish d11e_sex_kateryna_ain_7b8e874d:
 
     # A "Fhe's verhy... whet... {i}*slurp*"
-    A "Estra mruy mrojada... {i}*chupa*"
+    A "Estra mruy mrojada... {i}*chupada*{/i}"
 
 # game/scripts/day11.rpy:3870
 translate spanish d11e_sex_kateryna_ain_a2f20ef9:
@@ -9136,7 +9136,7 @@ translate spanish d11e_sex_kateryna_ain_16a88e43:
 translate spanish d11e_sex_kateryna_ain_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupa*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/day11.rpy:3903
 translate spanish d11e_sex_kateryna_ain_32c839a7:
@@ -9196,7 +9196,7 @@ translate spanish d11e_sex_kateryna_ain_continue_bbc166ff:
 translate spanish d11e_sex_kateryna_ain_continue_217fbd20:
 
     # A "Yesh, dad... {i}*slurp*"
-    A "Shi, prapá... {i}*chupa*"
+    A "Shi, prapá... {i}*chupada*{/i}"
 
 # game/scripts/day11.rpy:3928
 translate spanish d11e_sex_kateryna_ain_continue_e6b3cce2:
@@ -9208,7 +9208,7 @@ translate spanish d11e_sex_kateryna_ain_continue_e6b3cce2:
 translate spanish d11e_sex_kateryna_ain_continue_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupa*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/day11.rpy:3933
 translate spanish d11e_sex_kateryna_ain_continue_8eab81e4:
@@ -9346,7 +9346,7 @@ translate spanish d11e_cum_kateryna_ain_e156dcdd:
 translate spanish d11e_cum_kateryna_ain_e3aedcc7:
 
     # Z "Damn..."
-    Z "Maldita sea..."
+    Z "Joder..."
 
 # game/scripts/day11.rpy:3981
 translate spanish d11e_cum_kateryna_ain_a70637ae:
@@ -9406,7 +9406,7 @@ translate spanish d11e_cum_kateryna_ain_c96f383e:
 translate spanish d11e_cum_kateryna_ain_ef974183:
 
     # Ka "{i}*gulp*"
-    Ka "{i}*tragando*"
+    Ka "{i}*traga*{/i}"
 
 # game/scripts/day11.rpy:4001
 translate spanish d11e_cum_kateryna_ain_83b7a7eb:
@@ -9424,7 +9424,7 @@ translate spanish d11e_cum_kateryna_ain_c2940f1f:
 translate spanish d11e_cum_kateryna_ain_f216d543:
 
     # A "{i}*slurp*{/i} Shwe's ghood!"
-    A "{i}*chupa*{/i} ¡Ehlla es buen-mha!"
+    A "{i}*chupada*{/i} ¡Ehlla es buen-mha!"
 
 # game/scripts/day11.rpy:4006
 translate spanish d11e_cum_kateryna_ain_5fe59d0c:
@@ -9478,7 +9478,7 @@ translate spanish d11e_cum_kateryna_ain_d8654138:
 translate spanish d11e_cum_kateryna_ain_74cbba0a:
 
     # A "{i}*gulp*"
-    A "{i}*tragando*"
+    A "{i}*traga*{/i}"
 
 # game/scripts/day11.rpy:4030
 translate spanish d11e_cum_kateryna_ain_e30eae78:
@@ -9502,7 +9502,7 @@ translate spanish d11e_cum_kateryna_ain_1671df94:
 translate spanish d11e_cum_kateryna_ain_6a11365d:
 
     # Z "Hey, Igor. Let's swap. My [persistent.da] for my wife."
-    Z "Ey, Igor. Intercambiemos. Mi [persistent.da] por mi mujer."
+    Z "Oye, Igor. Intercambiemos. Mi [persistent.da] por mi mujer."
 
 # game/scripts/day11.rpy:4045
 translate spanish d11e_cum_kateryna_ain_e496de4b:
@@ -9514,7 +9514,7 @@ translate spanish d11e_cum_kateryna_ain_e496de4b:
 translate spanish d11e_cum_kateryna_ain_93bc9fda:
 
     # Z "Hey, Igor. will you take care of my [persistent.da] also?"
-    Z "Ey, Igor. ¿te encargarás también de mi [persistent.da]?"
+    Z "Oye, Igor. ¿Te encargarás también de mi [persistent.da]?"
 
 # game/scripts/day11.rpy:4053
 translate spanish d11e_cum_kateryna_ain_a2a7b84a:
@@ -9526,7 +9526,7 @@ translate spanish d11e_cum_kateryna_ain_a2a7b84a:
 translate spanish d11e_cum_kateryna_ain_3ed697ea:
 
     # Z "Hey, [W]! Where's my wife?"
-    Z "¡Ey, [W]! ¿Dónde está mi mujer?"
+    Z "¡Oye, [W]! ¿Dónde está mi mujer?"
 
 # game/scripts/day11.rpy:4060
 translate spanish d11e_cum_kateryna_ain_99e952e6:
@@ -9556,7 +9556,7 @@ translate spanish d11e_cum_kateryna_ain_28313d83:
 translate spanish d11e_cum_kateryna_ain_f1761e44:
 
     # A "{i}*slurp*"
-    A "{i}*chupa*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/day11.rpy:4067
 translate spanish d11e_cum_kateryna_ain_dd1c277c:
@@ -9946,7 +9946,7 @@ translate spanish d11e_cum_kateryna_zahra_726093b6_1:
 translate spanish d11e_cum_kateryna_zahra_e9193714:
 
     # Z "Hey, Igor. Why don't you send my [persistent.da] to me? [W] will join you instead."
-    Z "Ey, Igor. ¿Por qué no me envías a mi [persistent.da]? [W] se unirá a ti en su lugar."
+    Z "Oye, Igor. ¿Por qué no me envías a mi [persistent.da]? [W] se unirá a ti en su lugar."
 
 # game/scripts/day11.rpy:4219
 translate spanish d11e_cum_kateryna_zahra_0a058bb5:
@@ -9964,7 +9964,7 @@ translate spanish d11e_cum_kateryna_zahra_057b1d20:
 translate spanish d11e_cum_kateryna_zahra_fa536251:
 
     # Z "Hey, kid. Let's get back over to the counter. I'm done here."
-    Z "Ey, muchaha. Volvamos al mostrador. Yo ya he terminado aquí."
+    Z "Oye, muchacha. Volvamos al mostrador. Yo ya he terminado aquí."
 
 # game/scripts/day11.rpy:4226
 translate spanish d11e_cum_kateryna_zahra_22859b44:
@@ -9976,7 +9976,7 @@ translate spanish d11e_cum_kateryna_zahra_22859b44:
 translate spanish d11e_cum_kateryna_zahra_72bd92cc:
 
     # Z "Hey, Igor. Do you think you can handle my wife also?"
-    Z "Ey, Igor. ¿Crees que puedes ocuparte también de mi mujer?"
+    Z "Oye, Igor. ¿Crees que puedes ocuparte también de mi mujer?"
 
 # game/scripts/day11.rpy:4234
 translate spanish d11e_cum_kateryna_zahra_4042ec22:
@@ -9994,7 +9994,7 @@ translate spanish d11e_cum_kateryna_zahra_057b1d20_1:
 translate spanish d11e_cum_kateryna_zahra_fa536251_1:
 
     # Z "Hey, kid. Let's get back over to the counter. I'm done here."
-    Z "Ey, muchaha. Volvamos al mostrador. Yo ya he terminado aquí."
+    Z "Oye, muchacha. Volvamos al mostrador. Yo ya he terminado aquí."
 
 # game/scripts/day11.rpy:4241
 translate spanish d11e_cum_kateryna_zahra_22859b44_1:
@@ -10132,7 +10132,7 @@ translate spanish d11e_cum_igor_ain_6a0ddb8f:
 translate spanish d11e_cum_igor_ain_2c12c027:
 
     # Z "Hey, Igor. How's my [persistent.da] doing? Is she being a good girl?"
-    Z "Ey, Igor. ¿Cómo está mi [persistent.da]? ¿Se está portando bien?"
+    Z "Oye, Igor. ¿Cómo está mi [persistent.da]? ¿Se está portando bien?"
 
 # game/scripts/day11.rpy:4292
 translate spanish d11e_cum_igor_ain_6a8cec59:
@@ -10210,7 +10210,7 @@ translate spanish d11e_cum_igor_ain_d91e947c:
 translate spanish d11e_cum_igor_ain_65bb08cf:
 
     # Ig "Hey, Miss [A]. You are so quiet now?"
-    Ig "Ey, señorita [A]. ¿Ahora estás más tranquila?"
+    Ig "Oye, señorita [A]. ¿Ahora estás más tranquila?"
 
 # game/scripts/day11.rpy:4322
 translate spanish d11e_cum_igor_ain_7c92a0c8:
@@ -10306,7 +10306,7 @@ translate spanish d11e_cum_igor_ain_afb0b3c7:
 translate spanish d11e_cum_igor_ain_d39c1744:
 
     # Ig "Hey, Miss [A]. Are you okay?"
-    Ig "Ey, señorita [A]. ¿Estás bien?"
+    Ig "Oye, señorita [A]. ¿Estás bien?"
 
 # game/scripts/day11.rpy:4355
 translate spanish d11e_cum_igor_ain_10dbbff4:
@@ -10438,7 +10438,7 @@ translate spanish d11e_cum_igor_zahra_d1ce2a03:
 translate spanish d11e_cum_igor_zahra_ab3cc98d:
 
     # Ig "{i}*grunts*"
-    Ig "{i}*gruñidos*"
+    Ig "{i}*gruñidos*{/i}"
 
 # game/scripts/day11.rpy:4403
 translate spanish d11e_cum_igor_zahra_577dce1e:
@@ -10510,7 +10510,7 @@ translate spanish d11e_cum_igor_zahra_c556c039:
 translate spanish d11e_sex_igor_both_778ca55f:
 
     # "{i}*slurp*"
-    "{i}*chupa*{/i}"
+    "{i}*chupada*{/i}"
 
 # game/scripts/day11.rpy:4429
 translate spanish d11e_sex_igor_both_a2b28c78:
@@ -10552,7 +10552,7 @@ translate spanish d11e_sex_igor_both_3d499fc3:
 translate spanish d11e_sex_igor_both_778ca55f_1:
 
     # "{i}*slurp*"
-    "{i}*chupa*{/i}"
+    "{i}*chupada*{/i}"
 
 # game/scripts/day11.rpy:4442
 translate spanish d11e_sex_igor_both_dd91c4a9:
@@ -10654,7 +10654,7 @@ translate spanish d11e_cum_igor_both_13606553:
 translate spanish d11e_cum_igor_both_775a2672:
 
     # Ig "{i}*sucking*"
-    Ig "{i}*chupando*"
+    Ig "{i}*chupando*{/i}"
 
 # game/scripts/day11.rpy:4484
 translate spanish d11e_cum_igor_both_f1a8bed4:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/day10.rpy:6
 translate spanish d10a_b15ef64b:
@@ -58,7 +58,7 @@ translate spanish d10a_5bcd019a:
 translate spanish d10a_9ee8ac26:
 
     # Fa "I got us into this mess, so if I can get in there and check out the place again, just me, I'd sneak in and out with less risk for everybody."
-    Fa "Yo nos metí en este lío, así que si puedo entrar y revisar el lugar de nuevo, sólo yo, entraría y saldría con menos riesgo para todos."
+    Fa "Yo nos metí en este lío, así que, si entro sola a revisar el lugar de nuevo, podré entrar y salir con menos riesgo para todos."
 
 # game/scripts/day10.rpy:29
 translate spanish d10a_2f0f7b9e:
@@ -112,13 +112,13 @@ translate spanish d10a_b74be945:
 translate spanish d10a_7924b173:
 
     # Fa "I am not happy sending anyone, other than myself, in there on a solo mission. I'd rather engage our full forces, than losing someone else."
-    Fa "No me hace ninguna gracia enviar a nadie más que a mí en una misión en solitario. Prefiero movilizar a todas nuestras fuerzas antes que perder a otra persona."
+    Fa "No me gusta enviar a nadie, aparte de mí, en una misión en solitario. Prefiero comprometer a todas nuestras fuerzas, que perder a alguien más."
 
 # game/scripts/day10.rpy:48
 translate spanish d10a_0cf2bc2d:
 
     # Z "How about this instead: send just me in there, and give me Pepper for backup, in case I or anyone else needs patching up."
-    Z "¿And si hacemos esto? Envíame solo a mí y dame a Pepper de refuerzo por si yo o alguien más necesita que lo remienden."
+    Z "¿Qué te parece esto? Envíame solo a mí y dame a Pepper como apoyo, por si yo o alguien más necesita atención médica."
 
 # game/scripts/day10.rpy:49
 translate spanish d10a_bb318454:
@@ -136,7 +136,7 @@ translate spanish d10a_7a5166c1:
 translate spanish d10a_3cf7bfdd:
 
     # Fa "Fuck no! She's our main and best scientist. I'm not sending her in the field again, not after what happened last time."
-    Fa "¡Ni de coña! Es nuestra científica principal y la mejor que tenemos. No pienso volver a enviarla al terreno, no después de lo que pasó la última vez."
+    Fa "¡Ni de coña! Es nuestra principal y mejor científica. No voy a enviarla de nuevo al campo, no después de lo que pasó la última vez."
 
 # game/scripts/day10.rpy:56
 translate spanish d10a_ad47992f:
@@ -172,13 +172,13 @@ translate spanish d10a_d872c211:
 translate spanish d10a_49445ef2:
 
     # Z "We can't afford another fuck up. If our, my, survival depends on our ability to patch up the Queen and be of any assistance to them, Pepper is our best chance."
-    Z "No podemos permitirnos otra puta cagada. Si nuestra supervivencia, o la mía, depende de que podamos remendar a la Reina y servirles de ayuda, Pepper es nuestra mejor opción."
+    Z "No podemos permitirnos otra cagada. Si nuestra, mi, supervivencia depende de nuestra capacidad para curar a la Reina y serles de ayuda, Pepper es nuestra mejor oportunidad."
 
 # game/scripts/day10.rpy:72
 translate spanish d10a_ee5cf3aa:
 
     # Fa "{i}*Sigh*{/i}...Okay then. You have a point, all things considered."
-    Fa "{i}*suspiro*{/i}... De acuerdo entonces. Tienes razón, todo sea dicho."
+    Fa "{i}*suspiro*{/i}... De acuerdo. Visto así, tienes razón."
 
 # game/scripts/day10.rpy:73
 translate spanish d10a_c2b67e64:
@@ -208,7 +208,7 @@ translate spanish d10a_92c3e642:
 translate spanish d10a_d183c3d6:
 
     # Z "It's what her mother wanted in the first place, after all. That should give us some credit with her."
-    Z "Después de todo, es lo que su madre quería en primer lugar. Eso debería darnos algo de crédito con ella."
+    Z "Después de todo, eso es lo que su madre quería desde el principio. Debería hacernos ganar algunos puntos con ella."
 
 # game/scripts/day10.rpy:84
 translate spanish d10a_55e1729c:
@@ -232,7 +232,7 @@ translate spanish d10a_fd4b54b1:
 translate spanish d10a_aaca8195:
 
     # Fa "She's doing good. She's adapting well."
-    Fa "Lo está haciendo bien. Se está adaptando bien."
+    Fa "Está bien. Se está adaptando bien."
 
 # game/scripts/day10.rpy:95
 translate spanish d10a_c88b677d:
@@ -244,7 +244,7 @@ translate spanish d10a_c88b677d:
 translate spanish d10a_1f2b39c2:
 
     # Fa "She still has some of the Hive mannerisms left in her, but she's doing better, if slowly."
-    Fa "Todavía le quedan algunos de los manierismos de la Colmena, pero lo está haciendo mejor, aunque lentamente."
+    Fa "Todavía conserva algunos gestos propios de la Colmena, pero va mejorando, aunque poco a poco."
 
 # game/scripts/day10.rpy:101
 translate spanish d10a_4c9127c3:
@@ -268,7 +268,7 @@ translate spanish d10a_1b76f1b4:
 translate spanish d10a_158555e0:
 
     # Fa "Some of the other girls are still freaked out about her, given recent events, but they're trying to hide it."
-    Fa "Algunas de las otras chicas aún están cagadas por ella, dados los últimos acontecimientos, pero intentan disimularlo."
+    Fa "Algunas de las otras chicas aún están asustadas por ella, dados los recientes acontecimientos, pero intentan disimularlo."
 
 # game/scripts/day10.rpy:109
 translate spanish d10a_22efbf16:
@@ -298,7 +298,7 @@ translate spanish d10a_548c5276:
 translate spanish d10a_7aa09704:
 
     # Z "Good point. What if she's in favour of going there again? Will you join us?"
-    Z "Buen punto de vista. ¿Y si ella está a favor de volver a ir allí? ¿Se unirá a nosotros?"
+    Z "Buena observación. ¿Y si ella quiere volver allí? ¿Te unirás a nosotros?"
 
 # game/scripts/day10.rpy:122
 translate spanish d10a_ac48c7a8:
@@ -328,7 +328,7 @@ translate spanish d10a_29378c26:
 translate spanish d10a_65521bac:
 
     # Z "You are what keeps this place together, so it should be me. I will go. I've dealt with all kinds of weird situations before."
-    Z "Tú eres lo que mantiene este lugar unido, así que debería ser yo. Yo iré. He lidiado con todo tipo de situaciones extrañas antes."
+    Z "Tú eres quien mantiene este lugar unido, así que debería ir yo. Iré. Ya he lidiado antes con todo tipo de situaciones extrañas."
 
 # game/scripts/day10.rpy:133
 translate spanish d10a_7ead974b:
@@ -382,7 +382,7 @@ translate spanish d10a6_12f61775:
 translate spanish d10a6_43fca45c:
 
     # Re "Hey, you look troubled. Is everything okay?"
-    Re "Ey, pareces preocupada. ¿Va todo bien?"
+    Re "Oye, pareces preocupada. ¿Va todo bien?"
 
 # game/scripts/day10.rpy:155
 translate spanish d10a6_ff428e67:
@@ -412,7 +412,7 @@ translate spanish d10a6_62b54b60:
 translate spanish d10a6_eda8a86b:
 
     # Re "Hey [persistent.player_name]. That's your name, right?"
-    Re "Ey [persistent.player_name]. Ese es tu nombre, ¿verdad?"
+    Re "Oye, [persistent.player_name]. Ese es tu nombre, ¿verdad?"
 
 # game/scripts/day10.rpy:174
 translate spanish d10a6_7919ea31:
@@ -478,7 +478,7 @@ translate spanish d10a6_e7daee0d:
 translate spanish d10a6_ffc0067a:
 
     # Re "She has changed since you convinced her to turn a new leaf, [persistent.player_name]."
-    Re "Ha cambiado mucho desde que la convenciste para que pasara página, [persistent.player_name]."
+    Re "Ha cambiado desde que la convenciste de pasar página, [persistent.player_name]."
 
 # game/scripts/day10.rpy:199
 translate spanish d10a6_2185df9f:
@@ -526,7 +526,7 @@ translate spanish d10a6_2dd84c77:
 translate spanish d10a6_fe4e9913:
 
     # Z "I took you back because I did not want you to come to harm in the fight."
-    Z "Te traje de vuelta porque no quería que sufrieras daños en la pelea."
+    Z "Te traje de vuelta porque no quería que sufrieras daño durante la lucha."
 
 # game/scripts/day10.rpy:221
 translate spanish d10a6_2223fcf9:
@@ -1036,7 +1036,7 @@ translate spanish d10a27_7d1866a4:
 translate spanish d10a27_ea413124:
 
     # Z "Hey, I think I heard something from upstairs."
-    Z "Ey, creo que he oído algo desde arriba."
+    Z "Oye, creo que he oído algo arriba."
 
 # game/scripts/day10.rpy:399
 translate spanish d10a27_083e927c:
@@ -1090,7 +1090,7 @@ translate spanish d10a27_5ab3574d:
 translate spanish d10a27_78fdc4c8:
 
     # Zt "Is that... Keen?"
-    Zt "¿Esa es... Keen?"
+    Zt "Es eso...  ¿Keen?"
 
 # game/scripts/day10.rpy:432
 translate spanish d10a27_8945326d:
@@ -1186,7 +1186,7 @@ translate spanish d10a63_32de56cd:
 translate spanish d10a63_62792fcb:
 
     # Mant "No more darkness. The Hive makes us blind to the outside, and blind to ourselves. I have seen what's out there."
-    Mant "Sin más oscuridad. La Colmena nos hace ciegos al exterior y ciegos a nosotros mismos. He visto lo que hay allá afuera."
+    Mant "No más oscuridad. La Colmena nos ciega ante el exterior y ante nosotros mismos. He visto lo que hay ahí fuera."
 
 # game/scripts/day10.rpy:470
 translate spanish d10a63_82f4c751:
@@ -1336,7 +1336,7 @@ translate spanish d10a86_090c082b:
 translate spanish d10a86_5117dd44:
 
     # Fa "Hey, Mantis... are you feeling better?"
-    Fa "Ey, Mantis... ¿te encuentras mejor?"
+    Fa "Oye, Mantis... ¿te encuentras mejor?"
 
 # game/scripts/day10.rpy:550
 translate spanish d10a86_f6464471:
@@ -1372,7 +1372,7 @@ translate spanish d10a86_394583f8_1:
 translate spanish d10a86_ae6fb2f8:
 
     # Fa "Hey, I'm talking to you."
-    Fa "Ey, estoy hablando contigo."
+    Fa "Oye, estoy hablando contigo."
 
 # game/scripts/day10.rpy:566
 translate spanish d10a86_cb8cbf59:
@@ -1396,7 +1396,7 @@ translate spanish d10a86_b5e2d3ec:
 translate spanish d10a86_e2bdebbf:
 
     # Fa "We all went through some shit in here, and I know there's no one who can replace your mother, but you have to stop shutting off like that."
-    Fa "Todos hemos pasado por mucha mierda aquí dentro, y sé que nadie va a sustituir a tu madre, pero tienes que dejar de cerrarte en banda de esa manera."
+    Fa "Todos aquí hemos pasado por una mierda, y sé que no hay nadie que pueda sustituir a tu madre, pero tienes que dejar de cerrarte así."
 
 # game/scripts/day10.rpy:576
 translate spanish d10a86_ac39d443:
@@ -1504,7 +1504,7 @@ translate spanish re_d10a86_f8a747ee:
 translate spanish re_d10a86_10377398:
 
     # Fa "{i}*kissing*"
-    Fa "{i}*besando*{/i}"
+    Fa "{i}*beso*{/i}"
 
 # game/scripts/day10.rpy:626
 translate spanish re_d10a86_91ac2794:
@@ -1516,7 +1516,7 @@ translate spanish re_d10a86_91ac2794:
 translate spanish re_d10a86_2265dc2d:
 
     # Mant "{i}*kissing*"
-    Mant "{i}*besando*{/i}"
+    Mant "{i}*beso*{/i}"
 
 # game/scripts/day10.rpy:630
 translate spanish re_d10a86_043211fc:
@@ -1528,13 +1528,13 @@ translate spanish re_d10a86_043211fc:
 translate spanish re_d10a86_95324fe4:
 
     # Mant "...nh.. {i}*kissing*"
-    Mant "... nh.. {i}*besando*{/i}"
+    Mant "... nh.. {i}*beso*"
 
 # game/scripts/day10.rpy:636
 translate spanish re_d10a86_be59c349:
 
     # Mant "Ha...!"
-    Mant "¡Ha...!"
+    Mant "¡Jajaja...!"
 
 # game/scripts/day10.rpy:637
 translate spanish re_d10a86_3de6d4c4:
@@ -1582,7 +1582,7 @@ translate spanish re_d10a86_e928c4d8:
 translate spanish re_d10a86_10377398_1:
 
     # Fa "{i}*kissing*"
-    Fa "{i}*besando*{/i}"
+    Fa "{i}*beso*{/i}"
 
 # game/scripts/day10.rpy:651
 translate spanish re_d10a86_701f97f6:
@@ -1600,7 +1600,7 @@ translate spanish re_d10a86_651f5c8a:
 translate spanish re_d10a86_cc7cc83e:
 
     # Zt "Fuck that's hot. Is this happening with all the girls around here?"
-    Zt "Joder, cómo pone esto. ¿Pasa esto con todas las tías de por aquí?"
+    Zt "Joder, qué caliente. ¿Esto ocurre con todas las chicas de por aquí?"
 
 # game/scripts/day10.rpy:656
 translate spanish re_d10a86_9c3073ad:
@@ -1624,7 +1624,7 @@ translate spanish re_d10a86_bba36b4b:
 translate spanish re_d10a86_ed7b5ba9:
 
     # Mantw "{i}*kissing*"
-    Mantw "{i}*besando*{/i}"
+    Mantw "{i}*beso*{/i}"
 
 # game/scripts/day10.rpy:666
 translate spanish re_d10a86_ef2169fc:
@@ -1672,7 +1672,7 @@ translate spanish re_d10a86_5a5bc811:
 translate spanish re_d10a86_778ca55f:
 
     # "{i}*slurp*"
-    "{i}*chupa*{/i}"
+    "{i}*chupada*{/i}"
 
 # game/scripts/day10.rpy:686
 translate spanish re_d10a86_451ad1ca:
@@ -1786,7 +1786,7 @@ translate spanish re_d10a86_1f7778a8_1:
 translate spanish re_d10a86_884bfa16:
 
     # Faw "Hey... why don't you show Mantis a good time with this... hm?"
-    Faw "Ey... ¿por qué no le haces pasar un buen rato a Mantis con esto... hm?"
+    Faw "Oye... ¿por qué no haces que Mantis se lo pase bien con esto... hm?"
 
 # game/scripts/day10.rpy:737
 translate spanish re_d10a86_c739a925:
@@ -1858,7 +1858,7 @@ translate spanish d10a131_b49d9b94:
 translate spanish d10a131_48cf648d:
 
     # Zt "There's no turning back now, girl."
-    Zt "Ya no hay marcha atrás, preciosa."
+    Zt "Ya no hay vuelta atrás, chica."
 
 # game/scripts/day10.rpy:774
 translate spanish d10a131_90f4c3b9:
@@ -1900,7 +1900,7 @@ translate spanish d10a131_854b3858:
 translate spanish d10a131_fd281698:
 
     # "Despite her slim figure, you went in with ease... with her pussy wrapping fully around your dick..."
-    "A pesar de su delgada silueta, entraste con total facilidad... Su coño envolvía por completo tu polla..."
+    "A pesar de su delgada figura, entraste con facilidad... con su coño envolviendo completamente tu polla..."
 
 # game/scripts/day10.rpy:787
 translate spanish d10a131_f47395e7:
@@ -1918,7 +1918,7 @@ translate spanish d10a131_b8674335:
 translate spanish d10a131_59630d3e:
 
     # Faw "[persistent.player_name]... flip her over for me, will you..."
-    Faw "[persistent.player_name]... dale la vuelta por mí, ¿quieres?"
+    Faw "[persistent.player_name]... dala la vuelta para mí, ¿quieres?"
 
 # game/scripts/day10.rpy:792
 translate spanish d10a131_8b481163:
@@ -2116,7 +2116,7 @@ translate spanish d10a131_1830fc45:
 translate spanish d10a131_7998b89c:
 
     # Faw "How does it feel to get a handjob from two different hands?"
-    Faw "¿Qué se siente al recibir una paja de dos manos distintas?"
+    Faw "¿Qué se siente al recibir una paja de dos manos diferentes?"
 
 # game/scripts/day10.rpy:853
 translate spanish d10a131_96b665b1:
@@ -2242,7 +2242,7 @@ translate spanish d10a30_9fb71558:
 translate spanish d10a30_056aff14:
 
     # Pe "I'm not exactly \"Keen\" on dying, if you get my saying..."
-    Pe "No soy exactamente  \"Keen\" en morir, si entiendes lo que te digo..."
+    Pe "No estoy exactamente deseosa de correr la misma suerte que Keen, si me entiendes..."
 
 # game/scripts/day10.rpy:917
 translate spanish d10a30_47074b9d:
@@ -2416,7 +2416,7 @@ translate spanish d10a30_8b9482ce:
 translate spanish d10a30_eaa82c7c:
 
     # Z "You think we came to harm you? Look what you did to her..."
-    Z "¿Crees que hemos venido a hacerte daño? Mira lo que le has hecho..."
+    Z "¿Crees que hemos venido a hacerte daño? Mira lo que la has hecho..."
 
 # game/scripts/day10.rpy:996
 translate spanish d10a30_1acef1ff:
@@ -2974,7 +2974,7 @@ translate spanish d10a197_5cd053a3_1:
 translate spanish d10a197_fbb7f69b:
 
     # HG "{i}*sucking*"
-    HG "{i}*chupando*"
+    HG "{i}*chupando*{/i}"
 
 # game/scripts/day10.rpy:1213
 translate spanish d10a197_cf0d46b5:
@@ -3118,7 +3118,7 @@ translate spanish d10a197_49e07fe5:
 translate spanish d10a197_b2029911:
 
     # "The cold steel is a sudden reminder of the word blade that was dropped just now. The daughter holds the blade to your neck, with enough pressure for you to feel the edge."
-    "El frío acero te recuerda de golpe la palabra hoja que acaba de soltar. Su hija te apoya el filo contra el cuello con la fuerza justa para que sientas el corte."
+    "El frío acero es un repentino recuerdo de la hoja de las palabras que arrojó hace unos instantes. La hija sostiene la hoja contra tu cuello, con la suficiente presión para que sientas el filo."
 
 # game/scripts/day10.rpy:1263
 translate spanish d10a197_e5ff22cd:
@@ -3142,7 +3142,7 @@ translate spanish d10a197_43060bd0:
 translate spanish d10a197_5861c213:
 
     # Zt "The fucking blade is uncall-"
-    Zt "La puta hoja no venía a cue—"
+    Zt "La jodida hoja es inalcanzable..."
 
 # game/scripts/day10.rpy:1273
 translate spanish d10a197_7d1866a4:
@@ -3244,7 +3244,7 @@ translate spanish d10a197_5f1a88e0:
 translate spanish d10a197_c37464c8:
 
     # "As she gets up completely, you see part of your cum flowing out of her pussy..."
-    "Cuando se levanta del todo, ves que parte de tu semen gotea de su coño..."
+    "Cuando se levanta del todo, ves que parte de tu semen sale de su coño..."
 
 # game/scripts/day10.rpy:1303
 translate spanish d10a197_f552bb14:
@@ -3286,7 +3286,7 @@ translate spanish d10a197_7d7f99bb:
 translate spanish d10a197_9d04a658:
 
     # Z "Hey, wait! Don't leave yet!"
-    Z "¡Ey, espera! ¡No te vayas todavía!"
+    Z "¡Eh, espera! ¡No te vayas todavía!"
 
 # game/scripts/day10.rpy:1323
 translate spanish d10a197_4fdb2a4a:
@@ -3400,7 +3400,7 @@ translate spanish d10a81x_2e3987c0:
 translate spanish d10a81x_cfd1498b:
 
     # Pe "Hey, [persistent.player_name]."
-    Pe "Ey, [persistent.player_name]."
+    Pe "Oye, [persistent.player_name]."
 
 # game/scripts/day10.rpy:1413
 translate spanish d10a81x_0ea43651:
@@ -3460,7 +3460,7 @@ translate spanish d10a81x2_2e3987c0:
 translate spanish d10a81x2_cfd1498b:
 
     # Pe "Hey, [persistent.player_name]."
-    Pe "Ey, [persistent.player_name]."
+    Pe "Oye, [persistent.player_name]."
 
 # game/scripts/day10.rpy:1446
 translate spanish d10a81x2_0ea43651:
@@ -3526,7 +3526,7 @@ translate spanish d10a81_2e3987c0:
 translate spanish d10a81_cfd1498b:
 
     # Pe "Hey, [persistent.player_name]."
-    Pe "Ey, [persistent.player_name]."
+    Pe "Oye, [persistent.player_name]."
 
 # game/scripts/day10.rpy:1482
 translate spanish d10a81_0ea43651:
@@ -3790,7 +3790,7 @@ translate spanish d10b_ffb42ed7:
 translate spanish d10b_86e991b3:
 
     # SG "Good. Now, you don't exactly look like one of these wastelanders that come here for work."
-    SG "Bien. No pareces precisamente uno de esos parias del páramo que vienen buscando curro."
+    SG "Bien. Ahora, no pareces exactamente uno de esos baldíos que vienen aquí a trabajar."
 
 # game/scripts/day10.rpy:1671
 translate spanish d10b_089af0ab:
@@ -3898,7 +3898,7 @@ translate spanish d10b_1d81ffef:
 translate spanish d10b_50dda02e:
 
     # SG2 "Hey, asshole. You know damn well why some people have to wear these things. Acting like you've never seen that..."
-    SG2 "Ey, gilipollas. Sabes muy bien por qué algunas personas tienen que llevar estas cosas. Actúa como si nunca hubieras visto esto..."
+    SG2 "Oye, gilipollas. Sabes muy bien por qué algunas personas tienen que llevar estas cosas. Actúas como si nunca hubieras visto algo así..."
 
 # game/scripts/day10.rpy:1714
 translate spanish d10b_50b02264:
@@ -4090,7 +4090,7 @@ translate spanish d10b17_e7e15de7:
 translate spanish d10b17_232bb9b5:
 
     # C "Hey, you there!"
-    C "¡Ey, tú!"
+    C "¡Eh, tú!"
 
 # game/scripts/day10.rpy:1790
 translate spanish d10b17_311a9674:
@@ -4150,7 +4150,7 @@ translate spanish d10b17_5eeff57d:
 translate spanish d10b17_222ab108:
 
     # Z "{i}*chuckles*{/i} No need to worry about that."
-    Z "{i}*risilla* no hay que preocuparse por eso."
+    Z "{i}*risilla*{/i} No hay por qué preocuparse por eso."
 
 # game/scripts/day10.rpy:1816
 translate spanish d10b17_bd8759cf:
@@ -4162,13 +4162,13 @@ translate spanish d10b17_bd8759cf:
 translate spanish d10b17_45e94cdf:
 
     # Z "We can have a chat later about that. I will pay your boss a visit first."
-    Z "Podemos tener una charla más tarde sobre eso. Antes haré una visita a tu jefe."
+    Z "Podemos hablar de eso más tarde. Primero iré a ver a tu jefe."
 
 # game/scripts/day10.rpy:1822
 translate spanish d10b17_777cad34:
 
     # C "Well then... don't let me stop you."
-    C "Pues entonces... no dejes que te detenga."
+    C "Bueno, pues... no dejes que te lo impida."
 
 # game/scripts/day10.rpy:1823
 translate spanish d10b17_031c032a:
@@ -4234,7 +4234,7 @@ translate spanish d10b34_65781c81:
 translate spanish d10b34_df4dad30:
 
     # Z "Hey, I need to see your leader. I was told you'd let me through."
-    Z "Ey, necesito ver a tu líder. Me dijeron que me dejarías pasar."
+    Z "Oye, necesito ver a tu líder. Me dijeron que me dejarías pasar."
 
 # game/scripts/day10.rpy:1858
 translate spanish d10b34_b11beb1f:
@@ -4486,7 +4486,7 @@ translate spanish d10b34_481f6c63:
 translate spanish d10b34_07c27289:
 
     # Gen "Hey now... let's give this man a chance..."
-    Gen "Ey ahora... vamos a darle una oportunidad a este hombre..."
+    Gen "Eh... vamos a darle una oportunidad a este hombre..."
 
 # game/scripts/day10.rpy:1956
 translate spanish d10b34_67319b8e:
@@ -5140,7 +5140,7 @@ translate spanish d10b80_3f64c4c6:
 translate spanish d10b80_68f60f97:
 
     # SG "Hey, Stalker!"
-    SG "¡Ey, Acechador!"
+    SG "¡Eh, Acechador!"
 
 # game/scripts/day10.rpy:2193
 translate spanish d10b80_7053cc2c:
@@ -5224,7 +5224,7 @@ translate spanish d10b80_6199de19:
 translate spanish d10b80_76277475:
 
     # SG2 "Hey, it's not your fault that he's missing the shift."
-    SG2 "Ey, no es culpa tuya que se pierda el turno."
+    SG2 "Oye, no es culpa tuya que pierda el turno."
 
 # game/scripts/day10.rpy:2223
 translate spanish d10b80_b64cf263:
@@ -5380,7 +5380,7 @@ translate spanish d10b80_3190db36:
 translate spanish d10b105_0c172790:
 
     # Ky "{i}*kissing*"
-    Ky "{i}*besando*{/i}"
+    Ky "{i}*beso*{/i}"
 
 # game/scripts/day10.rpy:2303
 translate spanish d10b105_f9a65257:
@@ -5404,7 +5404,7 @@ translate spanish d10b105_35a67ac3:
 translate spanish d10b105_687928c6:
 
     # "The only sound in the room is that of your kisses. Under your expert touch, the tough Raider leader softens, as her tongue plays with yours."
-    "El único sonido en la habitación es el de vuestros besos. Bajo tu toque experto, la dura líder de los Asaltantes se ablanda mientras su lengua juega con la tuya."
+    "El único sonido en la habitación es el de tus besos. Bajo tu toque experto, la dura líder de los Raiders se ablanda, mientras su lengua juega con la tuya."
 
 # game/scripts/day10.rpy:2311
 translate spanish d10b105_7d6b0b00:
@@ -5428,7 +5428,7 @@ translate spanish d10b105_41d48e6a:
 translate spanish d10b105_c09b8289:
 
     # Ky "Ngh... {i}*kissing*"
-    Ky "Ngh... {i}*besando*{/i}"
+    Ky "Ngh...  {i}*beso*"
 
 # game/scripts/day10.rpy:2324
 translate spanish d10b105_35a67ac3_1:
@@ -5860,7 +5860,7 @@ translate spanish settlement_medic_introduction_423efbb9:
 translate spanish settlement_medic_introduction_83f90877:
 
     # C "Yes, I used to be one of the raiders from Adira. Part of a different gang. I knew Kyra because, well... you have seen her. She does not go unnoticed."
-    C "Sí, antes era una de las Asaltantes de Adira. Formaba parte de otra banda. Conocía a Kyra porque, bueno... ya la has visto. No pasa desapercibida."
+    C "Sí, antes era una de los asaltantes de Adira. Formaba parte de otra banda. Conocí a Kyra porque, bueno... la has visto. No pasa desapercibida."
 
 # game/scripts/day10.rpy:2497
 translate spanish settlement_medic_introduction_207e3c94:
@@ -5902,7 +5902,7 @@ translate spanish settlement_medic_introduction_64fd587b:
 translate spanish settlement_medic_introduction_4c6056ac:
 
     # Z "Interesting turn of events for sure. I didn't know raiders could quit in the first place."
-    Z "Un giro interesante de los acontecimientos, sin duda. Para empezar, no sabía que los Asaltantes pudieran dejarlo."
+    Z "Un giro interesante de los acontecimientos, sin duda. En primer lugar, no sabía que los raiders podían renunciar."
 
 # game/scripts/day10.rpy:2514
 translate spanish settlement_medic_introduction_847e618e:
@@ -6010,7 +6010,7 @@ translate spanish settlement_medic_introduction_cf46ba09:
 translate spanish settlement_medic_introduction_2e421417:
 
     # Med "...and an abrasive cunt who will speak his mind on anything. Probably can't keep a secret to save his life, but still..."
-    Med "... y un puto cabrón abrasivo que dice lo que piensa sobre cualquier cosa. Probablemente no podría guardar un secreto ni aunque le fuera la vida en ello, pero aun así..."
+    Med "... y un cabrón abrasivo que dice lo que piensa sobre cualquier cosa. Probablemente no pueda guardar un secreto para salvar su vida, pero aun así..."
 
 # game/scripts/day10.rpy:2544
 translate spanish settlement_medic_introduction_64f7c299:
@@ -6040,13 +6040,13 @@ translate spanish settlement_medic_introduction_c32f7a58:
 translate spanish settlement_medic_introduction_0d3f029b:
 
     # Med "I'm just pragmatic. Kyra is a rising leader and the few chumps guarding the walls aren't going to stop her from marching in here."
-    Med "Sólo soy pragmático. Kyra es una líder en ascenso y los pocos pringados que custodian las murallas no van a impedir que entre aquí."
+    Med "Sólo soy pragmático. Kyra es una líder en ascenso y los pocos tontos que custodian las murallas no van a impedir que entre aquí."
 
 # game/scripts/day10.rpy:2557
 translate spanish settlement_medic_introduction_efbc6a3f:
 
     # Med "I'm an ex-raider, remember? I've been patching up bad guys for years."
-    Med "Soy una Asaltante retirada, ¿recuerdas? Llevo años parcheando a los malos."
+    Med "Soy una ex-raider, ¿recuerdas? Llevo años parcheando a los malos."
 
 # game/scripts/day10.rpy:2558
 translate spanish settlement_medic_introduction_95fbaefe:
@@ -6550,7 +6550,7 @@ translate spanish settlement_water_woman_eb4d07f4:
 translate spanish settlement_water_woman_6af1831e:
 
     # Z "Hey, I understand you are the person to talk to for some water?"
-    Z "Ey, tengo entendido que eres la persona con la que hay que hablar para conseguir agua."
+    Z "Oye, tengo entendido que eres la persona con la que hay que hablar para conseguir agua."
 
 # game/scripts/day10.rpy:2742
 translate spanish settlement_water_woman_4d529a49:
@@ -6880,7 +6880,7 @@ translate spanish settlement_bathtub_worker_76584ae8:
 translate spanish settlement_bathtub_worker_86903cd7:
 
     # Z "Hey, you. I need to speak with you for a moment."
-    Z "Ey, tú. Necesito hablar contigo un momento."
+    Z "Oye, tú. Necesito hablar contigo un momento."
 
 # game/scripts/day10.rpy:2861
 translate spanish settlement_bathtub_worker_545c7d77:
@@ -6898,7 +6898,7 @@ translate spanish settlement_bathtub_worker_79f2967c:
 translate spanish settlement_bathtub_worker_07b316c8:
 
     # Z "Hey, you asleep or something? I'm talking to you."
-    Z "Ey, ¿estás dormido o algo así? Te estoy hablando."
+    Z "Oye, ¿estás dormido o algo así? Te estoy hablando."
 
 # game/scripts/day10.rpy:2866
 translate spanish settlement_bathtub_worker_3702bb52:
@@ -6916,7 +6916,7 @@ translate spanish settlement_bathtub_worker_a6809480:
 translate spanish settlement_bathtub_worker_f90c8b86:
 
     # Wic "And who the fuck are you? Can't you see I'm taking a well-deserved nap?"
-    Wic "¿Y quién cojones eres tú? ¿No ves que me estoy echando una merecida siesta?"
+    Wic "¿Y quién coño eres tú? ¿No ves que me estoy echando una merecida siesta?"
 
 # game/scripts/day10.rpy:2875
 translate spanish settlement_bathtub_worker_7823983a:
@@ -6940,7 +6940,7 @@ translate spanish settlement_bathtub_worker_c880f9b4:
 translate spanish settlement_bathtub_worker_bdfdc48e:
 
     # Wic "Pah, fat lot of good am I doing. Have you seen this shithole?"
-    Wic "Pah, qué poco bien estoy haciendo. ¿Has visto este agujero de mierda?"
+    Wic "Bah, mucho bien estoy haciendo. ¿Has visto este agujero de mierda?"
 
 # game/scripts/day10.rpy:2883
 translate spanish settlement_bathtub_worker_f1cb845a:
@@ -6988,7 +6988,7 @@ translate spanish settlement_bathtub_worker_0c57f154:
 translate spanish settlement_bathtub_worker_a8a11ac2:
 
     # Wic "We are the workers, why should we live like shit when they have it good?"
-    Z "Me han dicho que eres alguien influyente y que defiendes las condiciones de los trabajadores..."
+    Wic "Somos los trabajadores, ¿por qué debemos vivir como una mierda cuando ellos lo tienen bien?"
 
 # game/scripts/day10.rpy:2899
 translate spanish settlement_bathtub_worker_958cef3c:
@@ -7450,7 +7450,7 @@ translate spanish settlement_camper_woman_5f465230:
 translate spanish settlement_camper_woman_0c003995:
 
     # Zt "If there is anything that keeps these guys going, it's going to be quality time with a settlement whore. That will keep their motivation high."
-    Zt "Si hay algo que mantiene a estos tíos en marcha, es el tiempo de calidad con una puta del asentamiento. Eso mantendrá su motivación por las nubes."
+    Zt "Si hay algo que hace que estos tipos sigan adelante, será el tiempo de calidad con una puta del asentamiento. Eso mantendrá su motivación alta."
 
 # game/scripts/day10.rpy:3078
 translate spanish settlement_camper_woman_9617feb6:
@@ -7462,7 +7462,7 @@ translate spanish settlement_camper_woman_9617feb6:
 translate spanish settlement_simp_2bb0e355:
 
     # Z "Hey, you. I've seen you before."
-    Z "Ey, tú. Te he visto antes."
+    Z "Oye, tú. Te he visto antes."
 
 # game/scripts/day10.rpy:3088
 translate spanish settlement_simp_62832d2b:
@@ -7540,7 +7540,7 @@ translate spanish settlement_simp_f41717e3:
 translate spanish settlement_simp_5ab30e30:
 
     # Zt "I might have an easier time swaying him and his friends if I play this smart."
-    Zt "Puede que me resulte más fácil convencerle a él y a sus colegas si juego mis cartas con astucia."
+    Zt "Puede que me resulte más fácil convencerle a él y a sus amigos si juego de forma inteligente."
 
 # game/scripts/day10.rpy:3119
 translate spanish settlement_simp_1705fe03:
@@ -7918,7 +7918,7 @@ translate spanish d10b143_5a70da15:
 translate spanish d10b143_82717964:
 
     # Ky "Hey, are you deaf, you idiot?"
-    Ky "Ey, ¿estás sorda, idiota?"
+    Ky "Oye, ¿estás sorda, idiota?"
 
 # game/scripts/day10.rpy:3283
 translate spanish d10b143_2235a1e1:
@@ -7930,7 +7930,7 @@ translate spanish d10b143_2235a1e1:
 translate spanish d10b143_e093b465:
 
     # As "Hey, I like it... don't be mean."
-    As "Ey, a mí me gusta... no seas mala."
+    As "Oye, me gusta... no seas mala."
 
 # game/scripts/day10.rpy:3287
 translate spanish d10b143_016a1cd7:
@@ -8032,7 +8032,7 @@ translate spanish d10b143_c4971690:
 translate spanish d10b143_e3a10de4:
 
     # Ky "Hey, Zion... everything's going as planned. You ready to go?"
-    Ky "Ey, Zion... todo va según lo previsto. ¿Estás lista para empezar?"
+    Ky "Oye, Zion... todo va según lo previsto. ¿Estás lista para empezar?"
 
 # game/scripts/day10.rpy:3320
 translate spanish d10b143_803cc4da:
@@ -8068,7 +8068,7 @@ translate spanish d10b143_99c2866f:
 translate spanish d10b143_c55f36cb:
 
     # Zi "Hey, boyfriend. You hear me?!"
-    Zi "Ey noviete. ¿Me oyes?"
+    Zi "Oye, noviete. ¿Me oyes?"
 
 # game/scripts/day10.rpy:3338
 translate spanish d10b143_fb0ef96c:
@@ -8080,7 +8080,7 @@ translate spanish d10b143_fb0ef96c:
 translate spanish d10b143_9a55f76d:
 
     # Zi "Hey!"
-    Zi "¡Ey!"
+    Zi "¡Eh!"
 
 # game/scripts/day10.rpy:3346
 translate spanish d10b143_33ddb07f:
@@ -8686,7 +8686,7 @@ translate spanish d10b208_a4490855:
 translate spanish d10b208_a7bc0549:
 
     # Ky "Hey... sis... ah..."
-    Ky "Ey...  Hermana... ah..."
+    Ky "Oye... hermana... ah..."
 
 # game/scripts/day10.rpy:3646
 translate spanish d10b208_8c23121c:
@@ -8698,7 +8698,7 @@ translate spanish d10b208_8c23121c:
 translate spanish d10b208_422786dd:
 
     # As "Hey..."
-    As "Ey..."
+    As "Oye..."
 
 # game/scripts/day10.rpy:3650
 translate spanish d10b208_416a83a7:
@@ -8950,7 +8950,7 @@ translate spanish d10b230_679f6963:
 translate spanish d10b230_30383d28:
 
     # As "{i}*slurps*"
-    As "{i}*gulp*"
+    As "{i}*traga*"
 
 # game/scripts/day10.rpy:3761
 translate spanish d10b230_5af3fad8:
@@ -9106,7 +9106,7 @@ translate spanish d10b230_586b1358:
 translate spanish d10b230_3d4e4f45:
 
     # As "Ah..."
-    Z "Ya está..."
+    As "Ah..."
 
 # game/scripts/day10.rpy:3831
 translate spanish d10b230_a3c22805:
@@ -9124,7 +9124,7 @@ translate spanish d10b230_679f6963_4:
 translate spanish d10b230_e3ff5fb5:
 
     # As "{i}*gulp*"
-    As "{i}*glup*{/i}"
+    As "{i}*traga*{/i}"
 
 # game/scripts/day10.rpy:3838
 translate spanish d10b230_679f6963_5:
@@ -9226,13 +9226,13 @@ translate spanish d10b248_73e1b611:
 translate spanish d10b248_22ca85cc:
 
     # Ky "There's a reason why I have not let you play with him yet, you know."
-    Ky "Hay una razón por la que no te he dejado jugar con él todavía, ya sabes."
+    Ky "Hay una razón por la que no te he dejado jugar con él todavía, ¿sabes?"
 
 # game/scripts/day10.rpy:3888
 translate spanish d10b248_555cb955:
 
     # As "It wasn't that bad...."
-    As "No fue para tanto..."
+    As "No fue tan malo..."
 
 # game/scripts/day10.rpy:3890
 translate spanish d10b248_ac75359a:
@@ -9382,7 +9382,7 @@ translate spanish d10b248_6a1877bb:
 translate spanish d10b248_c61957b3:
 
     # Z "I've had enough pussy today. Why don't we try something else...?"
-    Z "Ya he tenido suficientes coños por hoy. ¿Por qué no probamos otra cosa...?"
+    Z "Ya he tenido suficientes coños por hoy. ¿Por qué no probamos otra cosa?"
 
 # game/scripts/day10.rpy:3948
 translate spanish d10b248_4f22cb09:
@@ -9424,7 +9424,7 @@ translate spanish d10b248_ddfde6c3:
 translate spanish d10b248_781c6ab1:
 
     # Z "Ngh... You're tighter than I thought."
-    Z "Ngh... Estás más apretada de lo que pensaba."
+    Z "Ngh...  Estás más apretada de lo que pensaba."
 
 # game/scripts/day10.rpy:3963
 translate spanish d10b248_f5fdd2d4:
@@ -9436,13 +9436,13 @@ translate spanish d10b248_f5fdd2d4:
 translate spanish d10b248_f651fc05:
 
     # Ky "You're breaking my little sister again..."
-    Ky "Estás rompiendo a mi hermanita otra vez..."
+    Ky "Estás rompiendo a mi pequeña hermana otra vez..."
 
 # game/scripts/day10.rpy:3967
 translate spanish d10b248_5bc6db1b:
 
     # Ky "Aww... [persistent.player_name]... she never had someone as big as you inside her pussy, and you decided to go straight for her little butt..."
-    Ky "Auu... [persistent.player_name]... nunca había tenido a nadie tan grande como tú dentro de su coño, y has decidido ir directamente a por su culito..."
+    Ky "Auu...  [persistent.player_name]... ella nunca ha tenido a alguien tan grande como tú dentro de su coño, y tú has decidido ir directamente a por su culito..."
 
 # game/scripts/day10.rpy:3968
 translate spanish d10b248_56420cc6:
@@ -9496,7 +9496,7 @@ translate spanish d10b261_28d2f1bb:
 translate spanish d10b261_d3f33957:
 
     # Z "Hey Kyra, have you ever thought of making her the gang's party favour after a raid?"
-    Z "Ey Kyra, ¿has pensado alguna vez en el regalo de la fiesta de la banda después de una incursión?"
+    Z "Oye, Kyra, ¿has pensado alguna vez en el regalo de la fiesta de la banda después de una incursión?"
 
 # game/scripts/day10.rpy:3994
 translate spanish d10b261_14624d1e:
@@ -9520,7 +9520,7 @@ translate spanish d10b261_665a57e4:
 translate spanish d10b261_2d4da0fb:
 
     # Ky "But she's got a different side to her too, you know..."
-    Ky "Pero ella también tiene un lado diferente, ¿sabes?..."
+    Ky "Pero ella también tiene un lado diferente, ya sabes..."
 
 # game/scripts/day10.rpy:4002
 translate spanish d10b261_6f00175d:
@@ -9550,7 +9550,7 @@ translate spanish d10b261_612177d6:
 translate spanish d10b261_33b6fb29:
 
     # Ky "Hey... I'm talking to you!"
-    Ky "Ey...  ¡Te estoy hablando!"
+    Ky "Oye... ¡Te estoy hablando!"
 
 # game/scripts/day10.rpy:4011
 translate spanish d10b261_1743a54a:
@@ -9586,7 +9586,7 @@ translate spanish d10b265_a4c10e22:
 translate spanish d10b265_0c6cb79b:
 
     # Ky "Aww, I'm so proud of you sis'..."
-    Ky "Auu, estoy tan orgullosa de ti, hermanita..."
+    Ky "Auu, estoy tan orgullosa de ti hermanita..."
 
 # game/scripts/day10.rpy:4033
 translate spanish d10b265_a4c10e22_1:
@@ -9628,7 +9628,7 @@ translate spanish d10b265_a90cb3fd:
 translate spanish d10b265_491659fd:
 
     # Ky "Hey... Asha... are you okay?"
-    Ky "Ey...  Asha... ¿estás bien?"
+    Ky "Oye... Asha... ¿estás bien?"
 
 # game/scripts/day10.rpy:4046
 translate spanish d10b265_27ab293b:
@@ -9820,7 +9820,7 @@ translate spanish d10b274_2684a2e5:
 translate spanish d10b274_778ca55f:
 
     # "{i}*slurp*"
-    "{i}*chupa*{/i}"
+    "{i}*chupada*{/i}"
 
 # game/scripts/day10.rpy:4128
 translate spanish d10b274_d665b61b:
@@ -9868,7 +9868,7 @@ translate spanish d10b274_5ca57036:
 translate spanish d10b274_6537182e:
 
     # As "{i}*gluck*"
-    As "{i}*glup*"
+    As "{i}*atragantándose*{/i}"
 
 # game/scripts/day10.rpy:4148
 translate spanish d10b274_67b4b501:
@@ -10072,13 +10072,13 @@ translate spanish d10b288_7dfcf6eb:
 translate spanish d10b288_09165861:
 
     # As "{i}*slup*"
-    As "{i}*gulp*"
+    As "{i}*traga*"
 
 # game/scripts/day10.rpy:4241
 translate spanish d10b288_ca00444c:
 
     # Zi "Hey, asshole. I'm talking to you."
-    Zi "Ey, imbécil. Te estaba hablando a ti."
+    Zi "Oye, imbécil. Te estaba hablando a ti."
 
 # game/scripts/day10.rpy:4242
 translate spanish d10b288_9ad3d81d:
@@ -10114,7 +10114,7 @@ translate spanish d10b288_679f6963_1:
 translate spanish d10b288_ca00444c_1:
 
     # Zi "Hey, asshole. I'm talking to you."
-    Zi "Ey, imbécil. Te estaba hablando a ti."
+    Zi "Oye, imbécil. Te estaba hablando a ti."
 
 # game/scripts/day10.rpy:4260
 translate spanish d10b288_12e19677:
@@ -10174,7 +10174,7 @@ translate spanish d10b289_b7d8ac42:
 translate spanish d10b289_fce487ed:
 
     # Z "Damn, you look fucked up."
-    Z "Maldita sea, pareces jodida."
+    Z "Joder, pareces jodida."
 
 # game/scripts/day10.rpy:4287
 translate spanish d10b289_cfed2123_1:
@@ -10768,7 +10768,7 @@ translate spanish d10c_sair3_eb53b140:
 translate spanish d10c_sair3_af710138:
 
     # Sa "Great, I am glad we met. You look badass, by the way-. {w=1.}{nw}{a=jump:d10c_sair3_aftermath}"
-    Sa "Genial, me alegro de que nos conociéramos. Te ves increíble, por cierto-. {w=1.}"
+    Sa "Genial, me alegro de que nos conociéramos. Te ves increíble, por cierto-. {w=1.}{nw}{a=jump:d10c_sair3_aftermath}"
 
 # game/scripts/day10.rpy:4632
 translate spanish d10c_sair3_839f53bb:
@@ -10912,7 +10912,7 @@ translate spanish d10c_sair3_aftermath_54a269a4:
 translate spanish d10c_sair3_aftermath_68462a20:
 
     # St "Damn it, where do I even go?"
-    St "Maldita sea, ¿a dónde voy?"
+    St "Joder, ¿adónde voy?"
 
 # game/scripts/day10.rpy:4691
 translate spanish d10c_sair3_aftermath_768e4e1b:
@@ -11326,7 +11326,7 @@ translate spanish abrax_map_a4c5db4e:
 translate spanish abrax_map_0267896f:
 
     # St "Damn it... another emission."
-    St "Maldita sea... otra emisión."
+    St "Joder... otra emisión."
 
 # game/scripts/day10.rpy:4860
 translate spanish abrax_map_d5fa23fd:
@@ -11398,7 +11398,7 @@ translate spanish abrax_map_0ed265c5:
 translate spanish d10c79_9f054864:
 
     # S "Argh... damn it!"
-    S "Argh...  ¡Maldita sea!"
+    S "Argh... ¡Joder!"
 
 # game/scripts/day10.rpy:4906
 translate spanish d10c79_cc9a5713:
@@ -11756,4 +11756,4 @@ translate spanish strings:
 
     # game/scripts/day10.rpy:4625
     old "\"Sorry, you're on your own.\""
-    new "\"Lo siento, tendrás que apañártelas por tu cuenta.\""
+    new "\"Lo siento, estás solo\""

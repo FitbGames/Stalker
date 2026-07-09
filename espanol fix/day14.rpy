@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/day14.rpy:10
 translate spanish d14a_part_1_a82578ad:
 
     # "The gates to your house are open, and you're standing in the yard with your back to them, doing maintenance on your precious car."
-    "Las puertas de tu casa están abiertas y estás en el patio, dándoles la espalda, haciendo el mantenimiento de tu preciado coche."
+    "Las puertas de tu casa están abiertas y estás en el patio, de espaldas a ellas, haciendo el mantenimiento de tu preciado coche."
 
 # game/scripts/day14.rpy:11
 translate spanish d14a_part_1_ef42fcda:
@@ -112,7 +112,7 @@ translate spanish d14a_part_1_f17138e6:
 translate spanish d14a_part_1_6c60a9c7:
 
     # "Returning your embrace, she strokes your back, soft hands tracing the muscles of your shoulders."
-    "Devolviéndote el abrazo, te acaricia la espalda, con manos suaves que trazan los músculos de tus hombros."
+    "Te devuelve el abrazo y te acaricia la espalda, recorriendo con sus suaves manos los músculos de tus hombros."
 
 # game/scripts/day14.rpy:61
 translate spanish d14a_part_1_7f87dbf0:
@@ -154,7 +154,7 @@ translate spanish d14a_part_1_f238e964:
 translate spanish d14a_part_1_6aa79e10:
 
     # Z "Hey... Kat?"
-    Z "Ey... ¿Kat?"
+    Z "Oye... ¿Kat?"
 
 # game/scripts/day14.rpy:76
 translate spanish d14a_part_1_add0733b:
@@ -214,25 +214,25 @@ translate spanish d14a_part_1_f39a3ff6:
 translate spanish d14a_part_1_a36f498b:
 
     # W "Hey hot guy."
-    W "Ey tío bueno."
+    W "Hola, tío bueno."
 
 # game/scripts/day14.rpy:101
 translate spanish d14a_part_1_0395d470:
 
     # Z "Hey wife."
-    Z "Ey esposa."
+    Z "Hola, esposa."
 
 # game/scripts/day14.rpy:104
 translate spanish d14a_part_1_5a8adac2:
 
     # W "I wanted to speak about our new house member, if you don't mind."
-    W "Quería hablar de nuestro nuevo miembro de la casa, si no te importa."
+    W "Quería hablar de la nueva integrante de la casa, si no te importa."
 
 # game/scripts/day14.rpy:107
 translate spanish d14a_part_1_45a1820c:
 
     # Z "How is she liking her bath?"
-    Z "¿Qué tal le está yendo el baño?"
+    Z "¿Qué tal está disfrutando del baño?"
 
 # game/scripts/day14.rpy:110
 translate spanish d14a_part_1_023bb872:
@@ -256,7 +256,7 @@ translate spanish d14a_part_1_00b5097b:
 translate spanish d14a_part_1_6173e27e:
 
     # W "[fairy_name] on the other hand... let's just say I had to remind her that she's just supposed to give a bath."
-    W "[fairy_name], por otro lado... digamos que tuve que recordarle que solo se supone que debe dar un baño."
+    W "[fairy_name], por otro lado... digamos que tuve que recordarle que solo tenía que darle un baño."
 
 # game/scripts/day14.rpy:116
 translate spanish d14a_part_1_e1a21489:
@@ -358,7 +358,7 @@ translate spanish d14a35_de791e17:
 translate spanish d14a35_07008a9d:
 
     # W "Hey Kateryna, join us!"
-    W "Ey Kateryna, ¡únete a nosotros!"
+    W "Oye, Kateryna, ¡únete a nosotros!"
 
 # game/scripts/day14.rpy:171
 translate spanish d14a35_98e89eef:
@@ -370,7 +370,7 @@ translate spanish d14a35_98e89eef:
 translate spanish d14a35_cf31c13a:
 
     # Ka "Hey..."
-    Ka "Ey..."
+    Ka "Hola..."
 
 # game/scripts/day14.rpy:180
 translate spanish d14a35_a8fde11d:
@@ -382,7 +382,7 @@ translate spanish d14a35_a8fde11d:
 translate spanish d14a35_d30a5457:
 
     # "You take a look at the new member of your house..."
-    "Echas un vistazo al nuevo miembro de tu casa..."
+    "Echas un vistazo a la nueva integrante de tu casa..."
 
 # game/scripts/day14.rpy:184
 translate spanish d14a35_d52f8a87:
@@ -394,7 +394,7 @@ translate spanish d14a35_d52f8a87:
 translate spanish d14a35_6d6f5770:
 
     # Z "Hey girl, you can sit down if you want."
-    Z "Ey chica, puedes sentarte si quieres."
+    Z "Oye, chica, puedes sentarte si quieres."
 
 # game/scripts/day14.rpy:190
 translate spanish d14a35_493bf9a5:
@@ -466,7 +466,7 @@ translate spanish d14a35_6d08401d:
 translate spanish d14a35_9d7bf3a4:
 
     # W "It will not take too long and we will walk you through it. If you're joining the house, it should be properly acknowledged by everybody, don't you think?"
-    W "No llevará demasiado tiempo y te guiaremos a través de ello. Si te unes a la casa, debería ser debidamente reconocida por todos, ¿no crees?"
+    W "No llevará demasiado tiempo y te guiaremos en todo. Si te unes a la casa, todos deberían reconocerlo debidamente, ¿no crees?"
 
 # game/scripts/day14.rpy:211
 translate spanish d14a35_9cc6972f:
@@ -478,7 +478,7 @@ translate spanish d14a35_9cc6972f:
 translate spanish d14a35_95ff85d3:
 
     # Zt "Man. I should thank Igor again once this is all over."
-    Zt "Hombre. Debería volver a dar las gracias a Igor cuando todo esto acabe."
+    Zt "Joder. Debería volver a dar las gracias a Igor cuando todo esto acabe."
 
 # game/scripts/day14.rpy:213
 translate spanish d14a35_3d303599:
@@ -514,7 +514,7 @@ translate spanish d14a35_d5542731:
 translate spanish d14a35_3ded1c47:
 
     # Z "It is time to introduce a new member of the house."
-    Z "Ha llegado el momento de presentar a un nuevo miembro de la casa."
+    Z "Ha llegado el momento de presentar a una nueva integrante de la casa."
 
 # game/scripts/day14.rpy:228
 translate spanish d14a35_ccdf37d2:
@@ -532,7 +532,7 @@ translate spanish d14a35_9dcc8b1a:
 translate spanish d14a35_c8eb01cc:
 
     # Z "I know that I can trust you all to treat her with respect and that you will grow to love her with the same devotion you have towards one another."
-    Z "Yo sé que puedo confiar en todas para tratarla con respeto y que llegarán a quererla con la misma devoción que tenéis entre vosotras."
+    Z "Sé que puedo confiar en todas vosotras para tratarla con respeto y que llegaréis a quererla con la misma devoción que os profesáis unas a otras."
 
 # game/scripts/day14.rpy:242
 translate spanish d14a35_12202709:
@@ -544,7 +544,7 @@ translate spanish d14a35_12202709:
 translate spanish d14a35_cf448dd2:
 
     # Z "Kateryna is kind hearted, diligent, well spirited, and some of you already know that she's a very good cook."
-    Z "Kateryna es de buen corazón, diligente y de buen espíritu... y algunas de vosotras ya sabéis que es muy buena cocinera."
+    Z "Kateryna es bondadosa, diligente y de buen carácter... y algunas de vosotras ya sabéis que es muy buena cocinera."
 
 # game/scripts/day14.rpy:255
 translate spanish d14a35_f2523b23:
@@ -706,7 +706,7 @@ translate spanish d14a35_77040f51:
 translate spanish d14a35_136273ed:
 
     # A "You only like it because you see yourself speaking in the future!"
-    A "¡Sólo te gusta porque te ves hablando en el futuro!"
+    A "¡Solo te gusta porque te ves hablando en el futuro!"
 
 # game/scripts/day14.rpy:348
 translate spanish d14a35_b55956c7:
@@ -724,7 +724,7 @@ translate spanish d14a35_aeb0d179:
 translate spanish d14a35_4b8be62b:
 
     # "While calling it a romance feels odd, when you have a lifetime of experience on her and you've only met her a handful of times, you can't deny that a part of you feels swept in the emotions you clearly see written all over Kateryna's face."
-    "Aunque llamarlo romance te parece extraño, cuando tienes toda una vida de experiencia sobre ella y sólo la has visto un puñado de veces, no puedes negar que una parte de ti se siente arrastrada por las emociones que ves claramente escritas en el rostro de Kateryna."
+    "Aunque llamarlo romance te parece extraño, cuando tienes toda una vida de experiencia sobre ella y solo la has visto un puñado de veces, no puedes negar que una parte de ti se siente arrastrada por las emociones que ves claramente escritas en el rostro de Kateryna."
 
 # game/scripts/day14.rpy:353
 translate spanish d14a35_0a00d634:
@@ -1666,7 +1666,7 @@ translate spanish d14a104_506601fa:
 translate spanish d14a104_daeeb099:
 
     # Z "{i}*slurp*{/i}"
-    Z "{i}*chupa*{/i}"
+    Z "{i}*chupada*{/i}"
 
 # game/scripts/day14.rpy:797
 translate spanish d14a104_c653e559:
@@ -2434,7 +2434,7 @@ translate spanish d14a200_75a9cd81_2:
 translate spanish d14a200_4d930e86:
 
     # Ka "...for... breeding me..."
-    Ka "... por...  criarme..."
+    Ka "... por... preñarme..."
 
 # game/scripts/day14.rpy:1118
 translate spanish d14a200_552178ad:
@@ -3580,7 +3580,7 @@ translate spanish d14a282_8d94a941:
 translate spanish d14a282_64e1f8dd:
 
     # A "Hey you two!"
-    A "¡Ey a los dos!"
+    A "¡Eh, vosotros dos!"
 
 # game/scripts/day14.rpy:1598
 translate spanish d14a282_1b181c51:
@@ -3718,7 +3718,7 @@ translate spanish d14b_f0e32ccb:
 translate spanish d14b_5e07ee7d:
 
     # Asa "Hey [persistent.player_name]."
-    Asa "Ey [persistent.player_name]."
+    Asa "Hola, [persistent.player_name]."
 
 # game/scripts/day14.rpy:1667
 translate spanish d14b_9d5fe7e3:
@@ -6250,7 +6250,7 @@ translate spanish d14e_bb4b6e7e:
 translate spanish d14e_3b8d5408:
 
     # Ky "Hey [persistent.player_name], I've seen you driving by."
-    Ky "Ey [persistent.player_name], te he visto pasar en coche."
+    Ky "Oye, [persistent.player_name], te he visto pasar en coche."
 
 # game/scripts/day14.rpy:2728
 translate spanish d14e_7e3c6fa2:
@@ -6268,7 +6268,7 @@ translate spanish d14e_a279f76b:
 translate spanish d14e_772bb7ab:
 
     # As "Hey boss."
-    As "Ey jefe."
+    As "Hola, jefe."
 
 # game/scripts/day14.rpy:2749
 translate spanish d14e_05c668e5:
@@ -6664,7 +6664,7 @@ translate spanish d14f_part_2_036c2f57:
 translate spanish d14f_part_2_4294d053:
 
     # extend "The fuck. "
-    extend "Diablos..."
+    extend "Cojones..."
 
 # game/scripts/day14.rpy:2957
 translate spanish d14f_part_2_946844cf:
@@ -7024,7 +7024,7 @@ translate spanish d14f_part_2_4f86b642:
 translate spanish d14f_part_2_3561e364:
 
     # Zi "Hey, boyfriend..."
-    Zi "Ey, novio..."
+    Zi "Hola, novio..."
 
 # game/scripts/day14.rpy:3131
 translate spanish d14f_part_2_6464ff3f:

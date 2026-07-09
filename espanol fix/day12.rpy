@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/day12.rpy:5
 translate spanish d12a_6667d5ec:
@@ -100,7 +100,7 @@ translate spanish d12a_5d5bb36d:
 translate spanish d12a_fb05ae05:
 
     # Z "Hey Fairy. How are you?"
-    Z "Ey Fairy. ¿Cómo estás?"
+    Z "Oye, Fairy. ¿Cómo estás?"
 
 # game/scripts/day12.rpy:58
 translate spanish d12a_e6c06ad0:
@@ -292,7 +292,7 @@ translate spanish d12a14a_0c6bf839:
 translate spanish d12a14a_bfe82c52:
 
     # F "Beca... because of you, Master. Thank you so... much."
-    F "Por que... Gracias a ti, Amo. Muchas... gracias."
+    F "Porque... Gracias a ti, Amo. Muchas... gracias."
 
 # game/scripts/day12.rpy:140
 translate spanish d12a14a_8c6ce10e:
@@ -316,7 +316,7 @@ translate spanish d12a14a_a7224f8f:
 translate spanish d12a14a_82702ce1:
 
     # F "Thank you... Master... I..."
-    F "Gracias... Amo... yo.."
+    F "Gracias... Amo... yo..."
 
 # game/scripts/day12.rpy:151
 translate spanish d12a14a_e7913b4a_3:
@@ -544,7 +544,7 @@ translate spanish d12a14b_32682ed2:
 translate spanish d12a14b_82702ce1:
 
     # F "Thank you... Master... I..."
-    F "Gracias... Amo... yo.."
+    F "Gracias... Amo... yo..."
 
 # game/scripts/day12.rpy:247
 translate spanish d12a14b_e7913b4a_1:
@@ -760,7 +760,7 @@ translate spanish d12a_questions_e1a5b188:
 translate spanish d12a_questions_78c21287:
 
     # F "The decayed, they... bring us to old city. Then we work. We serve. We eat. Sometimes... they eat."
-    F "Los decaídos, ellos... nos llevaron a la ciudad vieja. Entonces trabajamos. Servimos. Comimos. A veces... ellos nos comian."
+    F "Los decaídos, ellos... nos llevaron a la ciudad vieja. Entonces trabajamos. Servimos. Comimos. A veces... ellos nos comían."
 
 # game/scripts/day12.rpy:379
 translate spanish d12a_questions_1abc64e2:
@@ -1042,7 +1042,7 @@ translate spanish d12a_question_3_sub_95823104:
 translate spanish d12a_question_3_sub_3ef4cfc7:
 
     # Zt "Damn..."
-    Zt "Maldita sea..."
+    Zt "Joder..."
 
 # game/scripts/day12.rpy:569
 translate spanish d12a_continue_9832b329:
@@ -1246,7 +1246,7 @@ translate spanish re_d12a18_h_0d1f1e5c:
 translate spanish re_d12a18_h_4f615640:
 
     # Z "Hey there..."
-    Z "Ey..."
+    Z "Oye..."
 
 # game/scripts/day12.rpy:717
 translate spanish re_d12a18_h_7af2891e:
@@ -1282,7 +1282,7 @@ translate spanish re_d12a18_h_6a31842a:
 translate spanish re_d12a18_h_3ef4cfc7:
 
     # Zt "Damn..."
-    Zt "Maldita sea..."
+    Zt "Joder..."
 
 # game/scripts/day12.rpy:729
 translate spanish re_d12a18_h_4ad16680:
@@ -2596,7 +2596,7 @@ translate spanish d12a58_d3a3e73d:
 translate spanish d12a58_6f7faf1d:
 
     # F "{i}*slurp*"
-    F "{i}*chupa*{/i}"
+    F "{i}*chupada*{/i}"
 
 # game/scripts/day12.rpy:1233
 translate spanish d12a58_a3c22805:
@@ -2650,7 +2650,7 @@ translate spanish d12a58_e7913b4a_1:
 translate spanish d12a58_dc16b398:
 
     # F "{i}*gulp*"
-    F "{i}*tragando*{/i}"
+    F "{i}*traga*{/i}"
 
 # game/scripts/day12.rpy:1256
 translate spanish d12a58_4ddfa690:
@@ -3004,7 +3004,7 @@ translate spanish re_d12b_24abe0cf_1:
 translate spanish re_d12b_74cbba0a:
 
     # A "{i}*gulp*"
-    A "{i}*tragando*"
+    A "{i}*traga*{/i}"
 
 # game/scripts/day12.rpy:1407
 translate spanish re_d12b_97fc3c86:
@@ -3208,7 +3208,7 @@ translate spanish re_d12b_95a0b6a4:
 translate spanish re_d12b_f1761e44:
 
     # A "{i}*slurp*"
-    A "{i}*chupa*{/i}"
+    A "{i}*chupada*{/i}"
 
 # game/scripts/day12.rpy:1480
 translate spanish re_d12b_3a7c63bf:
@@ -3256,7 +3256,7 @@ translate spanish re_d12b_36d1fb8b:
 translate spanish re_d12b_778ca55f:
 
     # "{i}*slurp*"
-    "{i}*chupa*{/i}"
+    "{i}*chupada*{/i}"
 
 # game/scripts/day12.rpy:1497
 translate spanish re_d12b_1ca6ee84:
@@ -3412,7 +3412,7 @@ translate spanish re_d12b_c516b45d:
 translate spanish re_d12b_0b902262:
 
     # E "Yes, mistr... {i}*slurp*"
-    E "Sí, ama... {i}*chupa*{/i}"
+    E "Sí, ama... {i}*chupada*{/i}"
 
 # game/scripts/day12.rpy:1557
 translate spanish re_d12b_0d6ad6e6:
@@ -3718,7 +3718,7 @@ translate spanish d12c22_8d597ee4:
 translate spanish d12c22_5a9246d2:
 
     # A "Hey... [persistent.dad]...?"
-    A "Ey... ¿[persistent.dad]...?"
+    A "Oye... ¿[persistent.dad]...?"
 
 # game/scripts/day12.rpy:1709
 translate spanish d12c22_e1146722:
@@ -3736,7 +3736,7 @@ translate spanish d12c22_82b130d4:
 translate spanish d12c22_69f04022:
 
     # A "Eeek!-"
-    A "¡Eyyyyy!-"
+    A "¡Eeeeh!-"
 
 # game/scripts/day12.rpy:1728
 translate spanish d12c28_9c211ac9:
@@ -4252,7 +4252,7 @@ translate spanish d12c42_df5bd6b9:
 translate spanish d12c42_bf4485f3:
 
     # "Looking at her gaping hole, you remember the time you first took her butt. She can take it much easier now. I guess all this \"exercise\" paid off..."
-    "Al mirar su agujero abierto, recuerdas la primera vez que le diste por el culo. Ahora lo aguanta mucho mejor. Se ve que todo este \"
+    "Al mirar su agujero abierto, recuerdas la primera vez que le diste por el culo. Ahora lo aguanta mucho mejor. Supongo que todo este \"ejercicio\" ha dado sus frutos..."
 
 # game/scripts/day12.rpy:1931
 translate spanish d12c42_668e0d45:
@@ -4378,7 +4378,7 @@ translate spanish strings:
 
     # game/scripts/day12.rpy:55
     old "\"Hey Fairy. How are you?\""
-    new "\"Ey Fairy. ¿Cómo estás?\""
+    new "\"Oye, Fairy. ¿Cómo estás?\""
 
     # game/scripts/day12.rpy:55
     old "\"You look stunning. I like that dress.\""

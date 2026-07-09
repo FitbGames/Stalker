@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/day7.rpy:4
 translate spanish d7a_561f0c13:
@@ -70,7 +70,7 @@ translate spanish d7a_0aa16052:
 translate spanish d7a_b3386ea0:
 
     # S "Most of my clothes are being washed."
-    S "La mayoría de mis ropas están siendo lavadas."
+    S "La mayoría de mi ropa está lavándose."
 
 # game/scripts/day7.rpy:35
 translate spanish d7a_a5d7c36e:
@@ -460,13 +460,13 @@ translate spanish d7a_5ae95700:
 translate spanish d7a_a2ccc455:
 
     # Z "Remember, you may have to also sleep in it."
-    Z "Recuerda que puede que también tengas que dormir con el."
+    Z "Recuerda que puede que también tengas que dormir con él."
 
 # game/scripts/day7.rpy:151
 translate spanish d7a_912df081:
 
     # S "It feels snug. I'll be happy to have it, when I'll need it."
-    S "Se siente cómodo. Me alegraré de tenerlo cuando lo necesite."
+    S "Es cómodo. Me alegraré de tenerlo cuando lo necesite."
 
 # game/scripts/day7.rpy:154
 translate spanish d7a_e11fb95e:
@@ -502,7 +502,7 @@ translate spanish d7a_6b9cb119:
 translate spanish d7a_fab367ae:
 
     # S "I guess I take after the man who raised me. Blame him!"
-    S "Supongo que me parezco al hombre que me crió. ¡Cúlpenlo!"
+    S "Supongo que me parezco al hombre que me crió. ¡Échale la culpa!"
 
 # game/scripts/day7.rpy:168
 translate spanish d7a_120c1e01:
@@ -652,7 +652,7 @@ translate spanish d7a_7145827c:
 translate spanish d7a_5dadb5b6:
 
     # Z "Where were we..."
-    Z "Dónde estábamos..."
+    Z "¿Dónde estábamos...?"
 
 # game/scripts/day7.rpy:225
 translate spanish d7a_fa6e8d67:
@@ -850,7 +850,7 @@ translate spanish d7a_ea943d59:
 translate spanish d7a_3e5d441e:
 
     # Z "Something clicked."
-    Z "Algo hizo click."
+    Z "Algo hizo clic."
 
 # game/scripts/day7.rpy:291
 translate spanish d7a_1ca7675d:
@@ -1024,7 +1024,7 @@ translate spanish d7a_8976b2d9:
 translate spanish d7a_ac1b2784:
 
     # Zt "Damn it, really?!"
-    Zt "Maldita sea, ¿en serio?"
+    Zt "Joder, ¿en serio?"
 
 # game/scripts/day7.rpy:344
 translate spanish d7a_9654adb5:
@@ -2548,7 +2548,7 @@ translate spanish d7a164_ca1d716f:
 translate spanish d7a164_e2591535:
 
     # "{i}*Kissing*"
-    "{i}*besando*{/i}
+    "{i}*besando*{/i}"
 
 # game/scripts/day7.rpy:963
 translate spanish d7a164_92d29227:
@@ -3304,7 +3304,7 @@ translate spanish d7a201x_611c6739:
 translate spanish d7a201x_1b31c5db:
 
     # Q "Hey, I said wake up!"
-    Q "Ey, ¡he dicho que te despiertes!"
+    Q "¡Eh! ¡He dicho que te despiertes!"
 
 # game/scripts/day7.rpy:1281
 translate spanish d7a201x_33b586e1:
@@ -3820,7 +3820,7 @@ translate spanish d7a238_023b113b:
 translate spanish d7a238_b800f5b0:
 
     # Pr "Hey Stalker, you should come here more often."
-    Pr "Ey Acechador, deberías venir aquí más a menudo."
+    Pr "Oye, Acechador, deberías venir aquí más a menudo."
 
 # game/scripts/day7.rpy:1484
 translate spanish d7a238_85622a64:
@@ -5914,7 +5914,7 @@ translate spanish d7c_352779b4:
 translate spanish d7c_1c368aab:
 
     # Z "Hey [W], guess who's here."
-    Z "Ey [W], adivina quién está aquí."
+    Z "Oye, [W], adivina quién está aquí."
 
 # game/scripts/day7.rpy:2411
 translate spanish d7c_3ca771e7:
@@ -6136,7 +6136,7 @@ translate spanish d7c_47eb33df:
 translate spanish d7c_8addbb79:
 
     # Z "Hey [Ra], it's been too long."
-    Z "Ey [Ra], ha pasado mucho tiempo."
+    Z "Oye, [Ra], cuánto tiempo."
 
 # game/scripts/day7.rpy:2494
 translate spanish d7c_0fb5bc18:
@@ -6322,13 +6322,13 @@ translate spanish d7c46_5ec55d08:
 translate spanish d7c46_15acbf3b:
 
     # Na "Damn! I haven't seen you in ages!"
-    Na "¡Maldita sea! ¡Hace años que no te veo!"
+    Na "¡Joder! ¡Hace años que no te veo!"
 
 # game/scripts/day7.rpy:2562
 translate spanish d7c46_33d9c1ba:
 
     # Na "Hey uncle, good to see you."
-    Na "Ey tío, me alegro de verte."
+    Na "Hola, tío, me alegro de verte."
 
 # game/scripts/day7.rpy:2563
 translate spanish d7c46_62657960:
@@ -6706,7 +6706,7 @@ translate spanish d7c66_d5ea4244:
 translate spanish d7c66_684928bf:
 
     # Z "Hey boy, is that what you should be doing right now?"
-    Z "Ey chico, ¿es eso lo que deberías estar haciendo ahora?"
+    Z "Oye, chico, ¿es eso lo que deberías estar haciendo ahora?"
 
 # game/scripts/day7.rpy:2730
 translate spanish d7c66_a3565600:
@@ -6976,7 +6976,7 @@ translate spanish d7c67_c1d3b6b7:
 translate spanish d7c67_88aab5b5:
 
     # Na "Hey... that's my skirt..."
-    Na "Ey... esa es mi falda..."
+    Na "Oye... esa es mi falda..."
 
 # game/scripts/day7.rpy:2839
 translate spanish d7c67_7a28d3ac:
@@ -7072,7 +7072,7 @@ translate spanish d7c67_94b174a9:
 translate spanish d7c67_0256a809:
 
     # Sl "{i}*sucking*"
-    Sl "{i}*chupando*"
+    Sl "{i}*chupando*{/i}"
 
 # game/scripts/day7.rpy:2878
 translate spanish d7c67_569db546:
@@ -7282,7 +7282,7 @@ translate spanish d7c67_33a8eca8:
 translate spanish d7c67_e01f82f3:
 
     # Na "{i}*slurp*"
-    Na "{i}*chupa*{/i}"
+    Na "{i}*chupada*{/i}"
 
 # game/scripts/day7.rpy:2965
 translate spanish d7c67_3968f3ce:

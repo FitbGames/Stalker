@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/day8.rpy:2
 translate spanish d8a_85b112b5:
@@ -166,7 +166,7 @@ translate spanish d8a_60f16287:
 translate spanish d8a_0866a3fd:
 
     # Ma "I must remind you that in this world, all the spoils go to the victor, and that submission in defeat is a given."
-    Ma "Debo recordarte que en este world, todo el botín es para el vencedor, y que la sumisión en la derrota se da por sentada."
+    Ma "Debo recordarte que en este mundo todo el botín es para el vencedor y que la sumisión en la derrota se da por sentada."
 
 # game/scripts/day8.rpy:76
 translate spanish d8a_6d17a86b:
@@ -220,7 +220,7 @@ translate spanish d8a_bfdbc53b:
 translate spanish d8a_2ac2d8c6:
 
     # Ma "The most dangerous threats you will encounter in the Zone are those you can neither fight nor kill. Know when to run, and that there is no shame in it."
-    Ma "Las amenazas más peligrosas que encontrarás en la Zona son las que no puedes combatir ni matar. Saber cuándo debes huir, y que no hay que avergonzarse de ello."
+    Ma "Las amenazas más peligrosas que encontrarás en la Zona son las que no puedes combatir ni matar. Debes saber cuándo huir y recordar que no hay que avergonzarse de ello."
 
 # game/scripts/day8.rpy:93
 translate spanish d8a_cd740910:
@@ -340,7 +340,7 @@ translate spanish d8a20_d2e0fccf:
 translate spanish d8a20_da81752e:
 
     # Ig "I assure you, Lady [W], Oasis is one of safest places in these lands."
-    Ig "Se lo aseguro, Señora [W], que el\"Oasis' es uno de los lugares más seguros de estas tierras."
+    Ig "Se lo aseguro, Señora [W], el Oasis es uno de los lugares más seguros de estas tierras."
 
 # game/scripts/day8.rpy:136
 translate spanish d8a20_2ebeb828:
@@ -652,7 +652,7 @@ translate spanish d8a20_f1e9b688:
 translate spanish d8a20_cad53cb7:
 
     # A "I know you got this, [S]."
-    A "Sé que lo entiendes, [S]."
+    A "Sé que puedes hacerlo, [S]."
 
 # game/scripts/day8.rpy:263
 translate spanish d8a20_ddf056f4:
@@ -700,7 +700,7 @@ translate spanish d8a20_179900a8:
 translate spanish d8a20_b972c32a:
 
     # "It soon becomes obvious that [S] is understandably nervous. Thinking ahead, you hope that spending a last night together before the challenge really starts will give her time to compose her mind."
-    "Pronto se hace evidente que [S] está comprensiblemente nerviosa. Pensando en el futuro, esperas que pasar una última noche juntos antes de que comience realmente el desafío le dé tiempo para componer su mente."
+    "Pronto se hace evidente que [S] está comprensiblemente nerviosa. Pensando en lo que le espera, confías en que pasar una última noche juntos antes de que comience el verdadero desafío le dé tiempo para serenarse."
 
 # game/scripts/day8.rpy:283
 translate spanish d8a20_e36d8875:
@@ -802,7 +802,7 @@ translate spanish d8a20_e90a0737:
 translate spanish d8a20_1b0297f5:
 
     # C2 "Hey, Heka; you think those folks could use some company?{p=4} {nw}"
-    C2 "Ey, Heka; ¿crees que a esa gente le vendría bien algo de compañía? {p=4} {nw}"
+    C2 "Oye, Heka; ¿crees que a esa gente le vendría bien algo de compañía? {p=4} {nw}"
 
 # game/scripts/day8.rpy:361
 translate spanish d8a20_0399e69a:
@@ -814,13 +814,13 @@ translate spanish d8a20_0399e69a:
 translate spanish d8a20_d03d3a6e:
 
     # C2 "Hey! You two!{p=3} {nw}"
-    C2 "¡Ey! ¡Vosotros! {p=3} {nw}"
+    C2 "¡Eh! ¡Vosotros! {p=3} {nw}"
 
 # game/scripts/day8.rpy:365
 translate spanish d8a20_53dac914:
 
     # C2 "You look a bit lost over there, why don't you join us for the evening?{p=4.5} {nw}"
-    C2 "Pareceis un poco perdidos por ahí, ¿por qué no os unís a nosotros por la noche?{p=4.5} {nw}"
+    C2 "Parecéis un poco perdidos por ahí, ¿por qué no os unís a nosotros esta noche?{p=4.5} {nw}"
 
 # game/scripts/day8.rpy:369
 translate spanish d8a20_08442159:
@@ -1006,7 +1006,7 @@ translate spanish d8a20_2d31aea7:
 translate spanish d8a20_29b456da:
 
     # He "...damn, I'm good."
-    He "... maldita sea, estoy bien."
+    He "... joder, estoy bien."
 
 # game/scripts/day8.rpy:444
 translate spanish d8a20_aeed1f6f:
@@ -1024,7 +1024,7 @@ translate spanish d8a20_10fb7035:
 translate spanish d8a20_81a6b25c:
 
     # Z "Hey, you okay?"
-    Z "Ey, ¿estás bien?"
+    Z "Oye, ¿estás bien?"
 
 # game/scripts/day8.rpy:451
 translate spanish d8a20_967f18a1:
@@ -1036,7 +1036,7 @@ translate spanish d8a20_967f18a1:
 translate spanish d8a20_de92d35c:
 
     # Ev "Hey, [S], the evening is not over yet!"
-    Ev "Ey, [S], ¡la noche aún no ha terminado!"
+    Ev "Oye, [S], ¡la noche aún no ha terminado!"
 
 # game/scripts/day8.rpy:455
 translate spanish d8a20_1e2951f6:
@@ -1096,7 +1096,7 @@ translate spanish d8a20_c52e1e94:
 translate spanish d8a20_ebc5fc90:
 
     # He "Hey... hey... look..."
-    He "Ey... ey... mira..."
+    He "Eh... eh... mira..."
 
 # game/scripts/day8.rpy:487
 translate spanish d8a20_60bad48a:
@@ -3046,7 +3046,7 @@ translate spanish d8a231_93f4f958:
 translate spanish d8a231_6c30fe3e:
 
     # Zw "Well, not the first time ever... You did occasionally intervene when [A] was... entertaining me."
-    Sw "No, eso no cuenta. Esto es otra cosa."
+    Zw "Bueno, no es la primera vez... Ocasionalmente intervenías cuando [A] me estaba... entreteniendo."
 
 # game/scripts/day8.rpy:1417
 translate spanish d8a231_01d7d478:
@@ -3484,7 +3484,7 @@ translate spanish d8a305x_f359bc43:
 translate spanish d8a305x_65a6d416:
 
     # S "Hey, before I head out..."
-    S "Ey, antes de salir..."
+    S "Oye, antes de salir..."
 
 # game/scripts/day8.rpy:1632
 translate spanish d8a305x_82a36d98:
@@ -5152,7 +5152,7 @@ translate spanish d8b65_7981d09c:
 translate spanish d8b65_60dab136:
 
     # Fa "Hey, [persistent.player_name]."
-    Fa "Ey, [persistent.player_name]."
+    Fa "Oye, [persistent.player_name]."
 
 # game/scripts/day8.rpy:2379
 translate spanish d8b65_8424e6db:
@@ -8115,6 +8115,3 @@ translate spanish strings:
     # game/scripts/day8.rpy:3529
     old "\"Your friend?\""
     new "\"¿Tu amiga?\""
-
-
-

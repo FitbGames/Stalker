@@ -1,16 +1,16 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/family.rpy:46
 translate spanish omar_menu_6b09bdaf:
 
     # W "Hey there, husband."
-    W "Eh, marido."
+    W "Hola, marido."
 
 # game/scripts/family.rpy:47
 translate spanish omar_menu_1eb702c2:
 
     # W "{i}*kissing*"
-    W "{i}*beso*{/i}"
+    W "{i}*besando*{/i}"
 
 # game/scripts/family.rpy:50
 translate spanish omar_menu_5ab3574d:
@@ -46,13 +46,13 @@ translate spanish nadia_convi_3_05c668e5:
 translate spanish nadia_convi_3_eb85a54c:
 
     # Na "Hey, uncle. What's up? Do you want to sit with me?"
-    Na "Ey, tío. ¿Qué tal? ¿Quieres sentarte conmigo?"
+    Na "Oye, tío. ¿Qué tal? ¿Quieres sentarte conmigo?"
 
 # game/scripts/family.rpy:80
 translate spanish nadia_convi_3_04427932:
 
     # "You do just that. She quickly follows..."
-    "Eso es lo que haces exactamente y ella te sigue rápidamente..."
+    "Eso haces. Ella te sigue enseguida..."
 
 # game/scripts/family.rpy:83
 translate spanish nadia_convi_3_984664e8:
@@ -70,13 +70,13 @@ translate spanish nadia_convi_3_66988954:
 translate spanish nadia_convi_3_1b82753b:
 
     # Z "I see, but where do I pick up?"
-    Z "Ya veo, pero ¿dónde lo empiezo?"
+    Z "Ya veo, pero ¿por dónde empiezo?"
 
 # game/scripts/family.rpy:88
 translate spanish nadia_convi_3_fa7d09c8:
 
     # Na "Well, you told me how you and auntie first met. But how did you two really connect?"
-    Na "Bueno, me contaste cómo os conocisteis la tía y tú. Pero, ¿cómo conectasteis realmente?"
+    Na "Bueno, me contaste cómo os conocisteis la tía y tú. Pero ¿cómo llegasteis a conectar de verdad?"
 
 # game/scripts/family.rpy:89
 translate spanish nadia_convi_3_a65d6d47:
@@ -124,7 +124,7 @@ translate spanish vfn_167_dd95f113:
 translate spanish vfn_167_06106b49:
 
     # Z "She suggested we could have some fun together before we would go out."
-    Z "Ella sugirió que podríamos divertirnos juntos antes de salir."
+    Z "Sugirió que podríamos divertirnos juntos antes de salir."
 
 # game/scripts/family.rpy:114
 translate spanish vfn_167_d68b7afe:
@@ -148,7 +148,7 @@ translate spanish vfn_167_ce28471e:
 translate spanish vfn_167_c8049582:
 
     # Na "Wow. I can't imagine my mom being so assertive... Except with me."
-    Na "Guau. No me imagino a mi madre siendo tan asertiva... Excepto conmigo."
+    Na "Guau. No me imagino a mi madre siendo tan decidida... Excepto conmigo."
 
 # game/scripts/family.rpy:123
 translate spanish vfn_167_54662492:
@@ -160,7 +160,7 @@ translate spanish vfn_167_54662492:
 translate spanish vfn_167_2f88bb5e:
 
     # Z "She was such a fierce wildcat. She took what she wanted, and I loved how forthcoming she was."
-    Z "Ella era una fiera salvaje. Cogía lo que quería, y me encantaba lo desinhibida que era."
+    Z "Era una fiera salvaje. Cogía lo que quería y me encantaba lo desinhibida que era."
 
 # game/scripts/family.rpy:125
 translate spanish vfn_167_44b217cb:
@@ -184,7 +184,7 @@ translate spanish vfn_167_ec8e1972:
 translate spanish vfn_167_a9ab5b00:
 
     # Z "She still has that arrogant look about her. I can't imagine her not knowing how to take what she wants anymore, but people do change."
-    Z "Ella sigue teniendo esa mirada arrogante. No me la imagino ya sin saber tomar lo que quiere, pero la gente cambia."
+    Z "Sigue teniendo esa mirada arrogante. No me la imagino sin saber conseguir lo que quiere, pero la gente cambia."
 
 # game/scripts/family.rpy:135
 translate spanish vfn_167_5e32f8c6:
@@ -196,7 +196,7 @@ translate spanish vfn_167_5e32f8c6:
 translate spanish vfn_167_503699fb:
 
     # Z "In a way. We had only so much daylight left, and that's what your aunt came to tell us."
-    Z "En cierto modo. Sólo nos quedaba la luz del día, y eso es lo que tu tía vino a decirnos."
+    Z "En cierto modo. Solo nos quedaban unas horas de luz, y eso es lo que tu tía vino a decirnos."
 
 # game/scripts/family.rpy:141
 translate spanish vfn_167_b014b592:
@@ -286,7 +286,7 @@ translate spanish vfn_167_9f28e3ed:
 translate spanish vfn_167_307a7b4f:
 
     # Z "I think she was, If a little mean. I think your mother enjoyed having her as an audience, when we were fucking."
-    Z "Creo que lo era, si un poco mala. Creo que tu madre disfrutaba teniéndola como público, cuando follábamos."
+    Z "Creo que sí, aunque era un poco mala. Creo que tu madre disfrutaba teniéndola de público cuando follábamos."
 
 # game/scripts/family.rpy:170
 translate spanish vfn_167_a80e60de:
@@ -388,13 +388,13 @@ translate spanish vfn_167_039267c7:
 translate spanish vfn_167_a1836958:
 
     # Yra "So... good...!!"
-    Yra "¡¡Que... bueno...!!"
+    Yra "¡¡Qué... bueno...!!"
 
 # game/scripts/family.rpy:205
 translate spanish vfn_167_715aa8d5:
 
     # Z "Your mother was bored quickly, and her patience ran dry even faster. Whenever your mother was finished..."
-    Z "Tu madre se aburría rápidamente, y su paciencia se agotaba aún más deprisa. Cada vez que ella terminaba..."
+    Z "Tu madre se aburría rápido y su paciencia se agotaba aún antes. Cada vez que terminaba..."
 
 # game/scripts/family.rpy:208
 translate spanish vfn_167_f11fda12:
@@ -538,7 +538,7 @@ translate spanish vfn_193_f510e9c1:
 translate spanish vfn_193_741efd8b:
 
     # Z "Her sister was in the room, and I was dropped like a hot potato, with my dick at full mast, waving in the breeze...I was furious."
-    Z "Su hermana estaba en la habitación, y me dejé caer como una patata caliente, con la polla en ristre, ondeando en la brisa... Estaba furioso.."
+    Z "Su hermana estaba en la habitación y me dejó tirado como una patata caliente, con la polla en ristre, ondeando al aire... Estaba furioso."
 
 # game/scripts/family.rpy:260
 translate spanish vfn196_89c74bde:
@@ -580,7 +580,7 @@ translate spanish vfn196_29c6d862:
 translate spanish vfn196_0f1310dc:
 
     # Z "She had left me hanging one time too many, and while there are guys who are into this, I am not the type. I never was, not even then."
-    Z "Me había dejado colgado una vez de más, y aunque hay tíos a los que les va eso, yo no soy de ese tipo. Nunca lo fui, ni siquiera entonces."
+    Z "Me había dejado colgado demasiadas veces y, aunque hay tíos a los que les va eso, yo no soy de esos. Nunca lo fui, ni siquiera entonces."
 
 # game/scripts/family.rpy:273
 translate spanish vfn196_f1fa4bbb:
@@ -598,7 +598,7 @@ translate spanish vfn196_9a5b85ff:
 translate spanish vfn196_3eacb03c:
 
     # Yz "...what woman does that? Does that seem like something a caring person would do? She wants to be my girlfriend but all she does is take."
-    Yz "... ¿qué mujer hace eso? ¿Te parece algo que haría una persona cariñosa? Quiere ser mi novia pero lo único que hace es coger y recibir."
+    Yz "... ¿qué mujer hace eso? ¿Te parece algo que haría una persona cariñosa? Quiere ser mi novia, pero lo único que hace es recibir."
 
 # game/scripts/family.rpy:276
 translate spanish vfn196_90b464a8:
@@ -682,7 +682,7 @@ translate spanish vfn196_2ab5a825:
 translate spanish vfn205_f42ac5ff:
 
     # Z "So I turned around to her, in silence. Looking at her."
-    Z "Me volví hacia ella, en silencio. Mirándola."
+    Z "Me volví hacia ella en silencio y la miré."
 
 # game/scripts/family.rpy:314
 translate spanish vfn205_084f74ca:
@@ -700,7 +700,7 @@ translate spanish vfn205_36beaea8:
 translate spanish vfn205_cde21fcb:
 
     # Na "That doesn't sound like the wallflower you have described. That sounds... confident, yeah."
-    Na "No parece la alhelí que has descrito. Suena... segura de sí misma, sí."
+    Na "No parece la chica tímida que has descrito. Suena... segura de sí misma, sí."
 
 # game/scripts/family.rpy:317
 translate spanish vfn205_a117bf6f:
@@ -718,7 +718,7 @@ translate spanish vfn205_dbb9fd23:
 translate spanish vfn205_a6780abf:
 
     # Z "She didn't break eye contact with me once. Neither did I."
-    Z "No rompió el contacto visual conmigo ni una sola vez. Ni yo tampoco."
+    Z "No apartó la mirada ni una sola vez. Yo tampoco."
 
 # game/scripts/family.rpy:324
 translate spanish vfn205_68c1f31c:
@@ -766,7 +766,7 @@ translate spanish vfn205_807b1195:
 translate spanish vfn205_f5a0d4d7:
 
     # Z "...so I sat down next to her..."
-    Z "... así que me planté a su lado..."
+    Z "... así que me senté a su lado..."
 
 # game/scripts/family.rpy:341
 translate spanish vfn205_44aeb6f2:
@@ -1174,7 +1174,7 @@ translate spanish vfn125_a8e68c26:
 translate spanish vfn125_f97f1a44:
 
     # Yw "{i}*slurp*"
-    Yw "{i}*chupa*{/i}"
+    Yw "{i}*chupada*{/i}"
 
 # game/scripts/family.rpy:496
 translate spanish vfn125_a8270805:
@@ -1510,7 +1510,7 @@ translate spanish re_vfn224_9608796b:
 translate spanish re_vfn224_20792d2d:
 
     # Z "*grunt*"
-    Z "*gruñidos*"
+    Z "{i}*gruñidos*{/i}"
 
 # game/scripts/family.rpy:625
 translate spanish re_vfn224_cec71747:
@@ -1654,7 +1654,7 @@ translate spanish re_vfn224_e36f48fd:
 translate spanish re_vfn224_b2b0c60b:
 
     # Na "{i}*muffled*{/i} Mghh... fuck! Yes! Yess!"
-    Na "{i}*amortiguado*{/i} Mghh... ¡joder! ¡Sí! ¡Siii!"
+    Na "{i}*ahogado*{/i} Mghh... ¡joder! ¡Sí! ¡Siii!"
 
 # game/scripts/family.rpy:666
 translate spanish re_vfn224_4758c93d:
@@ -3256,7 +3256,7 @@ translate spanish vfn118_7f3de46e:
 translate spanish vfn118_e3aedcc7:
 
     # Z "Damn..."
-    Z "Maldita sea..."
+    Z "Joder..."
 
 # game/scripts/family.rpy:1238
 translate spanish vfn118_48325abb:
@@ -4066,7 +4066,7 @@ translate spanish vfn160_73611e10:
 translate spanish vfn160_2eaab7e4:
 
     # Na "{i}*muffled*{/i} Mhhh... ahh..."
-    Na "{i}*amortiguado*{/i} Mhhh... ahh..."
+    Na "{i}*ahogado*{/i} Mhhh... ahh..."
 
 # game/scripts/family.rpy:1549
 translate spanish vfn160_e3f91498:
@@ -5104,7 +5104,7 @@ translate spanish vfn62_112c3f51:
 translate spanish vfn62_72da4013:
 
     # Z "{i}*laughs*{/i} You weren't even born back then, and you're doing your mother a disservice. She wasn't as bad as you make her out to be. Still isn't."
-    Z "{i}*risas* Ni siquiera habías nacido entonces, y le haces un flaco favor a tu madre. No era tan mala como la pintan. Sigue sin serlo."
+    Z "{i}*risas*{/i} Ni siquiera habías nacido entonces, y le haces un flaco favor a tu madre. No era tan mala como la pintan. Sigue sin serlo."
 
 # game/scripts/family.rpy:1980
 translate spanish vfn62_4926add1:
@@ -5272,7 +5272,7 @@ translate spanish rabiah_convi_2_a426c1c0:
 translate spanish rabiah_convi_2_36983d66:
 
     # Om "Hey, honey? How are you two holding up, heh."
-    Om "Ey, ¿cariño? ¿Cómo lo lleváis, eh?"
+    Om "Oye, ¿cariño? ¿Cómo lo lleváis, eh?"
 
 # game/scripts/family.rpy:2050
 translate spanish rabiah_convi_2_51f03db8:
@@ -5350,7 +5350,7 @@ translate spanish rabiah_convi_2_a426c1c0_1:
 translate spanish rabiah_convi_2_36983d66_1:
 
     # Om "Hey, honey? How are you two holding up, heh."
-    Om "Ey, ¿cariño? ¿Cómo lo lleváis, eh?"
+    Om "Oye, ¿cariño? ¿Cómo lo lleváis, eh?"
 
 # game/scripts/family.rpy:2081
 translate spanish rabiah_convi_2_51f03db8_1:
@@ -6130,19 +6130,19 @@ translate spanish omar_convi_3_83e92d34:
 translate spanish omar_convi_3_cbd81b1d:
 
     # Z "Hey, girl."
-    Z "Ey, chica."
+    Z "Oye, chica."
 
 # game/scripts/family.rpy:2391
 translate spanish omar_convi_3_137cbde9:
 
     # W "Hey..."
-    W "Ey..."
+    W "Oye..."
 
 # game/scripts/family.rpy:2392
 translate spanish omar_convi_3_1eb702c2:
 
     # W "{i}*kissing*"
-    W "{i}*beso*{/i}"
+    W "{i}*besando*{/i}"
 
 # game/scripts/family.rpy:2395
 translate spanish omar_convi_3_d30d4d86:
@@ -7030,7 +7030,7 @@ translate spanish omar_convi_1_7f2dc3ea:
 translate spanish omar_convi_1_1eb702c2:
 
     # W "{i}*kissing*"
-    W "{i}*beso*{/i}"
+    W "{i}*besando*{/i}"
 
 # game/scripts/family.rpy:2773
 translate spanish omar_convi_1_d30d4d86:
@@ -7042,7 +7042,7 @@ translate spanish omar_convi_1_d30d4d86:
 translate spanish omar_convi_1_1eb702c2_1:
 
     # W "{i}*kissing*"
-    W "{i}*beso*{/i}"
+    W "{i}*besando*{/i}"
 
 # game/scripts/family.rpy:2779
 translate spanish omar_convi_1_6e037dd7:
@@ -7420,7 +7420,7 @@ translate spanish omar_convi_1_522911d8:
 translate spanish omar_convi_1_27ab69b3:
 
     # Om "{i}*gulp*"
-    Om "{i}*tragando*"
+    Om "{i}*traga*{/i}"
 
 # game/scripts/family.rpy:2946
 translate spanish omar_convi_1_0ffa627f:
@@ -9386,7 +9386,7 @@ translate spanish strings:
 
     # game/scripts/family.rpy:1234
     old "\"Damn...\""
-    new "\"Maldita sea...\""
+    new "\"Joder...\""
 
     # game/scripts/family.rpy:1234
     old "\"Come on [Na], get dressed.\""

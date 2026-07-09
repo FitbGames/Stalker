@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/day15.rpy:5
 translate spanish d15a_b4ceb598:
@@ -100,7 +100,7 @@ translate spanish d15a_d1aaf1eb:
 translate spanish d15a_8d0b4a90:
 
     # Na "Hey uncle, what's up..."
-    Na "Ey tío, ¿qué pasa..."
+    Na "Oye, tío, ¿qué pasa...?"
 
 # game/scripts/day15.rpy:53
 translate spanish d15a_ec1b1c7c:
@@ -388,7 +388,7 @@ translate spanish d15a43_80c0d34b:
 translate spanish d15a43_45178ba6:
 
     # Na "Hey guys! I'm back!"
-    Na "¡Ey chicas! ¡Ya estoy de vuelta!"
+    Na "¡Hola, chicas! ¡Ya estoy de vuelta!"
 
 # game/scripts/day15.rpy:183
 translate spanish d15a43_b7a5c405:
@@ -676,7 +676,7 @@ translate spanish re_d15a73_5ab3574d:
 translate spanish re_d15a73_8390e119:
 
     # Na "Hey..."
-    Na "Ey..."
+    Na "Oye..."
 
 # game/scripts/day15.rpy:299
 translate spanish re_d15a73_30628e4f:
@@ -1102,7 +1102,7 @@ translate spanish re_d15a73_d1979e80:
 translate spanish re_d15a73_514ad75a:
 
     # Ra "You should consider hiring a help, eventually. I am thinking of it myself."
-    Ra "Deberías considerar contratar ayuda, eventualmente. Yo mismo estoy pensando en eso."
+    Ra "Deberías considerar contratar ayuda, eventualmente. Yo misma estoy pensando en eso."
 
 # game/scripts/day15.rpy:481
 translate spanish re_d15a73_a06bd09c:
@@ -1432,13 +1432,13 @@ translate spanish re_d15a73_58880386:
 translate spanish d15a105_82c8c6a0:
 
     # Na "Hey, now! Can you put me down? I'm getting dizzy!"
-    Na "¡Ey, ahora! ¿Puedes bajarme? ¡Me estoy mareando!"
+    Na "¡Eh! ¿Puedes bajarme? ¡Me estoy mareando!"
 
 # game/scripts/day15.rpy:621
 translate spanish d15a105_40145286:
 
     # Na "Hey, where's your hand goi-"
-    Na "Ey, ¿dónde está tu mano-"
+    Na "Oye, ¿dónde está tu mano...?"
 
 # game/scripts/day15.rpy:624
 translate spanish d15a105_255fb4ba:
@@ -1462,7 +1462,7 @@ translate spanish d15a105_dc083f14:
 translate spanish d15a105_5917ffb4:
 
     # Na "Hey... you're being too rough..."
-    Na "Ey... estás siendo demasiado rudo..."
+    Na "Oye... estás siendo demasiado brusco..."
 
 # game/scripts/day15.rpy:635
 translate spanish d15a105_e1a8529a:
@@ -1582,7 +1582,7 @@ translate spanish d15a105_b3598aa2:
 translate spanish d15a105_c9cde9bb:
 
     # Na "Hey, what are you..."
-    Na "Ey, ¿qué estás..."
+    Na "Oye, ¿qué estás...?"
 
 # game/scripts/day15.rpy:687
 translate spanish d15a105_dbf25513:
@@ -1762,7 +1762,7 @@ translate spanish d15a105_c1992dc6:
 translate spanish d15a105_87ea8dc8:
 
     # Na "{i}*gag*{/i}"
-    Na "{i}*gag*{/i}"
+    Na "{i}*arcadas*{/i}"
 
 # game/scripts/day15.rpy:747
 translate spanish d15a105_a114dddd:
@@ -1870,13 +1870,13 @@ translate spanish d15a105_2701d5cc:
 translate spanish d15a105_24909c00:
 
     # "You keep pounding her, on and on, while your [persistent.da] is standing next to you..."
-    "Sigues golpeándola, una y otra vez, mientras tu [persistent.da] está parado a tu lado..."
+    "Sigues machacándola, una y otra vez, mientras tu [persistent.da] está parada a tu lado..."
 
 # game/scripts/day15.rpy:782
 translate spanish d15a105_b6a6dab1:
 
     # "You keep pounding her, on and on, while [A] is standing next to you..."
-    "Sigues machacándola, una y otra vez, mientras tu [persistent.da] está parada a tu lado..."
+    "Sigues machacándola, una y otra vez, mientras tu [A] está parada a tu lado..."
 
 # game/scripts/day15.rpy:783
 translate spanish d15a105_0ac1bc80:
@@ -2254,7 +2254,7 @@ translate spanish d15a105_a8db3b1d:
 translate spanish d15a105_d6f3e07c:
 
     # A "Hahh... {i}*gulp*{/i}"
-    A "Hahh... {i}*glup*{/i}"
+    A "Hahh... {i}*traga*{/i}"
 
 # game/scripts/day15.rpy:914
 translate spanish d15a105_03f1a2bb:
@@ -2434,7 +2434,7 @@ translate spanish d15a105_08884354:
 translate spanish d15a105_e3aedcc7:
 
     # Z "Damn..."
-    Z "Maldita sea..."
+    Z "Joder..."
 
 # game/scripts/day15.rpy:968
 translate spanish d15a105_2ed0bde6:
@@ -2566,7 +2566,7 @@ translate spanish d15a105_a4b93390:
 translate spanish d15a105_de90bee3:
 
     # Na "Mh... {i}*slurp*{/i}"
-    Na "Mh... {i}*chupa*{/i}"
+    Na "Mh... {i}*chupada*{/i}"
 
 # game/scripts/day15.rpy:1016
 translate spanish d15a105_c7099611:
@@ -2596,7 +2596,7 @@ translate spanish d15a198_658609e0:
 translate spanish d15a198_020b09e1:
 
     # "With maybe an inkling into what is to come, [A] lands on the bed and sits up straight, unwilling to miss a second of the action."
-    "Tal vez con una idea de lo que está por venir, Ain aterriza en la cama y se sienta derecha, sin querer perderse ni un segundo de la acción."
+    "Tal vez con una idea de lo que está por venir, [A] aterriza en la cama y se sienta derecha, sin querer perderse ni un segundo de la acción."
 
 # game/scripts/day15.rpy:1033
 translate spanish d15a198_e624b895:
@@ -2932,7 +2932,7 @@ translate spanish d15a219_cc934ff3:
 translate spanish d15a231_66f4ec3d:
 
     # Na "Hey guys, uhm... we are here now!"
-    Na "Ey chicos, uhm... ¡ya estamos aquí!"
+    Na "Oye, chicos, eh... ¡ya estamos aquí!"
 
 # game/scripts/day15.rpy:1180
 translate spanish d15a231_467ac3e4:
@@ -2986,7 +2986,7 @@ translate spanish d15a231_9f96aef2:
 translate spanish d15a231_cbc05da6:
 
     # S "Whatever you did to her, [persistent.dad], I know that she will be coming to visit again soon."
-    S "Hicieras lo que hicieras con ella, [persistent.dad], lo sé..."
+    S "Hicieras lo que hicieras con ella, [persistent.dad], sé que volverá a visitarnos pronto."
 
 # game/scripts/day15.rpy:1200
 translate spanish d15a231_2f1e4f06:
@@ -3160,13 +3160,13 @@ translate spanish d15a241_d33e084f:
 translate spanish d15a241_cfc30c2e:
 
     # W "{i}*gulp*{/i}"
-    W "{i}*gulp*{/i}"
+    W "{i}*traga*{/i}"
 
 # game/scripts/day15.rpy:1280
 translate spanish d15a241_1532486c:
 
     # Na "I hope you will come to visit us again, soon?"
-    Na "Espero que vuelvas a visitarnos pronto."
+    Na "¿Espero que vengáis a visitarnos de nuevo pronto?"
 
 # game/scripts/day15.rpy:1285
 translate spanish d15a241_a72f98eb:
@@ -3196,7 +3196,7 @@ translate spanish d15a241_428b63a9:
 translate spanish d15b_1ef9888d:
 
     # S "Hey..."
-    S "Ey..."
+    S "Oye..."
 
 # game/scripts/day15.rpy:1313
 translate spanish d15b_50512010:
@@ -3700,7 +3700,7 @@ translate spanish re_d15b12_d588473f:
 translate spanish re_d15b12_d6d1e182:
 
     # Z "Am I?"
-    Z "¿Lo hago?"
+    Z "¿Llego tarde?"
 
 # game/scripts/day15.rpy:1583
 translate spanish re_d15b12_ec58e614:
@@ -4942,7 +4942,7 @@ translate spanish ss43_a711aa67:
 translate spanish ss43_1799fd44:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupa*{/i}"
+    S "{i}*chupada*{/i}"
 
 # game/scripts/day15.rpy:2097
 translate spanish ss43_4bd3b6d6:
@@ -6010,7 +6010,7 @@ translate spanish d15c_7f525531:
 translate spanish d15c_08ca9df6:
 
     # I "Home is where we once used to live."
-    Z "¿A qué te referías con que puedo ayudarte a llegar a casa?"
+    I "El hogar es el lugar donde antes vivíamos."
 
 # game/scripts/day15.rpy:2577
 translate spanish d15c_c7612970:

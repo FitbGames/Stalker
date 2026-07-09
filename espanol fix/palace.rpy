@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/palace.rpy:23
 translate spanish palace_throne_menu_8c11b0d1:
 
     # Q "So... now that we got that out of the way..."
-    Q "Entonces... ahora que hemos resuelto eso..."
+    Q "Entonces... ahora que hemos aclarado eso..."
 
 # game/scripts/palace.rpy:24
 translate spanish palace_throne_menu_8fffe919:
@@ -34,7 +34,7 @@ translate spanish palace_throne_menu_c227c8f4:
 translate spanish palace_throne_menu_fc4a84ec:
 
     # Q "How do you intend to assist me today?"
-    Q "¿Cómo planeas ayudarme hoy?"
+    Q "¿Cómo piensas ayudarme hoy?"
 
 # game/scripts/palace.rpy:39
 translate spanish palace_throne_menu_b8b70ce8:
@@ -106,7 +106,7 @@ translate spanish palace_throne_menu_193b1f2c:
 translate spanish palace_throne_menu_5c42468d:
 
     # Z "We were discussing about a certain person of interest last time."
-    Z "Estábamos hablando sobre una persona de interés la última vez."
+    Z "La última vez hablamos de cierta persona de interés."
 
 # game/scripts/palace.rpy:93
 translate spanish palace_throne_menu_1c3538d2:
@@ -124,7 +124,7 @@ translate spanish palace_throne_menu_039b2da1:
 translate spanish palace_throne_menu_dd8cb38f:
 
     # Z "I just came by to notify you that I won't be available today. I have a few other things that I need to do."
-    Z "Solo vine para notificarte que hoy no estaré disponible. Tengo algunas otras cosas que necesito hacer."
+    Z "Solo vine a avisarte de que hoy no estaré disponible. Tengo otras cosas que hacer."
 
 # game/scripts/palace.rpy:103
 translate spanish palace_throne_menu_4fec0997:
@@ -136,13 +136,13 @@ translate spanish palace_throne_menu_4fec0997:
 translate spanish palace_throne_menu_b5ae0399:
 
     # Q "Well, that wasn't necessary. Anyways... Until next time, Stalker [persistent.player_name]."
-    Q "Bueno, eso no fue necesario. De todos modos... Hasta la próxima, Acechador [persistent.player_name]."
+    Q "Bueno, no hacía falta. En fin... Hasta la próxima, Acechador [persistent.player_name]."
 
 # game/scripts/palace.rpy:117
 translate spanish palace_bedroom_1_ad76a09c:
 
     # "After completing the required task, you move unchallenged towards the private chambers."
-    "Después de completar la tarea requerida, te diriges sin obstáculos hacia las cámaras privadas."
+    "Tras completar la tarea, te diriges sin que nadie te detenga hacia los aposentos privados."
 
 # game/scripts/palace.rpy:118
 translate spanish palace_bedroom_1_a0ae3b23:
@@ -184,7 +184,7 @@ translate spanish palace_bedroom_1_f56a209d:
 translate spanish palace_bedroom_1_8de687f8:
 
     # Z "A dull excuse to be able to speak in private, but an excuse nonetheless."
-    Z "Una excusa sosa para poder hablar en privado, pero una excusa al fin y al cabo."
+    Z "Una excusa aburrida para poder hablar en privado, pero una excusa al fin y al cabo."
 
 # game/scripts/palace.rpy:139
 translate spanish palace_bedroom_1_07ac6529:
@@ -196,13 +196,13 @@ translate spanish palace_bedroom_1_07ac6529:
 translate spanish palace_bedroom_1_4c576581:
 
     # Q "It's... um..."
-    Q "Esto... um..."
+    Q "Es... eh..."
 
 # game/scripts/palace.rpy:143
 translate spanish palace_bedroom_1_eb66110c:
 
     # Q "I've had that in my wardrobe well before she did."
-    Q "Ya la tenía en mi armario mucho antes que ella la tuviera."
+    Q "Ya la tenía en mi armario mucho antes que ella."
 
 # game/scripts/palace.rpy:146
 translate spanish palace_bedroom_1_404d02aa:
@@ -244,7 +244,7 @@ translate spanish palace_bedroom_1_bb6be85b:
 translate spanish palace_bedroom_1_1ab58abf:
 
     # Q "I am probably just wasting your time today."
-    Q "Probablemente hoy solo esté perdiendo tu tiempo."
+    Q "Probablemente hoy solo te esté haciendo perder el tiempo."
 
 # game/scripts/palace.rpy:165
 translate spanish palace_bedroom_1_26125fdd:
@@ -256,13 +256,13 @@ translate spanish palace_bedroom_1_26125fdd:
 translate spanish palace_bedroom_1_55f4d40c:
 
     # Q "...Then there's guards slacking in their duties and people coming to me for a ruling on the dumbest of things..."
-    Q "... Luego están los guardias que se relajan en sus deberes y la gente viene a mí para decidir sobre las cosas más estúpidas..."
+    Q "... Luego están los guardias que descuidan sus deberes y la gente que acude a mí para que decida sobre las cosas más absurdas..."
 
 # game/scripts/palace.rpy:169
 translate spanish palace_bedroom_1_bc66c47a:
 
     # Q "On top of all that, there's nothing that spices up your day better than being almost attacked by some fanatic, mentally deranged citizens whose only point of existence is to worship their {i}dear Queen{/i}."
-    Q "Además, nada anima tu día mejor que ser casi atacada por algunos ciudadanos fanáticos y mentalmente trastornados cuyo único propósito de existencia es adorar a su {i}querida Reina{/i}."
+    Q "Y, por si fuera poco, nada anima más el día que estar a punto de ser atacada por unos fanáticos trastornados cuyo único propósito en la vida es adorar a su {i}querida Reina{/i}."
 
 # game/scripts/palace.rpy:170
 translate spanish palace_bedroom_1_1dbe03d9:
@@ -274,19 +274,19 @@ translate spanish palace_bedroom_1_1dbe03d9:
 translate spanish palace_bedroom_1_21a6cdff:
 
     # Q "It's idiotic. So damn frustrating!"
-    Q "Es una idiotez. ¡Tan jodidamente frustrante!"
+    Q "Es una idiotez. ¡Es jodidamente frustrante!"
 
 # game/scripts/palace.rpy:176
 translate spanish palace_bedroom_1_2f7f5e9f:
 
     # "She pauses..."
-    "Ella hace una pausa..."
+    "Hace una pausa..."
 
 # game/scripts/palace.rpy:180
 translate spanish palace_bedroom_1_64d3e914:
 
     # "...before continuing, with a voice like dripping venom..."
-    "... antes de continuar, con una voz como goteando veneno..."
+    "... antes de continuar con una voz cargada de veneno..."
 
 # game/scripts/palace.rpy:183
 translate spanish palace_bedroom_1_b1c3512f:
@@ -304,7 +304,7 @@ translate spanish palace_bedroom_1_0fb0b647:
 translate spanish palace_bedroom_1_020e1aa6:
 
     # Q "They {i}RAISED{/i} me!! As if it was just a {i}job{/i} to take off the checklist for them, so what are they doing!?"
-    Q "¡¡Me {i}CRIARON{/i}!! Como si sólo fuera un {i}trabajo{/i} para marcar en su lista de verificación, ¿¡entonces qué están haciendo!?"
+    Q "¡¡Me {i}CRIARON{/i}!! Como si solo fuera una {i}tarea{/i} que tachar de una lista. Entonces, ¿¡qué demonios están haciendo!?"
 
 # game/scripts/palace.rpy:190
 translate spanish palace_bedroom_1_bdc61a01_2:
@@ -316,7 +316,7 @@ translate spanish palace_bedroom_1_bdc61a01_2:
 translate spanish palace_bedroom_1_be9d070a:
 
     # Q "Screw this..."
-    Q "Al diablo con esto..."
+    Q "A la mierda..."
 
 # game/scripts/palace.rpy:200
 translate spanish palace_bedroom_1_bdc61a01_3:
@@ -346,7 +346,7 @@ translate spanish palace_bedroom_1_bdc61a01_4:
 translate spanish palace_bedroom_1_fc6958c0:
 
     # Q "I didn't expect... that it would feel good to let it out."
-    Q "No esperaba... que se sintiera bien desahogarme."
+    Q "No esperaba... sentirme tan bien al desahogarme."
 
 # game/scripts/palace.rpy:218
 translate spanish palace_bedroom_1_8c8ec2b4:
@@ -364,7 +364,7 @@ translate spanish palace_bedroom_1_ae66c791:
 translate spanish palace_bedroom_1_cfe8bec6:
 
     # "There is a faint smile behind her expression..."
-    "Hay una leve sonrisa detrás de su expresión..."
+    "Una leve sonrisa asoma en su rostro..."
 
 # game/scripts/palace.rpy:225
 translate spanish palace_bedroom_1_6ea2d249:
@@ -394,19 +394,19 @@ translate spanish palace_bedroom_1_b5ee5e18:
 translate spanish palace_bedroom_1_a5de566e:
 
     # Q "You're the first person I could speak to openly... without worrying for my reputation..."
-    Q "Eres la primera persona a la que puedo hablar abiertamente... sin preocuparme por mi reputación..."
+    Q "Eres la primera persona con la que puedo hablar abiertamente... sin preocuparme por mi reputación..."
 
 # game/scripts/palace.rpy:237
 translate spanish palace_bedroom_1_e45d10c3:
 
     # Q "Anyways... thank you... for listening, [persistent.player_name]."
-    Q "De todos modos... gracias... por escuchar, [persistent.player_name]."
+    Q "En fin... gracias... por escucharme, [persistent.player_name]."
 
 # game/scripts/palace.rpy:238
 translate spanish palace_bedroom_1_d5ec6ea4:
 
     # Q "I assume your family misses you. If you don't mind, I would like to take a bath by myself, and contemplate things..."
-    Q "Supongo que tu familia te echa de menos. Si no te importa, me gustaría darme un baño a solas y contemplar las cosas..."
+    Q "Supongo que tu familia te echa de menos. Si no te importa, me gustaría darme un baño a solas y pensar un poco..."
 
 # game/scripts/palace.rpy:241
 translate spanish palace_bedroom_1_048a1b85:
@@ -430,7 +430,7 @@ translate spanish palace_bedroom_2_b1c4e41e:
 translate spanish palace_bedroom_2_85290699:
 
     # "She looks to one side, frustrated... or maybe, sad?"
-    "Ella mira hacia un lado, frustrada... o quizá, ¿triste?"
+    "Mira hacia un lado, frustrada... o quizá triste."
 
 # game/scripts/palace.rpy:260
 translate spanish palace_bedroom_2_d9286bd9:
@@ -442,7 +442,7 @@ translate spanish palace_bedroom_2_d9286bd9:
 translate spanish palace_bedroom_2_5ac7c0d1:
 
     # Z "What kind of greeting is that supposed to be?"
-    Z "¿Qué tipo de saludo se supone que es ese?"
+    Z "¿Qué clase de saludo es ese?"
 
 # game/scripts/palace.rpy:265
 translate spanish palace_bedroom_2_2857317e:
@@ -466,7 +466,7 @@ translate spanish palace_bedroom_2_de157343:
 translate spanish palace_bedroom_2_2fdb17d6:
 
     # Z "Go on, tell me what's wrong. That is why you wanted me here, isn't it?"
-    Z "Adelante, dime qué te pasa. Esa es la razón por la que querías que estuviera aquí, ¿verdad?"
+    Z "Vamos, dime qué te pasa. Para eso querías que viniera, ¿no?"
 
 # game/scripts/palace.rpy:278
 translate spanish palace_bedroom_2_bdc61a01_1:
@@ -478,7 +478,7 @@ translate spanish palace_bedroom_2_bdc61a01_1:
 translate spanish palace_bedroom_2_e054c8d7:
 
     # "You stand there for a short moment, waiting for her reply..."
-    "Te quedas allí por un breve momento, esperando su respuesta..."
+    "Te quedas allí un momento, esperando su respuesta..."
 
 # game/scripts/palace.rpy:282
 translate spanish palace_bedroom_2_28b90c10:
@@ -490,7 +490,7 @@ translate spanish palace_bedroom_2_28b90c10:
 translate spanish palace_bedroom_2_967a60f4:
 
     # Q "It's nothing, I shouldn't bother you with it. I have to deal with it and move on."
-    Q "No es nada, no debería molestarte con esto. Tengo que lidiar con ello y seguir adelante."
+    Q "No es nada, no debería molestarte con esto. Tengo que afrontarlo y seguir adelante."
 
 # game/scripts/palace.rpy:286
 translate spanish palace_bedroom_2_5ab3574d:
@@ -514,7 +514,7 @@ translate spanish palace_bedroom_2_568f8868:
 translate spanish palace_bedroom_2_9f0b3135:
 
     # Z "Take a few steps back, and sit your pretty booty on the chair."
-    Z "Da unos pasos hacia atrás y siéntate en la silla con tu lindo trasero."
+    Z "Da unos pasos atrás y planta ese bonito culo en la silla."
 
 # game/scripts/palace.rpy:296
 translate spanish palace_bedroom_2_0cca8624:
@@ -526,7 +526,7 @@ translate spanish palace_bedroom_2_0cca8624:
 translate spanish palace_bedroom_2_8916358c:
 
     # Z "Go on, take a seat."
-    Z "Vamos, toma asiento."
+    Z "Vamos, siéntate."
 
 # game/scripts/palace.rpy:300
 translate spanish palace_bedroom_2_3aa81aa6:
@@ -562,7 +562,7 @@ translate spanish palace_bedroom_2_22d6e7f0:
 translate spanish palace_bedroom_2_af3110a5:
 
     # Z "What has brought your mood down today? Stress again?"
-    Z "¿Qué ha afectado tu estado de ánimo hoy? ¿El estrés de nuevo?"
+    Z "¿Qué te ha bajado el ánimo hoy? ¿Otra vez el estrés?"
 
 # game/scripts/palace.rpy:314
 translate spanish palace_bedroom_2_80072c0f:
@@ -586,7 +586,7 @@ translate spanish palace_bedroom_2_2dbcc6ea:
 translate spanish palace_bedroom_2_c561e53a:
 
     # Z "The one you want to feed me my balls?"
-    Z "¿La que quieres que me sirva mis partes masculinas?"
+    Z "¿La que quieres que me haga comerme mis propios huevos?"
 
 # game/scripts/palace.rpy:320
 translate spanish palace_bedroom_2_cdb3391c:
@@ -616,7 +616,7 @@ translate spanish palace_bedroom_2_6c3713c9:
 translate spanish palace_bedroom_2_62df6c42:
 
     # Q "After some interrogations, I found out that [Mi] never in fact preyed on the slave that accused him. He was put in a position that made it look like he did."
-    Q "Después de algunas interrogaciones, descubrí que [Mi] en realidad no se aprovechó de la esclava de la que fue acusado. Lo pusieron en una posición que hacía parecer que lo había hecho."
+    Q "Después de varios interrogatorios, descubrí que [Mi] nunca abusó de la esclava que lo acusó. Lo pusieron en una situación que hacía parecer que sí."
 
 # game/scripts/palace.rpy:329
 translate spanish palace_bedroom_2_45a8deb7:
@@ -652,7 +652,7 @@ translate spanish palace_bedroom_2_05179602:
 translate spanish palace_bedroom_2_efd33d23:
 
     # Q "She lied to me and maneuvered to get close to me."
-    Q "Ella me mintió y me maniobró para acercarse a mí."
+    Q "Me mintió y maniobró para acercarse a mí."
 
 # game/scripts/palace.rpy:341
 translate spanish palace_bedroom_2_8a28b53f:
@@ -670,7 +670,7 @@ translate spanish palace_bedroom_2_4a4859b1:
 translate spanish palace_bedroom_2_145384d2:
 
     # Z "That alone, played in the right way, can be a mighty boon for anybody."
-    Z "Eso solo, jugado de la manera correcta, puede ser una gran ventaja para cualquiera."
+    Z "Eso por sí solo, bien aprovechado, puede ser una gran ventaja para cualquiera."
 
 # game/scripts/palace.rpy:346
 translate spanish palace_bedroom_2_989b261a:
@@ -712,7 +712,7 @@ translate spanish palace_bedroom_2_3f0020f5:
 translate spanish palace_bedroom_2_136803c9:
 
     # Q "I understand that, but she can be overprotective to the point of forgetting her place."
-    Q "Lo entiendo, pero puede ser sobreprotectora al punto de olvidar su lugar."
+    Q "Lo entiendo, pero puede llegar a ser tan sobreprotectora que olvida cuál es su lugar."
 
 # game/scripts/palace.rpy:365
 translate spanish palace_bedroom_2_a826caf0:
@@ -730,13 +730,13 @@ translate spanish palace_bedroom_2_43fc5446:
 translate spanish palace_bedroom_2_800c0243:
 
     # Q "He did not. But the way things went, do you think I could have handled it differently?"
-    Q "No, no merecía morir. Pero con la forma en que ocurrieron las cosas, ¿crees que podría haberlo manejado de manera diferente?"
+    Q "No, no merecía morir. Pero, tal como ocurrieron las cosas, ¿crees que podría haber actuado de otra manera?"
 
 # game/scripts/palace.rpy:373
 translate spanish palace_bedroom_2_5d1d504a:
 
     # Q "The Elders raised me to be ruthless when needed! It is what am I supposed to do."
-    Q "Los Ancianos me criaron para ser implacable cuando sea necesario. Es lo que se supone que debo hacer."
+    Q "Los Ancianos me criaron para ser implacable cuando fuera necesario. Es lo que se supone que debo hacer."
 
 # game/scripts/palace.rpy:376
 translate spanish palace_bedroom_2_3337ab92:
@@ -760,7 +760,7 @@ translate spanish palace_bedroom_2_7ad49782:
 translate spanish pb28x4_a5b04620:
 
     # Q "It doesn't matter anyway. I've been expected to lead my whole life."
-    Q "De todos modos, no importa. Llevo toda la vida esperando que me dirijan."
+    Q "De todos modos, no importa. Toda mi vida se ha esperado de mí que lidere."
 
 # game/scripts/palace.rpy:387
 translate spanish pb28x4_c67dd76f:
@@ -772,7 +772,7 @@ translate spanish pb28x4_c67dd76f:
 translate spanish pb28x4_05248ce2:
 
     # Q "What does that say about me? Is it even my position at this point? Or am I just too weak?"
-    Q "¿Qué dice eso de mí? ¿Es incluso mi posición en este momento? ¿O soy simplemente demasiado débil?"
+    Q "¿Qué dice eso de mí? ¿De verdad merezco estar en este puesto? ¿O simplemente soy demasiado débil?"
 
 # game/scripts/palace.rpy:391
 translate spanish pb28x4_ef6c80b8:
@@ -790,7 +790,7 @@ translate spanish pb28x4_bdc61a01:
 translate spanish pb28x4_a1dbed2e:
 
     # "She stares into the void for a few seconds, before gathering herself..."
-    "Ella mira al vacío durante unos segundos, antes de reponerse..."
+    "Mira al vacío durante unos segundos antes de recomponerse..."
 
 # game/scripts/palace.rpy:398
 translate spanish pb28x4_76360a30:
@@ -3166,7 +3166,7 @@ translate spanish pp21_42051d54:
 translate spanish pp21_936e1dba:
 
     # Sl "{i}*slurp*{/i}"
-    Sl "{i}*chupa*{/i}"
+    Sl "{i}*chupada*{/i}"
 
 # game/scripts/palace.rpy:1448
 translate spanish pp21_759e6d4f_1:
@@ -3220,7 +3220,7 @@ translate spanish pp21_e548b61c:
 translate spanish pp21_e25bedad:
 
     # Sl "{i}*gulp*{/i}"
-    Sl "{i}*gulp*{/i}"
+    Sl "{i}*traga*{/i}"
 
 # game/scripts/palace.rpy:1463
 translate spanish pp21_b1aeb283:
@@ -3232,7 +3232,7 @@ translate spanish pp21_b1aeb283:
 translate spanish pp21_e25bedad_1:
 
     # Sl "{i}*gulp*{/i}"
-    Sl "{i}*gulp*{/i}"
+    Sl "{i}*traga*{/i}"
 
 # game/scripts/palace.rpy:1467
 translate spanish pp21_1290596e:
@@ -3454,7 +3454,7 @@ translate spanish pp29anim_dc4b4de5:
 translate spanish pp29anim_936e1dba:
 
     # Sl "{i}*slurp*{/i}"
-    Sl "{i}*chupa*{/i}"
+    Sl "{i}*chupada*{/i}"
 
 # game/scripts/palace.rpy:1593
 translate spanish pp29anim_ecf749a6:
@@ -3490,7 +3490,7 @@ translate spanish pp29anim_651e2564:
 translate spanish pp29anim_c700a355:
 
     # Sl "{i}*slurp*{/i} Yesh, mahs... {i}*sucking*{/i}"
-    Sl "{i}*chupa*{/i} Shi, amho... {i}*chupando*{/i}"
+    Sl "{i}*chupada*{/i} Shi, amho... {i}*chupando*{/i}"
 
 # game/scripts/palace.rpy:1603
 translate spanish pp29anim_17e5fa61:
@@ -3508,7 +3508,7 @@ translate spanish pp29anim_d80d6ced:
 translate spanish pp29anim_a70500de:
 
     # Sl "I must not... mh... {i}*slurp*{/i}"
-    Sl "Yo no debo... mh... {i}*chupa*{/i}"
+    Sl "Yo no debo... mh... {i}*chupada*{/i}"
 
 # game/scripts/palace.rpy:1606
 translate spanish pp29anim_b03f3631:
@@ -3592,7 +3592,7 @@ translate spanish pp29anim_83627a53:
 translate spanish pp29anim_936e1dba_1:
 
     # Sl "{i}*slurp*{/i}"
-    Sl "{i}*chupa*{/i}"
+    Sl "{i}*chupada*{/i}"
 
 # game/scripts/palace.rpy:1646
 translate spanish pp29anim_07d7137e:
@@ -3922,13 +3922,14 @@ translate spanish pp34_d4edf312:
 translate spanish pp34_936e1dba:
 
     # Sl "{i}*slurp*{/i}"
-    Sl "{i}*chupa*{/i}"
+    Sl "{i}*chupada*{/i}"
 
 # game/scripts/palace.rpy:1769
 translate spanish pp34_e25bedad:
 
     # Sl "{i}*gulp*{/i}"
-    Sl "{i}*gulp*{/i}"
+    Sl "{i}*traga*{/i}"
+
 
 # game/scripts/palace.rpy:1770
 translate spanish pp34_bdc61a01_2:

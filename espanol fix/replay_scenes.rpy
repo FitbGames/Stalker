@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 translate spanish strings:
 
@@ -24,7 +24,7 @@ translate spanish strings:
 
     # game/scripts/replay_scenes.rpy:54
     old "Tasty dessert"
-    new "Un postre delicioso."
+    new "Un postre delicioso"
 
     # game/scripts/replay_scenes.rpy:56
     old "Introduction"
@@ -88,7 +88,7 @@ translate spanish strings:
 
     # game/scripts/replay_scenes.rpy:67
     old "Meet Kinzi & Kosey alive in the introduction and keep them alive, then visit the Decayed."
-    new "Conoce a Kinzi y Kosey vivos en la introducción y mantenlos con vida, luego visita a los Decayed."
+    new "Conoce a Kinzi y Kosey con vida en la introducción, mantenlos vivos y luego visita a los Decaídos."
 
     # game/scripts/replay_scenes.rpy:69
     old "Foreign affairs"
@@ -96,7 +96,7 @@ translate spanish strings:
 
     # game/scripts/replay_scenes.rpy:70
     old "Drive by"
-    new "Pasar en coche"
+    new "Encuentro fugaz"
 
     # game/scripts/replay_scenes.rpy:70
     old "Don't kill Asani in the introduction, then progress the game."
@@ -108,7 +108,7 @@ translate spanish strings:
 
     # game/scripts/replay_scenes.rpy:72
     old "Kneel before the Queen and don't act out, then progress the game."
-    new "Arrodíllate ante la Reina y no la líes, luego avanza en el juego."
+    new "Arrodíllate ante la Reina, no te pases de la raya y luego avanza en el juego."
 
     # game/scripts/replay_scenes.rpy:73
     old "Lose your temper before the Queen, then progress the game."
@@ -140,7 +140,7 @@ translate spanish strings:
 
     # game/scripts/replay_scenes.rpy:79
     old "Public servant"
-    new "Servidor público"
+    new "Servicio público"
 
     # game/scripts/replay_scenes.rpy:79
     old "Keep the girl who tried to kidnap [A] alive."
@@ -148,7 +148,7 @@ translate spanish strings:
 
     # game/scripts/replay_scenes.rpy:81
     old "Team building"
-    new "Formación de equipos"
+    new "Trabajo en equipo"
 
     # game/scripts/replay_scenes.rpy:81
     old "Take Mantis with you."
@@ -156,7 +156,7 @@ translate spanish strings:
 
     # game/scripts/replay_scenes.rpy:82
     old "Breeding the Queen"
-    new "Criando a la Reina"
+    new "Preñando a la Reina"
 
     # game/scripts/replay_scenes.rpy:82
     old "Leave Mantis behind."
@@ -276,7 +276,7 @@ translate spanish strings:
 
     # game/scripts/replay_scenes.rpy:100
     old "Romance [S] before the Zone and see the event after her return from her perspective."
-    new "Romance con [S] antes de la Zona y observa el evento desde su perspectiva tras su regreso."
+    new "Inicia un romance con [S] antes de la Zona y contempla el evento desde su perspectiva tras su regreso."
 
     # game/scripts/replay_scenes.rpy:101
     old "Reunion"
@@ -284,7 +284,7 @@ translate spanish strings:
 
     # game/scripts/replay_scenes.rpy:101
     old "Romance [S] before the Zone, then wait for her return."
-    new "Romance con [S] antes de la Zona y luego espera su regreso."
+    new "Inicia un romance con [S] antes de la Zona y luego espera su regreso."
 
     # game/scripts/replay_scenes.rpy:102
     old "It can't be helped"
@@ -300,7 +300,7 @@ translate spanish strings:
 
     # game/scripts/replay_scenes.rpy:103
     old "Romance [S] and visit the Queen in the thermae together."
-    new "Romance con [S] y visitar juntos a la Reina en las termas."
+    new "Inicia un romance con [S] y visitad juntos a la Reina en las termas."
 
     # game/scripts/replay_scenes.rpy:105
     old "Mating season"
@@ -324,19 +324,19 @@ translate spanish strings:
 
     # game/scripts/replay_scenes.rpy:107
     old "Have the trailer woman in the overpass become a therapist, then visit her."
-    new "Haz que la mujer del tráiler en el paso elevado se convierta en terapeuta, luego visítala."
+    new "Haz que la mujer de la caravana del paso elevado se convierta en terapeuta y luego visítala."
 
     # game/scripts/replay_scenes.rpy:108
     old "Trailer trash"
-    new "Basura de caravana"
+    new "Chusma de caravana"
 
     # game/scripts/replay_scenes.rpy:108
     old "Turn the trailer woman in the overpass into a prostitute, then visit her."
-    new "Convierte a la mujer del tráiler en el paso elevado en una prostituta, luego visítala."
+    new "Convierte a la mujer de la caravana del paso elevado en prostituta y luego visítala."
 
     # game/scripts/replay_scenes.rpy:109
     old "Regent benefits"
-    new "Beneficios para los Regentes"
+    new "Privilegios de regente"
 
     # game/scripts/replay_scenes.rpy:109
     old "Help the Queen with her personal tasks and accept her reward."
@@ -344,7 +344,7 @@ translate spanish strings:
 
     # game/scripts/replay_scenes.rpy:111
     old "Pigtails and Curls"
-    new "Coletas y Rizos"
+    new "Coletas y rizos"
 
     # game/scripts/replay_scenes.rpy:111
     old "Wait for Nadia and Rabiah to visit your home."
@@ -352,15 +352,15 @@ translate spanish strings:
 
     # game/scripts/replay_scenes.rpy:112
     old "Partners in cream"
-    new "Socios en la crema"
+    new "Cómplices de crema"
 
     # game/scripts/replay_scenes.rpy:112
     old "Romance [S] before the Zone and wait for her return."
-    new "Romance con [S] antes de la Zona y espera su regreso."
+    new "Inicia un romance con [S] antes de la Zona y espera su regreso."
 
     # game/scripts/replay_scenes.rpy:114
     old "Forbidden fruit"
-    new "Fruta prohibida."
+    new "Fruta prohibida"
 
     # game/scripts/replay_scenes.rpy:114
     old "Invite Igor to your home after Kateryna's introduction to house."
@@ -368,15 +368,15 @@ translate spanish strings:
 
     # game/scripts/replay_scenes.rpy:115
     old "Waiting room"
-    new "Sala de espera."
+    new "Sala de espera"
 
     # game/scripts/replay_scenes.rpy:115
     old "Visit the Queen after consoling her in her chambers."
-    new "Visita a la Reina después de consolarla en sus habitaciones."
+    new "Visita a la Reina después de consolarla en sus aposentos."
 
     # game/scripts/replay_scenes.rpy:116
     old "Trusted teacher"
-    new "Profesor de confianza"
+    new "Maestro de confianza"
 
     # game/scripts/replay_scenes.rpy:116
     old "Help Lirah and support her decision."
@@ -392,7 +392,7 @@ translate spanish strings:
 
     # game/scripts/replay_scenes.rpy:118
     old "Tag team"
-    new "Dúo dinámico."
+    new "Trabajo en pareja"
 
     # game/scripts/replay_scenes.rpy:118
     old "Convince Lirah to remain a guard and visit the palace two times afterwards."
@@ -400,7 +400,7 @@ translate spanish strings:
 
     # game/scripts/replay_scenes.rpy:119
     old "Anniversary date"
-    new "Cita de Aniversario."
+    new "Cita de aniversario"
 
     # game/scripts/replay_scenes.rpy:119
     old "Go on a date with your wife."
@@ -408,23 +408,23 @@ translate spanish strings:
 
     # game/scripts/replay_scenes.rpy:120
     old "Straight from the tap"
-    new "Directamente de la fuente."
+    new "Directamente del grifo"
 
     # game/scripts/replay_scenes.rpy:120
     old "Go on a date with your wife and accept the waitress' offer."
-    new "Ve a una cita con tu esposa y acepta la oferta de la camarera."
+    new "Ve a una cita con tu mujer y acepta la oferta de la camarera."
 
     # game/scripts/replay_scenes.rpy:121
     old "Five star service"
-    new "Servicio de cinco estrellas."
+    new "Servicio de cinco estrellas"
 
     # game/scripts/replay_scenes.rpy:121
     old "Go on a date with your wife and tell the waitress to serve the customers."
-    new "Ve a una cita con tu esposa y dile a la camarera que sirva a los clientes."
+    new "Ve a una cita con tu mujer y dile a la camarera que atienda a los clientes."
 
     # game/scripts/replay_scenes.rpy:122
     old "The emperor's new clothes"
-    new "El vestido nuevo de la emperatriz."
+    new "El traje nuevo del emperador"
 
     # game/scripts/replay_scenes.rpy:122
     old "Talk to the Queen after the second arena event."
@@ -436,7 +436,7 @@ translate spanish strings:
 
     # game/scripts/replay_scenes.rpy:124
     old "Check on Emilia in the bedroom"
-    new "Revisa cómo está Emilia en el dormitorio"
+    new "Ve a ver cómo está Emilia en el dormitorio"
 
     # game/scripts/replay_scenes.rpy:125
     old "Jewel of the desert"
@@ -460,7 +460,7 @@ translate spanish strings:
 
     # game/scripts/replay_scenes.rpy:128
     old "Suggest that the twins spend more time together during the visit to the slave market with [A]"
-    new "Sugiere que los gemelos pasen más tiempo juntos durante la visita al mercado de esclavos con [A]"
+    new "Sugiere que los mellizos pasen más tiempo juntos durante la visita al mercado de esclavos con [A]"
 
     # game/scripts/replay_scenes.rpy:129
     old "Primal instict"
@@ -488,7 +488,7 @@ translate spanish strings:
 
     # game/scripts/replay_scenes.rpy:133
     old "Steam release"
-    new "Lanzamiento en Steam"
+    new "Desahogarse"
 
     # game/scripts/replay_scenes.rpy:133
     old "Let [S] stay while you are having a bath"
@@ -520,7 +520,7 @@ translate spanish strings:
 
     # game/scripts/replay_scenes.rpy:138
     old "Ignore their words"
-    new "Ignorar sus palabras"
+    new "Haz oídos sordos"
 
     # game/scripts/replay_scenes.rpy:138
     old "Give in to the bandits demands during the Elder's hideout quest."
@@ -532,7 +532,7 @@ translate spanish strings:
 
     # game/scripts/replay_scenes.rpy:139
     old "Give in to the bandits demands and fail the escape during the Elder's hideout quest."
-    new "Cede a las exigencias de los bandidos y fracasa en el escape durante la misión del escondite del Anciano."
+    new "Cede a las exigencias de los bandidos y fracasa al escapar durante la misión del escondite del Anciano."
 
     # game/scripts/replay_scenes.rpy:140
     old "Double trouble"
@@ -544,7 +544,7 @@ translate spanish strings:
 
     # game/scripts/replay_scenes.rpy:141
     old "Stealing pepper"
-    new "Robar pimienta"
+    new "Robando a Pepper"
 
     # game/scripts/replay_scenes.rpy:141
     old "See Pepper at the mission table after having completed her examinations"

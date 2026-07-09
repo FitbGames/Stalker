@@ -124,7 +124,7 @@ translate spanish explore_bunker_a5dbfd3f:
 translate spanish explore_bunker_8efb8207:
 
     # St "Was this what the region originally looked like, or is this vegetation migrated from someplace else?"
-    St "¿Era este el aspecto original de la región o esta vegetación procede de algún otro lugar?"
+    St "¿Era este el aspecto original de la región o esta vegetación ha emigrado de algún otro lugar?"
 
 # game/scripts/bunker_overview.rpy:95
 translate spanish explore_bunker_0eb78976:
@@ -318,13 +318,13 @@ translate spanish written_notes_d9732a8b:
 translate spanish written_notes_9611e803:
 
     # Nar "{i}I am Farran, and this is my word.{/i}"
-    Nar "{i}Soy Farran y esta es mi palabra.{/i}"
+    Nar "{i}Soy Farran y ésta es mi palabra.{/i}"
 
 # game/scripts/bunker_overview.rpy:209
 translate spanish written_notes_537828f9:
 
     # St "This is just sad. Writing to a son who will never see this."
-    St "Esto es muy triste. Escribirle a un hijo que jamás llegará a leerlo."
+    St "Esto es simplemente triste. Escribirle a un hijo que jamás llegará a leerlo."
 
 # game/scripts/bunker_overview.rpy:212
 translate spanish written_notes_5656c02a:

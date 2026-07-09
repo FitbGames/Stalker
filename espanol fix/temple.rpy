@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/temple.rpy:6
 translate spanish visit_temple_9db4ced1:
@@ -16,25 +16,25 @@ translate spanish visit_temple_517a293c:
 translate spanish visit_temple_6f8821ae:
 
     # Zt "It has been some time, indeed."
-    Zt "Ha pasado un tiempo, ciertamente."
+    Zt "Desde luego, ha pasado tiempo."
 
 # game/scripts/temple.rpy:15
 translate spanish visit_temple_8c209fb1:
 
     # C "Um... sir?"
-    C "Um... ¿señor?"
+    C "Eh... ¿señor?"
 
 # game/scripts/temple.rpy:18
 translate spanish visit_temple_a4cb6fcf:
 
     # C "I have been informed that you are a Stalker in good standing, looking to serve the Temple?"
-    C "¿Me han informado de que usted es un Acechador en buena posición que busca servir al Templo?"
+    C "Me han informado de que es usted un Acechador de buena reputación y que desea servir al Templo, ¿es así?"
 
 # game/scripts/temple.rpy:19
 translate spanish visit_temple_689621ce:
 
     # C "W-we have not met yet..."
-    C "A-aún no nos hemos conocido..."
+    C "A-aún no nos conocemos..."
 
 # game/scripts/temple.rpy:22
 translate spanish visit_temple_df151638:
@@ -106,7 +106,7 @@ translate spanish tm_menu_93ca448d:
 translate spanish tm_menu_c4bc1bd5:
 
     # Nez "I can inquire about that, Sir. I have been instructed not to deny the request of an esteemed Stalker such as yourself."
-    Nez "Puedo preguntar al respecto, señor. Me han instruido para no denegar la petición de un Acechador tan estimado como usted."
+    Nez "Puedo consultarlo, señor. Me han indicado que no rechace la petición de un Acechador tan estimado como usted."
 
 # game/scripts/temple.rpy:52
 translate spanish tm_menu_40b9c1cb:
@@ -124,7 +124,7 @@ translate spanish tm_menu_ce8ade32:
 translate spanish tm_menu_5a387016:
 
     # Nez "As such, the Priestesses have already selected which Revered Mothers may choose to receive you."
-    Nez "Por ello, las Sacerdotisas ya han seleccionado qué Reverendas Madres pueden elegir recibirle."
+    Nez "Por ello, las Sacerdotisas ya han determinado qué Reverendas Madres pueden recibirle."
 
 # game/scripts/temple.rpy:57
 translate spanish tm_menu_736bdd26:
@@ -142,7 +142,7 @@ translate spanish tm_menu_cc8f836c:
 translate spanish tm_menu_a751888e:
 
     # Z "What about you, are you not a Revered mother yourself?"
-    Z "¿Y tú qué, no eres tú misma una Reverenda Madre?"
+    Z "¿Y tú? ¿No eres también una Reverenda Madre?"
 
 # game/scripts/temple.rpy:66
 translate spanish tm_menu_4da0ae87:
@@ -166,7 +166,7 @@ translate spanish tm_menu_7aaf265f:
 translate spanish tm_menu_f9c66c57:
 
     # Z "You certainly look the part."
-    Z "Desde luego, tienes el tipo."
+    Z "Desde luego, das el perfil."
 
 # game/scripts/temple.rpy:76
 translate spanish tm_menu_5365e75d:
@@ -262,7 +262,7 @@ translate spanish tm9_a6cf04fd:
 translate spanish tm9_3320eeec:
 
     # Zt "Gods be damned... I have not seen these two here before..."
-    Zt "Malditos dioses... No había visto a estas dos antes aquí..."
+    Zt "Joder... No había visto antes a estas dos por aquí..."
 
 # game/scripts/temple.rpy:122
 translate spanish tm9_7d3f99f9:
@@ -280,7 +280,7 @@ translate spanish tm9_eff16502:
 translate spanish tm9_5e171e3b:
 
     # Rt "{i}*giggles*{/i}"
-    Rt "{i}*risitas*{/i}"
+    Rt "{i}*risilla*{/i}"
 
 # game/scripts/temple.rpy:129
 translate spanish tm9_7eaa210d:
@@ -322,25 +322,25 @@ translate spanish tm9_8eefc39f:
 translate spanish tm9_bf926b58:
 
     # Nez "They do appreciate some company...{i}*giggles*{/i}"
-    Nez "A ellas les gusta algo de compañía...{i}*risitas*{/i}"
+    Nez "A ellas les gusta tener compañía...{i}*risilla*{/i}"
 
 # game/scripts/temple.rpy:148
 translate spanish tm9_bb46ce7f:
 
     # Rm "{i}*giggles*{/i} Mhh... it's growing nicely..."
-    Rm "{i}*risitas*{/i} Mhh... está creciendo bien..."
+    Rm "{i}*risilla*{/i} Mhh... está creciendo bien..."
 
 # game/scripts/temple.rpy:149
 translate spanish tm9_e047026b:
 
     # Rm2 "Yours too..."
-    Rm2 "Las tuyas también..."
+    Rm2 "El tuyo también..."
 
 # game/scripts/temple.rpy:152
 translate spanish tm9_826a8129:
 
     # Rm2 "Would you need a massage, later...?"
-    Rm2 "¿Necesitarías un masaje, más tarde...?"
+    Rm2 "¿Quieres un masaje más tarde...?"
 
 # game/scripts/temple.rpy:155
 translate spanish tm9_9a5a00f5:
@@ -352,7 +352,7 @@ translate spanish tm9_9a5a00f5:
 translate spanish tm9_5785afe3:
 
     # Zt "I remember the pool to be for women who are expecting..."
-    Zt "Recuerdo que la piscina era para mujeres que están esperando..."
+    Zt "Recuerdo que la piscina era para mujeres embarazadas..."
 
 # game/scripts/temple.rpy:161
 translate spanish tm9_a2f59200:
@@ -370,7 +370,7 @@ translate spanish tm9_12bcc769:
 translate spanish tm9_72874482:
 
     # Rm3 "{i}*giggles*{/i}"
-    Rm3 "{i}*risitas*{/i}"
+    Rm3 "{i}*risilla*{/i}"
 
 # game/scripts/temple.rpy:166
 translate spanish tm9_338757b8:
@@ -388,7 +388,7 @@ translate spanish tm9_217bb78f:
 translate spanish tm9_d85a2902:
 
     # Z "No, I will be coming..."
-    Z "No, voy contigo..."
+    Z "No, voy..."
 
 # game/scripts/temple.rpy:173
 translate spanish tm9_31ff775f:
@@ -442,7 +442,7 @@ translate spanish tm9_2a377d42:
 translate spanish tm9_7051c385:
 
     # Nez "So, I have seen the records. There are certain Revered Mothers who you could visit."
-    Nez "Bien, he revisado los registros. Hay ciertas Reverendas Madres a las que podrías visitar."
+    Nez "Bien, he revisado los registros. Hay varias Reverendas Madres a las que puede visitar."
 
 # game/scripts/temple.rpy:204
 translate spanish tm9_4463b015:
@@ -454,7 +454,7 @@ translate spanish tm9_4463b015:
 translate spanish tm9_d13b23a2:
 
     # Z "I want to see an aspiring Revered Mother today. Someone who might need a hand settling into the role, the commitment."
-    Z "Hoy quiero ver a una aspirante a Reverenda Madre. Alguien que pueda necesitar ayuda para asentarse en el papel, en el compromiso."
+    Z "Hoy quiero ver a una aspirante a Reverenda Madre. Alguien que pueda necesitar ayuda para adaptarse al papel y al compromiso que exige."
 
 # game/scripts/temple.rpy:225
 translate spanish tm9_6b1ae1c6:
@@ -472,7 +472,7 @@ translate spanish tm9_9ae5f769:
 translate spanish tm9_4f8f6021:
 
     # Nez "It was a boy, conceived before she joined us, so this would be the first time she properly receives a deserving partner selected for her."
-    Nez "Fue un niño, concebido antes de unirse a nosotras, así que esta sería la primera vez que recibe apropiadamente a un compañero merecedor seleccionado para ella."
+    Nez "Fue un niño, concebido antes de unirse a nosotras, así que esta sería la primera vez que recibe como es debido a un compañero digno elegido para ella."
 
 # game/scripts/temple.rpy:230
 translate spanish tm9_dc84af66:
@@ -532,7 +532,7 @@ translate spanish temple_jamila_b23cabf2:
 translate spanish temple_jamila_a92095ff:
 
     # Ja "I should thank your wife then, for lending me her handsome stud once more, even on a social call."
-    Ja "Entonces debería agradecer a tu esposa que me preste a su semental una vez más, incluso para una visita social."
+    Ja "Entonces debería agradecerle a tu mujer que vuelva a prestarme a su apuesto semental, aunque solo sea para una visita social."
 
 # game/scripts/temple.rpy:264
 translate spanish temple_jamila_cbfc82a7:
@@ -556,7 +556,7 @@ translate spanish temple_jamila_45def86e:
 translate spanish temple_jamila_d3e06a3c:
 
     # Ja "Very well... old friend. I should focus on bringing the pregnancy to term, but we're close and maybe this will help bringing it about."
-    Ja "Muy bien... viejo amigo. Debería concentrarme en llevar el embarazo a término, pero estamos cerca y quizá esto ayude a que llegue."
+    Ja "Muy bien... viejo amigo. Debería concentrarme en llevar el embarazo a término, pero ya falta poco y quizá esto ayude a adelantarlo."
 
 # game/scripts/temple.rpy:273
 translate spanish temple_jamila_4c6825c7:
@@ -568,7 +568,7 @@ translate spanish temple_jamila_4c6825c7:
 translate spanish temple_jamila_d58f139c:
 
     # Ja "...and you are in luck. I have not yet been able to breastfeed yet, today."
-    Ja "...y tienes suerte. Hoy todavía no he podido amamantar."
+    Ja "... y tienes suerte. Hoy todavía no he podido dar el pecho."
 
 # game/scripts/temple.rpy:279
 translate spanish temple_jamila_7d5f4016:
@@ -586,7 +586,7 @@ translate spanish temple_jamila_919d3c2d:
 translate spanish temple_jamila_240b9e0b:
 
     # Ja "Well then... us carrying Mothers are always happy for companionship."
-    Ja "Bueno entonces... nosotras, las Madres encinta, siempre estamos contentas con compañía."
+    Ja "Bueno... las Madres encinta siempre agradecemos un poco de compañía."
 
 # game/scripts/temple.rpy:286
 translate spanish temple_jamila_95191d35:
@@ -610,7 +610,7 @@ translate spanish temple_jamila_23cea05e:
 translate spanish temple_jamila_30f69b13:
 
     # Z "I would savour the taste of your lips, to begin with."
-    Z "Para empezar, saborearía el gusto de tus labios."
+    Z "Para empezar, saborearía tus labios."
 
 # game/scripts/temple.rpy:297
 translate spanish temple_jamila_3a5344a8:
@@ -622,13 +622,13 @@ translate spanish temple_jamila_3a5344a8:
 translate spanish temple_jamila_6001583e:
 
     # Ja "Mmmh... {i}*kissing*{/i}"
-    Ja "Mmmh... {i}*besándose*{/i}"
+    Ja "Mmmh... {i}*besando*{/i}"
 
 # game/scripts/temple.rpy:301
 translate spanish temple_jamila_8d3e8335:
 
     # "Your lips connect, and her tongue finds yours."
-    "Vuestros labios se conectan, y su lengua encuentra la tuya."
+    "Vuestros labios se unen y su lengua busca la tuya."
 
 # game/scripts/temple.rpy:302
 translate spanish temple_jamila_be12f4c0:
@@ -640,7 +640,7 @@ translate spanish temple_jamila_be12f4c0:
 translate spanish temple_jamila_a424cd52:
 
     # "Her loose top slips from her body, revealing breasts heavy with milk."
-    "Su holgada parte superior se desliza de su cuerpo, revelando unos pechos pesados de leche."
+    "Su holgada prenda se desliza por su cuerpo, dejando al descubierto unos pechos cargados de leche."
 
 # game/scripts/temple.rpy:306
 translate spanish temple_jamila_82a72626:
@@ -658,7 +658,7 @@ translate spanish temple_jamila_0f0c5746:
 translate spanish temple_jamila_f5538137:
 
     # "you push your hand towards her plump and round ass..."
-    "Empujas su mano hacia su trasero regordete y redondo..."
+    "Deslizas la mano hacia su culo redondo y carnoso..."
 
 # game/scripts/temple.rpy:313
 translate spanish temple_jamila_e44f4410:
@@ -694,13 +694,13 @@ translate spanish temple_jamila_9228a567:
 translate spanish temple_jamila_edee7e38:
 
     # Ja "My time to join their number is not far anymore, but for now, let me enjoy this big cock of yours..."
-    Ja "Mi momento de unirme a sus filas ya no está lejos, pero por ahora, déjame disfrutar de esta gran polla gorda tuya..."
+    Ja "Ya no falta mucho para que me una a sus filas, pero por ahora déjame disfrutar de esa enorme polla tuya..."
 
 # game/scripts/temple.rpy:328
 translate spanish temple_jamila_47b9ac77:
 
     # Ja "You are a handsome man, Stalker. [persistent.player_name], was it?"
-    Ja "Eres un hombre guapo, Acechador. [persistent.player_name], ¿era?"
+    Ja "Eres un hombre guapo, Acechador. [persistent.player_name], ¿verdad?"
 
 # game/scripts/temple.rpy:329
 translate spanish temple_jamila_7320ecbe:
@@ -724,7 +724,7 @@ translate spanish temple_jamila_53f14313:
 translate spanish temple_jamila_7538c023:
 
     # Z "I haven't been a frequent contributor to the Temple and was mostly moving on orders from the Palace."
-    Z "No he sido un colaborador frecuente del Templo y me movía principalmente por órdenes del Palacio."
+    Z "No he colaborado mucho con el Templo; casi siempre actuaba por órdenes del Palacio."
 
 # game/scripts/temple.rpy:335
 translate spanish temple_jamila_ee67e18e:
@@ -772,7 +772,7 @@ translate spanish temple_jamila_0cca8624:
 translate spanish temple_jamila_606bb0a1:
 
     # Ja "Nh... thank you for carrying me."
-    Ja "Nh... gracias por cargar conmigo."
+    Ja "Nh... gracias por llevarme."
 
 # game/scripts/temple.rpy:354
 translate spanish temple_jamila_87367b5c:
@@ -790,7 +790,7 @@ translate spanish temple_jamila_fffa4f94:
 translate spanish temple_jamila_7fdba58c:
 
     # Z "I will take off this needless robe of yours."
-    Z "Te quitaré esa innecesaria túnica tuya."
+    Z "Voy a quitarte esa túnica que te sobra."
 
 # game/scripts/temple.rpy:363
 translate spanish temple_jamila_5be303f9:
@@ -802,7 +802,7 @@ translate spanish temple_jamila_5be303f9:
 translate spanish temple_jamila_0ddb6bc7:
 
     # Z "...they were made to be taken off."
-    Z "...estaban hechas para ser quitadas."
+    Z "... estaban hechas para quitarlas."
 
 # game/scripts/temple.rpy:367
 translate spanish temple_jamila_2e442a69:
@@ -814,7 +814,7 @@ translate spanish temple_jamila_2e442a69:
 translate spanish temple_jamila_affbd204:
 
     # Ja "Just as I remember. Your wife is a lucky one, Stalker..."
-    Ja "Tal como lo recordaba. Tu esposa tiene suerte, Acechador..."
+    Ja "Tal como lo recordaba. Tu mujer tiene suerte, Acechador..."
 
 # game/scripts/temple.rpy:373
 translate spanish temple_jamila_a791413a:
@@ -826,13 +826,13 @@ translate spanish temple_jamila_a791413a:
 translate spanish temple_jamila_93380db8:
 
     # Ja "Did she get to ride this hard pole?"
-    Ja "¿Pudo montar este duro poste?"
+    Ja "¿Llegó a montar esta dura polla?"
 
 # game/scripts/temple.rpy:376
 translate spanish temple_jamila_7ee3f4b1:
 
     # Z "She has. And she too will be carrying a child soon..."
-    Z "Sí, lo tiene. Y ella también tendrá un hijo pronto..."
+    Z "Sí. Y ella también llevará pronto un hijo dentro..."
 
 # game/scripts/temple.rpy:379
 translate spanish temple_jamila_3a4aa2fa:
@@ -904,7 +904,7 @@ translate spanish temple_isra_7320ecbe:
 translate spanish temple_isra_a83e3faa:
 
     # Isr "Then I will undress and prepare for the blessing."
-    Isr "Entonces desnúdate y prepárate para la bendición."
+    Isr "Entonces me desnudaré y me prepararé para la bendición."
 
 # game/scripts/temple.rpy:428
 translate spanish temple_isra_0764ff60:
@@ -916,7 +916,7 @@ translate spanish temple_isra_0764ff60:
 translate spanish temple_isra_a093af0e:
 
     # "She looks at you, a young woman with determination. You remember that she was described to you as determined."
-    "Te mira, una mujer joven con determinación. Recuerdas que te la describieron como decidida."
+    "La joven te mira con determinación. Recuerdas que te la describieron como una mujer decidida."
 
 # game/scripts/temple.rpy:432
 translate spanish temple_isra_6b85c78c:
@@ -952,13 +952,13 @@ translate spanish temple_isra_94b65a1b:
 translate spanish temple_isra_4e6bbe9c:
 
     # "She turns around, slowly grabbing her top..."
-    "Ella se da la vuelta, agarrando lentamente su top..."
+    "Se da la vuelta y agarra lentamente la parte superior de su atuendo..."
 
 # game/scripts/temple.rpy:450
 translate spanish temple_isra_697f809d:
 
     # Zt "Damn."
-    Zt "Maldita sea."
+    Zt "Joder."
 
 # game/scripts/temple.rpy:453
 translate spanish temple_isra_b8609194:
@@ -976,7 +976,7 @@ translate spanish temple_isra_41c729d1:
 translate spanish temple_isra_2aa5e69d:
 
     # Zt "She knows what she's doing..."
-    Zt "Ella sabe lo que hace..."
+    Zt "Sabe lo que hace..."
 
 # game/scripts/temple.rpy:460
 translate spanish temple_isra_932412b6:
@@ -1000,7 +1000,7 @@ translate spanish temple_isra_5480ccf4:
 translate spanish temple_isra_e1d65aa4:
 
     # Isr "I want to see what we're working with."
-    Isr "Quiero ver con qué estamos trabajando."
+    Isr "Quiero ver qué tenemos entre manos."
 
 # game/scripts/temple.rpy:468
 translate spanish temple_isra_b54ad51e:
@@ -1048,7 +1048,7 @@ translate spanish temple_isra_4926c760:
 translate spanish temple_isra_3101dcfa:
 
     # Isr "...but I will test the waters before we begin."
-    Isr "... pero probaré las aguas antes de empezar."
+    Isr "... pero antes quiero tantear el terreno."
 
 # game/scripts/temple.rpy:488
 translate spanish temple_isra_2c616c5e:
@@ -1060,7 +1060,7 @@ translate spanish temple_isra_2c616c5e:
 translate spanish temple_isra_1754244c:
 
     # Zt "Gods be damned... this girl..."
-    Zt "Malditos dioses... esta chica..."
+    Zt "Joder... esta chica..."
 
 # game/scripts/temple.rpy:493
 translate spanish temple_isra_9ec334e4:
@@ -1072,7 +1072,7 @@ translate spanish temple_isra_9ec334e4:
 translate spanish temple_isra_5ca2c9fa:
 
     # Z "The sayings were true. You are determined."
-    Z "Los dichos eran ciertos. Eres decidida."
+    Z "Lo que decían era cierto. Eres decidida."
 
 # game/scripts/temple.rpy:495
 translate spanish temple_isra_b1075289:
@@ -1090,7 +1090,7 @@ translate spanish temple_isra_ad98757c:
 translate spanish temple_isra_bed9d69c:
 
     # Isr "The gods have given me the hips to carry Zeta's children. Who am I to refuse their calling..."
-    Isr "Los dioses me han dado las caderas para cargar con los hijos de Zeta. ¿Quién soy yo para rechazar su llamada...?"
+    Isr "Los dioses me han dado estas caderas para gestar a los hijos de Zeta. ¿Quién soy yo para rechazar su llamada...?"
 
 # game/scripts/temple.rpy:501
 translate spanish temple_isra_f9312235:
@@ -1102,7 +1102,7 @@ translate spanish temple_isra_f9312235:
 translate spanish temple_isra_ca32af3b:
 
     # Zt "This feels amazing..."
-    Zt "Esto se siente increíble..."
+    Zt "Esto es increíble..."
 
 # game/scripts/temple.rpy:503
 translate spanish temple_isra_c0a61299:
@@ -1114,7 +1114,7 @@ translate spanish temple_isra_c0a61299:
 translate spanish temple_isra_3f4dfa1a:
 
     # Z "I am."
-    Z "Lo estoy."
+    Z "Sí."
 
 # game/scripts/temple.rpy:507
 translate spanish temple_isra_0ea5dcdd:
@@ -1180,7 +1180,7 @@ translate spanish temple_isra_ae5db2fc:
 translate spanish temple_isra_94c30421:
 
     # "She bites her lips..."
-    "Ella se muerde los labios..."
+    "Se muerde el labio..."
 
 # game/scripts/temple.rpy:536
 translate spanish temple_isra_4a037254:
@@ -1192,7 +1192,7 @@ translate spanish temple_isra_4a037254:
 translate spanish temple_isra_cfe4f2df:
 
     # Zt "Fuck... she's aggressive."
-    Zt "Joder... Ella es agresiva."
+    Zt "Joder... es agresiva."
 
 # game/scripts/temple.rpy:538
 translate spanish temple_isra_9e2ae852:
@@ -1234,7 +1234,7 @@ translate spanish temple_isra_1d92e565:
 translate spanish temple_isra_c948b4be:
 
     # "Every few thrusts, her pussy squirts, then her muscles contract, tightening her grip on you even further."
-    "Cada pocas embestidas, su coño chorrea, luego sus músculos se contraen, apretando aún más su agarre sobre ti."
+    "Cada pocas embestidas, su coño expulsa un chorro y sus músculos se contraen, apretándote aún más."
 
 # game/scripts/temple.rpy:550
 translate spanish temple_isra_bbe10420:
@@ -1288,7 +1288,7 @@ translate spanish temple_isra_84fe1586:
 translate spanish temple_isra_9ad0c4c6:
 
     # "She brings you over the edge, and ropes of thick cum starts pouring into her womb..."
-    "Ella te lleva al límite, y chorros de espeso semen empiezan a verterse en su vientre..."
+    "Te lleva al límite y gruesos chorros de semen empiezan a inundar su vientre..."
 
 # game/scripts/temple.rpy:567
 translate spanish temple_isra_c230c479:
@@ -1312,7 +1312,7 @@ translate spanish temple_isra_a9793967:
 translate spanish temple_isra_720b86d8:
 
     # "She looks at you, confident, while biting her lip, as you keep shooting your seed inside her."
-    "Te mira, confiada, mordiéndose el labio, mientras sigues disparando tu semilla dentro de ella."
+    "Te mira con seguridad, mordiéndose el labio, mientras sigues descargando tu semilla dentro de ella."
 
 # game/scripts/temple.rpy:575
 translate spanish temple_isra_0058acee:
@@ -1324,7 +1324,7 @@ translate spanish temple_isra_0058acee:
 translate spanish temple_isra_cdec51bc:
 
     # "She grins, as you release your last seed into her..."
-    "Ella sonríe ampliamente, mientras liberas tu última semilla dentro de ella..."
+    "Sonríe mientras descargas en su interior los últimos chorros..."
 
 # game/scripts/temple.rpy:581
 translate spanish temple_isra_eadbd329:
@@ -1342,7 +1342,7 @@ translate spanish temple_isra_7e072b3a_2:
 translate spanish temple_isra_ad8b9960:
 
     # Isr "Do you want to help me ensure this breeding, Stalker?"
-    Isr "¿Quieres ayudarme a asegurar esta preñez, Acechador?"
+    Isr "¿Quieres ayudarme a asegurar que quede preñada, Acechador?"
 
 # game/scripts/temple.rpy:590
 translate spanish temple_isra_f0b25ee2:
@@ -1360,7 +1360,7 @@ translate spanish temple_isra_490fcb97:
 translate spanish temple_isra_7a82276d:
 
     # Isr "Then you know this must be done again, until it is certain."
-    Isr "Entonces sabes que esto debe hacerse de nuevo, hasta que sea seguro."
+    Isr "Entonces sabes que tendremos que repetirlo hasta estar seguros."
 
 # game/scripts/temple.rpy:595
 translate spanish temple_isra_7320ecbe_2:
@@ -1372,7 +1372,7 @@ translate spanish temple_isra_7320ecbe_2:
 translate spanish temple_isra_eaae46e2:
 
     # Isr "The goddess Hathor has her eyes on you, Stalker."
-    Isr "La diosa Hathor tiene sus ojos puestos en ti, Acechador."
+    Isr "La diosa Hathor ha puesto sus ojos en ti, Acechador."
 
 # game/scripts/temple.rpy:599
 translate spanish temple_isra_d2c473be:
@@ -1396,7 +1396,7 @@ translate spanish temple_isra_594c1ba3:
 translate spanish temple_isra_0b8ff291:
 
     # "You eventually return home."
-    "Finalmente regresas a casa."
+    "Al final regresas a casa."
 
 translate spanish strings:
 
@@ -1418,7 +1418,7 @@ translate spanish strings:
 
     # game/scripts/temple.rpy:221
     old "Light-built, aspiring"
-    new "complexión delgada, aspirante"
+    new "Complexión delgada, aspirante"
 
     # game/scripts/temple.rpy:268
     old "\"I was drawn to your curves\""

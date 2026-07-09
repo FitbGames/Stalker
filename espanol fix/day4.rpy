@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/day4.rpy:6
 translate spanish d4c_f1bca22a:
@@ -124,7 +124,7 @@ translate spanish d4c_5ab3574d_1:
 translate spanish d4c_abedca8b:
 
     # S "Oh... no no no.. please not cramps!"
-    S "¡Oh... no, no, no... ¡por favor, calambres no!"
+    S "Oh... no, no, no... ¡por favor, calambres no!"
 
 # game/scripts/day4.rpy:50
 translate spanish d4c_2adddf6f:
@@ -394,7 +394,7 @@ translate spanish d4c_d16b5af8:
 translate spanish d4c_790393d1:
 
     # Z "I'm heading out now, [S]."
-    Z "Me dirijo ahora, [S]."
+    Z "Me voy ya, [S]."
 
 # game/scripts/day4.rpy:136
 translate spanish d4c_ef251155:
@@ -406,7 +406,7 @@ translate spanish d4c_ef251155:
 translate spanish d4c_091695ea:
 
     # S "Sure [persistent.dad]. Speak soon."
-    S "Claro [persistent.dad]. Habla pronto."
+    S "Claro [persistent.dad]. Hablamos pronto."
 
 # game/scripts/day4.rpy:147
 translate spanish d4e_e382c94d:
@@ -556,7 +556,7 @@ translate spanish d4e_003cb6c0:
 translate spanish d4e_978246ac:
 
     # E "But my own room... I could've never considered it possible..."
-    E "pero mi propia habitación... Nunca lo hubiera considerado posible..."
+    E "Pero mi propia habitación... Nunca lo hubiera considerado posible..."
 
 # game/scripts/day4.rpy:196
 translate spanish d4e_ecf9c0fc:
@@ -652,7 +652,7 @@ translate spanish d4e_2c39c429:
 translate spanish d4e_5eeacb49:
 
     # Z "[W] and I decided that you can keep [A]'s old room."
-    Z "[W] y yo hemos decidido que puede quedarte con la antigua habitación de [A]."
+    Z "[W] y yo hemos decidido que puedes quedarte con la antigua habitación de [A]."
 
 # game/scripts/day4.rpy:228
 translate spanish d4e_8152cc6b:
@@ -724,13 +724,13 @@ translate spanish d4e_24a348fe:
 translate spanish d4e_3a991f1a:
 
     # E "I am thankful for the opportunity you give me."
-    E "Le agradezco la oportunidad que me brinda."
+    E "Te agradezco la oportunidad que me brindas."
 
 # game/scripts/day4.rpy:248
 translate spanish d4e_d37541ec:
 
     # E "If you need anything, I am here to serve."
-    E "Si necesitas algo, estoy aquí para servirle."
+    E "Si necesitas algo, estoy aquí para servirte."
 
 # game/scripts/day4.rpy:252
 translate spanish d4e_ee902196:
@@ -844,7 +844,7 @@ translate spanish d4a_92c0b06d:
 translate spanish d4a_b2e66fe5:
 
     # W "That collar attached on her neck is... interesting."
-    W "El collar que lleva en el cuello es... interesante."
+    W "El collar que lleva colocado en el cuello es... interesante."
 
 # game/scripts/day4.rpy:293
 translate spanish d4a_49cff1af:
@@ -934,13 +934,13 @@ translate spanish re_d4a3_0a635f6d:
 translate spanish re_d4a3_18d134f7:
 
     # Zt "Knocked out she said..."
-    Zt "¿Inconsciente, dijo ella...?"
+    Zt "Inconsciente, dijo ella..."
 
 # game/scripts/day4.rpy:337
 translate spanish re_d4a3_2a29f14f:
 
     # "{i}*rustling*"
-    "{i}*rustling*{/i}"
+    "{i}*crujido*{/i}"
 
 # game/scripts/day4.rpy:340
 translate spanish re_d4a3_f4e824ca:
@@ -1090,7 +1090,7 @@ translate spanish re_d4a3_8eebb57b:
 translate spanish re_d4a3_ab3f4508:
 
     # Ky "{i}*snoring*"
-    Ky "{i}*snoring*{/i}"
+    Ky "{i}*ronquidos*{/i}"
 
 # game/scripts/day4.rpy:399
 translate spanish re_d4a3_f7be3b46:
@@ -1360,7 +1360,7 @@ translate spanish d4a22_2e8e3a9f:
 translate spanish d4a22_a2a02480:
 
     # Ky "Fuck... that's hot..."
-    Z "Joder... cómo quema..."
+    Ky "Joder... cómo quema..."
 
 # game/scripts/day4.rpy:499
 translate spanish d4a22_2b18977b:
@@ -1600,13 +1600,13 @@ translate spanish d4a_kyra_woke_up_1df8a34b:
 translate spanish d4a_kyra_woke_up_61e96f62:
 
     # RF "{i}*sigh*{/i}... and on top of that, you put a shotgun collar around my neck!"
-    RF "{i}*sigh*{/i}... ¡y encima me pusiste un collar explosivo al cuello!"
+    RF "{i}*suspiro*{/i}... ¡y encima me pusiste un collar explosivo alrededor del cuello!"
 
 # game/scripts/day4.rpy:605
 translate spanish d4a_kyra_woke_up_7b58a05d:
 
     # Z "Simple precaution, so that you'll think twice about your next move."
-    Z "Simple precaució, para que lo pienses dos veces antes de tu próximo movimiento."
+    Z "Simple precaución, para que lo pienses dos veces antes de tu próximo movimiento."
 
 # game/scripts/day4.rpy:608
 translate spanish d4a_kyra_woke_up_21c7db8e:
@@ -2086,7 +2086,7 @@ translate spanish d4a_kyra_question_menu_60b28cbe:
 translate spanish d4a_kyra_question_menu_1442731f:
 
     # Ky "I was going to keep that find for myself, but my life and freedom are worth more to me."
-    Ky "Iba a quedarme ese hallazgo para mí, pero mi vida y libertad valen más para mí."
+    Ky "Iba a quedarme con ese hallazgo para mí, pero mi vida y mi libertad valen más para mí."
 
 # game/scripts/day4.rpy:829
 translate spanish d4a_kyra_question_menu_0d2ac45d:
@@ -2200,7 +2200,7 @@ translate spanish d4d_ef776086:
 translate spanish d4d_60e084c3:
 
     # Z "Hey [Ta], what happened to the-"
-    Z "Ey [Ta], ¿qué ha pasado con la..."
+    Z "Oye, [Ta], ¿qué ha pasado con la..."
 
 # game/scripts/day4.rpy:872
 translate spanish d4d_c377eee5:
@@ -3184,7 +3184,7 @@ translate spanish d4g_79f78815:
 translate spanish d4g_9dd3e3a2:
 
     # G "Hey! Stop it right now, Stalker!"
-    G "¡Ey! ¡Para ahora mismo, Acechador!"
+    G "¡Eh! ¡Para ahora mismo, Acechador!"
 
 # game/scripts/day4.rpy:1300
 translate spanish d4g_ecce4986:
@@ -3364,7 +3364,7 @@ translate spanish d4b_9ec0d336:
 translate spanish d4b_f2488d94:
 
     # Zt "Damn it..."
-    Zt "Maldita sea…"
+    Zt "Joder…"
 
 # game/scripts/day4.rpy:1401
 translate spanish d4b_5ab3574d:
@@ -3376,13 +3376,13 @@ translate spanish d4b_5ab3574d:
 translate spanish d4b_bc4a1436:
 
     # Z "Hey [W]... {i}*sighs*"
-    Z "Ey [W]... {i}*suspiros*{/i}"
+    Z "Oye, [W]... {i}*suspiros*{/i}"
 
 # game/scripts/day4.rpy:1405
 translate spanish d4b_df037978:
 
     # W "Hey love... Are you mad at the engine, the sand, or is this still about the mission?"
-    W "Ey amor... ¿Estás enfadado con el motor, con la arena, o todavía se trata de la misión?"
+    W "Oye, amor... ¿Estás enfadado con el motor, con la arena, o todavía se trata de la misión?"
 
 # game/scripts/day4.rpy:1406
 translate spanish d4b_d8084139:
@@ -3670,7 +3670,7 @@ translate spanish d4b_20a67c26:
 translate spanish d4b_72591406:
 
     # S "Hey [persistent.dad]..."
-    S "Ey [persistent.dad]..."
+    S "Oye, [persistent.dad]..."
 
 # game/scripts/day4.rpy:1474
 translate spanish d4b_52881756:
@@ -3916,7 +3916,7 @@ translate spanish d4b_971a98df_3:
 translate spanish d4b_62f10eb0:
 
     # A "Hey, uh.. [persistent.dad]?"
-    A "Ey, uh... ¿[persistent.dad]?"
+    A "Oye, eh... ¿[persistent.dad]?"
 
 # game/scripts/day4.rpy:1560
 translate spanish d4b_4455acc3:
@@ -4138,7 +4138,7 @@ translate spanish d4b26_5ab00c44:
 translate spanish d4b26_c35b6dfa:
 
     # Ig "Ah you know, nothing new. How you say, same as old?"
-    Ig "Ah ya sabes, nada nuevo. ¿Cómo se dice, lo mismo que antes?"
+    Ig "Ah ya sabes, nada nuevo. ¿Cómo se dice, lo mismo de siempre?"
 
 # game/scripts/day4.rpy:1636
 translate spanish d4b26_73a47822:
@@ -4228,7 +4228,7 @@ translate spanish d4b26_0fc1c05d:
 translate spanish d4b26_6505a207:
 
     # Z "Hey, [Ig], I didn't know you have a daughter."
-    Z "Ey, [Ig], no sabía que tenías una hija."
+    Z "Oye, [Ig], no sabía que tenías una hija."
 
 # game/scripts/day4.rpy:1657
 translate spanish d4b26_4b0adcf6:
@@ -4852,7 +4852,7 @@ translate spanish d4b_mandisa_talk_continue_d9932af0:
 translate spanish d4b_mandisa_talk_continue_fd2665f6:
 
     # S "{i}*whispering*{/i} Hey, turn around."
-    S "{i}*susurrando*{/i} Ey, date la vuelta."
+    S "{i}*susurrando*{/i} Oye, date la vuelta."
 
 # game/scripts/day4.rpy:1866
 translate spanish d4b_mandisa_talk_continue_906e5c8c:
@@ -4876,7 +4876,7 @@ translate spanish d4b_mandisa_talk_continue_6f64721c:
 translate spanish d4b_mandisa_talk_continue_b5f48cad:
 
     # C3 "Hey, we're exposed here..."
-    C3 "Ey, aquí estamos expuestos..."
+    C3 "Oye, aquí estamos expuestos..."
 
 # game/scripts/day4.rpy:1878
 translate spanish d4b_mandisa_talk_continue_a35467ff:

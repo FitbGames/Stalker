@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-03-05 21:40
+# TODO: Translation updated at 2026-03-05 21:40
 
 # game/scripts/home.rpy:80
 translate spanish daily_missions_1a68aa63:
@@ -16,7 +16,7 @@ translate spanish visit_zahra_b61225f8:
 translate spanish visit_zahra_cfae56b1:
 
     # Z "Hey [W]. Let us lay down for a bit. {w=1.5}{nw}"
-    Z "Ey [W]. Vamos a tumbarnos un rato. {w=1.5}{nw}"
+    Z "Oye, [W]. Vamos a tumbarnos un rato. {w=1.5}{nw}"
 
 # game/scripts/home.rpy:238
 translate spanish sz_menu_0bedd341:
@@ -52,7 +52,7 @@ translate spanish sz_menu_da396afb:
 translate spanish sz_menu_1f9d6400:
 
     # W "{i}*sucking*"
-    W "{i}*chupando*"
+    W "{i}*chupando*{/i}"
 
 # game/scripts/home.rpy:255
 translate spanish sz_menu_28efc08f:
@@ -106,7 +106,7 @@ translate spanish sz_menu_c2a1ceda:
 translate spanish sz_menu_1f9d6400_1:
 
     # W "{i}*sucking*"
-    W "{i}*chupando*"
+    W "{i}*chupando*{/i}"
 
 # game/scripts/home.rpy:276
 translate spanish sz_menu_bfb0983f:
@@ -130,19 +130,19 @@ translate spanish sz_menu_5ab3574d:
 translate spanish sz_menu_b392396d:
 
     # Zt "Damn... there's no sleeping, like this."
-    Zt "Maldita sea... Todavía no puedo dormir, así."
+    Zt "Joder... Así no hay quien duerma."
 
 # game/scripts/home.rpy:287
 translate spanish sz_menu_2cf95a06:
 
     # Zw "Hey... [W]...."
-    Zw "Ey... [W]...."
+    Zw "Oye... [W]..."
 
 # game/scripts/home.rpy:290
 translate spanish sz_menu_092766e4:
 
     # W "...Whu.."
-    W "... Que.."
+    W "... ¿Qué...?"
 
 # game/scripts/home.rpy:291
 translate spanish sz_menu_8fe97882:
@@ -166,7 +166,7 @@ translate spanish sz_menu_29fa8eff:
 translate spanish sz_menu_782cd8c3:
 
     # Ww "We could have done this before I fell asleep, you know?"
-    Ww "Podríamos haber hecho esto antes de que me durmiera, ¿lo sabes?"
+    Ww "Podríamos haber hecho esto antes de que me durmiera, ¿sabes?"
 
 # game/scripts/home.rpy:299
 translate spanish sz_menu_9ccbe4d7:
@@ -250,7 +250,7 @@ translate spanish sz_menu_e66efefb:
 translate spanish sz_menu_6f8cb586:
 
     # Ww "Nh... I definitely am..."
-    Ww "Nh... Definitivamente lo estoy haciendo..."
+    Ww "Nh... Desde luego que sí..."
 
 # game/scripts/home.rpy:330
 translate spanish sz_menu_4479075d:
@@ -298,7 +298,7 @@ translate spanish sz_menu_a5d746bf_1:
 translate spanish sz_menu_51af4536:
 
     # Ww "So much..."
-    Ww "Hay mucho..."
+    Ww "Cuánto..."
 
 # game/scripts/home.rpy:349
 translate spanish sz_menu_d493b57e:
@@ -316,7 +316,7 @@ translate spanish sz_menu_5cdf17cb:
 translate spanish sz_menu_15e09368:
 
     # "She slowly gets off you, cum leaking out of her pussy..."
-    "Ella se libera lentamente de ti, con el semen saliendo de su coño..."
+    "Se aparta lentamente de ti, con el semen saliendo de su coño..."
 
 # game/scripts/home.rpy:356
 translate spanish sz_menu_7bb8e95c:
@@ -346,13 +346,13 @@ translate spanish sz_menu_a456db59:
 translate spanish sz_menu_ab0434f3:
 
     # "She does as you say..."
-    "Ella hace lo que la dices..."
+    "Hace lo que le dices..."
 
 # game/scripts/home.rpy:370
 translate spanish sz_menu_778ca55f:
 
     # "{i}*slurp*"
-    "{i}*chupa*{/i}"
+    "{i}*chupada*{/i}"
 
 # game/scripts/home.rpy:371
 translate spanish sz_menu_0a48c264:
@@ -388,7 +388,7 @@ translate spanish sz_menu_b1aeb283_1:
 translate spanish sz_menu_35b50ddf:
 
     # Zw "That's my wife..."
-    Zw "Esta es mi mujer..."
+    Zw "Esa es mi mujer..."
 
 # game/scripts/home.rpy:389
 translate spanish sz_menu_07674eef:
@@ -400,7 +400,7 @@ translate spanish sz_menu_07674eef:
 translate spanish sz_menu_1f9d6400_2:
 
     # W "{i}*sucking*"
-    W "{i}*chupando*"
+    W "{i}*chupando*{/i}"
 
 # game/scripts/home.rpy:393
 translate spanish sz_menu_bc8b2607:
@@ -448,7 +448,7 @@ translate spanish sz_menu_c196cbfd:
 translate spanish sz_menu_51af4536_1:
 
     # Ww "So much..."
-    Ww "Hay mucho..."
+    Ww "Cuánto..."
 
 # game/scripts/home.rpy:414
 translate spanish sz_menu_c235181d:
@@ -460,7 +460,7 @@ translate spanish sz_menu_c235181d:
 translate spanish sz_menu_0d6bb0bc:
 
     # Ww "{i}*sucking*"
-    Ww "{i}*chupando*"
+    Ww "{i}*chupando*{/i}"
 
 # game/scripts/home.rpy:418
 translate spanish sz_menu_65f3931a:
@@ -472,31 +472,31 @@ translate spanish sz_menu_65f3931a:
 translate spanish visit_ain_5c631866:
 
     # A "Hey [persistent.dad]! Did you come to hang out? {w=1.7} {nw}"
-    A "¡Ey [persistent.dad]! ¿Has venido a pasar el rato? {w=1.7} {nw}"
+    A "¡Hola, [persistent.dad]! ¿Has venido a pasar el rato? {w=1.7} {nw}"
 
 # game/scripts/home.rpy:466
 translate spanish visit_shani_3a1f7cbe:
 
     # Z "Hey [S]."
-    Z "Ey [S]."
+    Z "Oye, [S]."
 
 # game/scripts/home.rpy:469
 translate spanish visit_shani_1d778dff:
 
     # S "Hey [persistent.dad]."
-    S "Ey [persistent.dad]."
+    S "Oye, [persistent.dad]."
 
 # game/scripts/home.rpy:470
 translate spanish visit_shani_16ecc40a:
 
     # Z "Do you want to hang out for a bit?"
-    Z "¿Quieres pasar un rato juntos un poco?"
+    Z "¿Quieres que pasemos un rato juntos?"
 
 # game/scripts/home.rpy:471
 translate spanish visit_shani_eab2ba7e:
 
     # S "Sure, if you don't mind me reading?"
-    S "Claro, ¿si no te importa que lea?"
+    S "Claro, si no te importa que lea."
 
 # game/scripts/home.rpy:472
 translate spanish visit_shani_6a5a75c7:
@@ -550,7 +550,7 @@ translate spanish shani_workout_0ca8ef86:
 translate spanish shani_workout_829f5524:
 
     # S "Ah.. damn it..."
-    S "Ah... maldición..."
+    S "Ah... joder..."
 
 # game/scripts/home.rpy:500
 translate spanish shani_workout_53e44ecf:
@@ -580,7 +580,7 @@ translate spanish shani_workout_b94768e1:
 translate spanish shani_workout_d2a52fe3:
 
     # S "I ... overdid it again..."
-    S "Me... excedí de nuevo..."
+    S "Me... he vuelto a pasar..."
 
 # game/scripts/home.rpy:511
 translate spanish shani_workout_5e5008b5:
@@ -622,7 +622,7 @@ translate spanish shani_workout_8da84798:
 translate spanish shani_workout_e11b2070:
 
     # S "I think I had enough for today."
-    S "Creo que ya fue suficiente por hoy."
+    S "Creo que ya he tenido suficiente por hoy."
 
 # game/scripts/home.rpy:529
 translate spanish shani_workout_e18157d7:
@@ -646,7 +646,7 @@ translate spanish shani_workout_18531509:
 translate spanish shani_workout_c95963c9:
 
     # Z "Alright, catch you later sweetie."
-    Z "Está bien, nos vemos después, cariño."
+    Z "Vale, nos vemos luego, cariño."
 
 # game/scripts/home.rpy:540
 translate spanish replaymassage_186f4f7e:
@@ -730,7 +730,7 @@ translate spanish replaymassage_19b2ae41:
 translate spanish replaymassage_dbada65a:
 
     # S "This feels amazing."
-    S "Se siente increíble."
+    S "Es increíble."
 
 # game/scripts/home.rpy:562
 translate spanish replaymassage_aab40636:
@@ -742,7 +742,7 @@ translate spanish replaymassage_aab40636:
 translate spanish replaymassage_e6908b34:
 
     # S "...[persistent.mom]'s hands just are not the same."
-    S "... las manos de [persistent.mom] simplemente no son iguales."
+    S "... las manos de [persistent.mom] no son lo mismo."
 
 # game/scripts/home.rpy:564
 translate spanish replaymassage_f06f10dd:
@@ -754,7 +754,7 @@ translate spanish replaymassage_f06f10dd:
 translate spanish replaymassage_50d7cdd5:
 
     # S "Can you get my back too?"
-    S "¿Puedes darme la espalda también?"
+    S "¿Puedes masajearme también la espalda?"
 
 # game/scripts/home.rpy:566
 translate spanish replaymassage_f4ad821d:
@@ -772,7 +772,7 @@ translate spanish replaymassage_5ab3574d_1:
 translate spanish replaymassage_5f9705ab:
 
     # S "You should do this more often..."
-    S "Deberías hacer esto más seguido..."
+    S "Deberías hacer esto más a menudo..."
 
 # game/scripts/home.rpy:571
 translate spanish replaymassage_9e245dfe:
@@ -868,13 +868,13 @@ translate spanish replaymassage_d26b7664:
 translate spanish replaymassage_55a35bfa:
 
     # S "...but it's not like I'm pleasuring you in front of your guests..."
-    S "... pero no es como si te estuviera complaciendo frente a tus invitados..."
+    S "... pero no es como si te estuviera dando placer delante de tus invitados..."
 
 # game/scripts/home.rpy:593
 translate spanish replaymassage_4d94551b:
 
     # S "...Or warming your bed every night, like [persistent.da]s in other families do..."
-    S "... o calentando tu cama todas las noches, como lo hacen las [persistent.da] en otras familias..."
+    S "... o calentando tu cama todas las noches, como hacen las [persistent.da] en otras familias..."
 
 # game/scripts/home.rpy:594
 translate spanish replaymassage_43fff7b7:
@@ -1012,7 +1012,7 @@ translate spanish replaymassage_2bc58df8:
 translate spanish replaymassage_a57aa70d:
 
     # Zt "She is... wet..."
-    Zt "Ella está... mojada..."
+    Zt "Está... mojada..."
 
 # game/scripts/home.rpy:640
 translate spanish replaymassage_8cc1adcc:
@@ -1030,13 +1030,13 @@ translate spanish replaymassage_0b041dd9:
 translate spanish replaymassage_bee605b6:
 
     # "She made no audible noise when you entered her, and yet it was easy to enter her wide hips."
-    "No hizo ruido audible cuando entraste en ella, y sin embargo fue fácil entrar en sus caderas anchas."
+    "No hizo ningún ruido cuando entraste en ella y, aun así, penetrarla fue fácil pese a sus anchas caderas."
 
 # game/scripts/home.rpy:646
 translate spanish replaymassage_9e007fc1:
 
     # S "*{i}quiet breathing*"
-    S "*{i}respiración silenciosa*{/i}"
+    S "{i}*respiración suave*{/i}"
 
 # game/scripts/home.rpy:649
 translate spanish replaymassage_986d1d2c:
@@ -1054,7 +1054,7 @@ translate spanish replaymassage_57421bfb:
 translate spanish replaymassage_6d0709f3:
 
     # "You can't hold yourself, and start fucking the young woman's toned lower body intensely."
-    "No puedes contenerte y empiezas a follar intensamente el cuerpo inferior tonificado de la mujer joven."
+    "No puedes contenerte y empiezas a follar con fuerza el tonificado cuerpo de la joven."
 
 # game/scripts/home.rpy:654
 translate spanish replaymassage_bf060427:
@@ -1066,19 +1066,19 @@ translate spanish replaymassage_bf060427:
 translate spanish replaymassage_f2d88528:
 
     # "You plow the pussy that you created. The one that fits you like almost no other."
-    "Empujas el coño que creaste. El que te queda como casi ningún otro."
+    "Follas el coño que moldeaste. Uno que se ajusta a ti como casi ningún otro."
 
 # game/scripts/home.rpy:659
 translate spanish replaymassage_c68667ba:
 
     # "Knowing that you are moments away of impregnating your own [persistent.da] gets you riled up more than any street slave ever could."
-    "Saber que estás a momentos de embarazar a tu propio [persistent.da] te excita más que cualquier esclava callejera."
+    "Saber que estás a punto de embarazar a tu propia [persistent.da] te excita más que cualquier esclava callejera."
 
 # game/scripts/home.rpy:661
 translate spanish replaymassage_cbeb968b:
 
     # "You plow her pussy passionately, her juices flitching in and out with every jerk of your rhythm."
-    "Arrasas su coño apasionadamente, sus jugos entran y salen con cada sacudida de tu ritmo."
+    "Follas su coño con pasión, haciendo que sus jugos salpiquen con cada embestida."
 
 # game/scripts/home.rpy:664
 translate spanish replaymassage_1f24aaa4:
@@ -1132,7 +1132,7 @@ translate spanish replaymassage_bd8ae02a:
 translate spanish replaymassage_d37568b8:
 
     # Sw "{i}*muffled moaning*{/i}"
-    Sw "{i}*gemidos amortiguados*{/i}"
+    Sw "{i}*gemidos ahogados*{/i}"
 
 # game/scripts/home.rpy:683
 translate spanish replaymassage_d4edf312:
@@ -1162,13 +1162,13 @@ translate spanish replaymassage_7e2fcb28:
 translate spanish replaymassage_2bbf8c84:
 
     # "You will never grow tired of this. Whether it's [S] or her sister, cumming on your [persistent.da]s always makes your day."
-    "Nunca te cansarás de esto. Ya sea [S] o su hermana, correrse en tus [persistent.da] siempre alegra tu día."
+    "Nunca te cansarás de esto. Ya sea [S] o su hermana, correrte sobre tus [persistent.da] siempre te alegra el día."
 
 # game/scripts/home.rpy:704
 translate spanish replaymassage_8fc4be86:
 
     # "You will never grow tired of this. Whether it's [S] or her sister, cumming on either of them always makes your day."
-    "Nunca te cansarás de esto. Ya sea [S] o su hermana, correrse en cualquiera de ellas siempre te alegra el día."
+    "Nunca te cansarás de esto. Ya sea [S] o su hermana, correrte sobre cualquiera de ellas siempre te alegra el día."
 
 # game/scripts/home.rpy:707
 translate spanish replaymassage_be792078:
@@ -1408,7 +1408,7 @@ translate spanish replaymassage_5ab3574d_7:
 translate spanish replaymassage_9e007fc1_1:
 
     # S "*{i}quiet breathing*"
-    S "*{i}respiración silenciosa*{/i}"
+    S "{i}*respiración suave*{/i}"
 
 # game/scripts/home.rpy:815
 translate spanish replaymassage_64e28f1c:
@@ -2614,7 +2614,7 @@ translate spanish shani_practice_distracted_56e95422:
 translate spanish shani_practice_distracted_daeeb099:
 
     # Z "{i}*slurp*{/i}"
-    Z "{i}*chupa*{/i}"
+    Z "{i}*chupada*{/i}"
 
 # game/scripts/home.rpy:1314
 translate spanish shani_practice_distracted_ce7973ab:
@@ -2842,7 +2842,7 @@ translate spanish sleep_shani_74a45e44:
 translate spanish sleep_shani_1799fd44:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupa*{/i}"
+    S "{i}*chupada*{/i}"
 
 # game/scripts/home.rpy:1436
 translate spanish sleep_shani_4bd3b6d6:
@@ -3340,7 +3340,7 @@ translate spanish car_menu_00275937:
 translate spanish wz_emilia_fairy_1_242c391b:
 
     # F "{i}*slurp*{/i}"
-    F "{i}*chupa*{/i}"
+    F "{i}*chupada*{/i}"
 
 # game/scripts/home.rpy:1683
 translate spanish wz_emilia_fairy_1_d3cf527e:
@@ -3358,7 +3358,7 @@ translate spanish wz_emilia_fairy_1_cf1bc93c:
 translate spanish wz_emilia_fairy_1_6be329a5:
 
     # E "{i}Mh... {i}*slurp*{/i}" (multiple=2)
-    E "{i}Mh... {i}*chupa*{/i}" (multiple=2)
+    E "{i}Mh... {i}*chupada*{/i}" (multiple=2)
 
 # game/scripts/home.rpy:1689
 translate spanish wz_emilia_fairy_1_ab8635f0:
@@ -3604,7 +3604,7 @@ translate spanish wz_ain_1_22282f9b:
 translate spanish wz_ain_2_350b3f0f:
 
     # C "{i}*slurp*{/i}"
-    C "{i}*chupa*{/i}"
+    C "{i}*chupada*{/i}"
 
 # game/scripts/home.rpy:1795
 translate spanish wz_ain_2_412e04eb:
@@ -3646,7 +3646,7 @@ translate spanish wz_ain_2_3dab1d60:
 translate spanish wz_ain_2_8868ec95:
 
     # A "{i}*gluck*{/i}"
-    A "{i}*gluck*{/i}"
+    A "{i}*atragantándose*{/i}"
 
 # game/scripts/home.rpy:1811
 translate spanish wz_ain_2_b1aeb283:
@@ -3664,7 +3664,7 @@ translate spanish wz_ain_2_8a7f14aa:
 translate spanish wz_ain_2_676abcdb:
 
     # A "{i}*gulp*{/i}"
-    A "{i}*gulp*{/i}"
+    A "{i}*traga*{/i}"
 
 # game/scripts/home.rpy:1817
 translate spanish wz_ain_2_b9c960c5:
@@ -3796,7 +3796,7 @@ translate spanish sleep_ain_e67613fb:
 translate spanish sleep_ain_f0a74561:
 
     # Zw "Hey, [A]... wake up."
-    Zw "Ey, [A]... despierta."
+    Zw "Oye, [A]... despierta."
 
 # game/scripts/home.rpy:1899
 translate spanish sleep_ain_d8654138_2:
