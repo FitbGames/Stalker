@@ -1174,7 +1174,7 @@ translate spanish vfn125_a8e68c26:
 translate spanish vfn125_f97f1a44:
 
     # Yw "{i}*slurp*"
-    Yw "{i}*chupada*{/i}"
+    Yw "{i}*chupando*{/i}"
 
 # game/scripts/family.rpy:496
 translate spanish vfn125_a8270805:
@@ -7420,7 +7420,7 @@ translate spanish omar_convi_1_522911d8:
 translate spanish omar_convi_1_27ab69b3:
 
     # Om "{i}*gulp*"
-    Om "{i}*traga*{/i}"
+    Om "{i}*tragando*{/i}"
 
 # game/scripts/family.rpy:2946
 translate spanish omar_convi_1_0ffa627f:

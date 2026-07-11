@@ -1666,7 +1666,7 @@ translate spanish d14a104_506601fa:
 translate spanish d14a104_daeeb099:
 
     # Z "{i}*slurp*{/i}"
-    Z "{i}*chupada*{/i}"
+    Z "{i}*chupando*{/i}"
 
 # game/scripts/day14.rpy:797
 translate spanish d14a104_c653e559:
@@ -6616,7 +6616,7 @@ translate spanish d14f_part_2_f87bc0c0:
 translate spanish d14f_part_2_0f33bb33:
 
     # Ky "These legion assholes..."
-    Ky "Esos cabrones de la legión..."
+    Ky "Esos gilipollas de la legión..."
 
 # game/scripts/day14.rpy:2930
 translate spanish d14f_part_2_dc6edba2:

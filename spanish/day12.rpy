@@ -2596,7 +2596,7 @@ translate spanish d12a58_d3a3e73d:
 translate spanish d12a58_6f7faf1d:
 
     # F "{i}*slurp*"
-    F "{i}*chupada*{/i}"
+    F "{i}*chupando*{/i}"
 
 # game/scripts/day12.rpy:1233
 translate spanish d12a58_a3c22805:
@@ -2650,7 +2650,7 @@ translate spanish d12a58_e7913b4a_1:
 translate spanish d12a58_dc16b398:
 
     # F "{i}*gulp*"
-    F "{i}*traga*{/i}"
+    F "{i}*tragando*{/i}"
 
 # game/scripts/day12.rpy:1256
 translate spanish d12a58_4ddfa690:
@@ -3004,7 +3004,7 @@ translate spanish re_d12b_24abe0cf_1:
 translate spanish re_d12b_74cbba0a:
 
     # A "{i}*gulp*"
-    A "{i}*traga*{/i}"
+    A "{i}*tragando*{/i}"
 
 # game/scripts/day12.rpy:1407
 translate spanish re_d12b_97fc3c86:
@@ -3208,7 +3208,7 @@ translate spanish re_d12b_95a0b6a4:
 translate spanish re_d12b_f1761e44:
 
     # A "{i}*slurp*"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day12.rpy:1480
 translate spanish re_d12b_3a7c63bf:
@@ -3256,7 +3256,7 @@ translate spanish re_d12b_36d1fb8b:
 translate spanish re_d12b_778ca55f:
 
     # "{i}*slurp*"
-    "{i}*chupada*{/i}"
+    "{i}*chupando*{/i}"
 
 # game/scripts/day12.rpy:1497
 translate spanish re_d12b_1ca6ee84:
@@ -3412,7 +3412,7 @@ translate spanish re_d12b_c516b45d:
 translate spanish re_d12b_0b902262:
 
     # E "Yes, mistr... {i}*slurp*"
-    E "Sí, ama... {i}*chupada*{/i}"
+    E "Sí, ama... {i}*chupando*{/i}"
 
 # game/scripts/day12.rpy:1557
 translate spanish re_d12b_0d6ad6e6:

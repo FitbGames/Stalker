@@ -1378,7 +1378,7 @@ translate spanish d6a42_8b0828b5:
 translate spanish d6a42_335efd1d:
 
     # Ig "{i}*slurp*{/i}"
-    Ig "{i}*chupada*{/i}"
+    Ig "{i}*chupando*{/i}"
 
 # game/scripts/day6.rpy:567
 translate spanish d6a42_62915b43:

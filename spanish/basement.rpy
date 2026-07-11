@@ -245,7 +245,7 @@ translate spanish basement_ain_afeccd72:
 translate spanish basement_ain_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/basement.rpy:115
 translate spanish basement_ain_b1aeb283:
@@ -359,7 +359,7 @@ translate spanish basement_ain_7907b5be:
 translate spanish basement_ain_712d4ae2_1:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/basement.rpy:152
 translate spanish basement_ain_c79acf46:
@@ -407,7 +407,7 @@ translate spanish basement_ain_e156dcdd:
 translate spanish basement_ain_676abcdb:
 
     # A "{i}*gulp*{/i}"
-    A "{i}*traga*{/i}"
+    A "{i}*tragando*{/i}"
 
 # game/scripts/basement.rpy:165
 translate spanish basement_ain_ecf771b0:
@@ -443,7 +443,7 @@ translate spanish basement_ain_c03f8d4c:
 translate spanish basement_ain_712d4ae2_2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/basement.rpy:175
 translate spanish basement_ain_ac085bb2:
@@ -491,7 +491,7 @@ translate spanish basement_ain_72d9d122:
 translate spanish basement_ain_7c0ff166:
 
     # A "Mh... {i}*gulp*{/i}"
-    A "Mh... {i}*traga*{/i}"
+    A "Mh... {i}*tragando*{/i}"
 
 # game/scripts/basement.rpy:189
 translate spanish basement_ain_0a5d5e71_2:
@@ -1055,7 +1055,7 @@ translate spanish basement_d18b342_0252c385:
 translate spanish basement_d18b342_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/basement.rpy:413
 translate spanish basement_d18b342_aa166606:
@@ -1109,7 +1109,7 @@ translate spanish basement_d18b342_89af8377:
 translate spanish basement_d18b342_712d4ae2_1:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/basement.rpy:426
 translate spanish basement_d18b342_583c708f:
@@ -1403,7 +1403,7 @@ translate spanish basement_d18b354_61dde91e:
 translate spanish basement_d18b354_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/basement.rpy:526
 translate spanish basement_d18b354_31e7bb51:
@@ -1427,7 +1427,7 @@ translate spanish basement_d18b354_d4edf312:
 translate spanish basement_d18b354_712d4ae2_1:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/basement.rpy:533
 translate spanish basement_d18b354_66a2083c:
@@ -1469,7 +1469,7 @@ translate spanish basement_d18b354_78bb4f10:
 translate spanish basement_d18b354_712d4ae2_2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/basement.rpy:545
 translate spanish basement_d18b354_6b3aefe9:
@@ -1487,7 +1487,7 @@ translate spanish basement_d18b354_ff922574:
 translate spanish basement_d18b354_712d4ae2_3:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/basement.rpy:551
 translate spanish basement_d18b354_f664d591:
@@ -1949,7 +1949,7 @@ translate spanish basement_ain_kneeling_menu_0577ac25:
 translate spanish basement_ain_kneeling_menu_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/basement.rpy:781
 translate spanish basement_ain_kneeling_menu_7493f66e:
@@ -4199,7 +4199,7 @@ translate spanish fairy_broken_grab_head_e2a699a2:
 translate spanish fairy_broken_grab_head_242c391b:
 
     # F "{i}*slurp*{/i}"
-    F "{i}*chupada*{/i}"
+    F "{i}*chupando*{/i}"
 
 # game/scripts/basement.rpy:1839
 translate spanish fairy_broken_grab_head_6a412037:
@@ -6299,7 +6299,7 @@ translate spanish fairy_bath_solo_e7913b4a_8:
 translate spanish fairy_bath_solo_37c62a3e:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupada*{/i}"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/basement.rpy:2799
 translate spanish fairy_bath_solo_ba51a031:
@@ -6341,7 +6341,7 @@ translate spanish fairy_bath_solo_e7913b4a_9:
 translate spanish fairy_bath_solo_37c62a3e_1:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupada*{/i}"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/basement.rpy:2809
 translate spanish fairy_bath_solo_9991dc6c:
@@ -6425,7 +6425,7 @@ translate spanish fairy_bath_solo_d3cf527e:
 translate spanish fairy_bath_solo_a4de87f4:
 
     # E "{i}*gulp*{/i}"
-    E "{i}*traga*{/i}"
+    E "{i}*tragando*{/i}"
 
 # game/scripts/basement.rpy:2844
 translate spanish fairy_bath_solo_b4e078ad:
@@ -7913,7 +7913,7 @@ translate spanish fairy_food_floor_ce6dd15e:
 translate spanish fairy_food_floor_242c391b:
 
     # F "{i}*slurp*{/i}"
-    F "{i}*chupada*{/i}"
+    F "{i}*chupando*{/i}"
 
 # game/scripts/basement.rpy:3586
 translate spanish fairy_food_floor_d28721fe:

@@ -268,7 +268,7 @@ translate spanish emilia_solo_7d22bb9f:
 translate spanish emilia_solo_37c62a3e:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupada*{/i}"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:256
 translate spanish emilia_solo_50727662:
@@ -310,7 +310,7 @@ translate spanish emilia_solo_ec2b22b6:
 translate spanish emilia_solo_37c62a3e_1:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupada*{/i}"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:270
 translate spanish emilia_solo_99dda3c0:
@@ -340,7 +340,7 @@ translate spanish emilia_solo_e1a28c53:
 translate spanish emilia_solo_f382da6a:
 
     # E "Mh...I ... {i}*slurp*{/i} try my best to please you..."
-    E "Mh... Yo... {i}*chupada*{/i} lo hago lo mejor que puedo para complacerte..."
+    E "Mh... Yo... {i}*chupando*{/i} lo hago lo mejor que puedo para complacerte..."
 
 # game/scripts/harem.rpy:283
 translate spanish emilia_solo_3ee6eb9c:
@@ -730,7 +730,7 @@ translate spanish emilia_solo_8f334fbf:
 translate spanish emilia_solo_9703f5ea:
 
     # E "{i}*slurp*"
-    E "{i}*chupada*{/i}"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:417
 translate spanish emilia_solo_84e98e98:
@@ -748,7 +748,7 @@ translate spanish emilia_solo_04479839:
 translate spanish emilia_solo_d4aa3e57:
 
     # E "{i}*cough*{/i} Yhes... Mhashter... {i}*slurp*"
-    E "{i}*tose*{/i} Shi... Ahmho... {i}*chupada*{/i}"
+    E "{i}*tose*{/i} Shi... Ahmho... {i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:423
 translate spanish emilia_solo_519fc80e:
@@ -832,7 +832,7 @@ translate spanish emilia_ain_3b992898:
 translate spanish emilia_ain_37c62a3e:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupada*{/i}"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:457
 translate spanish emilia_ain_748ff70e:
@@ -862,7 +862,7 @@ translate spanish emilia_ain_aba0aa3b:
 translate spanish emilia_ain_37c62a3e_1:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupada*{/i}"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:466
 translate spanish emilia_ain_3a9cde63:
@@ -2314,7 +2314,7 @@ translate spanish hez30_588a34b6:
 translate spanish hez30_89bb2643:
 
     # W "{i}*slurp*"
-    W "{i}*chupada*{/i}"
+    W "{i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:984
 translate spanish hez30_050bc630:
@@ -2638,7 +2638,7 @@ translate spanish hef13_e69d5f41:
 translate spanish hef13_242c391b:
 
     # F "{i}*slurp*{/i}"
-    F "{i}*chupada*{/i}"
+    F "{i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:1152
 translate spanish hef13_d77af54d_1:
@@ -2830,7 +2830,7 @@ translate spanish hef13_d3cf527e_3:
 translate spanish hef13_37c62a3e:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupada*{/i}"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:1213
 translate spanish hef13_b1aeb283:
@@ -4414,7 +4414,7 @@ translate spanish ain_zahra_d9fe418e:
 translate spanish ain_zahra_f1761e44:
 
     # A "{i}*slurp*"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:1831
 translate spanish ain_zahra_d826dd75:
@@ -5194,7 +5194,7 @@ translate spanish hs64_971a98df:
 translate spanish hs64_37c62a3e:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupada*{/i}"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:2154
 translate spanish hs64_ac9938ad:
@@ -5290,7 +5290,7 @@ translate spanish hs64_71f621c8:
 translate spanish hs64_a4de87f4:
 
     # E "{i}*gulp*{/i}"
-    E "{i}*traga*{/i}"
+    E "{i}*tragando*{/i}"
 
 # game/scripts/harem.rpy:2200
 translate spanish hs64_38e441a7:
@@ -6184,7 +6184,7 @@ translate spanish zahra_solo_d80a1d62:
 translate spanish zahra_solo_89bb2643:
 
     # W "{i}*slurp*"
-    W "{i}*chupada*{/i}"
+    W "{i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:2571
 translate spanish zahra_solo_35fc155d:
@@ -6370,7 +6370,7 @@ translate spanish zahra_solo_df9a9344:
 translate spanish zahra_solo_89bb2643_1:
 
     # W "{i}*slurp*"
-    W "{i}*chupada*{/i}"
+    W "{i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:2644
 translate spanish zahra_solo_540ab221:
@@ -6412,7 +6412,7 @@ translate spanish zahra_solo_c2c9cc07_1:
 translate spanish zahra_solo_237efbe3:
 
     # W "{i}*gulp* {w=1} {nw}"
-    W "{i}*traga*{/i} {w=1} {nw}"
+    W "{i}*tragando*{/i} {w=1} {nw}"
 
 # game/scripts/harem.rpy:2664
 translate spanish zahra_solo_2f9df0da:
@@ -6796,7 +6796,7 @@ translate spanish kateryna_solo_1f8e6665:
 translate spanish kateryna_solo_daeeb099:
 
     # Z "{i}*slurp*{/i}"
-    Z "{i}*chupada*{/i}"
+    Z "{i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:2802
 translate spanish kateryna_solo_15457ccd:
@@ -7594,7 +7594,7 @@ translate spanish fairy_solo_3ffc36f9_1:
 translate spanish fairy_solo_242c391b:
 
     # F "{i}*slurp*{/i}"
-    F "{i}*chupada*{/i}"
+    F "{i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:3081
 translate spanish fairy_solo_b3e29c6a:
@@ -7624,7 +7624,7 @@ translate spanish fairy_solo_4f5f018f:
 translate spanish fairy_solo_719da9e4:
 
     # F "{i}*gulp*{/i}"
-    F "{i}*traga*{/i}"
+    F "{i}*tragando*{/i}"
 
 # game/scripts/harem.rpy:3092
 translate spanish fairy_solo_3b6713ad:
@@ -7816,7 +7816,7 @@ translate spanish fairy_solo_004fc403:
 translate spanish fairy_solo_242c391b_1:
 
     # F "{i}*slurp*{/i}"
-    F "{i}*chupada*{/i}"
+    F "{i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:3165
 translate spanish fairy_solo_68cee3cb:
@@ -7888,7 +7888,7 @@ translate spanish fairy_solo_7f0536ad:
 translate spanish fairy_solo_242c391b_2:
 
     # F "{i}*slurp*{/i}"
-    F "{i}*chupada*{/i}"
+    F "{i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:3184
 translate spanish fairy_solo_04d381c2:
@@ -7930,7 +7930,7 @@ translate spanish fairy_solo_2b72007d:
 translate spanish fairy_solo_f370c521:
 
     # F "Yhes... {i}*gulp*{/i}... Mhster..."
-    F "Shsí... {i}*traga*{/i}... Ahmo..."
+    F "Shsí... {i}*tragando*{/i}... Ahmo..."
 
 # game/scripts/harem.rpy:3195
 translate spanish fairy_solo_14183f5a:
@@ -7978,7 +7978,7 @@ translate spanish fairy_solo_d04901d7:
 translate spanish fairy_solo_242c391b_3:
 
     # F "{i}*slurp*{/i}"
-    F "{i}*chupada*{/i}"
+    F "{i}*chupando*{/i}"
 
 # game/scripts/harem.rpy:3215
 translate spanish fairy_solo_21ed71d0:
@@ -8032,7 +8032,7 @@ translate spanish fairy_solo_d4edf312_1:
 translate spanish fairy_solo_719da9e4_2:
 
     # F "{i}*gulp*{/i}"
-    F "{i}*traga*{/i}"
+    F "{i}*tragando*{/i}"
 
 # game/scripts/harem.rpy:3234
 translate spanish fairy_solo_1a487770:

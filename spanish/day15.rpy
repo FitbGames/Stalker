@@ -2254,7 +2254,7 @@ translate spanish d15a105_a8db3b1d:
 translate spanish d15a105_d6f3e07c:
 
     # A "Hahh... {i}*gulp*{/i}"
-    A "Hahh... {i}*traga*{/i}"
+    A "Hahh... {i}*tragando*{/i}"
 
 # game/scripts/day15.rpy:914
 translate spanish d15a105_03f1a2bb:
@@ -2566,7 +2566,7 @@ translate spanish d15a105_a4b93390:
 translate spanish d15a105_de90bee3:
 
     # Na "Mh... {i}*slurp*{/i}"
-    Na "Mh... {i}*chupada*{/i}"
+    Na "Mh... {i}*chupando*{/i}"
 
 # game/scripts/day15.rpy:1016
 translate spanish d15a105_c7099611:
@@ -3160,7 +3160,7 @@ translate spanish d15a241_d33e084f:
 translate spanish d15a241_cfc30c2e:
 
     # W "{i}*gulp*{/i}"
-    W "{i}*traga*{/i}"
+    W "{i}*tragando*{/i}"
 
 # game/scripts/day15.rpy:1280
 translate spanish d15a241_1532486c:
@@ -4942,7 +4942,7 @@ translate spanish ss43_a711aa67:
 translate spanish ss43_1799fd44:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupada*{/i}"
+    S "{i}*chupando*{/i}"
 
 # game/scripts/day15.rpy:2097
 translate spanish ss43_4bd3b6d6:
@@ -5044,7 +5044,7 @@ translate spanish ss43_876fc97f:
 translate spanish ss43_36160084:
 
     # S "{i}*gulp*{/i}"
-    S "{i}*traga*{/i}"
+    S "{i}*tragando*{/i}"
 
 # game/scripts/day15.rpy:2145
 translate spanish ss43_5a5e0cd1:

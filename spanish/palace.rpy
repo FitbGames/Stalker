@@ -3166,7 +3166,7 @@ translate spanish pp21_42051d54:
 translate spanish pp21_936e1dba:
 
     # Sl "{i}*slurp*{/i}"
-    Sl "{i}*chupada*{/i}"
+    Sl "{i}*chupando*{/i}"
 
 # game/scripts/palace.rpy:1448
 translate spanish pp21_759e6d4f_1:
@@ -3220,7 +3220,7 @@ translate spanish pp21_e548b61c:
 translate spanish pp21_e25bedad:
 
     # Sl "{i}*gulp*{/i}"
-    Sl "{i}*traga*{/i}"
+    Sl "{i}*tragando*{/i}"
 
 # game/scripts/palace.rpy:1463
 translate spanish pp21_b1aeb283:
@@ -3232,7 +3232,7 @@ translate spanish pp21_b1aeb283:
 translate spanish pp21_e25bedad_1:
 
     # Sl "{i}*gulp*{/i}"
-    Sl "{i}*traga*{/i}"
+    Sl "{i}*tragando*{/i}"
 
 # game/scripts/palace.rpy:1467
 translate spanish pp21_1290596e:
@@ -3454,7 +3454,7 @@ translate spanish pp29anim_dc4b4de5:
 translate spanish pp29anim_936e1dba:
 
     # Sl "{i}*slurp*{/i}"
-    Sl "{i}*chupada*{/i}"
+    Sl "{i}*chupando*{/i}"
 
 # game/scripts/palace.rpy:1593
 translate spanish pp29anim_ecf749a6:
@@ -3490,7 +3490,7 @@ translate spanish pp29anim_651e2564:
 translate spanish pp29anim_c700a355:
 
     # Sl "{i}*slurp*{/i} Yesh, mahs... {i}*sucking*{/i}"
-    Sl "{i}*chupada*{/i} Shi, amho... {i}*chupando*{/i}"
+    Sl "{i}*chupando*{/i} Shi, amho... {i}*chupando*{/i}"
 
 # game/scripts/palace.rpy:1603
 translate spanish pp29anim_17e5fa61:
@@ -3508,7 +3508,7 @@ translate spanish pp29anim_d80d6ced:
 translate spanish pp29anim_a70500de:
 
     # Sl "I must not... mh... {i}*slurp*{/i}"
-    Sl "Yo no debo... mh... {i}*chupada*{/i}"
+    Sl "Yo no debo... mh... {i}*chupando*{/i}"
 
 # game/scripts/palace.rpy:1606
 translate spanish pp29anim_b03f3631:
@@ -3592,7 +3592,7 @@ translate spanish pp29anim_83627a53:
 translate spanish pp29anim_936e1dba_1:
 
     # Sl "{i}*slurp*{/i}"
-    Sl "{i}*chupada*{/i}"
+    Sl "{i}*chupando*{/i}"
 
 # game/scripts/palace.rpy:1646
 translate spanish pp29anim_07d7137e:
@@ -3922,13 +3922,13 @@ translate spanish pp34_d4edf312:
 translate spanish pp34_936e1dba:
 
     # Sl "{i}*slurp*{/i}"
-    Sl "{i}*chupada*{/i}"
+    Sl "{i}*chupando*{/i}"
 
 # game/scripts/palace.rpy:1769
 translate spanish pp34_e25bedad:
 
     # Sl "{i}*gulp*{/i}"
-    Sl "{i}*traga*{/i}"
+    Sl "{i}*tragando*{/i}"
 
 # game/scripts/palace.rpy:1770
 translate spanish pp34_bdc61a01_2:

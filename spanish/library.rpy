@@ -82,7 +82,7 @@ translate spanish la1_57a6defd:
 translate spanish la1_b9c792c7:
 
     # Val "{i}*slurp*{/i}"
-    Val "{i}*chupada*{/i}"
+    Val "{i}*chupando*{/i}"
 
 # game/scripts/library.rpy:34
 translate spanish la1_f2fb2e51:
@@ -160,7 +160,7 @@ translate spanish la1_a4468ad0:
 translate spanish la1_b9c792c7_1:
 
     # Val "{i}*slurp*{/i}"
-    Val "{i}*chupada*{/i}"
+    Val "{i}*chupando*{/i}"
 
 # game/scripts/library.rpy:57
 translate spanish la1_0a70b6de:
@@ -196,7 +196,7 @@ translate spanish la1_5dad0450:
 translate spanish la1_d4bcdd4d:
 
     # Val "Mmph.... {i}*schlurp*{/i}"
-    Val "Mmph.... {i}*chupada*{/i}"
+    Val "Mmph.... {i}*chupando*{/i}"
 
 # game/scripts/library.rpy:66
 translate spanish la1_a1f444a8:
@@ -244,7 +244,7 @@ translate spanish la1_5adc9882:
 translate spanish la1_5a18638e:
 
     # Val "Mmh... {i}*slurp*{/i}"
-    Val "Mmh... {i}*chupada*{/i}"
+    Val "Mmh... {i}*chupando*{/i}"
 
 # game/scripts/library.rpy:80
 translate spanish la1_618f2cea:
@@ -340,7 +340,7 @@ translate spanish la1_4a7f2a5f:
 translate spanish la1_1ea2a51f:
 
     # Val "{i}*gulp*{/i}"
-    Val "{i}*traga*{/i}"
+    Val "{i}*tragando*{/i}"
 
 # game/scripts/library.rpy:111
 translate spanish la1_2efc54c4:
@@ -472,7 +472,7 @@ translate spanish la1_cc6f0b65:
 translate spanish la1_b9c792c7_2:
 
     # Val "{i}*slurp*{/i}"
-    Val "{i}*chupada*{/i}"
+    Val "{i}*chupando*{/i}"
 
 # game/scripts/library.rpy:157
 translate spanish la1_db6b995a:

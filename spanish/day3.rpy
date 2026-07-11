@@ -826,7 +826,7 @@ translate spanish re_d3d22_5b2e0977_1:
 translate spanish re_d3d22_37c62a3e:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupada*{/i}"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/day3.rpy:305
 translate spanish re_d3d22_52ddc47f:
@@ -2596,7 +2596,7 @@ translate spanish d3a_8bb240a0:
 translate spanish d3a_a6d46fda:
 
     # W "{i}*slurp*{/i}"
-    W "{i}*chupada*{/i}"
+    W "{i}*chupando*{/i}"
 
 # game/scripts/day3.rpy:1195
 translate spanish d3a_290b2fcc:
@@ -2722,7 +2722,7 @@ translate spanish d3a_6c6fe361:
 translate spanish d3a_a6d46fda_1:
 
     # W "{i}*slurp*{/i}"
-    W "{i}*chupada*{/i}"
+    W "{i}*chupando*{/i}"
 
 # game/scripts/day3.rpy:1239
 translate spanish d3a_d4edf312:
@@ -2794,7 +2794,7 @@ translate spanish d3a_844607b8:
 translate spanish d3a_cfc30c2e:
 
     # W "{i}*gulp*{/i}"
-    W "{i}*traga*{/i}"
+    W "{i}*tragando*{/i}"
 
 # game/scripts/day3.rpy:1265
 translate spanish d3a_0455f1d5:
@@ -2896,7 +2896,7 @@ translate spanish d3a_c4be6762:
 translate spanish d3a_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day3.rpy:1298
 translate spanish d3a_93fdb112:

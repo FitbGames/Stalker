@@ -5928,7 +5928,7 @@ translate spanish re_d13g13_9a87fc0d:
 translate spanish re_d13g13_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day13.rpy:2694
 translate spanish re_d13g13_47592ba2:
@@ -5976,7 +5976,7 @@ translate spanish re_d13g13_95fa8c98:
 translate spanish re_d13g13_712d4ae2_1:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day13.rpy:2708
 translate spanish re_d13g13_b12e826c:
@@ -6036,7 +6036,7 @@ translate spanish re_d13g13_a9444ae9:
 translate spanish re_d13g13_712d4ae2_2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day13.rpy:2728
 translate spanish re_d13g13_ccb5b4c5:
@@ -6360,7 +6360,7 @@ translate spanish d13g24x2_71d0400a:
 translate spanish d13g24x2_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day13.rpy:2844
 translate spanish d13g24x2_de376a9f:
@@ -7434,7 +7434,7 @@ translate spanish d13h_cum_60247c42:
 translate spanish d13h_cum_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day13.rpy:3240
 translate spanish d13h_cum_1bd710f6:
@@ -7542,7 +7542,7 @@ translate spanish d13h_cum_91062aa9:
 translate spanish d13h_cum_712d4ae2_1:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day13.rpy:3279
 translate spanish d13h_cum_979f526f:
@@ -7578,7 +7578,7 @@ translate spanish d13h_cum_9fe2aac0:
 translate spanish d13h_cum_676abcdb:
 
     # A "{i}*gulp*{/i}"
-    A "{i}*traga*{/i}"
+    A "{i}*tragando*{/i}"
 
 # game/scripts/day13.rpy:3290
 translate spanish d13h_cum_70fe0297:
@@ -7644,7 +7644,7 @@ translate spanish d13h_cum_665e3da6:
 translate spanish d13h_cum_1799fd44:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupada*{/i}"
+    S "{i}*chupando*{/i}"
 
 # game/scripts/day13.rpy:3312
 translate spanish d13h_cum_f1332b21:
@@ -7788,7 +7788,7 @@ translate spanish d13h_cum_68ad88ab:
 translate spanish d13h_cum_1799fd44_1:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupada*{/i}"
+    S "{i}*chupando*{/i}"
 
 # game/scripts/day13.rpy:3353
 translate spanish d13h_cum_9b4cb6d9:
@@ -7848,7 +7848,7 @@ translate spanish d13h_cum_1dd341cb:
 translate spanish d13h_cum_712d4ae2_2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day13.rpy:3372
 translate spanish d13h_cum_f1332b21_1:
@@ -9960,7 +9960,7 @@ translate spanish re_d13k13_c59458ce:
 translate spanish re_d13k13_36160084:
 
     # S "{i}*gulp*{/i}"
-    S "{i}*traga*{/i}"
+    S "{i}*tragando*{/i}"
 
 # game/scripts/day13.rpy:4567
 translate spanish re_d13k13_7755f425:
@@ -11874,7 +11874,7 @@ translate spanish d13l62_67e3c24e:
 translate spanish d13l62_7a10395b:
 
     # Q "{i}*gulp*{/i}"
-    Q "{i}*traga*{/i}"
+    Q "{i}*tragando*{/i}"
 
 # game/scripts/day13.rpy:5385
 translate spanish d13l62_be6d2fcc:
@@ -13230,7 +13230,7 @@ translate spanish d13l231_b53225bd:
 translate spanish d13l231_1799fd44:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupada*{/i}"
+    S "{i}*chupando*{/i}"
 
 # game/scripts/day13.rpy:5847
 translate spanish d13l231_13b19d6f:
@@ -13284,7 +13284,7 @@ translate spanish d13l231_72731e6c:
 translate spanish d13l231_1799fd44_1:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupada*{/i}"
+    S "{i}*chupando*{/i}"
 
 # game/scripts/day13.rpy:5864
 translate spanish d13l231_6636c329:
@@ -13590,7 +13590,7 @@ translate spanish d13l231_255751ef:
 translate spanish d13l231_a826f8f3:
 
     # "{i}*slurp*{/i}"
-    "{i}*chupada*{/i}"
+    "{i}*chupando*{/i}"
 
 # game/scripts/day13.rpy:5963
 translate spanish d13l231_d930dc7e:

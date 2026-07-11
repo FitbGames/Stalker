@@ -5632,7 +5632,7 @@ translate spanish d16a389_7f665f51:
 translate spanish d16a389_eb1356ee:
 
     # Li "Mh... {i}*slurp*{/i}"
-    Li "Mh... {i}*chupada*{/i}"
+    Li "Mh... {i}*chupando*{/i}"
 
 # game/scripts/day16.rpy:2399
 translate spanish d16a389_60a0447c:
@@ -7726,7 +7726,7 @@ translate spanish d16a196_7f124c9e:
 translate spanish d16a196_d6d96840:
 
     # Sl "Mh... {i}*gulp*{/i}"
-    Sl "Mh... {i}*traga*{/i}"
+    Sl "Mh... {i}*tragando*{/i}"
 
 # game/scripts/day16.rpy:3265
 translate spanish d16a196_ad4a722e:
@@ -8110,7 +8110,7 @@ translate spanish d16a_aftermath_62275ca0:
 translate spanish d16a_aftermath_9610dd22:
 
     # Ta "Mh... {i}*gulp*{/i}"
-    Ta "Mh... {i}*traga*{/i}"
+    Ta "Mh... {i}*tragando*{/i}"
 
 # game/scripts/day16.rpy:3429
 translate spanish d16a_aftermath_c60548a8:
@@ -8392,7 +8392,7 @@ translate spanish re_d16a9_ae6a2f64:
 translate spanish re_d16a9_2b59e1d3:
 
     # Ta "{i}*gulp*{/i}"
-    Ta "{i}*traga*{/i}"
+    Ta "{i}*tragando*{/i}"
 
 # game/scripts/day16.rpy:3578
 translate spanish re_d16a9_08edd50e:
@@ -8710,7 +8710,7 @@ translate spanish d16a467_75db3bb7:
 translate spanish d16a467_0d9c99bf:
 
     # Ta "Mh.. {i}*slurp*{/i}"
-    Ta "Mh... {i}*chupada*{/i}"
+    Ta "Mh... {i}*chupando*{/i}"
 
 # game/scripts/day16.rpy:3713
 translate spanish d16a467_da735fe7:
@@ -8812,7 +8812,7 @@ translate spanish d16a467_f409822d:
 translate spanish d16a467_81520a10:
 
     # Li "{i}*gulp*{/i}"
-    Li "{i}*traga*{/i}"
+    Li "{i}*tragando*{/i}"
 
 # game/scripts/day16.rpy:3750
 translate spanish d16a467_a099cdf1:
@@ -8842,7 +8842,7 @@ translate spanish d16a467_84bd4b62:
 translate spanish d16a467_5ad18c1e:
 
     # Ta "Ih... {i}*slurp*{/i} shee thath..."
-    Ta "Eh... {i}*chupada*{/i} ella es eso..."
+    Ta "Eh... {i}*chupando*{/i} ella es eso..."
 
 # game/scripts/day16.rpy:3767
 translate spanish d16a467_538d8ea7:
@@ -10468,7 +10468,7 @@ translate spanish d16b37_59a6dc4f:
 translate spanish d16b37_38e94874:
 
     # Ka "{i}*slurp*{/i}"
-    Ka "{i}*chupada*{/i}"
+    Ka "{i}*chupando*{/i}"
 
 # game/scripts/day16.rpy:4447
 translate spanish d16b37_bf8527e0:
@@ -10978,7 +10978,7 @@ translate spanish d16b172_145496ba:
 translate spanish d16b172_38e94874:
 
     # Ka "{i}*slurp*{/i}"
-    Ka "{i}*chupada*{/i}"
+    Ka "{i}*chupando*{/i}"
 
 # game/scripts/day16.rpy:4628
 translate spanish d16b172_d954ec0b:
@@ -11062,7 +11062,7 @@ translate spanish d16b172_8f8c8b8a:
 translate spanish d16b172_38e94874_1:
 
     # Ka "{i}*slurp*{/i}"
-    Ka "{i}*chupada*{/i}"
+    Ka "{i}*chupando*{/i}"
 
 # game/scripts/day16.rpy:4654
 translate spanish d16b172_9ba7b8d4:
@@ -11122,7 +11122,7 @@ translate spanish d16b172_dcd6ed2c:
 translate spanish d16b172_38e94874_2:
 
     # Ka "{i}*slurp*{/i}"
-    Ka "{i}*chupada*{/i}"
+    Ka "{i}*chupando*{/i}"
 
 # game/scripts/day16.rpy:4672
 translate spanish d16b172_ec40bcf2:
@@ -12046,7 +12046,7 @@ translate spanish d16c_445f0932:
 translate spanish d16c_37c62a3e:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupada*{/i}"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/day16.rpy:5082
 translate spanish d16c_445f0932_1:
@@ -12058,7 +12058,7 @@ translate spanish d16c_445f0932_1:
 translate spanish d16c_37c62a3e_1:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupada*{/i}"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/day16.rpy:5090
 translate spanish d16c_900f0148:
@@ -13288,7 +13288,7 @@ translate spanish d16c83_a41f5b4c_1:
 translate spanish d16c83_493b42c2:
 
     # W "Mh... {i}*gulp*{/i}"
-    W "Mh... {i}*traga*{/i}"
+    W "Mh... {i}*tragando*{/i}"
 
 # game/scripts/day16.rpy:5609
 translate spanish d16c83_eb44b574:

@@ -6184,7 +6184,7 @@ translate spanish red21b41_1deafafd_1:
 translate spanish red21b41_daeeb099:
 
     # Z "{i}*slurp*{/i}"
-    Z "{i}*chupada*{/i}"
+    Z "{i}*chupando*{/i}"
 
 # game/scripts/day21.rpy:2856
 translate spanish red21b41_f8e7d704:
@@ -6268,7 +6268,7 @@ translate spanish red21b41_20f4f8a4:
 translate spanish red21b41_daeeb099_1:
 
     # Z "{i}*slurp*{/i}"
-    Z "{i}*chupada*{/i}"
+    Z "{i}*chupando*{/i}"
 
 # game/scripts/day21.rpy:2876
 translate spanish red21b41_bce17498:
@@ -7084,7 +7084,7 @@ translate spanish d21b_ivy_lay_1deafafd:
 translate spanish d21b_ivy_lay_daeeb099:
 
     # Z "{i}*slurp*{/i}"
-    Z "{i}*chupada*{/i}"
+    Z "{i}*chupando*{/i}"
 
 # game/scripts/day21.rpy:3186
 translate spanish d21b_ivy_lay_f8e7d704:
@@ -7150,7 +7150,7 @@ translate spanish d21b_ivy_lay_20f4f8a4:
 translate spanish d21b_ivy_lay_daeeb099_1:
 
     # Z "{i}*slurp*{/i}"
-    Z "{i}*chupada*{/i}"
+    Z "{i}*chupando*{/i}"
 
 # game/scripts/day21.rpy:3203
 translate spanish d21b_ivy_lay_bce17498:

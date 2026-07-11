@@ -136,7 +136,7 @@ translate spanish strings:
 
     # game/scripts/01_variables.rpy:119
     old "Revered twins"
-    new "Gemelas veneradas"
+    new "Gemelas Veneradas"
 
     # game/scripts/01_variables.rpy:120
     old "Spectator"

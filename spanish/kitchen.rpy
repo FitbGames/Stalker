@@ -316,7 +316,7 @@ translate spanish kitchen_emilia_785e740f:
 translate spanish kitchen_emilia_37c62a3e:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupada*{/i}"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/kitchen.rpy:255
 translate spanish kitchen_emilia_7c9f6b16:
@@ -412,7 +412,7 @@ translate spanish kitchen_emilia_34414acb:
 translate spanish kitchen_emilia_a4de87f4:
 
     # E "{i}*gulp*{/i}"
-    E "{i}*traga*{/i}"
+    E "{i}*tragando*{/i}"
 
 # game/scripts/kitchen.rpy:291
 translate spanish kitchen_emilia_867c2b05:

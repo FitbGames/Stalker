@@ -106,7 +106,7 @@ translate spanish visit_igor_ain_mc_8a39ce1a:
 translate spanish visit_igor_ain_mc_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/visit.rpy:89
 translate spanish visit_igor_ain_mc_90b03733:
@@ -148,7 +148,7 @@ translate spanish visit_igor_ain_mc_e1373016:
 translate spanish visit_igor_ain_mc_712d4ae2_1:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/visit.rpy:102
 translate spanish visit_igor_ain_mc_b1556277:
@@ -202,7 +202,7 @@ translate spanish visit_igor_ain_mc_2ea8d363:
 translate spanish visit_igor_ain_mc_676abcdb:
 
     # A "{i}*gulp*{/i}"
-    A "{i}*traga*{/i}"
+    A "{i}*tragando*{/i}"
 
 # game/scripts/visit.rpy:117
 translate spanish visit_igor_ain_mc_ce9ca339:
@@ -226,7 +226,7 @@ translate spanish visit_igor_ain_mc_70513d51:
 translate spanish visit_igor_ain_mc_712d4ae2_2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/visit.rpy:132
 translate spanish visit_igor_emilia_mc_38d1dad8:
@@ -310,7 +310,7 @@ translate spanish visit_igor_emilia_mc_3b42fad3:
 translate spanish visit_igor_emilia_mc_37c62a3e:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupada*{/i}"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/visit.rpy:166
 translate spanish visit_igor_emilia_mc_d3cf527e:
@@ -370,7 +370,7 @@ translate spanish visit_igor_emilia_mc_2c82b8fb:
 translate spanish visit_igor_emilia_mc_37c62a3e_1:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupada*{/i}"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/visit.rpy:185
 translate spanish visit_igor_emilia_mc_31150ad9:
@@ -664,7 +664,7 @@ translate spanish visit_igor_ain_igor_15820f8a:
 translate spanish visit_igor_ain_igor_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/visit.rpy:302
 translate spanish visit_igor_ain_igor_b25c9ab3:
@@ -922,7 +922,7 @@ translate spanish visit_igor_emilia_igor_477903ee:
 translate spanish visit_igor_emilia_igor_37c62a3e:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupada*{/i}"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/visit.rpy:401
 translate spanish visit_igor_emilia_igor_0083e554:
@@ -970,7 +970,7 @@ translate spanish visit_igor_emilia_igor_2aa825e1:
 translate spanish visit_igor_emilia_igor_37c62a3e_1:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupada*{/i}"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/visit.rpy:418
 translate spanish visit_igor_emilia_igor_13606553:
@@ -994,7 +994,7 @@ translate spanish visit_igor_emilia_igor_268f9048:
 translate spanish visit_igor_emilia_igor_37c62a3e_2:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupada*{/i}"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/visit.rpy:424
 translate spanish visit_igor_emilia_igor_a3b639b9:
@@ -1144,7 +1144,7 @@ translate spanish visit_igor_kateryna_igor_61dd7a32:
 translate spanish visit_igor_kateryna_igor_335efd1d:
 
     # Ig "{i}*slurp*{/i}"
-    Ig "{i}*chupada*{/i}"
+    Ig "{i}*chupando*{/i}"
 
 # game/scripts/visit.rpy:495
 translate spanish visit_igor_kateryna_igor_9a915d44:
@@ -1366,7 +1366,7 @@ translate spanish visit_igor_kateryna_igor_mc_93a6f8c0:
 translate spanish visit_igor_kateryna_igor_mc_38e94874:
 
     # Ka "{i}*slurp*{/i}"
-    Ka "{i}*chupada*{/i}"
+    Ka "{i}*chupando*{/i}"
 
 # game/scripts/visit.rpy:570
 translate spanish visit_igor_kateryna_igor_mc_03032ee0:
@@ -1420,7 +1420,7 @@ translate spanish visit_igor_kateryna_igor_mc_0cf3a71c:
 translate spanish visit_igor_kateryna_igor_mc_aceb2617:
 
     # Ka "{i}*slurp{/i}"
-    Ka "{i}*chupada*{/i}"
+    Ka "{i}*chupando*{/i}"
 
 # game/scripts/visit.rpy:585
 translate spanish visit_igor_kateryna_igor_mc_da94b5b6:
@@ -1642,7 +1642,7 @@ translate spanish visit_igor_kateryna_igor_mc_a4540282:
 translate spanish visit_igor_kateryna_igor_mc_38e94874_1:
 
     # Ka "{i}*slurp*{/i}"
-    Ka "{i}*chupada*{/i}"
+    Ka "{i}*chupando*{/i}"
 
 # game/scripts/visit.rpy:655
 translate spanish visit_igor_kateryna_igor_mc_a6906ca8:
@@ -1696,7 +1696,7 @@ translate spanish visit_igor_kateryna_igor_mc_dca06156:
 translate spanish visit_igor_kateryna_igor_mc_38e94874_2:
 
     # Ka "{i}*slurp*{/i}"
-    Ka "{i}*chupada*{/i}"
+    Ka "{i}*chupando*{/i}"
 
 # game/scripts/visit.rpy:675
 translate spanish visit_igor_kateryna_igor_mc_12fda760:
@@ -1726,7 +1726,7 @@ translate spanish visit_igor_kateryna_igor_mc_df645c9f:
 translate spanish visit_igor_kateryna_igor_mc_38e94874_3:
 
     # Ka "{i}*slurp*{/i}"
-    Ka "{i}*chupada*{/i}"
+    Ka "{i}*chupando*{/i}"
 
 # game/scripts/visit.rpy:686
 translate spanish visit_igor_kateryna_igor_mc_345c24af:
@@ -1756,13 +1756,13 @@ translate spanish visit_igor_kateryna_igor_mc_b25c9ab3:
 translate spanish visit_igor_kateryna_igor_mc_ab968f09:
 
     # Ka "{i}*gulp*{/i}"
-    Ka "{i}*traga*{/i}"
+    Ka "{i}*tragando*{/i}"
 
 # game/scripts/visit.rpy:698
 translate spanish visit_igor_kateryna_igor_mc_38e94874_4:
 
     # Ka "{i}*slurp*{/i}"
-    Ka "{i}*chupada*{/i}"
+    Ka "{i}*chupando*{/i}"
 
 # game/scripts/visit.rpy:699
 translate spanish visit_igor_kateryna_igor_mc_e3fc02d6:

@@ -670,7 +670,7 @@ translate spanish d19b_430156ee:
 translate spanish d19b_4d4af19f:
 
     # S "She must have found a location for the hideout. Did she say how far away it is?"
-    S "Debe haber encontrado la ubicación del escondite. ¿Dijo qué tan lejos está?"
+    S "Debe haber encontrado la ubicación del escondite. ¿Dijo a qué distancia está?"
 
 # game/scripts/day19.rpy:309
 translate spanish d19b_f394ed01:
@@ -5152,7 +5152,7 @@ translate spanish d19e37_d3524aff:
 translate spanish d19e37_bfd089bc:
 
     # St "This... asshole really swung his blade at me...?!"
-    St "Este... ¿imbécil realmente me lanzó su espada...?!"
+    St "Este... ¡¿gilipollas realmente me lanzó su espada...?!"
 
 # game/scripts/day19.rpy:2515
 translate spanish d19e37_d12392e8:
@@ -5362,7 +5362,7 @@ translate spanish d19e43_900f385f:
 translate spanish d19e43_2bdf68ae:
 
     # St "Is this asshole serious..."
-    St "¿Este imbécil va en serio...?"
+    St "¿Este gilipollas va en serio...?"
 
 # game/scripts/day19.rpy:2609
 translate spanish d19e43_b085ad42:
@@ -5494,7 +5494,7 @@ translate spanish d19e43_48e4a46d:
 translate spanish d19e43_5bca432d:
 
     # S "Ngh... Get it over with, asshole. I haven't got all day."
-    S "Ngh... Termina de una vez, imbécil. No tengo todo el día."
+    S "Ngh... Termina de una vez, gilipollas. No tengo todo el día."
 
 # game/scripts/day19.rpy:2655
 translate spanish d19e43_e9205aa5:
@@ -5548,7 +5548,7 @@ translate spanish d19e43_bc0c7ff8:
 translate spanish d19e43_68cb42ff:
 
     # St "There's no point in talking to this asshole. I need to let it pass."
-    St "No tiene sentido hablar con este imbécil. Tengo que dejarlo pasar."
+    St "No tiene sentido hablar con este gilipollas. Tengo que dejarlo pasar."
 
 # game/scripts/day19.rpy:2676
 translate spanish d19e43_971a98df_1:
@@ -5596,7 +5596,7 @@ translate spanish d19e43_93fc8838:
 translate spanish d19e43_aaf516ca:
 
     # St "Dream on... asshole..."
-    St "Sigue soñando... imbécil..."
+    St "Sigue soñando... gilipollas..."
 
 # game/scripts/day19.rpy:2688
 translate spanish d19e43_d6b0b966:
@@ -9952,7 +9952,7 @@ translate spanish re_d19f34_bd971eb5:
 translate spanish re_d19f34_671a8710:
 
     # New "{i}*slurp*{/i}"
-    New "{i}*chupada*{/i}"
+    New "{i}*chupando*{/i}"
 
 # game/scripts/day19.rpy:4687
 translate spanish re_d19f34_401aad4d:
@@ -10000,7 +10000,7 @@ translate spanish re_d19f34_e57a721e:
 translate spanish re_d19f34_df6c03ca:
 
     # Ne "{i}*slurp*{/i}"
-    Ne "{i}*chupada*{/i}"
+    Ne "{i}*chupando*{/i}"
 
 # game/scripts/day19.rpy:4705
 translate spanish re_d19f34_807e057d:
@@ -10042,7 +10042,7 @@ translate spanish re_d19f34_2905a197:
 translate spanish re_d19f34_df6c03ca_1:
 
     # Ne "{i}*slurp*{/i}"
-    Ne "{i}*chupada*{/i}"
+    Ne "{i}*chupando*{/i}"
 
 # game/scripts/day19.rpy:4720
 translate spanish re_d19f34_da033e9e:
@@ -10696,7 +10696,7 @@ translate spanish d19f96_776f061f:
 translate spanish d19f96_1799fd44:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupada*{/i}"
+    S "{i}*chupando*{/i}"
 
 # game/scripts/day19.rpy:5008
 translate spanish d19f96_2f551c7e:
@@ -11062,7 +11062,7 @@ translate spanish d19f_sex_menu_027bad58:
 translate spanish d19f_sex_menu_e032b782:
 
     # Ne "Can you please... go deep? I want to see how good she really is."
-    Ne "¿Puedes... ir profundo, por favor? Quiero ver qué tan buena es de verdad."
+    Ne "¿Podrías, por favor... ir más a fondo? Quiero ver lo buena que es de verdad."
 
 # game/scripts/day19.rpy:5152
 translate spanish d19f_sex_menu_7f5e8aa2:
@@ -11110,7 +11110,7 @@ translate spanish d19f_sex_menu_48e971a9:
 translate spanish d19f_sex_menu_1799fd44:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupada*{/i}"
+    S "{i}*chupando*{/i}"
 
 # game/scripts/day19.rpy:5167
 translate spanish d19f_sex_menu_78e81d82:
@@ -11194,7 +11194,7 @@ translate spanish d19f_sex_menu_76128976:
 translate spanish d19f_sex_menu_5e278d7e:
 
     # S "MMgh... {i}*slurp*{/i}"
-    S "MMgh... {i}*chupada*{/i}"
+    S "MMgh... {i}*chupando*{/i}"
 
 # game/scripts/day19.rpy:5192
 translate spanish d19f_sex_menu_093348bf:
@@ -11284,7 +11284,7 @@ translate spanish d19f_sex_menu_ee54b110:
 translate spanish d19f_sex_menu_36160084:
 
     # S "{i}*gulp*{/i}"
-    S "{i}*traga*{/i}"
+    S "{i}*tragando*{/i}"
 
 # game/scripts/day19.rpy:5220
 translate spanish d19f_sex_menu_fca482a2:
@@ -11308,7 +11308,7 @@ translate spanish d19f_sex_menu_415ece4d:
 translate spanish d19f_sex_menu_36160084_1:
 
     # S "{i}*gulp*{/i}"
-    S "{i}*traga*{/i}"
+    S "{i}*tragando*{/i}"
 
 # game/scripts/day19.rpy:5227
 translate spanish d19f_sex_menu_d7c6f809:
@@ -11326,7 +11326,7 @@ translate spanish d19f_sex_menu_d921886d:
 translate spanish d19f_sex_menu_1799fd44_1:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupada*{/i}"
+    S "{i}*chupando*{/i}"
 
 # game/scripts/day19.rpy:5232
 translate spanish d19f_sex_menu_c9013019:
@@ -11584,7 +11584,7 @@ translate spanish d19f176_328715ae:
 translate spanish d19f176_df6c03ca:
 
     # Ne "{i}*slurp*{/i}"
-    Ne "{i}*chupada*{/i}"
+    Ne "{i}*chupando*{/i}"
 
 # game/scripts/day19.rpy:5328
 translate spanish d19f176_b039f360:
@@ -11596,7 +11596,7 @@ translate spanish d19f176_b039f360:
 translate spanish d19f176_df6c03ca_1:
 
     # Ne "{i}*slurp*{/i}"
-    Ne "{i}*chupada*{/i}"
+    Ne "{i}*chupando*{/i}"
 
 # game/scripts/day19.rpy:5333
 translate spanish d19f176_b0e97670:
@@ -11740,7 +11740,7 @@ translate spanish d19f176_e156dcdd:
 translate spanish d19f176_bd1a4ee3:
 
     # Ne "Mgh... {i}*gulp*{/i}"
-    Ne "Mgh... {i}*traga*{/i}"
+    Ne "Mgh... {i}*tragando*{/i}"
 
 # game/scripts/day19.rpy:5376
 translate spanish d19f176_9b278443:
@@ -11758,7 +11758,7 @@ translate spanish d19f176_c62affce:
 translate spanish d19f176_5451f8aa:
 
     # Ne "{i}*gulp*{/i}"
-    Ne "{i}*traga*{/i}"
+    Ne "{i}*tragando*{/i}"
 
 # game/scripts/day19.rpy:5382
 translate spanish d19f176_06bdefd4:
@@ -11788,7 +11788,7 @@ translate spanish d19f176_25a004d9_1:
 translate spanish d19f176_5451f8aa_1:
 
     # Ne "{i}*gulp*{/i}"
-    Ne "{i}*traga*{/i}"
+    Ne "{i}*tragando*{/i}"
 
 # game/scripts/day19.rpy:5391
 translate spanish d19f176_a57b00fd:
@@ -13252,7 +13252,7 @@ translate spanish d19f272_fdd3002c:
 translate spanish d19f272_38032c92:
 
     # Ne "Nh...{i}*slurp*{/i}"
-    Ne "Nh...{i}*chupada*{/i}"
+    Ne "Nh...{i}*chupando*{/i}"
 
 # game/scripts/day19.rpy:5971
 translate spanish d19f272_74aeeb2c:
@@ -14524,7 +14524,7 @@ translate spanish d19f285x12_af309cd6:
 translate spanish d19f285x12_df6c03ca:
 
     # Ne "{i}*slurp*{/i}"
-    Ne "{i}*chupada*{/i}"
+    Ne "{i}*chupando*{/i}"
 
 # game/scripts/day19.rpy:6470
 translate spanish d19f285x12_f9351d88:
@@ -15358,7 +15358,7 @@ translate spanish d19g_29a9f082:
 translate spanish d19g_9c0cb84d:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupada*{/i}"
+    As "{i}*chupando*{/i}"
 
 # game/scripts/day19.rpy:6915
 translate spanish d19g_49d68172:
@@ -15460,7 +15460,7 @@ translate spanish d19g_b4b670de:
 translate spanish d19g_e277819e:
 
     # Ky "Yes, and no. Yes, things have changed in here, but I'm talking about the assholes we dealt with."
-    Ky "Sí y no. Sí, las cosas han cambiado aquí, pero hablo de los cabrones con los que tuvimos que lidiar."
+    Ky "Sí y no. Sí, las cosas han cambiado aquí, pero hablo de los gilipollas con los que tuvimos que lidiar."
 
 # game/scripts/day19.rpy:6966
 translate spanish d19g_61970de9:
@@ -15502,7 +15502,7 @@ translate spanish d19g_e4a511f5:
 translate spanish d19g_f1ed961a:
 
     # Ky "Gods-worshipping, pompous assholes from the mighty untouchable city of Zeta don't generally do that."
-    Ky "Los pomposos cabrones adoradores de dioses de la gran e intocable ciudad de Zeta no suelen hacer eso."
+    Ky "Esos capullos pomposos y adoradores de dioses de la poderosa e intocable ciudad de Zeta no suelen hacer eso."
 
 # game/scripts/day19.rpy:6977
 translate spanish d19g_29b48645:

@@ -7282,7 +7282,7 @@ translate spanish d7c67_33a8eca8:
 translate spanish d7c67_e01f82f3:
 
     # Na "{i}*slurp*"
-    Na "{i}*chupada*{/i}"
+    Na "{i}*chupando*{/i}"
 
 # game/scripts/day7.rpy:2970
 translate spanish d7c67_3968f3ce:

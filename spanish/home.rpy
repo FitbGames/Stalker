@@ -388,7 +388,7 @@ translate spanish sz_menu_ab0434f3:
 translate spanish sz_menu_778ca55f:
 
     # "{i}*slurp*"
-    "{i}*chupada*{/i}"
+    "{i}*chupando*{/i}"
 
 # game/scripts/home.rpy:411
 translate spanish sz_menu_0a48c264:
@@ -2626,7 +2626,7 @@ translate spanish shani_practice_distracted_6d3885ac:
 translate spanish shani_practice_distracted_daeeb099:
 
     # Z "{i}*slurp*{/i}"
-    Z "{i}*chupada*{/i}"
+    Z "{i}*chupando*{/i}"
 
 # game/scripts/home.rpy:1325
 translate spanish shani_practice_distracted_a5d960cc:
@@ -2686,7 +2686,7 @@ translate spanish shani_practice_distracted_57421bfb:
 translate spanish shani_practice_distracted_1799fd44:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupada*{/i}"
+    S "{i}*chupando*{/i}"
 
 # game/scripts/home.rpy:1352
 translate spanish shani_practice_distracted_a8db3b1d:
@@ -2740,7 +2740,7 @@ translate spanish shani_practice_distracted_80f7b757:
 translate spanish shani_practice_distracted_daeeb099_1:
 
     # Z "{i}*slurp*{/i}"
-    Z "{i}*chupada*{/i}"
+    Z "{i}*chupando*{/i}"
 
 # game/scripts/home.rpy:1366
 translate spanish shani_practice_distracted_0130fc5e:
@@ -2770,7 +2770,7 @@ translate spanish shani_practice_distracted_c9c7b140:
 translate spanish shani_practice_distracted_da131e9d:
 
     # S "Mhh... {i}*slurp*{/i}"
-    S "Mhh... {i}*chupada*{/i}"
+    S "Mhh... {i}*chupando*{/i}"
 
 # game/scripts/home.rpy:1374
 translate spanish shani_practice_distracted_b025c267:
@@ -2806,7 +2806,7 @@ translate spanish shani_practice_distracted_21c74e5c:
 translate spanish shani_practice_distracted_daeeb099_2:
 
     # Z "{i}*slurp*{/i}"
-    Z "{i}*chupada*{/i}"
+    Z "{i}*chupando*{/i}"
 
 # game/scripts/home.rpy:1386
 translate spanish shani_practice_distracted_3f051141:
@@ -2836,7 +2836,7 @@ translate spanish shani_practice_distracted_3444a589:
 translate spanish shani_practice_distracted_6e254ef4:
 
     # S "Mmmh... ffuuck... {i}*slurp*{/i}"
-    S "Mmmh... jodeeer... {i}*chupada*{/i}"
+    S "Mmmh... jodeeer... {i}*chupando*{/i}"
 
 # game/scripts/home.rpy:1397
 translate spanish shani_practice_distracted_c4fd6a37:
@@ -2902,7 +2902,7 @@ translate spanish shani_practice_distracted_eba0049c:
 translate spanish shani_practice_distracted_2144a919:
 
     # S "{i}*schlurp*{/i}"
-    S "{i}*chupada*{/i}"
+    S "{i}*chupando*{/i}"
 
 # game/scripts/home.rpy:1420
 translate spanish shani_practice_distracted_5e8e2f34:
@@ -3094,7 +3094,7 @@ translate spanish shani_practice_distracted_889ab809:
 translate spanish shani_practice_distracted_daeeb099_3:
 
     # Z "{i}*slurp*{/i}"
-    Z "{i}*chupada*{/i}"
+    Z "{i}*chupando*{/i}"
 
 # game/scripts/home.rpy:1493
 translate spanish shani_practice_distracted_ac45e91a:
@@ -3178,7 +3178,7 @@ translate spanish shani_practice_distracted_9e0afee6:
 translate spanish shani_practice_distracted_1799fd44_1:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupada*{/i}"
+    S "{i}*chupando*{/i}"
 
 # game/scripts/home.rpy:1529
 translate spanish shani_practice_distracted_d4edf312_1:
@@ -3208,7 +3208,7 @@ translate spanish shani_practice_distracted_1f5b0b55:
 translate spanish shani_practice_distracted_a12108fa:
 
     # S "...mmh... {i}*slurp*{/i}"
-    S "...mmh... {i}*chupada*{/i}"
+    S "...mmh... {i}*chupando*{/i}"
 
 # game/scripts/home.rpy:1538
 translate spanish shani_practice_distracted_d1fa572b:
@@ -3256,7 +3256,7 @@ translate spanish shani_practice_distracted_56e95422:
 translate spanish shani_practice_distracted_daeeb099_4:
 
     # Z "{i}*slurp*{/i}"
-    Z "{i}*chupada*{/i}"
+    Z "{i}*chupando*{/i}"
 
 # game/scripts/home.rpy:1562
 translate spanish shani_practice_distracted_ce7973ab:
@@ -3484,7 +3484,7 @@ translate spanish sleep_shani_74a45e44:
 translate spanish sleep_shani_1799fd44:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupada*{/i}"
+    S "{i}*chupando*{/i}"
 
 # game/scripts/home.rpy:1689
 translate spanish sleep_shani_4bd3b6d6:
@@ -3568,7 +3568,7 @@ translate spanish sleep_shani_89d81d70:
 translate spanish sleep_shani_36160084:
 
     # S "{i}*gulp*{/i}"
-    S "{i}*traga*{/i}"
+    S "{i}*tragando*{/i}"
 
 # game/scripts/home.rpy:1732
 translate spanish sleep_shani_847d70cb:
@@ -3982,7 +3982,7 @@ translate spanish car_menu_00275937:
 translate spanish wz_emilia_fairy_1_242c391b:
 
     # F "{i}*slurp*{/i}"
-    F "{i}*chupada*{/i}"
+    F "{i}*chupando*{/i}"
 
 # game/scripts/home.rpy:1940
 translate spanish wz_emilia_fairy_1_d3cf527e:
@@ -4000,7 +4000,7 @@ translate spanish wz_emilia_fairy_1_cf1bc93c:
 translate spanish wz_emilia_fairy_1_6be329a5:
 
     # E "{i}Mh... {i}*slurp*{/i}" (multiple=2)
-    E "{i}Mh... {i}*chupada*{/i}" (multiple=2)
+    E "{i}Mh... {i}*chupando*{/i}" (multiple=2)
 
 # game/scripts/home.rpy:1946
 translate spanish wz_emilia_fairy_1_ab8635f0:
@@ -4246,7 +4246,7 @@ translate spanish wz_ain_1_22282f9b:
 translate spanish wz_ain_2_350b3f0f:
 
     # C "{i}*slurp*{/i}"
-    C "{i}*chupada*{/i}"
+    C "{i}*chupando*{/i}"
 
 # game/scripts/home.rpy:2052
 translate spanish wz_ain_2_412e04eb:
@@ -4306,7 +4306,7 @@ translate spanish wz_ain_2_8a7f14aa:
 translate spanish wz_ain_2_676abcdb:
 
     # A "{i}*gulp*{/i}"
-    A "{i}*traga*{/i}"
+    A "{i}*tragando*{/i}"
 
 # game/scripts/home.rpy:2074
 translate spanish wz_ain_2_b9c960c5:

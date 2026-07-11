@@ -3232,7 +3232,7 @@ translate spanish d9c_236b25c4:
 translate spanish d9c_a4a2e763:
 
     # Tg "Tell me something I don't know, asshole."
-    Tg "Dime algo que no sepa, imbécil."
+    Tg "Dime algo que no sepa, gilipollas."
 
 # game/scripts/day9.rpy:1435
 translate spanish d9c_51c731f8:
@@ -3664,7 +3664,7 @@ translate spanish d9c31_7450a7f6:
 translate spanish d9c31_a69c6fdd:
 
     # Tg "{i}*slurp*"
-    Tg "{i}*chupada*{/i}"
+    Tg "{i}*chupando*{/i}"
 
 # game/scripts/day9.rpy:1681
 translate spanish d9c31_3faef3d0:
@@ -3796,7 +3796,7 @@ translate spanish d9c36anim_36b0afc7:
 translate spanish d9c36anim_09803858:
 
     # Tg "{i}*gulp*"
-    Tg "{i}*traga*{/i}"
+    Tg "{i}*tragando*{/i}"
 
 # game/scripts/day9.rpy:1729
 translate spanish d9c36anim_9ae83089:

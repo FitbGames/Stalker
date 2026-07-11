@@ -1432,7 +1432,7 @@ translate spanish d1a105x_86b0ff35:
 translate spanish d1a105x_9c0cb84d:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupada*{/i}"
+    As "{i}*chupando*{/i}"
 
 # game/scripts/day1.rpy:768
 translate spanish d1a105x_133fc0ba:
@@ -4132,7 +4132,7 @@ translate spanish d1e13_a8b39cbd:
 translate spanish d1e13_89bb2643:
 
     # W "{i}*slurp*"
-    W "{i}*chupada*{/i}"
+    W "{i}*chupando*{/i}"
 
 # game/scripts/day1.rpy:1920
 translate spanish d1e13_00c3d147:
@@ -4414,7 +4414,7 @@ translate spanish d1e23_ab0434f3:
 translate spanish d1e23_778ca55f:
 
     # "{i}*slurp*"
-    "{i}*chupada*{/i}"
+    "{i}*chupando*{/i}"
 
 # game/scripts/day1.rpy:2044
 translate spanish d1e23_0a48c264:
@@ -4832,7 +4832,7 @@ translate spanish strings:
 
     # game/scripts/day1.rpy:419
     old "Grope her ass"
-    new "Manoseale el culo"
+    new "Manóseale el culo"
 
     # game/scripts/day1.rpy:456
     old "Kill her"

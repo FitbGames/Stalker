@@ -550,7 +550,7 @@ translate spanish d20a52_1ab68f98:
 translate spanish d20a52_543c69fb:
 
     # St "That's what you get, asshole."
-    St "Eso es lo que te mereces, hijo de puta."
+    St "Eso es lo que te mereces, gilipollas."
 
 # game/scripts/day20.rpy:263
 translate spanish d20a52_8dbe65e4:
@@ -2134,7 +2134,7 @@ translate spanish d20a113_37af9846:
 translate spanish d20a113_1799fd44:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupada*{/i}"
+    S "{i}*chupando*{/i}"
 
 # game/scripts/day20.rpy:974
 translate spanish d20a113_83e45873:
@@ -2182,7 +2182,7 @@ translate spanish d20a113_2712d5eb:
 translate spanish d20a113_1799fd44_1:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupada*{/i}"
+    S "{i}*chupando*{/i}"
 
 # game/scripts/day20.rpy:991
 translate spanish d20a113_0c45c8cb:
@@ -2284,7 +2284,7 @@ translate spanish d20a113_12a3739c:
 translate spanish d20a113_1799fd44_2:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupada*{/i}"
+    S "{i}*chupando*{/i}"
 
 # game/scripts/day20.rpy:1020
 translate spanish d20a113_4a14107e:
@@ -3382,7 +3382,7 @@ translate spanish d20a_shani_executed_64676443:
 translate spanish d20a_shani_executed_b6e2b3c9:
 
     # Ban2 "{i}*slurp*{/i}"
-    Ban2 "{i}*chupada*{/i}"
+    Ban2 "{i}*chupando*{/i}"
 
 # game/scripts/day20.rpy:1618
 translate spanish d20a_shani_executed_8565964f:
@@ -4708,7 +4708,7 @@ translate spanish re_d20a156_4b6b42e2:
 translate spanish re_d20a156_b6e2b3c9:
 
     # Ban2 "{i}*slurp*{/i}"
-    Ban2 "{i}*chupada*{/i}"
+    Ban2 "{i}*chupando*{/i}"
 
 # game/scripts/day20.rpy:2180
 translate spanish re_d20a156_6fc63af7:
@@ -5002,7 +5002,7 @@ translate spanish re_d20a156_6b6a1be3:
 translate spanish re_d20a156_1799fd44:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupada*{/i}"
+    S "{i}*chupando*{/i}"
 
 # game/scripts/day20.rpy:2271
 translate spanish re_d20a156_f3c8734c:
@@ -5038,7 +5038,7 @@ translate spanish re_d20a156_57421bfb_2:
 translate spanish re_d20a156_36160084:
 
     # S "{i}*gulp*{/i}"
-    S "{i}*traga*{/i}"
+    S "{i}*tragando*{/i}"
 
 # game/scripts/day20.rpy:2284
 translate spanish re_d20a156_1a56a166_6:
@@ -5092,7 +5092,7 @@ translate spanish re_d20a156_f00b1fcb:
 translate spanish re_d20a156_1799fd44_1:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupada*{/i}"
+    S "{i}*chupando*{/i}"
 
 # game/scripts/day20.rpy:2301
 translate spanish re_d20a156_ce44d954_1:
@@ -5326,7 +5326,7 @@ translate spanish re_d20a156_b8997e99:
 translate spanish re_d20a156_1799fd44_2:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupada*{/i}"
+    S "{i}*chupando*{/i}"
 
 # game/scripts/day20.rpy:2390
 translate spanish re_d20a156_b8a818db:
@@ -5380,7 +5380,7 @@ translate spanish re_d20a156_539359a3:
 translate spanish re_d20a156_1799fd44_3:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupada*{/i}"
+    S "{i}*chupando*{/i}"
 
 # game/scripts/day20.rpy:2404
 translate spanish re_d20a156_9ac156ed:
@@ -5704,7 +5704,7 @@ translate spanish re_d20a156_be769167:
 translate spanish re_d20a156_1799fd44_4:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupada*{/i}"
+    S "{i}*chupando*{/i}"
 
 # game/scripts/day20.rpy:2502
 translate spanish re_d20a156_b8a818db_1:
@@ -5746,7 +5746,7 @@ translate spanish re_d20a156_7e05fad2:
 translate spanish re_d20a156_1799fd44_5:
 
     # S "{i}*slurp*{/i}"
-    S "{i}*chupada*{/i}"
+    S "{i}*chupando*{/i}"
 
 # game/scripts/day20.rpy:2515
 translate spanish re_d20a156_bce230c6_1:
@@ -9616,7 +9616,7 @@ translate spanish d20b209x29_29bcc727:
 translate spanish d20b209x29_30e2a1b4:
 
     # W "Up here, old man."
-    W "Aquí arriba, amor."
+    W "Aquí arriba, querido."
 
 # game/scripts/day20.rpy:4245
 translate spanish d20b209x29_91e0b411:
@@ -11980,7 +11980,7 @@ translate spanish d20c51_0cca8624_1:
 translate spanish d20c51_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day20.rpy:5256
 translate spanish d20c51_47c2bd7c:
@@ -12058,7 +12058,7 @@ translate spanish d20c51_04177bb9:
 translate spanish d20c51_712d4ae2_1:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day20.rpy:5283
 translate spanish d20c51_fb8b3c97:
@@ -12148,7 +12148,7 @@ translate spanish d20c51_f8ad4cdf:
 translate spanish d20c51_712d4ae2_2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day20.rpy:5319
 translate spanish d20c51_adde3fad:
@@ -12208,7 +12208,7 @@ translate spanish d20c51_618ec349:
 translate spanish d20c51_712d4ae2_3:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day20.rpy:5344
 translate spanish d20c51_d649bbbd:
@@ -14212,7 +14212,7 @@ translate spanish re_d20d25_318e043a_1:
 translate spanish re_d20d25_e4962976:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupada*{/i}"
+    Pe "{i}*chupando*{/i}"
 
 # game/scripts/day20.rpy:6165
 translate spanish re_d20d25_6fb6e9b0:
@@ -14260,7 +14260,7 @@ translate spanish re_d20d25_aa75a29e:
 translate spanish re_d20d25_e4962976_1:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupada*{/i}"
+    Pe "{i}*chupando*{/i}"
 
 # game/scripts/day20.rpy:6177
 translate spanish re_d20d25_354246fc:
@@ -14422,7 +14422,7 @@ translate spanish re_d20d25_6b2bb319:
 translate spanish re_d20d25_e4962976_2:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupada*{/i}"
+    Pe "{i}*chupando*{/i}"
 
 # game/scripts/day20.rpy:6228
 translate spanish re_d20d25_318e043a_2:
@@ -14482,7 +14482,7 @@ translate spanish re_d20d25_9dc2e1a6:
 translate spanish re_d20d25_e4962976_3:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupada*{/i}"
+    Pe "{i}*chupando*{/i}"
 
 # game/scripts/day20.rpy:6250
 translate spanish re_d20d25_b274ff7c:
@@ -14530,7 +14530,7 @@ translate spanish re_d20d25_00742c77:
 translate spanish re_d20d25_e4962976_4:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupada*{/i}"
+    Pe "{i}*chupando*{/i}"
 
 # game/scripts/day20.rpy:6266
 translate spanish re_d20d25_68d85c34:
@@ -14704,7 +14704,7 @@ translate spanish re_d20d25_318e043a_3:
 translate spanish re_d20d25_daeeb099:
 
     # Z "{i}*slurp*{/i}"
-    Z "{i}*chupada*{/i}"
+    Z "{i}*chupando*{/i}"
 
 # game/scripts/day20.rpy:6332
 translate spanish re_d20d25_ba19a60a:

@@ -1672,7 +1672,7 @@ translate spanish re_d10a86_5a5bc811:
 translate spanish re_d10a86_778ca55f:
 
     # "{i}*slurp*"
-    "{i}*chupada*{/i}"
+    "{i}*chupando*{/i}"
 
 # game/scripts/day10.rpy:686
 translate spanish re_d10a86_451ad1ca:
@@ -7882,7 +7882,7 @@ translate spanish d10b143_e1d2d39e:
 translate spanish d10b143_76f85b92:
 
     # C "...asshole."
-    C "... Gilipoyas."
+    C "... gilipoyas."
 
 # game/scripts/day10.rpy:3267
 translate spanish d10b143_514754a2:
@@ -8950,7 +8950,7 @@ translate spanish d10b230_679f6963:
 translate spanish d10b230_30383d28:
 
     # As "{i}*slurps*"
-    As "{i}*traga*"
+    As "{i}*tragando*"
 
 # game/scripts/day10.rpy:3761
 translate spanish d10b230_5af3fad8:
@@ -9124,7 +9124,7 @@ translate spanish d10b230_679f6963_4:
 translate spanish d10b230_e3ff5fb5:
 
     # As "{i}*gulp*"
-    As "{i}*traga*{/i}"
+    As "{i}*tragando*{/i}"
 
 # game/scripts/day10.rpy:3838
 translate spanish d10b230_679f6963_5:
@@ -9820,7 +9820,7 @@ translate spanish d10b274_2684a2e5:
 translate spanish d10b274_778ca55f:
 
     # "{i}*slurp*"
-    "{i}*chupada*{/i}"
+    "{i}*chupando*{/i}"
 
 # game/scripts/day10.rpy:4128
 translate spanish d10b274_d665b61b:
@@ -10072,13 +10072,13 @@ translate spanish d10b288_7dfcf6eb:
 translate spanish d10b288_09165861:
 
     # As "{i}*slup*"
-    As "{i}*traga*"
+    As "{i}*chupando*{/i}"
 
 # game/scripts/day10.rpy:4241
 translate spanish d10b288_ca00444c:
 
     # Zi "Hey, asshole. I'm talking to you."
-    Zi "Oye, imbécil. Te estaba hablando a ti."
+    Zi "Oye, gilipollas. Te estaba hablando a ti."
 
 # game/scripts/day10.rpy:4242
 translate spanish d10b288_9ad3d81d:
@@ -10114,7 +10114,7 @@ translate spanish d10b288_679f6963_1:
 translate spanish d10b288_ca00444c_1:
 
     # Zi "Hey, asshole. I'm talking to you."
-    Zi "Oye, imbécil. Te estaba hablando a ti."
+    Zi "Oye, gilipollas. Te estaba hablando a ti."
 
 # game/scripts/day10.rpy:4260
 translate spanish d10b288_12e19677:

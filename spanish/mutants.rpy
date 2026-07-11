@@ -364,7 +364,7 @@ translate spanish pepper_cum_from_bj_e96b5914:
 translate spanish pepper_cum_from_bj_e4962976:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupada*{/i}"
+    Pe "{i}*chupando*{/i}"
 
 # game/scripts/mutants.rpy:259
 translate spanish pepper_cum_from_bj_2a711295:
@@ -1084,7 +1084,7 @@ translate spanish pepper_undress_3418b355:
 translate spanish pepper_undress_e4962976:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupada*{/i}"
+    Pe "{i}*chupando*{/i}"
 
 # game/scripts/mutants.rpy:531
 translate spanish pepper_undress_301b3fd9:
@@ -1102,7 +1102,7 @@ translate spanish pepper_undress_1cb2460f:
 translate spanish pepper_undress_e4962976_1:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupada*{/i}"
+    Pe "{i}*chupando*{/i}"
 
 # game/scripts/mutants.rpy:536
 translate spanish pepper_undress_d021c047:
@@ -1564,7 +1564,7 @@ translate spanish pepper_deepthroat_c387b67f:
 translate spanish pepper_deepthroat_e4962976:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupada*{/i}"
+    Pe "{i}*chupando*{/i}"
 
 # game/scripts/mutants.rpy:699
 translate spanish pepper_deepthroat_de2df6f1:
@@ -1666,7 +1666,7 @@ translate spanish pepper_deepthroat_20b01a39:
 translate spanish pepper_deepthroat_e4962976_1:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupada*{/i}"
+    Pe "{i}*chupando*{/i}"
 
 # game/scripts/mutants.rpy:727
 translate spanish pepper_deepthroat_94cdc4c2:
@@ -1720,7 +1720,7 @@ translate spanish pepper_deepthroat_1094ec3b:
 translate spanish pepper_deepthroat_9dc5e3ab:
 
     # Pe "{i}Ngh... {i}*slurp*{/i}"
-    Pe "{i}Ngh... {i}*chupada*{/i}"
+    Pe "{i}Ngh... {i}*chupando*{/i}"
 
 # game/scripts/mutants.rpy:740
 translate spanish pepper_deepthroat_f2156cf8:
@@ -1966,7 +1966,7 @@ translate spanish pepper_deepthroat_d6e28f27_4:
 translate spanish pepper_deepthroat_a403ae6e:
 
     # Pe "{i}*gulp*{/i}"
-    Pe "{i}*traga*{/i}"
+    Pe "{i}*tragando*{/i}"
 
 # game/scripts/mutants.rpy:827
 translate spanish pepper_deepthroat_de365375:
@@ -1996,7 +1996,7 @@ translate spanish pepper_deepthroat_d002efe7:
 translate spanish pepper_deepthroat_a403ae6e_1:
 
     # Pe "{i}*gulp*{/i}"
-    Pe "{i}*traga*{/i}"
+    Pe "{i}*tragando*{/i}"
 
 # game/scripts/mutants.rpy:835
 translate spanish pepper_deepthroat_ad6cabdb:
@@ -2008,7 +2008,7 @@ translate spanish pepper_deepthroat_ad6cabdb:
 translate spanish pepper_deepthroat_a403ae6e_2:
 
     # Pe "{i}*gulp*{/i}"
-    Pe "{i}*traga*{/i}"
+    Pe "{i}*tragando*{/i}"
 
 # game/scripts/mutants.rpy:840
 translate spanish pepper_deepthroat_d257e838:
@@ -2140,7 +2140,7 @@ translate spanish pepper_deepthroat_repeat_f4a1b094:
 translate spanish pepper_deepthroat_repeat_e4962976:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupada*{/i}"
+    Pe "{i}*chupando*{/i}"
 
 # game/scripts/mutants.rpy:893
 translate spanish pepper_deepthroat_repeat_c8f4ac5a:
@@ -2236,7 +2236,7 @@ translate spanish pepper_deepthroat_repeat_d5a8383a:
 translate spanish pepper_deepthroat_repeat_9dc5e3ab:
 
     # Pe "{i}Ngh... {i}*slurp*{/i}"
-    Pe "{i}¡Ngh... {i}*chupada*{/i}"
+    Pe "{i}¡Ngh... {i}*chupando*{/i}"
 
 # game/scripts/mutants.rpy:917
 translate spanish pepper_deepthroat_repeat_512dbb51:
@@ -2248,7 +2248,7 @@ translate spanish pepper_deepthroat_repeat_512dbb51:
 translate spanish pepper_deepthroat_repeat_e4962976_1:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupada*{/i}"
+    Pe "{i}*chupando*{/i}"
 
 # game/scripts/mutants.rpy:921
 translate spanish pepper_deepthroat_repeat_865e8d87:
@@ -2464,7 +2464,7 @@ translate spanish pepper_deepthroat_repeat_choice_d6e28f27:
 translate spanish pepper_deepthroat_repeat_choice_a403ae6e:
 
     # Pe "{i}*gulp*{/i}"
-    Pe "{i}*traga*{/i}"
+    Pe "{i}*tragando*{/i}"
 
 # game/scripts/mutants.rpy:996
 translate spanish pepper_deepthroat_repeat_choice_de365375:
@@ -2488,7 +2488,7 @@ translate spanish pepper_deepthroat_repeat_choice_0c8120e5:
 translate spanish pepper_deepthroat_repeat_choice_e4962976:
 
     # Pe "{i}*slurp*{/i}"
-    Pe "{i}*chupada*{/i}"
+    Pe "{i}*chupando*{/i}"
 
 # game/scripts/mutants.rpy:1005
 translate spanish pepper_deepthroat_repeat_choice_defc2064:
@@ -2602,7 +2602,7 @@ translate spanish pepper_deepthroat_repeat_choice_cd076803:
 translate spanish pepper_deepthroat_repeat_choice_a403ae6e_1:
 
     # Pe "{i}*gulp*{/i}"
-    Pe "{i}*traga*{/i}"
+    Pe "{i}*tragando*{/i}"
 
 # game/scripts/mutants.rpy:1052
 translate spanish pepper_deepthroat_repeat_choice_71206c29:
@@ -2692,7 +2692,7 @@ translate spanish pepper_deepthroat_repeat_choice_558fa292_1:
 translate spanish pepper_deepthroat_repeat_choice_a403ae6e_2:
 
     # Pe "{i}*gulp*{/i}"
-    Pe "{i}*traga*{/i}"
+    Pe "{i}*tragando*{/i}"
 
 # game/scripts/mutants.rpy:1090
 translate spanish pepper_deepthroat_repeat_choice_71206c29_1:

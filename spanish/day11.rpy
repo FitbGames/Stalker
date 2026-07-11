@@ -4798,7 +4798,7 @@ translate spanish d11c_54e940f7:
 translate spanish d11c_9f9442d3:
 
     # Zi "Don't fret, asshole. I don't think you will have to worry about where to get your next meal from anytime soon, or ever."
-    Zi "No te preocupes, imbécil. No creo que tengas que preocuparte de dónde conseguir tu próxima comida pronto, o nunca."
+    Zi "No te preocupes, gilipollas. No creo que tengas que preocuparte de dónde conseguir tu próxima comida pronto, o nunca."
 
 # game/scripts/day11.rpy:2044
 translate spanish d11c_02efefb3:
@@ -5224,7 +5224,7 @@ translate spanish re_d11c19_abeb312f:
 translate spanish re_d11c19_c9be4dcf:
 
     # Gen "No- leave her! Fucking asshole!"
-    Gen "No- Déjala. ¡Jodido cabrón!"
+    Gen "¡No, déjala! ¡Jodido gilipollas!"
 
 # game/scripts/day11.rpy:2195
 translate spanish re_d11c19_b19eb4d4:
@@ -5758,7 +5758,7 @@ translate spanish re_d11c19_09f193b6:
 translate spanish re_d11c19_8d1ff2f6:
 
     # As "{i}*slurp*"
-    As "{i}*chupada*{/i}"
+    As "{i}*chupando*{/i}"
 
 # game/scripts/day11.rpy:2391
 translate spanish re_d11c19_8bb33811:
@@ -9046,7 +9046,7 @@ translate spanish d11e_sex_kateryna_ain_75a154d5:
 translate spanish d11e_sex_kateryna_ain_7b8e874d:
 
     # A "Fhe's verhy... whet... {i}*slurp*"
-    A "Estra mruy mrojada... {i}*chupada*{/i}"
+    A "Estra mruy mrojada... {i}*chupando*{/i}"
 
 # game/scripts/day11.rpy:3870
 translate spanish d11e_sex_kateryna_ain_a2f20ef9:
@@ -9136,7 +9136,7 @@ translate spanish d11e_sex_kateryna_ain_16a88e43:
 translate spanish d11e_sex_kateryna_ain_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day11.rpy:3903
 translate spanish d11e_sex_kateryna_ain_32c839a7:
@@ -9196,7 +9196,7 @@ translate spanish d11e_sex_kateryna_ain_continue_bbc166ff:
 translate spanish d11e_sex_kateryna_ain_continue_217fbd20:
 
     # A "Yesh, dad... {i}*slurp*"
-    A "Shi, prapá... {i}*chupada*{/i}"
+    A "Shi, prapá... {i}*chupando*{/i}"
 
 # game/scripts/day11.rpy:3928
 translate spanish d11e_sex_kateryna_ain_continue_e6b3cce2:
@@ -9208,7 +9208,7 @@ translate spanish d11e_sex_kateryna_ain_continue_e6b3cce2:
 translate spanish d11e_sex_kateryna_ain_continue_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day11.rpy:3933
 translate spanish d11e_sex_kateryna_ain_continue_8eab81e4:
@@ -9406,7 +9406,7 @@ translate spanish d11e_cum_kateryna_ain_c96f383e:
 translate spanish d11e_cum_kateryna_ain_ef974183:
 
     # Ka "{i}*gulp*"
-    Ka "{i}*traga*{/i}"
+    Ka "{i}*tragando*{/i}"
 
 # game/scripts/day11.rpy:4001
 translate spanish d11e_cum_kateryna_ain_83b7a7eb:
@@ -9424,7 +9424,7 @@ translate spanish d11e_cum_kateryna_ain_c2940f1f:
 translate spanish d11e_cum_kateryna_ain_f216d543:
 
     # A "{i}*slurp*{/i} Shwe's ghood!"
-    A "{i}*chupada*{/i} ¡Ehlla es buen-mha!"
+    A "{i}*chupando*{/i} ¡Ehlla es buen-mha!"
 
 # game/scripts/day11.rpy:4006
 translate spanish d11e_cum_kateryna_ain_5fe59d0c:
@@ -9478,7 +9478,7 @@ translate spanish d11e_cum_kateryna_ain_d8654138:
 translate spanish d11e_cum_kateryna_ain_74cbba0a:
 
     # A "{i}*gulp*"
-    A "{i}*traga*{/i}"
+    A "{i}*tragando*{/i}"
 
 # game/scripts/day11.rpy:4030
 translate spanish d11e_cum_kateryna_ain_e30eae78:
@@ -9556,7 +9556,7 @@ translate spanish d11e_cum_kateryna_ain_28313d83:
 translate spanish d11e_cum_kateryna_ain_f1761e44:
 
     # A "{i}*slurp*"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day11.rpy:4067
 translate spanish d11e_cum_kateryna_ain_dd1c277c:
@@ -10510,7 +10510,7 @@ translate spanish d11e_cum_igor_zahra_c556c039:
 translate spanish d11e_sex_igor_both_778ca55f:
 
     # "{i}*slurp*"
-    "{i}*chupada*{/i}"
+    "{i}*chupando*{/i}"
 
 # game/scripts/day11.rpy:4429
 translate spanish d11e_sex_igor_both_a2b28c78:
@@ -10552,7 +10552,7 @@ translate spanish d11e_sex_igor_both_3d499fc3:
 translate spanish d11e_sex_igor_both_778ca55f_1:
 
     # "{i}*slurp*"
-    "{i}*chupada*{/i}"
+    "{i}*chupando*{/i}"
 
 # game/scripts/day11.rpy:4442
 translate spanish d11e_sex_igor_both_dd91c4a9:

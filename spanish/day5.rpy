@@ -2542,7 +2542,7 @@ translate spanish d5f_fairy_menu_b4461726:
 translate spanish d5f_fairy_menu_084786b8:
 
     # C3 "{i}*slurp*"
-    C3 "{i}*chupada*{/i}"
+    C3 "{i}*chupando*{/i}"
 
 # game/scripts/day5.rpy:1124
 translate spanish d5f_fairy_menu_a4c40b52:
@@ -2668,7 +2668,7 @@ translate spanish d5f_fairy_menu_fcaa1ca9:
 translate spanish d5f_fairy_menu_0b8b27b2:
 
     # C3 "{i}*gulp*"
-    C3 "{i}*traga*{/i}"
+    C3 "{i}*tragando*{/i}"
 
 # game/scripts/day5.rpy:1191
 translate spanish d5f_fairy_menu_78c20636_1:
@@ -2680,7 +2680,7 @@ translate spanish d5f_fairy_menu_78c20636_1:
 translate spanish d5f_fairy_menu_0b8b27b2_1:
 
     # C3 "{i}*gulp*"
-    C3 "{i}*traga*{/i}"
+    C3 "{i}*tragando*{/i}"
 
 # game/scripts/day5.rpy:1195
 translate spanish d5f_fairy_menu_f3f12579:
@@ -2698,7 +2698,7 @@ translate spanish d5f_fairy_menu_9a506a0b:
 translate spanish d5f_fairy_menu_084786b8_1:
 
     # C3 "{i}*slurp*"
-    C3 "{i}*chupada*{/i}"
+    C3 "{i}*chupando*{/i}"
 
 # game/scripts/day5.rpy:1200
 translate spanish d5f_fairy_menu_9fa2dd5b:
@@ -6088,7 +6088,7 @@ translate spanish d5c11_06bbf1ad:
 translate spanish d5c11_3dc6a40b:
 
     # Ky "We don't have to waste time on these assholes..."
-    Ky "No tenemos que perder el tiempo con estos imbéciles..."
+    Ky "No tenemos que perder el tiempo con estos gilipollas..."
 
 # game/scripts/day5.rpy:2633
 translate spanish d5c11_3f9d6b38:
@@ -8164,7 +8164,7 @@ translate spanish d5c140_dab730f0:
 translate spanish d5c140_9c0cb84d:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupada*{/i}"
+    As "{i}*chupando*{/i}"
 
 # game/scripts/day5.rpy:3570
 translate spanish d5c140_4968cdcc:
@@ -8206,7 +8206,7 @@ translate spanish d5c140_7d0ec3fc:
 translate spanish d5c140_7fca422a:
 
     # Ky "Stop knocking... I'm coming, asshole..."
-    Ky "Deja de golpear... Ya voy, capullo..."
+    Ky "Deja de llamar a la puerta... Ya voy, gilipollas..."
 
 # game/scripts/day5.rpy:3587
 translate spanish d5c140_fd8a928e:
@@ -8554,7 +8554,7 @@ translate spanish d5c140_5e502ecb:
 translate spanish d5c140_8d1ff2f6:
 
     # As "{i}*slurp*"
-    As "{i}*chupada*{/i}"
+    As "{i}*chupando*{/i}"
 
 # game/scripts/day5.rpy:3710
 translate spanish d5c140_93cbdd65:
@@ -8650,7 +8650,7 @@ translate spanish d5c156_068ebea2:
 translate spanish d5c156_8d1ff2f6:
 
     # As "{i}*slurp*"
-    As "{i}*chupada*{/i}"
+    As "{i}*chupando*{/i}"
 
 # game/scripts/day5.rpy:3741
 translate spanish d5c156_c5f97985:
@@ -9766,7 +9766,7 @@ translate spanish re_d5c180_2785a014:
 translate spanish re_d5c180_df8dbff5:
 
     # As "{i}*gulp*{/i}"
-    As "{i}*traga*{/i}"
+    As "{i}*tragando*{/i}"
 
 # game/scripts/day5.rpy:4235
 translate spanish re_d5c180_c67a8079:
@@ -10084,7 +10084,7 @@ translate spanish re_d5c180_3b34fd56:
 translate spanish re_d5c180_b965ed81:
 
     # Mis "Hah... {i}*slurp*{/i}"
-    Mis "Hah... {i}*chupada*{/i}"
+    Mis "Hah... {i}*chupando*{/i}"
 
 # game/scripts/day5.rpy:4354
 translate spanish re_d5c180_8cbd5048:
@@ -10180,7 +10180,7 @@ translate spanish re_d5c180_045a3454:
 translate spanish re_d5c180_89d2cca1:
 
     # Mis "Nha... {i}*slurp*{/i}"
-    Mis "Nha... {i}*chupada*{/i}"
+    Mis "Nha... {i}*chupando*{/i}"
 
 # game/scripts/day5.rpy:4383
 translate spanish re_d5c180_4e4e5784:
@@ -10198,7 +10198,7 @@ translate spanish re_d5c180_061eb954:
 translate spanish re_d5c180_89d2cca1_1:
 
     # Mis "Nha... {i}*slurp*{/i}"
-    Mis "Nha... {i}*chupada*{/i}"
+    Mis "Nha... {i}*chupando*{/i}"
 
 # game/scripts/day5.rpy:4389
 translate spanish re_d5c180_4e4e5784_1:
@@ -10348,7 +10348,7 @@ translate spanish re_d5c180_42a5b875:
 translate spanish re_d5c180_23f153d3:
 
     # Mis "{i}*slurp*{/i}"
-    Mis "{i}*chupada*{/i}"
+    Mis "{i}*chupando*{/i}"
 
 # game/scripts/day5.rpy:4438
 translate spanish re_d5c180_1983214e:
@@ -10498,7 +10498,7 @@ translate spanish re_d5c180_01de1456:
 translate spanish re_d5c180_c7a493da:
 
     # Mis "Mh... {i}*slurp*{/i}"
-    Mis "Mh... {i}*chupada*{/i}"
+    Mis "Mh... {i}*chupando*{/i}"
 
 # game/scripts/day5.rpy:4492
 translate spanish re_d5c180_95500b63_3:
@@ -11920,7 +11920,7 @@ translate spanish d5e_emilia_igor_47eb6613:
 translate spanish d5e_emilia_igor_a4de87f4:
 
     # E "{i}*gulp*{/i}"
-    E "{i}*traga*{/i}"
+    E "{i}*tragando*{/i}"
 
 # game/scripts/day5.rpy:5083
 translate spanish d5e_emilia_igor_41c27d69:
@@ -11950,7 +11950,7 @@ translate spanish d5e_emilia_igor_ae7e6f90:
 translate spanish d5e_emilia_igor_9703f5ea:
 
     # E "{i}*slurp*"
-    E "{i}*chupada*{/i}"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/day5.rpy:5092
 translate spanish d5e_emilia_igor_d1ca392d:

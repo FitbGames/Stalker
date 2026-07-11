@@ -1462,7 +1462,7 @@ translate spanish re_d18b56_7a00addc:
 translate spanish re_d18b56_936e1dba:
 
     # Sl "{i}*slurp*{/i}"
-    Sl "{i}*chupada*{/i}"
+    Sl "{i}*chupando*{/i}"
 
 # game/scripts/day18.rpy:627
 translate spanish re_d18b56_6632c0fe:
@@ -1522,7 +1522,7 @@ translate spanish re_d18b56_a3e29f96:
 translate spanish re_d18b56_936e1dba_1:
 
     # Sl "{i}*slurp*{/i}"
-    Sl "{i}*chupada*{/i}"
+    Sl "{i}*chupando*{/i}"
 
 # game/scripts/day18.rpy:645
 translate spanish re_d18b56_2e4e1f6a:
@@ -1864,7 +1864,7 @@ translate spanish re_d18b83_047e3b9a:
 translate spanish re_d18b83_936e1dba:
 
     # Sl "{i}*slurp*{/i}"
-    Sl "{i}*chupada*{/i}"
+    Sl "{i}*chupando*{/i}"
 
 # game/scripts/day18.rpy:785
 translate spanish re_d18b83_a90314a5:
@@ -3112,7 +3112,7 @@ translate spanish re_d18b140_143c5e49:
 translate spanish re_d18b140_5b75eba1:
 
     # Sl "Come on, say it, asshole... you've been watching them anyway..."
-    Sl "Vamos, dilo, cabrón... ya los estabas mirando igualmente..."
+    Sl "Vamos, dilo, gilipollas... ya los estabas mirando igualmente..."
 
 # game/scripts/day18.rpy:1307
 translate spanish re_d18b140_5ca49f78:
@@ -5638,7 +5638,7 @@ translate spanish re_d18b228_958182f1_2:
 translate spanish re_d18b228_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day18.rpy:2495
 translate spanish re_d18b228_f31bf9cb:
@@ -7396,7 +7396,7 @@ translate spanish d18b342_0252c385:
 translate spanish d18b342_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day18.rpy:3209
 translate spanish d18b342_aa166606:
@@ -7450,7 +7450,7 @@ translate spanish d18b342_89af8377:
 translate spanish d18b342_712d4ae2_1:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day18.rpy:3222
 translate spanish d18b342_583c708f:
@@ -7744,7 +7744,7 @@ translate spanish d18b354_61dde91e:
 translate spanish d18b354_712d4ae2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day18.rpy:3322
 translate spanish d18b354_31e7bb51:
@@ -7768,7 +7768,7 @@ translate spanish d18b354_d4edf312:
 translate spanish d18b354_712d4ae2_1:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day18.rpy:3329
 translate spanish d18b354_66a2083c:
@@ -7810,7 +7810,7 @@ translate spanish d18b354_78bb4f10:
 translate spanish d18b354_712d4ae2_2:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day18.rpy:3341
 translate spanish d18b354_6b3aefe9:
@@ -7834,7 +7834,7 @@ translate spanish d18b354_f865bb71:
 translate spanish d18b354_712d4ae2_3:
 
     # A "{i}*slurp*{/i}"
-    A "{i}*chupada*{/i}"
+    A "{i}*chupando*{/i}"
 
 # game/scripts/day18.rpy:3345
 translate spanish d18b354_681d59e1:
@@ -9520,7 +9520,7 @@ translate spanish d18d_take_massage_e9df09d4:
 translate spanish d18d_take_massage_7106280e:
 
     # E "{i}*slurp*{/i}... nh..."
-    E "{i}*chupada*{/i}... nh..."
+    E "{i}*chupando*{/i}... nh..."
 
 # game/scripts/day18.rpy:4100
 translate spanish d18d_take_massage_8f4bf1fe:
@@ -9928,7 +9928,7 @@ translate spanish d18d_take_massage_f5417408:
 translate spanish d18d_take_massage_37c62a3e:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupada*{/i}"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/day18.rpy:4248
 translate spanish d18d_take_massage_85950209:
@@ -9964,7 +9964,7 @@ translate spanish d18d_take_massage_bd68f374:
 translate spanish d18d_take_massage_37c62a3e_1:
 
     # E "{i}*slurp*{/i}"
-    E "{i}*chupada*{/i}"
+    E "{i}*chupando*{/i}"
 
 # game/scripts/day18.rpy:4262
 translate spanish d18d_take_massage_d3cf527e_5:
@@ -15136,7 +15136,7 @@ translate spanish d18f204_2101e06b:
 translate spanish d18f204_8f16d838:
 
     # Q "{i}*slurp*{/i}"
-    Q "{i}*chupada*{/i}"
+    Q "{i}*chupando*{/i}"
 
 # game/scripts/day18.rpy:6443
 translate spanish d18f204_b1aeb283:

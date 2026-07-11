@@ -2908,7 +2908,7 @@ translate spanish d17a_preparation_overview_56a50067:
 translate spanish d17a_preparation_overview_58032499:
 
     # Sc "Thank you for the compliment, asshole, but if you couldn't tell, I am not the youngest one either."
-    Sc "Gracias por el cumplido, idiota, pero si no lo notaste, tampoco soy la más joven."
+    Sc "Gracias por el cumplido, gilipollas, pero si no lo notaste, tampoco soy la más joven."
 
 # game/scripts/day17.rpy:1413
 translate spanish d17a_preparation_overview_ffe58c69:
@@ -4492,7 +4492,7 @@ translate spanish d17a236_c4483e69:
 translate spanish d17a236_ff12e7d5:
 
     # Kr "Look alive, assholes."
-    Kr "Estén atentos, imbéciles."
+    Kr "Espabiláos, capullos."
 
 # game/scripts/day17.rpy:2196
 translate spanish d17a236_1ccbc527:

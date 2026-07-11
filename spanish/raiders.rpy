@@ -106,7 +106,7 @@ translate spanish raiders_throne_menu_8227a0b4:
 translate spanish raiders_throne_menu_1aedd9e0:
 
     # As "{i}*slurp*{/i} yhes bosh..."
-    As "{i}*chupada*{/i} Shí jhefhe..."
+    As "{i}*chupando*{/i} Shí jhefhe..."
 
 # game/scripts/raiders.rpy:127
 translate spanish raiders_throne_menu_4ee3aa52:
@@ -424,13 +424,13 @@ translate spanish rt26_2880d5f9:
 translate spanish rt26_9c0cb84d:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupada*{/i}"
+    As "{i}*chupando*{/i}"
 
 # game/scripts/raiders.rpy:324
 translate spanish rt26_df8dbff5:
 
     # As "{i}*gulp*{/i}"
-    As "{i}*traga*{/i}"
+    As "{i}*tragando*{/i}"
 
 # game/scripts/raiders.rpy:325
 translate spanish rt26_29e03569:
@@ -442,7 +442,7 @@ translate spanish rt26_29e03569:
 translate spanish rt1_cum_9c0cb84d:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupada*{/i}"
+    As "{i}*chupando*{/i}"
 
 # game/scripts/raiders.rpy:333
 translate spanish rt1_cum_0ada526f:
@@ -484,13 +484,13 @@ translate spanish rt1x_a944719d:
 translate spanish rt1x_9c0cb84d:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupada*{/i}"
+    As "{i}*chupando*{/i}"
 
 # game/scripts/raiders.rpy:353
 translate spanish rt1x_df8dbff5:
 
     # As "{i}*gulp*{/i}"
-    As "{i}*traga*{/i}"
+    As "{i}*tragando*{/i}"
 
 # game/scripts/raiders.rpy:356
 translate spanish rt1x_b2f42d90:
@@ -514,13 +514,13 @@ translate spanish rt1x_e8b46ded:
 translate spanish rt1x_9c0cb84d_1:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupada*{/i}"
+    As "{i}*chupando*{/i}"
 
 # game/scripts/raiders.rpy:366
 translate spanish rt1x_9c0cb84d_2:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupada*{/i}"
+    As "{i}*chupando*{/i}"
 
 # game/scripts/raiders.rpy:367
 translate spanish rt1x_8b048435:
@@ -556,7 +556,7 @@ translate spanish rt1x_8227a0b4:
 translate spanish rt1x_1aedd9e0:
 
     # As "{i}*slurp*{/i} yhes bosh..."
-    As "{i}*chupada*{/i} Shí jhefhe..."
+    As "{i}*chupando*{/i} Shí jhefhe..."
 
 # game/scripts/raiders.rpy:378
 translate spanish rt1x_f9f8bf25:
@@ -604,7 +604,7 @@ translate spanish rt1x_d4daa323:
 translate spanish rt1x_286c6065:
 
     # As "Mh... {i}*slurp*{/i}"
-    As "Mh... {i}*chupada*{/i}"
+    As "Mh... {i}*chupando*{/i}"
 
 # game/scripts/raiders.rpy:395
 translate spanish rt1x_99c28b0b:
@@ -850,7 +850,7 @@ translate spanish rt33_b4f1ffb9:
 translate spanish rt33_4413a8f7:
 
     # Kit "{i}*slurp*{/i}"
-    Kit "{i}*chupada*{/i}"
+    Kit "{i}*chupando*{/i}"
 
 # game/scripts/raiders.rpy:524
 translate spanish rt33_49deb9b5:
@@ -892,7 +892,7 @@ translate spanish rt33_e156dcdd:
 translate spanish rt33_4413a8f7_1:
 
     # Kit "{i}*slurp*{/i}"
-    Kit "{i}*chupada*{/i}"
+    Kit "{i}*chupando*{/i}"
 
 # game/scripts/raiders.rpy:544
 translate spanish rt33_adbc7f9d:
@@ -940,7 +940,7 @@ translate spanish rt33_bcdf74e0:
 translate spanish rt33_a826f8f3:
 
     # "{i}*slurp*{/i}"
-    "{i}*chupada*{/i}"
+    "{i}*chupando*{/i}"
 
 # game/scripts/raiders.rpy:578
 translate spanish rt33_b68a9245:
@@ -3142,7 +3142,7 @@ translate spanish re_rst1a_7cea8b07:
 translate spanish rst25_06a98a45:
 
     # Rue "{i}*slurp*{/i}"
-    Rue "{i}*chupada*{/i}"
+    Rue "{i}*chupando*{/i}"
 
 # game/scripts/raiders.rpy:1655
 translate spanish rst25_82fde825:
@@ -3238,7 +3238,7 @@ translate spanish rst25_ad47e912:
 translate spanish rst25_89458e0d:
 
     # Rue "{i}*gulp*{/i}"
-    Rue "{i}*traga*{/i}"
+    Rue "{i}*tragando*{/i}"
 
 # game/scripts/raiders.rpy:1683
 translate spanish rst25_5f1b7087:
@@ -3268,7 +3268,7 @@ translate spanish rst25_065f4351:
 translate spanish rst25_06a98a45_1:
 
     # Rue "{i}*slurp*{/i}"
-    Rue "{i}*chupada*{/i}"
+    Rue "{i}*chupando*{/i}"
 
 # game/scripts/raiders.rpy:1694
 translate spanish rst25_43467e9f:
@@ -4012,7 +4012,7 @@ translate spanish rst56_815df122_1:
 translate spanish rst56_06a98a45:
 
     # Rue "{i}*slurp*{/i}"
-    Rue "{i}*chupada*{/i}"
+    Rue "{i}*chupando*{/i}"
 
 # game/scripts/raiders.rpy:2000
 translate spanish rst56_dacd0671:
@@ -4030,7 +4030,7 @@ translate spanish rst56_0b92ae95:
 translate spanish rst56_89458e0d:
 
     # Rue "{i}*gulp*{/i}"
-    Rue "{i}*traga*{/i}"
+    Rue "{i}*tragando*{/i}"
 
 # game/scripts/raiders.rpy:2005
 translate spanish rst56_0efe93eb:
@@ -4408,7 +4408,7 @@ translate spanish rst56_21a7c9c0_1:
 translate spanish rst56_06a98a45_1:
 
     # Rue "{i}*slurp*{/i}"
-    Rue "{i}*chupada*{/i}"
+    Rue "{i}*chupando*{/i}"
 
 # game/scripts/raiders.rpy:2151
 translate spanish rst56_75acc21f:
@@ -4744,7 +4744,7 @@ translate spanish raiders_raid_b2ee60c9:
 translate spanish raiders_raid_9c0cb84d:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupada*{/i}"
+    As "{i}*chupando*{/i}"
 
 # game/scripts/raiders.rpy:2337
 translate spanish raiders_raid_dc01234b:
@@ -4948,7 +4948,7 @@ translate spanish raiders_raid_a866622e:
 translate spanish raiders_raid_cae3495a:
 
     # As "Don't... strangle me... asshole!"
-    As "¡No... me estrangules... cabrón!"
+    As "¡No... me estrangules... gilipollas!"
 
 # game/scripts/raiders.rpy:2448
 translate spanish raiders_raid_c886c696:
@@ -5044,7 +5044,7 @@ translate spanish raiders_raid_e6fe0338:
 translate spanish raiders_raid_9c0cb84d_1:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupada*{/i}"
+    As "{i}*chupando*{/i}"
 
 # game/scripts/raiders.rpy:2485
 translate spanish raiders_raid_5dab7709:
@@ -5098,7 +5098,7 @@ translate spanish raiders_raid_955723fc:
 translate spanish raiders_raid_14baed79:
 
     # As "Mhhgh... {i}*gulp*{/i}"
-    As "Mhhgh... {i}*traga*{/i}"
+    As "Mhhgh... {i}*tragando*{/i}"
 
 # game/scripts/raiders.rpy:2499
 translate spanish raiders_raid_f2dc08af:
@@ -5128,7 +5128,7 @@ translate spanish raiders_raid_7beb6ceb:
 translate spanish raiders_raid_44fb3740:
 
     # As "Mhh... {i}*slurp*{/i}"
-    As "Mhh... {i}*chupada*{/i}"
+    As "Mhh... {i}*chupando*{/i}"
 
 # game/scripts/raiders.rpy:2510
 translate spanish raiders_raid_0e6157fd:
@@ -5260,7 +5260,7 @@ translate spanish raiders_raid_87aadbb5:
 translate spanish raiders_raid_9c0cb84d_2:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupada*{/i}"
+    As "{i}*chupando*{/i}"
 
 # game/scripts/raiders.rpy:2551
 translate spanish raiders_raid_395e36a9:
@@ -5284,7 +5284,7 @@ translate spanish raiders_raid_0ce2e9bc:
 translate spanish raiders_raid_9c0cb84d_3:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupada*{/i}"
+    As "{i}*chupando*{/i}"
 
 # game/scripts/raiders.rpy:2566
 translate spanish raiders_raid_b66e4f9e:
@@ -5344,7 +5344,7 @@ translate spanish raiders_raid_26a6d72a:
 translate spanish raiders_raid_9c0cb84d_4:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupada*{/i}"
+    As "{i}*chupando*{/i}"
 
 # game/scripts/raiders.rpy:2590
 translate spanish raiders_raid_141e3732:
@@ -5506,7 +5506,7 @@ translate spanish rr_retrieve_asha_83aaad5b:
 translate spanish rr_retrieve_asha_7c62a14d:
 
     # Z "They did quite a number on you... That's one gaping asshole."
-    Z "Te hicieron un buen destrozo... Vaya culo abierto tienes."
+    Z "Te han dejado hecho un desastre... Menudo ojete tan abierto tienes."
 
 # game/scripts/raiders.rpy:2654
 translate spanish rr_retrieve_asha_c401fe3f:
@@ -6136,7 +6136,7 @@ translate spanish raiders_kyra_0684de08:
 translate spanish raiders_kyra_724f5cb1:
 
     # Ky "Fill me up, asshole... nh... I want to feel it!"
-    Ky "Lléname, cabrón... nh... ¡quiero sentirlo!"
+    Ky "Lléname, gilipollas... nh... ¡quiero sentirlo!"
 
 # game/scripts/raiders.rpy:2914
 translate spanish raiders_kyra_f2ccea4d:
@@ -6754,7 +6754,7 @@ translate spanish raiders_throne_kyra_menu_679f6963:
 translate spanish raiders_throne_kyra_menu_30383d28:
 
     # As "{i}*slurps*"
-    As "{i}*traga*"
+    As "{i}*tragando*"
 
 # game/scripts/raiders.rpy:3135
 translate spanish raiders_throne_kyra_menu_5af3fad8:
@@ -6880,7 +6880,7 @@ translate spanish raiders_throne_kyra_menu_679f6963_2:
 translate spanish raiders_throne_kyra_menu_e3ff5fb5:
 
     # As "{i}*gulp*"
-    As "{i}*traga*{/i}"
+    As "{i}*tragando*{/i}"
 
 # game/scripts/raiders.rpy:3183
 translate spanish raiders_throne_kyra_menu_679f6963_3:
@@ -6910,7 +6910,7 @@ translate spanish raiders_throne_kyra_menu_58312277:
 translate spanish raiders_throne_kyra_menu_df8dbff5:
 
     # As "{i}*gulp*{/i}"
-    As "{i}*traga*{/i}"
+    As "{i}*tragando*{/i}"
 
 # game/scripts/raiders.rpy:3197
 translate spanish raiders_throne_kyra_menu_3ecd6ab0:
@@ -6946,7 +6946,7 @@ translate spanish raiders_throne_kyra_menu_864d8110:
 translate spanish raiders_throne_kyra_menu_9c0cb84d:
 
     # As "{i}*slurp*{/i}"
-    As "{i}*chupada*{/i}"
+    As "{i}*chupando*{/i}"
 
 # game/scripts/raiders.rpy:3208
 translate spanish raiders_throne_kyra_menu_ef4e2c59_1:
