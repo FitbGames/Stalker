@@ -1,8 +1,0 @@
-﻿# TODO: Translation updated at 2026-06-29 18:49
-
-translate spanish strings:
-
-    # game/scripts/changelog.rpy:6
-    old "Changelog"
-    new "Changelog"
-
