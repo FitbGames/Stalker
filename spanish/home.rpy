@@ -1264,7 +1264,7 @@ translate spanish replaymassage_52ced780:
 translate spanish replaymassage_679f2f13:
 
     # S "It's like I'm giving a massage, too... {i}*giggle*{/i}"
-    S "Es como si también estuviera dando un masaje... {i}*risitas*{/i}"
+    S "Es como si también estuviera dando un masaje... {i}*risita*{/i}"
 
 # game/scripts/home.rpy:750
 translate spanish replaymassage_ec158098:

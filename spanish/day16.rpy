@@ -12010,7 +12010,7 @@ translate spanish d16c_888ca102:
 translate spanish d16c_e1b93a67:
 
     # W "{i}*giggle*{/i} Liar! If I am a lady, why do I always end up on my knees?"
-    W "{i}*risitas*{/i} ¡Mentirosa! Si soy una dama, ¿por qué siempre acabo de rodillas?"
+    W "{i}*risita*{/i} ¡Mentirosa! Si soy una dama, ¿por qué siempre acabo de rodillas?"
 
 # game/scripts/day16.rpy:5064
 translate spanish d16c_e9b0a664:

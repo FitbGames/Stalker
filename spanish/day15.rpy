@@ -2968,7 +2968,7 @@ translate spanish d15a231_23059474:
 translate spanish d15a231_d3cb545a:
 
     # Na "Oh, of course. {i}*giggle*{/i}"
-    Na "Oh, por supuesto. {i}*risitas*{/i}"
+    Na "Oh, por supuesto. {i}*risita*{/i}"
 
 # game/scripts/day15.rpy:1193
 translate spanish d15a231_38fffeea:

@@ -11988,7 +11988,7 @@ translate spanish d13l62_6e10e96a:
 translate spanish d13l62_4c36ca47:
 
     # S "[persistent.dad!c]... you're so touchy. {i}*giggle*{/i}"
-    S "[persistent.dad!c]... eres tan susceptible {i}*risitas*{/i}"
+    S "[persistent.dad!c]... eres tan susceptible {i}*risita*{/i}"
 
 # game/scripts/day13.rpy:5428
 translate spanish d13l62_8c467f51:
@@ -12162,7 +12162,7 @@ translate spanish d13l62_85c1ca89:
 translate spanish d13l62_6497d6fb:
 
     # S "{i}*giggle*{/i}"
-    S "{i}*risitas*{/i}"
+    S "{i}*risita*{/i}"
 
 # game/scripts/day13.rpy:5479
 translate spanish d13l62_a0492a37:
